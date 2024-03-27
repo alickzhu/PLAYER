@@ -27,17 +27,17 @@ class ChatSession:
     def set_gpt_version(self):
         if self.model_type=='gpt35':
             openai.api_type = "azure"
-            openai.api_version = "2023-05-15"
-            openai.api_base = 'https://runcong.openai.azure.com/'
-            openai.api_key = '4310a36f2b0c46558cda6674dd587354'
+            openai.api_version = ""
+            openai.api_base = ''
+            openai.api_key = ''
             self.engine = 'gpt3516k'
 
         elif self.model_type=='gpt4':
             openai.api_type = "azure"
-            openai.api_version = "2023-05-15"
-            openai.api_base = 'https://hainiu-openai-azure.openai.azure.com/'
-            openai.api_key = '66954edd3a5c463fb853254d2284d35a'
-            self.engine = 'Hainiu-GPT4-Turbo'
+            openai.api_version = ""
+            openai.api_base = ''
+            openai.api_key = ''
+            self.engine = ''
 
     def get_reply(self, prompt, evaluate=False):
         if self.is_english:
