@@ -1,0 +1,48 @@
+{
+  "0": {
+    "name": "sentiment",
+    "prompt": "what is your emotional inclination towards the character mentioned above?",
+    "question_ask":1,
+    "constraint": 1,
+    "summary": "emotions",
+    "choices": [
+      "积极",
+      "中立",
+      "消极"
+    ]
+  },
+  "1": {
+    "name": "motivation",
+    "summary": "motive for the crime",
+    "prompt": "what do you think is the relationship between the character mentioned above and the victim? \n  Do you think the character mentioned above has a motive for the crime?",
+    "question_ask":1,
+    "constraint": 1,
+    "choices": [
+      "是",
+      "否"
+    ]
+  },
+  "2": {
+    "name": "suspicion",
+    "summary": "suspicion of committing the crime or the time of the crime",
+    "question_ask":1,
+    "constraint": 1,
+    "prompt": "do you think the character mentioned above is a suspect? \n  This refers to whether the character objectively had the opportunity to commit the crime, such as if someone saw the character at the scene of the crime. ",
+    "choices": [
+      "是",
+      "否"
+    ]
+  },
+  "3": {
+    "name": "information value",
+    "question_ask":0,
+    "constraint": 1,
+    "summary": "probability of obtaining valuable information by continuing to question the character",
+    "prompt": "what do you think is the probability of obtaining valuable information by continuing to question the character mentioned above?",
+    "choices": [
+      "高",
+      "中",
+      "低"
+    ]
+  }
+}

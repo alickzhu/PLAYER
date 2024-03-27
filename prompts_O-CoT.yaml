@@ -1,0 +1,285 @@
+# Prompts
+system_prompt_civilian: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now, you are playing the role of {character_name}, and the other players are {character_name_list}. 
+  You are not the murderer. Please collaborate with the other civilian players to achieve your personal objective while finding the true culprit!
+  Do not pretend you are other players or the moderator. Always response in Chinese, DO NOT ANY Translation.
+
+system_prompt_murderer: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now, you are playing the role of {character_name}, and the other players are {character_name_list}. 
+  You are the murderer. Please hide the fact that you committed the murder by fabricating lies and other information, and accomplish your personal objective!
+  Do not pretend you are other players or the moderator. Always response in Chinese, DO NOT ANY Translation.
+
+system_prompt_gm: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now it's time for the final reasoning stage. You now have the privilege of reading everyone's scripts, so please start reasoning based on all of them!
+
+self_intro_intro: |-
+  Your Script is {current_script}.
+  Your goal is {goal}.
+  
+  You are not murderer, so tell more details to help find the murderer.
+  If you have something to hide, then be sure not to divulge the relevant information! Don't reveal your goals.
+  Please introduce yourself.
+  Please response in Chinese.
+
+self_intro_intro_murder: |-
+  Your Script is {current_script}.
+  Your goal is {goal}.
+  
+  If you have something to hide, then be sure not to divulge the relevant information!.
+  Please introduce yourself.
+  You are murderer, so You can lie to cover yourself!
+  Please response in Chinese.
+
+
+hold_intro_yourself : |-
+  Please {character} introduce yourself.
+
+
+combine_chat_ask: |-
+  {speaker} ask {listener} : {words}
+
+combine_chat_answer: |-
+  {speaker} answer {listener} : {words}
+
+combine_chat_all: |-
+  {speaker} said to {listener} : {words}
+
+
+open_talk_reply: |-
+  {character} ask you a question: {question}
+
+  Your Script relative to the question is {current_script}.
+  The chat history relative to the question is {chat_history}.
+  What you need to pay attention to is {goal}.
+  
+  Be warned, in chat history, if it's a murderer's word it might deceive you.
+
+  Please answer the question: "{question}" based on the information above.
+  You are not the murderer, and you need to work hard to find the murderer. Therefore, provide as much information as possible, such as clues related to the timeline, emotional information, etc.
+  Please answer the questions from a first-person perspective, rather than saying what someone else said.
+  Please response in Chinese.
+
+open_talk_reply_murder: |-
+  {character} ask you a question : {question}
+
+  Your Script relative to the question is {current_script}.
+  The chat history relative to the question is {chat_history}.
+  What you need to pay attention to is {goal}.
+  
+  Be warned, in chat history, if it's a murderer's word it might deceive you.
+
+  Please answer the questions: "{question}" based on the information above.
+  You are the murderer. Please hide the fact that you killed {victim}. You can fabricate lies.
+  Please answer the question from a first-person perspective, rather than saying what someone else said.
+  Please response in Chinese.
+
+
+
+s_constraint : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  Please select the {number} people you think are the most suspicious.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+s_constraint_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  Please select the {number} people you think are the most suspicious.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+
+s_constraint_multi : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select several people you think are the most suspicious. You can choose one or more, Please try to reduce the number of suspects.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+s_constraint_multi_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select several people you think are the most suspicious. You can choose one or more, Please try to reduce the number of suspects.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+
+
+sensor_ask : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  Be warned, if it's a murderer's word it might deceive you.
+
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+  Please response in Chinese.
+
+sensor_ask_murder : |-
+  {victim} was murdered, you are the murderer, but you need to hide yourself, pretend you're not the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+  Please response in Chinese.
+
+sensor_summary_single : |-
+  In terms of {name}, you think {character} is: {opinion}
+
+sensor_question_get : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  
+  {summary}
+  
+  You can ask {character} {question_number} questions. What would you ask? Please include the victim's name in your question when asking, 
+  Since the murderer will lie, you can ask questions based on the loopholes and contradictions in what they have previously said.
+  Please respond in the JSON format without any additional comments. For example, {'Question1': 'your question', 'Question2': 'your question'}
+
+sensor_question_get_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer, and ask questions of other people pretending you're suspecting the other person is a murderer.
+  
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  
+  {summary}
+  
+  You can ask {character} {question_number} questions. What would you ask? Please include the victim's name in your question when asking.
+  Please respond in the JSON format without any additional comments. For example, {'Question1': 'your question', 'Question2': 'your question'}
+
+
+
+
+evaluate_ask_rap : |-
+  Please answer the questions based on the information in your script and the content of the chat
+  
+  Your Script relative to the question is {current_script}.
+
+  The chat history relative to the question is {chat_history}.
+
+  The question is {question}, the choices is {choices}.
+  
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number, e.g., 'a')
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a"}
+
+
+evaluate_ask_rap_multi : |-
+  Please answer the questions based on the information in your script and the content of the chat
+  
+  Your Script relative to the question is {current_script}.
+
+  The chat history relative to the question is {chat_history}.
+
+  The question is {question}, the choices is {choices}
+  
+  That is a multiple choices question.
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a,b"}
+
+
+
+
+
+evaluate_ask_rap_gm : |-
+  Please answer the questions based on the information in each character's script:
+  {current_script}
+
+  The question is {question}, the choices is {choices}
+
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a"}
+
+
+evaluate_ask_rap_multi_gm : |-
+
+  Please answer the questions based on the information in each character's script:
+  {current_script}
+
+  The question is {question}, the choices is {choices}
+  
+  That is a multiple choices question.
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a,b"}
+
+
+
+summarize_your_goal : |-
+  Your goal is : {goal}
+  You need to summarise the goal into less than three questions questions and ask yourself if you have achieved the goal and return them in JSON format:
+  {"question1": question, "question2": question}
+
+
+ask_yourself : |-
+  
+  For the question {question},  
+  
+  Your script relevant to this question is 
+  {current_script}.
+
+  The chat history relevant to this question is 
+  {chat_history}.
+  
+  Infer the correct answer based on the script and chat history. If you don't think you can get an answer based on these, answer "lack of information". The answer should in first person using no more than 3 sentences and without any analysis
+  Please response in Chinese.
+
+
+question_propose : |-
+  {victim} was murdered.
+  
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  
+  You need to learn about these issues in the game, and right now your level of knowledge about them is:
+  {question_answer}
+
+  You can ask {character} one questions. What would you ask?
+  Please use the first person view.
