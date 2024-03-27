@@ -1,0 +1,27 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Xia Bolong?,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,How did Xia Bolong die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,c
+b,a,What was the motive behind the killer killing Xia Bolong?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Xia Bolong. Who is that?,Enemies,brothers,friend,lover,,b
+b,a,Where was Xia Bolong killed?,"Tianji Co., Ltd",My own room,On the arena,Jiashantang Medical Hall,,b
+b,b,Please select the two people you most suspect of killing Xia Bolong,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,Who killed Xia Sanhu?,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,b
+b,a,How did Xia Sanhu die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Strangled by a belt,,d
+b,a,What was the motive behind the killer killing Xia Sanhu?,Love killing,Vendetta,interest,To annihilate one's family with great righteousness,,d
+b,a,The perpetrator is the victim Xia Sanhu. Who is that?,Enemies,Apprentice,friend,brothers,,d
+b,a,Where was Xia Sanhu killed?,"Tianji Co., Ltd",In my own room,On the arena,Jiashantang Medical Hall,,b
+b,a,When was Xia Sanhu killed?,Today (August 3rd) from 18:00 to 18:10,Today (August 3rd) from 20:00 to 20:10,July 30th 18:00-18:10,July 20th 20:00-20:10,,a
+b,b,Please select the two people you most suspect of killing Xia Sanhu,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,a
+b,a,What is Yue Dongwen hiding?,His company sells fake drugs,"Wu Baian has sold the ""insect killing spirit"" that can cause death to humans",He is a murderer,He is Duan Yuetong's biological father,,b
+b,a,Who is Duan Yuetong's biological father?,【Xia Bolong】,Xia Zhongpeng,Xia Sanhu,Li Zicai,,a
+b,a,Why did Yu Zu Chengmu (Li Zijun) go to Japan?,gambling,work,Scam money,read,,d
+b,a,"Why did you come to the boxing gym, Anqi?",Prevent Xia Sanhu from forcing Xia Shue to marry Mr. Yu Zu Chengmu (Li Zijun),Searching for Brother,I want to see myself,I would like to meet Duan Yuetong,,ac
+c,a,What is the non-existent relationship between Xia Sanhu and Luo Ming?,Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is father of Luo Ming,,d
+c,a,What is the non-existent relationship between Xia Sanhu and Yu Zu Chengmu (Li Zijun)?,Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is helped by Yu Zu Chengmu,,d
+c,a,What is the relationship between Xia Sanhu and Xia Beigui?,Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is authority over x and rival of Xia Beigui,Xia Sanhu is rival and attempted perpetrator of Xia Beigui,Xia Sanhu is attempted perpetrator and boyfriend of Xia Beigui,,a
+c,a,What is the non-existent relationship between Yu Zhu Chengmu (Li Zijun) and Xia Sanhu?,Xia Sanhu is schoolmate of Yu Zu Chengmu,Xia Sanhu is friend of Yu Zu Chengmu,Xia Sanhu is deceived by Yu Zu Chengmu,Yu Zu Chengmu is fiance of Xia Sanhu,,d
+c,a,What is the non-existent relationship between Yu Zhu Chengmu (Li Zijun) and Li Luoming?,Li Luoming is nephew of Yu Zu Chengmu,Li Luoming is manipulator of Yu Zu Chengmu,Li Luoming is quest companion of Yu Zu Chengmu,Yu Zu Chengmu is wife of Li Luoming,,d
+c,a,What is the non-existent relationship between Yu Zhu Chengmu (Li Zijun) and Anqi?,Anqi is helper of Yu Zu Chengmu,Anqi is product provider of Yu Zu Chengmu,Anqi is creditor of Yu Zu Chengmu,Yu Zu Chengmu is future daughter in law of Anqi,,d
+c,a,What is the non-existent relationship between Bai Changgong and Yue Dongwen?,Yue Dongwen is acquaintance of Bai Changgong,Yue Dongwen is product provider of Bai Changgong,Yue Dongwen is creditor of Bai Changgong,Bai Changgong is ex-wife of Yue Dongwen,,d
+c,a,What is the relationship between Bai Changgong and Li Luoming?,Li Luoming is service provider and perpetrator of Bai Changgong,Bai Changgong is saviour and grandchild of Li Luoming,Bai Changgong is grandchild and mother of Li Luoming,Bai Changgong is mother and daughter in law of Li Luoming,,a
+c,a,What is the relationship between Bai Changgong and Duan Hejun?,Duan Hejun is wife and superior of Bai Changgong,Bai Changgong is schoolmate and brother in law of Duan Hejun,Bai Changgong is brother in law and adoptive sister of Duan Hejun,Bai Changgong is adoptive sister and future relative of Duan Hejun,,a

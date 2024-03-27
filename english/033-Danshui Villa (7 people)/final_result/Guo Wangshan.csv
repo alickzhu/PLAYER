@@ -1,0 +1,23 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Mr. Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Mr. Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Mr. Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Mr. Zhao Wanlei. Who is that?",Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Mr. Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Mr. Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,Who is Zhao Wei's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,"What is Yin Shaoming, a young person?",People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between the young man Yin Shaoming and the general manager Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,"What is the actual relationship between Zhao Qiu and Qi Yue, the head nurse of the nursing home?",Siblings,Enemies,Apprentice,friend,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking for Mr. Zhao 【 Zhao Wanlei 】,Zhao Wanlei unilaterally likes Zhao Qiu,Mr. Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu are in love with each other,,d
+c,a,What is the relationship between young people Yin Shaoming and Zhao Luoyi?,Zhao Luoyi is seeker of help from x and secret admirer of Yin Shaoming,Yin Shaoming is rebellion against x and niece of Zhao Luoyi,Yin Shaoming is niece and rival of Zhao Luoyi,Yin Shaoming is rival and biological father of Zhao Luoyi,,a
+c,a,What is the relationship between young people Yin Shaoming and Yu Beichen?,Yu Beichen is father of Yin Shaoming,Yin Shaoming is crime partner of Yu Beichen,Yin Shaoming is manipulator of Yu Beichen,Yin Shaoming is victim of Yu Beichen,,a
+c,a,What is the relationship between young people Yin Shaoming and Ren?,Ren is mother of Yin Shaoming,Yin Shaoming is girlfriend of Ren,Yin Shaoming is betrayed by Ren,Yin Shaoming is murderer of Ren,,a
+c,a,What is the non-existent relationship between Mr. Zhao Wanlei and General Manager Feng Shuangji?,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is servant of Zhao Wanlei,Feng Shuangji is employee of Zhao Wanlei,Zhao Wanlei is daughter in law of Feng Shuangji,,d
+c,a,What is the non-existent relationship between Mr. Zhao Wanlei and Guo Wangshan?,Guo Wangshan is Business Partner of X,Guo Wangshan is Attempted Murderer of X,Guo Wangshan is Perpetrator of X's family,Zhao Wanlei is schoolmate of Guo Wangshan,,d
+c,a,What is the non-existent relationship between Mr. Zhao Wanlei and the Chief Guardian Qi Yue?,Qi Yue is employee of Zhao Wanlei,Qi Yue is servant of Zhao Wanlei,Qi Yue is Perpetrator of X's family,Zhao Wanlei is father of Qi Yue,,d
+c,a,"What is the non-existent relationship between Qi Yue, the head nurse, and Shuang Mian Hu?",Shuang Mian Hu is manipulator of Qi Yue,Shuang Mian Hu is adversary of Qi Yue,Shuang Mian Hu is employer of Qi Yue,Qi Yue is step-father of Shuang Mian Hu,,d
+c,a,"What is the non-existent relationship between Qi Yue, the general manager of the nursing home, and Zhao Wanlei?",Zhao Wanlei is employer of Qi Yue,Zhao Wanlei is master of Qi Yue,Zhao Wanlei is Qi Yue's victim's family,Qi Yue is twin sister of Zhao Wanlei,,d
+c,a,"What is the relationship between Qi Yue, the head nurse, and Feng Shuangji, the head nurse?",Feng Shuangji is colleague and x's victim's family of Qi Yue,Qi Yue is adoptive sister and admired by x of Feng Shuangji,Qi Yue is admired by x and son in law of Feng Shuangji,Qi Yue is son in law and friend of Feng Shuangji,,a

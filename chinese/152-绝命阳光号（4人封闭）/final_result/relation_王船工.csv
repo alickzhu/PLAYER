@@ -1,0 +1,10 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【张大副】和【玲船医】不存在的关系是什么？,玲船医 is employee of 张大副,玲船医 is fondness of 张大副,玲船医 is colleague of 张大副,张大副 is murderer of 玲船医,,d
+c,a,【张大副】和【杨老板】的关系是什么？,杨老板 is business partner and victim of 张大副,张大副 is saved by x and biological son of 杨老板,张大副 is biological son and half brother of 杨老板,张大副 is half brother and daughter of 杨老板,,a
+c,a,【张大副】和【很天真】的关系是什么？,很天真 is brother of 张大副,张大副 is master of 很天真,张大副 is in the lawsuit against 很天真,张大副 is employer of 很天真,,a
+c,a,【杨老板】和【玲船医】不存在的关系是什么？,玲船医 is business partner of 杨老板,玲船医 is debtor of 杨老板,玲船医 is informant of 杨老板,杨老板 is attempted murderer of 玲船医,,d
+c,a,【杨老板】和【张大副】的关系是什么？,张大副 is business partner and murderer of 杨老板,杨老板 is grandfather and teacher of 张大副,杨老板 is teacher and step-daughter of 张大副,杨老板 is step-daughter and future son in law of 张大副,,a
+c,a,【杨老板】和【很天真】的关系是什么？,很天真 is employee of 杨老板,杨老板 is saviour of 很天真,杨老板 is ex-wife of 很天真,杨老板 is son in law of 很天真,,a
+c,a,【玲船医】和【张大副】的关系是什么？,张大副 is employer and colleague of 玲船医,玲船医 is manipulator and ex-husband of 张大副,玲船医 is ex-husband and suspect of 张大副,玲船医 is suspect and adoptive sister of 张大副,,a
+c,a,【玲船医】和【杨老板】的关系是什么？,杨老板 is creditor and employer of 玲船医,玲船医 is fondness and classmate of 杨老板,玲船医 is classmate and grandchild of 杨老板,玲船医 is grandchild and mother of 杨老板,,a
+c,a,【玲船医】和【雯秘书】的关系是什么？,雯秘书 is informant and information receiver from x of 玲船医,玲船医 is seller and biological daughter of 雯秘书,玲船医 is biological daughter and customer of 雯秘书,玲船医 is customer and secret admirer of 雯秘书,,a

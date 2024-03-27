@@ -1,0 +1,19 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【吕名然】和【承格】不存在的关系是什么？,承格 is murderer of 吕名然,承格 is acquaintance of 吕名然,承格 is employee of 吕名然,吕名然 is half brother of 承格,,d
+c,a,【吕名然】和【罗亨理】的关系是什么？,罗亨理 is superior and acquaintance of 吕名然,吕名然 is ex-romantic relationships with x and spy of 罗亨理,吕名然 is spy and possibly family of 罗亨理,吕名然 is possibly family and bully of 罗亨理,,a
+c,a,【吕名然】和【谭仁昌】的关系是什么？,谭仁昌 is employer and acquaintance of 吕名然,吕名然 is sister in law and father of 谭仁昌,吕名然 is father and daughter of 谭仁昌,吕名然 is daughter and secret admirer of 谭仁昌,,a
+c,a,【尚致】和【承格】的关系是什么？,承格 is cousin and acquaintance of 尚致,尚致 is betrayed by x and jealous by x of 承格,尚致 is jealous by x and spy of 承格,尚致 is spy and wife of 承格,,a
+c,a,【尚致】和【谭仁昌】的关系是什么？,谭仁昌 is uncle of 尚致,尚致 is secret crush of 谭仁昌,尚致 is mentor of 谭仁昌,尚致 is 谭仁昌's enemy's family,,a
+c,a,【尚致】和【谭太太】的关系是什么？,谭太太 is aunt of 尚致,尚致 is killed by 谭太太,尚致 is teacher of 谭太太,尚致 is lawyer of 谭太太,,a
+c,a,【红儿】和【廖雪寒】不存在的关系是什么？,廖雪寒 is manipulator of 红儿,廖雪寒 is creditor of 红儿,廖雪寒 is helper of 红儿,红儿 is nephew of 廖雪寒,,d
+c,a,【红儿】和【承格】的关系是什么？,承格 is murderer of 红儿,红儿 is messenger of 承格,红儿 is grandfather of 承格,红儿 is biological mother of 承格,,a
+c,a,【红儿】和【欣雅】的关系是什么？,欣雅 is mother of 红儿,红儿 is doctor of 欣雅,红儿 is employee of 欣雅,红儿 is colleague of 欣雅,,a
+c,a,【茱丽】和【张医师】的关系是什么？,张医师 is husband of 茱丽,茱丽 is half brother of 张医师,茱丽 is subject of investigation for 张医师,茱丽 is daughter in law of 张医师,,a
+c,a,【茱丽】和【廖雪寒】的关系是什么？,廖雪寒 is helped by 茱丽,茱丽 is messenger of 廖雪寒,茱丽 is betrayed by 廖雪寒,茱丽 is minion of 廖雪寒,,a
+c,a,【茱丽】和【海悠】的关系是什么？,海悠 is helper of 茱丽,茱丽 is liked by 海悠,茱丽 is dislike of 海悠,茱丽 is guard of 海悠,,a
+c,a,【谭仁昌】和【谭尚致】的关系是什么？,谭尚致 is deceived by x and nephew of 谭仁昌,谭仁昌 is classmate and ex-romantic relationships with x of 谭尚致,谭仁昌 is ex-romantic relationships with x and neighbour of 谭尚致,谭仁昌 is neighbour and saviour of 谭尚致,,a
+c,a,【谭仁昌】和【吕名然】的关系是什么？,吕名然 is acquaintance and employee of 谭仁昌,谭仁昌 is secret admirer and admirer of 吕名然,谭仁昌 is admirer and half sister of 吕名然,谭仁昌 is half sister and rival of 吕名然,,a
+c,a,【谭仁昌】和【承格】的关系是什么？,承格 is adoptive son and deceiver of 谭仁昌,谭仁昌 is patient and fiancee of 承格,谭仁昌 is fiancee and host of 承格,谭仁昌 is host and ex-wife of 承格,,a
+c,a,【谭太太】和【尚致】的关系是什么？,尚致 is nephew and relative of 谭太太,谭太太 is landlord and manipulator of 尚致,谭太太 is manipulator and rival of 尚致,谭太太 is rival and fiance of 尚致,,a
+c,a,【谭太太】和【谭尚致】的关系是什么？,谭尚致 is deceived by x and nephew of 谭太太,谭太太 is liked by x and seller of 谭尚致,谭太太 is seller and guard of 谭尚致,谭太太 is guard and wife of 谭尚致,,a
+c,a,【谭太太】和【吕名然】的关系是什么？,吕名然 is extramarital affair with x and acquaintance of 谭太太,谭太太 is subject of investigation for x and patient of 吕名然,谭太太 is patient and manipulated by x of 吕名然,谭太太 is manipulated by x and manipulator of 吕名然,,a

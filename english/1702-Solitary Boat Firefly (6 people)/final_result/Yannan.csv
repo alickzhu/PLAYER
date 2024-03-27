@@ -1,0 +1,39 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Zhou Mengdang?,Zhou Chitong,Xi Yan,Yu Sunian,Tian Chou,,d
+b,a,How did Zhou Mengdang die?,Killed by crossbow guns,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What was the motive behind the killer killing Zhou Mengdang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim, Zhou Mengdang. Who is that?",Enemies,colleague,friend,Superior,,a
+b,a,Where was Zhou Mengdang killed?,on board,Southern courtyard,On the mountain,Riverside,,a
+b,b,Please select the two people you most suspect of killing Zhou Mengdang,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Zhou Lianyi,c
+a,a,Who killed Bao Liu (Yu Shi)?,Yu Sunian,Xi Yan,Xi Yan,Tian Chou,,d
+b,a,How did Bao Liu (Yu Shi) die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What is the motive behind the killer killing Bao Liu (Yu Shi)?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Bao Liu (Yu Shi). Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Bao Liu (Yu Shi) killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Bao Liu (Yu Shi),Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Zhou Lianyi,a
+a,a,Who killed my father Cui Shouheng?,Zhou Chitong,Yu Sunian,Xi Yan,Tian Chou,,b
+b,a,How did my father Cui Shouheng die?,Killed by crossbow guns,Poisoned to death by poison,Killed with a mechanism,Drowned by water,,c
+b,a,What is the motive behind the killer killing his father Cui Shouheng?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim's father Cui Shouheng. Who is that?,Enemies,colleague,friend,Superior,,a
+b,a,Where was the father Cui Shouheng killed?,Home owner's room,Southern courtyard,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing your father Cui Shouheng,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Zhou Lianyi,d
+a,a, ,Yu Sunian,Xi Yan,Zhou Chitong,Tian Chou,,a
+b,a, ,Poisoned to death by poison,Beaten to death with a fist,Killed with stones,Drowned by water,,a
+b,a,What was the motive behind the killer killing Mother Wang Xi Rong?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,The perpetrator is the victim Mother Wang Xi Rong. Who is it?,subordinate,mother,lawyer,doctor,,a
+b,a, ,In the room,On the mountain,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Mother Wang Xi Rong,Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Zhou Lianyi,c
+b,a,What is the true relationship between Yu Sunian and Zhou Lianyi?,Teacher-student relationship,Romantic relationship,It doesn't matter.,Siblings,,b
+b,a,What is the true relationship between Zhou Chitong and Tian Chou?,It doesn't matter.,Romantic relationship,Tian Chou is utilizing Zhou Chitong,Siblings,,c
+c,a,What is the non-existent relationship between Bao Liu (Yu Shi) and Tian Chou?,Tian Chou is friend of Yu Shi,Tian Chou is helped by Yu Shi,Tian Chou is betrayed by Yu Shi,Yu Shi is creditor of Tian Chou,,d
+c,a,What is the relationship between Bao Liu (Yu Shi) and Wang Xi Rong?,Wang Xi Rong is master and helper of Yu Shi,Yu Shi is grandparent and father in law of Wang Xi Rong,Yu Shi is father in law and admired by x of Wang Xi Rong,Yu Shi is admired by x and concubine of Wang Xi Rong,,a
+c,a,What is the relationship between Bao Liu (Yu Shi) and Wang Xi Yan?,Wang Xi Yan is master and bully of Yu Shi,Yu Shi is ex-husband and daughter in law of Wang Xi Yan,Yu Shi is daughter in law and host of Wang Xi Yan,Yu Shi is host and co-wives of Wang Xi Yan,,a
+c,a,What is the non-existent relationship between Zhou Mengdang and Cui Shouheng?,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is romantic relationships with Cui Shouheng,,d
+c,a,What is the non-existent relationship between Zhou Menggang and Wang Xi Yan?,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is rebellion against Wang Xi Yan,,d
+c,a,What is the relationship between Zhou Menggang and Bao Liu?,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is servant of Bao Liu,Zhou Mengdang is subordinate of Bao Liu,Zhou Mengdang is child of Bao Liu,,a
+c,a,What is the relationship between Mother Wang Xi Rong and Bao Liu?,Bao Liu is helped by x and servant of Mother Wang Xi Rong,Mother Wang Xi Rong is hate and hated by x of Bao Liu,Mother Wang Xi Rong is hated by x and ex-romantic relationships with x of Bao Liu,Mother Wang Xi Rong is ex-romantic relationships with x and step-sister of Bao Liu,,a
+c,a,What is the relationship between Mother Wang Xi Rong and Wang Xi Yan?,Wang Xi Yan is sister and co-wives of Mother Wang Xi Rong,Mother Wang Xi Rong is neighbour and perpetrator of Wang Xi Yan,Mother Wang Xi Rong is perpetrator and unsuccessful helper of Wang Xi Yan,Mother Wang Xi Rong is unsuccessful helper and saviour of Wang Xi Yan,,a
+c,a,What is the relationship between Mother Wang Xi Rong and Wang Shunming?,Wang Shunming is father of Mother Wang Xi Rong,Mother Wang Xi Rong is fondness of Wang Shunming,Mother Wang Xi Rong is ex-romantic relationships with Wang Shunming,Mother Wang Xi Rong is hated by Wang Shunming,,a
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Mengdang?,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is suspicious of Zhou Mengdang,,d
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Chitong?,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is mother in law of Zhou Chitong,,d
+c,a,What is the relationship between Cui Shouheng and Wang Xi Yan?,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is authority over x and suspect to x of Wang Xi Yan,Cui Shouheng is suspect to x and customer of Wang Xi Yan,Cui Shouheng is customer and tenant of Wang Xi Yan,,a

@@ -1,0 +1,40 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Meng Sanchun被谁杀死的？,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,Meng Sanchun是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,d
+b,a,Meng Sanchun的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人Meng Sanchun什么人？,律师,亲戚,儿子,上司,,d
+b,a,Meng Sanchun是在哪里被杀死的？,厕所,客栈房间,山上,船上,,a
+b,a,Meng Sanchun是什么时候被杀死的？,1170年10月25日晚11点,1170年10月25日凌晨1点,1170年10月25日上午10点,1170年10月25日晚上8点,,a
+b,b,请选出你最怀疑杀死Meng Sanchun的两个人,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,【Meng Sanchun】和【Zhang Jinyin】不存在的关系是什么？,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is service provider of Zhang Jinyin,,d
+c,a,【Meng Sanchun】和【Cai Siniang】不存在的关系是什么？,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is schoolmate of Cai Siniang,,d
+c,a,【Meng Sanchun】和【Zhang Hongsheng】的关系是什么？,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is relative and patient of Zhang Hongsheng,Meng Sanchun is patient and grandmother of Zhang Hongsheng,Meng Sanchun is grandmother and father of Zhang Hongsheng,,a
+a,a,Meng Sanchun被谁杀死的？,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,Meng Sanchun是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,d
+b,a,Meng Sanchun的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人Meng Sanchun什么人？,律师,亲戚,儿子,上司,,d
+b,a,Meng Sanchun是在哪里被杀死的？,厕所,客栈房间,山上,船上,,a
+b,a,Meng Sanchun是什么时候被杀死的？,1170年10月25日晚11点,1170年10月25日凌晨1点,1170年10月25日上午10点,1170年10月25日晚上8点,,a
+b,b,请选出你最怀疑杀死Meng Sanchun的两个人,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,【Meng Sanchun】和【Zhang Jinyin】不存在的关系是什么？,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is brother of Zhang Jinyin,,d
+c,a,【Meng Sanchun】和【Cai Siniang】不存在的关系是什么？,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is future mother in law of Cai Siniang,,d
+c,a,【Meng Sanchun】和【Zhang Hongsheng】的关系是什么？,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is guest and step-son of Zhang Hongsheng,Meng Sanchun is step-son and grandmother of Zhang Hongsheng,Meng Sanchun is grandmother and possibly family of Zhang Hongsheng,,a
+c,a,【Zhang Hongsheng】和【Cai Siniang】不存在的关系是什么？,Cai Siniang is employee of Zhang Hongsheng,Cai Siniang is admirer of Zhang Hongsheng,Cai Siniang is fondness of Zhang Hongsheng,Zhang Hongsheng is hate of Cai Siniang,,d
+c,a,【Zhang Hongsheng】和【Hong Jiangshui】的关系是什么？,Hong Jiangshui is employee and colleague of Zhang Hongsheng,Zhang Hongsheng is son and friend of Hong Jiangshui,Zhang Hongsheng is friend and mother of Hong Jiangshui,Zhang Hongsheng is mother and brother in law of Hong Jiangshui,,a
+c,a,【Zhang Hongsheng】和【Zhang Jinyin】的关系是什么？,Zhang Jinyin is employee and employer of Zhang Hongsheng,Zhang Hongsheng is bully and bully of Zhang Jinyin,Zhang Hongsheng is bully and suspect of Zhang Jinyin,Zhang Hongsheng is suspect and fiance of Zhang Jinyin,,a
+c,a,【Meng Sanchun】和【Zhang Jinyin】不存在的关系是什么？,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is step-brother of Zhang Jinyin,,d
+c,a,【Meng Sanchun】和【Cai Siniang】不存在的关系是什么？,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is seeker of help from Cai Siniang,,d
+c,a,【Meng Sanchun】和【Zhang Hongsheng】的关系是什么？,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is grandparent and subordinate of Zhang Hongsheng,Meng Sanchun is subordinate and colleague of Zhang Hongsheng,Meng Sanchun is colleague and tour guide of Zhang Hongsheng,,a
+a,a,Meng Sanchun被谁杀死的？,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,Meng Sanchun是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,d
+b,a,Meng Sanchun的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人Meng Sanchun什么人？,律师,亲戚,儿子,上司,,d
+b,a,Meng Sanchun是在哪里被杀死的？,厕所,客栈房间,山上,船上,,a
+b,a,Meng Sanchun是什么时候被杀死的？,1170年10月25日晚11点,1170年10月25日凌晨1点,1170年10月25日上午10点,1170年10月25日晚上8点,,a
+b,b,请选出你最怀疑杀死Meng Sanchun的两个人,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,【Meng Sanchun】和【Zhang Jinyin】不存在的关系是什么？,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is brother in law of Zhang Jinyin,,d
+c,a,【Meng Sanchun】和【Cai Siniang】不存在的关系是什么？,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is grandchild of Cai Siniang,,d
+c,a,【Meng Sanchun】和【Zhang Hongsheng】的关系是什么？,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is superior and nephew of Zhang Hongsheng,Meng Sanchun is nephew and step-sister of Zhang Hongsheng,Meng Sanchun is step-sister and saved by x of Zhang Hongsheng,,a
+c,a,【Hong Jiangshui】和【Zhang Hongsheng】的关系是什么？,Zhang Hongsheng is employer and colleague of Hong Jiangshui,Hong Jiangshui is murderer and cousin of Zhang Hongsheng,Hong Jiangshui is cousin and crime partner of Zhang Hongsheng,Hong Jiangshui is crime partner and lover of Zhang Hongsheng,,a
+c,a,【Hong Jiangshui】和【Cai Siniang】的关系是什么？,Cai Siniang is admired by x and colleague of Hong Jiangshui,Hong Jiangshui is granddaughter and bully of Cai Siniang,Hong Jiangshui is bully and future relative of Cai Siniang,Hong Jiangshui is future relative and enemy of Cai Siniang,,a
+c,a,【Hong Jiangshui】和【Meng Sanchun】的关系是什么？,Meng Sanchun is employer and victim of Hong Jiangshui,Hong Jiangshui is extramarital affair with x and romantic relationships with x of Meng Sanchun,Hong Jiangshui is romantic relationships with x and step-brother of Meng Sanchun,Hong Jiangshui is step-brother and future father in law of Meng Sanchun,,a

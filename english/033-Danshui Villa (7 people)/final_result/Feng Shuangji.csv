@@ -1,0 +1,31 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Miss Li (Madam)?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Miss Li (Madam) die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What was the motive behind the killer killing Miss Li (Mrs. Li Yu)?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Miss Li [Li Yu] (wife). Who is she?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Miss Li (Mrs.) killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the county town's own silk shop,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Miss Li killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Miss Li (Mrs. Li Yu),Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed your wife?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did your wife die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing your wife?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,Who is the perpetrator of the victim (your wife)?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was your wife killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the county town's own silk shop,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was your wife killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing your wife,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,My own nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,How did Miss Zhao Luoyi fall into the hands of the Black Wolf Society?,The members of the Black Wolf Society kidnapped Zhao Luoyi as a threat to Zhao Wanlei,Zhao Luoyi was arrested by the police for promoting gender equality,Zhao Luoyi was mistakenly arrested by the police for accidentally entering a murderer's villa while promoting gender equality,Zhao Luoyi is a member of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking 【 Zhao Wanlei 】,【 Zhao Wanlei 】 Unilateral liking 【 Zhao Qiu 】,Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the relationship between Yin Shaoming and Miss Zhao Luoyi?,Zhao Luoyi is seeker of help from x and secret admirer of Yin Shaoming,Yin Shaoming is x's enemy's family and aunt of Zhao Luoyi,Yin Shaoming is aunt and adoptive daughter of Zhao Luoyi,Yin Shaoming is adoptive daughter and subject of investigation for x of Zhao Luoyi,,a
+c,a,What is the relationship between Yin Shaoming and Yu Beichen?,Yu Beichen is father of Yin Shaoming,Yin Shaoming is servant of Yu Beichen,Yin Shaoming is superior of Yu Beichen,Yin Shaoming is unsuccessful helper of Yu Beichen,,a
+c,a,What is the relationship between Yin Shaoming and Ren?,Ren is mother of Yin Shaoming,Yin Shaoming is boyfriend of Ren,Yin Shaoming is quest companion of Ren,Yin Shaoming is deceived by Ren,,a
+c,a,What is the non-existent relationship between Zhao Wanlei and Feng Shuangji?,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is servant of Zhao Wanlei,Feng Shuangji is employee of Zhao Wanlei,Zhao Wanlei is child of Feng Shuangji,,d
+c,a,What is the non-existent relationship between Zhao Wanlei and Guo Wangshan?,Guo Wangshan is Business Partner of X,Guo Wangshan is Attempted Murderer of X,Guo Wangshan is Perpetrator of X's family,Zhao Wanlei is cousin of Guo Wangshan,,d
+c,a,What is the non-existent relationship between Zhao Wanlei and Qi Yue?,Qi Yue is employee of Zhao Wanlei,Qi Yue is servant of Zhao Wanlei,Qi Yue is Perpetrator of X's family,Zhao Wanlei is grandchild of Qi Yue,,d
+c,a,What is the relationship between Miss Zhao Luoyi and Zhao Wanlei?,Feng Shuangji is father of Zhao Luoyi,Zhao Luoyi is thief of Feng Shuangji,Zhao Luoyi is spy of Feng Shuangji,Zhao Luoyi is ex-romantic relationships with Feng Shuangji,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Feng Shuangji (you)?,Feng Shuangji is father of Zhao Luoyi,Zhao Luoyi is thief of Feng Shuangji,Zhao Luoyi is spy of Feng Shuangji,Zhao Luoyi is ex-romantic relationships with Feng Shuangji,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Miss Li Li Yu (Madam)?,Li Yu is mother of Zhao Luoyi,Zhao Luoyi is spy of Li Yu,Zhao Luoyi is hate of Li Yu,Zhao Luoyi is service provider of Li Yu,,a

@@ -1,0 +1,40 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Xia Bolong】被谁杀死的？,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,【Xia Bolong】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,c
+b,a,凶手杀【Xia Bolong】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Xia Bolong】什么人？,仇人,兄弟,朋友,情人,,b
+b,a,【Xia Bolong】是在哪里被杀死的？,田吉株式会社,自己的房间,擂台上,“嘉善堂”医馆,,b
+b,b,请选出你最怀疑杀死【Xia Bolong】的两个人,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,【Xia Sanhu】被谁杀死的？,Yu Zu Chengmu,Xia Zhongpeng,Aming【Li Luoming】,Duan Yuetong,,b
+b,a,【Xia Sanhu】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被腰带勒死的,,d
+b,a,凶手杀【Xia Sanhu】的动机是什么？,情杀,仇杀,利益,大义灭亲,,d
+b,a,凶手是被害人【Xia Sanhu】什么人？,仇人,徒弟,朋友,兄弟,,d
+b,a,【Xia Sanhu】是在哪里被杀死的？,田吉株式会社,自己房里,擂台上,“嘉善堂”医馆,,b
+b,a,【Xia Sanhu】是在何时被杀死的？,今天 (8月3日）18:00-18:10,今天 (8月3日）20:00-20:10,7月30日 18:00-18:10,7月20日 20:00-20:10,,a
+b,b,请选出你最怀疑杀死【Xia Sanhu】的两个人,Yu Zu Chengmu,Xia Zhongpeng,Aming【Li Luoming】,Duan Yuetong,,a
+a,a,【Wu Baian】被谁杀死的？,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,b
+b,a,【Wu Baian】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,b
+b,a,凶手杀【Wu Baian】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Wu Baian】什么人？,仇人,同事,朋友,妻子,,a
+b,a,【Wu Baian】是在哪里被杀死的？,仓库外,芙兰茜西饼店,拳馆,Wu Baian家,,a
+b,a,【Wu Baian】是在何时被杀死的？,7月28日傍晚,7月29日早上,7月29日傍晚,7月30日早上,,c
+b,b,请选出你最怀疑杀死【Wu Baian】的两个人,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,【Duan Yuetong】你的亲生父亲是谁？,【Xia Bolong】,Xia Zhongpeng,Xia Sanhu,Li Zicai,,a
+b,a,【Yue Dongwen】在隐瞒什么？, 他的公司卖假药,Wu Baian卖出过能致人死亡的“虫杀灵”,他是杀人凶手,他是Duan Yuetong的亲生父亲,b,
+b,a,【Yu Zu Chengmu】是什么人？, “嘉善堂”医馆的Li Zicai的弟弟,田吉株式会社的创办人,Xia Sanhu的日本人同学,【Xia Bolong】的私生子,,a
+b,a,【Xia Sanhu】如何染上赌瘾？,被【Yu Zu Chengmu】带去赌博,缺钱花,在日本读书的时候很流行赌博,应酬需要,,a
+b,a,【Li Luoming】(Aming)和【Yu Zu Chengmu】是什么关系？, 叔侄,陌生人,仇人,朋友,,a
+b,a,【Yue Dongwen】在隐瞒什么？, 他的公司卖假药,Wu Baian卖出过能致人死亡的“虫杀灵”,他是杀人凶手,他是Duan Yuetong的亲生父亲,,b
+b,a,【硬马铁拳】是谁？, 【Li Luoming】(Aming),Yue Kesa,Xia Sanhu,Xia Shue,,a
+b,a,【硬马铁拳】为什么打【Bai Changgong】？, 【硬马铁拳】眼红【Bai Changgong】存在码头仓库的货 所以要勒索他,【硬马铁拳】发现【Bai Changgong】抢劫,【硬马铁拳】仗势欺人,【Bai Changgong】凑不出租金就想把被扣押的货偷走,,a
+b,a,【Anqi】今晚为什么没让你送她回家？, 【Anqi】是跑出来的,【Anqi】还要去见【Yu Zu Chengmu】,【Anqi】要去销毁证据,【Anqi】讨厌自己,,a
+b,a,【Anqi】和【Yu Zu Chengmu】之间是什么关系？, 【Yu Zu Chengmu】和【Anqi】两情相悦,【Yu Zu Chengmu】误会【Anqi】喜欢自己,【Anqi】误会【Yu Zu Chengmu】喜欢自己,【Yu Zu Chengmu】是【Anqi】的救命恩人,,b
+c,a,【Lan Qin】(Anqi)和【Yu Zu Chengmu】不存在的关系是什么？,Yu Zu Chengmu is customer of Lan Qin,Yu Zu Chengmu is helped by Lan Qin,Yu Zu Chengmu is debtor of Lan Qin,Lan Qin is rebellion against Yu Zu Chengmu,,d
+c,a,【Lan Qin】(Anqi)和【Yi Lianzhi】的关系是什么？,Yi Lianzhi is mother of Lan Qin,Lan Qin is crime partner of Yi Lianzhi,Lan Qin is deceiver of Yi Lianzhi,Lan Qin is suspected by Yi Lianzhi,,a
+c,a,【Lan Qin】(Anqi)和【A'e】的关系是什么？,A'e is brother of Lan Qin,Lan Qin is suspect to A'e,Lan Qin is employer of A'e,Lan Qin is information receiver from A'e,,a
+c,a,【Wu Baian】和【Li Zicai】的关系是什么？,Li Zicai is schoolmate and quest companion of Wu Baian,Wu Baian is killed by x and rival of Li Zicai,Wu Baian is rival and suspect to x of Li Zicai,Wu Baian is suspect to x and disliked by x of Li Zicai,,a
+c,a,【Wu Baian】和【Xia Shue】的关系是什么？,Xia Shue is colleague and information receiver from x of Wu Baian,Wu Baian is subject of investigation for x and niece of Xia Shue,Wu Baian is niece and mother in law of Xia Shue,Wu Baian is mother in law and aunt of Xia Shue,,a
+c,a,【Wu Baian】和【Li Luoming】(Aming)的关系是什么？,Li Luoming is murderer of Wu Baian,Wu Baian is cousin of Li Luoming,Wu Baian is student of Li Luoming,Wu Baian is elder brother of Li Luoming,,a
+c,a,【Li Luoming】(Aming)和【Xia Sanhu】不存在的关系是什么？,Xia Sanhu is superior of Li Luoming,Xia Sanhu is manipulated by Li Luoming,Xia Sanhu is deceived by Li Luoming,Li Luoming is husband of Xia Sanhu,,d
+c,a,【Li Luoming】(Aming)和【Yu Zu Chengmu】不存在的关系是什么？,Yu Zu Chengmu is uncle of Li Luoming,Yu Zu Chengmu is quest companion of Li Luoming,Yu Zu Chengmu is business partner of Li Luoming,Li Luoming is co-wives of Yu Zu Chengmu,,d
+c,a,【Li Luoming】(Aming)和【Yue Dongwen】不存在的关系是什么？,Yue Dongwen is helper of Li Luoming,Yue Dongwen is employer of Li Luoming,Yue Dongwen is deceiver of Li Luoming,Li Luoming is step-son of Yue Dongwen,,d

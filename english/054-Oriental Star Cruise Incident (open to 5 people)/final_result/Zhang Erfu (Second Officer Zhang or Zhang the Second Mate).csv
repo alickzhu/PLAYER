@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Liu Qi?,Manager Xiu,Singer Lin,Captain Hong,Han Chengwu (Han the Attendant or Han the Crew Member),,a
+b,a,How did Liu Qi die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Killed with a gun,,d
+b,a,What is the motive behind the killer killing Liu Qi?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Liu Qi. Who is it?,Son,father,lawyer,Superior,,d
+b,a,Where was Liu Qi killed?,In the warehouse,ashore ,On deck,Riverside,,a
+b,a,When was Liu Qi killed?,After the fireworks start at 20 o'clock,Before the fireworks start at 20:00,In the early morning,During the day,,a
+b,b,Please select the two people you most suspect of killing Liu Qi,Manager Xiu,Singer Lin,Captain Hong,Han Chengwu (Han the Attendant or Han the Crew Member),,c
+c,a,What is the non-existent relationship between Liu Qi and Manager Xi?,Manager Xiu is murderer of Liu Qi,Manager Xiu is classmate of Liu Qi,Manager Xiu is colleague of Liu Qi,Liu Qi is nephew of Manager Xiu,,d
+c,a,What is the non-existent relationship between Liu Qi and Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)?,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is bully of Liu Qi,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is subordinate of Liu Qi,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is dislike of Liu Qi,Liu Qi is secret crush of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),,d
+c,a,What is the relationship between Liu Qi and Singer Lin?,Singer Lin is secret admirer and fondness of Liu Qi,Liu Qi is rebellion against x and jealous by x of Singer Lin,Liu Qi is jealous by x and perpetrator 's family of Singer Lin,Liu Qi is perpetrator 's family and deceiver of Singer Lin,,a

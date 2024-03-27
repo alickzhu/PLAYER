@@ -1,0 +1,23 @@
+value,type,question,a,b,c,d,e,truth
+a,a,"Cui Shouheng, who killed him?",Zhou Chitong,Yu Sunian,Yannan,Xi Yan,,b
+b,a,How did Cui Shouheng die?,Killed by crossbow guns,Poisoned to death by poison,Killed with a mechanism,Drowned by water,,c
+b,a,What is the motive behind the killer killing Cui Shouheng?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Cui Shouheng. Who is that?,Enemies,colleague,friend,Superior,,a
+b,a,Where was Cui Shouheng killed?,Home owner's room,Southern courtyard,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Cui Shouheng,Zhou Chitong,Yannan,Xi Yan,Yu Sunian,Zhou Lianyi,d
+a,a,Who killed Taitai (Wang Xi Rong)?,Yu Sunian,Yannan,Zhou Chitong,Xi Yan,,a
+b,a,How did Taitai (Wang Xi Rong) die?,Poisoned to death by poison,Beaten to death with a fist,Killed with stones,Drowned by water,,a
+b,a,What was the motive behind the killer killing Taitai (Wang Xi Rong)?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,The perpetrator is the victim Taitai (Wang Xi Rong) who?,subordinate,mother,lawyer,doctor,,a
+b,a,Where was Taitai (Wang Xi Rong) killed?,In the room,On the mountain,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Taitai (Wang Xi Rong),Xi Yan,Zhou Chitong,Yu Sunian,Yannan,Zhou Lianyi,c
+b,a,What is the true relationship between Yu Sunian and Zhou Lianyi?,Teacher-student relationship,Romantic relationship,It doesn't matter.,Siblings,,b
+c,a,What is the non-existent relationship between Zhou Chitong and Cui Shouheng?,Cui Shouheng is helper of Zhou Chitong,Cui Shouheng is superior of Zhou Chitong,Cui Shouheng is deceived by Zhou Chitong,Zhou Chitong is younger sister of Cui Shouheng,,d
+c,a,What is the non-existent relationship between Zhou Chitong and Tian Chou?,Tian Chou is helped by Zhou Chitong,Tian Chou is friend of Zhou Chitong,Tian Chou is admired by Zhou Chitong,Zhou Chitong is murderer of Tian Chou,,d
+c,a,What is the relationship between Zhou Chitong and Yu Sunian?,Yu Sunian is relative and friend of Zhou Chitong,Zhou Chitong is deceiver and murderer of Yu Sunian,Zhou Chitong is murderer and guard of Yu Sunian,Zhou Chitong is guard and bully of Yu Sunian,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Bao Liu?,Bao Liu is helped by x and servant of Taitai,Taitai is x's enemy's family and perpetrator of Bao Liu,Taitai is perpetrator and bully of Bao Liu,Taitai is bully and deceived by x of Bao Liu,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Xi Yan?,Wang Xi Yan is sister and co-wives of Taitai,Taitai is jealous and attempted murderer of Wang Xi Yan,Taitai is attempted murderer and hated by x of Wang Xi Yan,Taitai is hated by x and victim of Wang Xi Yan,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Shunming?,Wang Shunming is father of Taitai,Taitai is host of Wang Shunming,Taitai is boyfriend of Wang Shunming,Taitai is lawyer of Wang Shunming,,a
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Mengdang?,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is future father in law of Zhou Mengdang,,d
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Chitong?,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is adoptive daughter of Zhou Chitong,,d
+c,a,What is the relationship between Cui Shouheng and Wang Xi Yan?,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is perpetrator and hated by x of Wang Xi Yan,Cui Shouheng is hated by x and lawyer of Wang Xi Yan,Cui Shouheng is lawyer and servant of Wang Xi Yan,,a

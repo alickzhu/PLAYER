@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+a,a,赵慈善被谁杀死的？,李警察,王村长,胡调研,,,b
+b,a,赵慈善是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,用枪打死的,,c
+b,a,凶手杀赵慈善的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人赵慈善什么人？,儿子,父亲,律师,仇人,,d
+b,a,赵慈善是在哪里被杀死的？,在他自己家里,在岸上,甲板上,河边,,a
+b,a,赵慈善是什么时候被杀死的？,2032年5月14日晚上九点多,2032年5月1日白天,2032年5月14日凌晨,2032年5月14日白天,,a
+b,b,请选出你最怀疑杀死赵慈善的两个人,李警察,王村长,胡调研,自杀,,b
+c,a,【王村长】和【胡调研】的关系是什么？,胡调研 is dislike and acquaintance of 王村长,王村长 is creditor and secret admirer of 胡调研,王村长 is secret admirer and adoptive daughter of 胡调研,王村长 is adoptive daughter and authority over x of 胡调研,,a
+c,a,【王村长】和【赵慈善】的关系是什么？,赵慈善 is victim and hate of 王村长,王村长 is concubine and minion of 赵慈善,王村长 is minion and step-daughter of 赵慈善,王村长 is step-daughter and ex-girlfriend of 赵慈善,,a
+c,a,【王村长】和【张村民】的关系是什么？,张村民 is acquaintance of 王村长,王村长 is mother in law of 张村民,王村长 is master of 张村民,王村长 is unsuccessful helper of 张村民,,a
+c,a,【赵慈善】和【李警察】的关系是什么？,李警察 is attempted murderer and dislike of 赵慈善,赵慈善 is son and step-son of 李警察,赵慈善 is step-son and saviour of 李警察,赵慈善 is saviour and elder brother of 李警察,,a
+c,a,【赵慈善】和【胡调研】的关系是什么？,胡调研 is hate and dislike of 赵慈善,赵慈善 is future daughter in law and landlord of 胡调研,赵慈善 is landlord and sibling of 胡调研,赵慈善 is sibling and grandson of 胡调研,,a
+c,a,【赵慈善】和【王村长】的关系是什么？,王村长 is hate and murderer of 赵慈善,赵慈善 is mother in law and sister of 王村长,赵慈善 is sister and adoptive father of 王村长,赵慈善 is adoptive father and friend of 王村长,,a

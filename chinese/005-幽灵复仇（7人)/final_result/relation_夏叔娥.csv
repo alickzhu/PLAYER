@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【吴百安】和【李子材】的关系是什么？,李子材 is schoolmate and quest companion of 吴百安,吴百安 is employer and future daughter in law of 李子材,吴百安 is future daughter in law and deceived by x of 李子材,吴百安 is deceived by x and patient of 李子材,,a
+c,a,【吴百安】和【夏叔娥】的关系是什么？,夏叔娥 is colleague and information receiver from x of 吴百安,吴百安 is grandmother and grandson of 夏叔娥,吴百安 is grandson and grandchild of 夏叔娥,吴百安 is grandchild and perpetrator of 夏叔娥,,a
+c,a,【吴百安】和【李骆明】的关系是什么？,李骆明 is murderer of 吴百安,吴百安 is messenger of 李骆明,吴百安 is cousin of 李骆明,吴百安 is father in law of 李骆明,,a
+c,a,【夏三虎】和【骆明】不存在的关系是什么？,骆明 is student of 夏三虎,骆明 is subordinate of 夏三虎,骆明 is victim of 夏三虎,夏三虎 is twin sister of 骆明,,d
+c,a,【夏三虎】和【宇祖成木】不存在的关系是什么？,宇祖成木 is creditor of 夏三虎,宇祖成木 is deceiver of 夏三虎,宇祖成木 is victim of 夏三虎,夏三虎 is future father in law of 宇祖成木,,d
+c,a,【夏三虎】和【夏北归】的关系是什么？,夏北归 is father and mentor of 夏三虎,夏三虎 is secret crush and lawyer of 夏北归,夏三虎 is lawyer and doctor of 夏北归,夏三虎 is doctor and colleague of 夏北归,,a
+c,a,【夏仲鹏】和【夏叔娥】不存在的关系是什么？,夏叔娥 is niece of 夏仲鹏,夏叔娥 is student of 夏仲鹏,夏叔娥 is helped by 夏仲鹏,夏仲鹏 is secret crush of 夏叔娥,,d
+c,a,【夏仲鹏】和【夏伯龙】不存在的关系是什么？,夏伯龙 is brother of 夏仲鹏,夏伯龙 is superior of 夏仲鹏,夏伯龙 is victim of 夏仲鹏,夏仲鹏 is concubine of 夏伯龙,,d
+c,a,【夏仲鹏】和【夏三虎】不存在的关系是什么？,夏三虎 is brother of 夏仲鹏,夏三虎 is helped by 夏仲鹏,夏三虎 is killed by 夏仲鹏,夏仲鹏 is lawyer of 夏三虎,,d
+c,a,【夏伯龙】和【夏仲鹏】不存在的关系是什么？,夏仲鹏 is brother of 夏伯龙,夏仲鹏 is subordinate of 夏伯龙,夏仲鹏 is murderer of 夏伯龙,夏伯龙 is ex-girlfriend of 夏仲鹏,,d
+c,a,【夏伯龙】和【夏三虎】不存在的关系是什么？,夏三虎 is brother of 夏伯龙,夏三虎 is subordinate of 夏伯龙,夏三虎 is murderer of 夏伯龙,夏伯龙 is romantic relationships with 夏三虎,,d
+c,a,【夏伯龙】和【夏北归】的关系是什么？,夏北归 is father and mentor of 夏伯龙,夏伯龙 is suspicious and admirer of 夏北归,夏伯龙 is admirer and jealous by x of 夏北归,夏伯龙 is jealous by x and minion of 夏北归,,a

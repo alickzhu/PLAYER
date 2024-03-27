@@ -1,0 +1,74 @@
+{
+    "苗如娅": [
+      ["田氏", "mother of x"], 
+      ["苗纳", "father of x"], 
+      ["苗氏", "aunt of x"], 
+      ["巴府山", "uncle of x"], 
+      ["娟歌", "sister of x"], 
+      ["李德木", "secret admirer of x"], 
+      ["周允棠", "killed by x"], 
+      ["李高柏", "friend of x, secret admirer of x"]
+    ],
+    "山灵": [
+      ["苗纳", "subordinate of x"], 
+      ["苗如娅", "subordinate of x"], 
+      ["苗氏", "subordinate of x"], 
+      ["巴府山", "subordinate of x, rival of x"], 
+      ["娟歌", "subordinate of x, rival of x"], 
+      ["隼", "subordinate of x, rival of x"], 
+      ["鬼印", "subordinate of x, helper of x"], 
+      ["甘玛", "subordinate of x, saviour of x"], 
+      ["私塾先生", "subordinate of x"]
+    ],
+    "李高柏": [
+      ["私塾先生", "teacher of x"], 
+      ["李德木", "brother of x"], 
+      ["李良松", "brother of x"], 
+      ["巴府山", "employer of x"], 
+      ["苗如娅", "friend of x"], 
+      ["巴隼", "classmate of x, friend of x"], 
+      ["周允棠", "employer of x, teacher of x, helper of x"], 
+      ["郑函贞", "employer of x"], 
+      ["鬼印", "employer of x"]
+    ],
+    "周忱纱": [
+      ["周景鱼", "brother of x"], 
+      ["周允棠", "father of x"], 
+      ["汪氏", "mother of x"], 
+      ["郑函贞", "friend of x"], 
+      ["巴隼", "friend of x, secret admirer of x"], 
+      ["甘玛", "friend of x, rival in love of x"]
+    ],
+    "甘玛": [
+      ["甘印", "brother of x, saviour of x, teacher of x"], 
+      ["巴府山", "landlord of x, employer of x"], 
+      ["苗氏", "landlord of x, saved by x"], 
+      ["李高柏", "friend of x"], 
+      ["娟歌", "friend of x"], 
+      ["王京吉", "lover of x, killed by x"], 
+      ["巴隼", "fiance of x"], 
+      ["山灵", "superior of x, saviour of x"], 
+      ["苗如娅", "helper of x, sister in law of x"], 
+      ["周忱纱", "friend of x, student of x"]
+    ],
+    "郑函贞": [
+      ["郑昌珉", "father of x"], 
+      ["周允棠", "teacher of x"], 
+      ["周忱纱", "colleague of x, fiance of x"], 
+      ["巴府山", "host of x"], 
+      ["娟歌", "lover of x"], 
+      ["甘印", "rival in love of x"], 
+      ["张氏", "mother of x"], 
+      ["又黑又瘦的男人", "stranger to x"]
+    ],
+    "巴隼": [
+      ["巴府山", "father of x"], 
+      ["苗氏", "mother of x"], 
+      ["苗纳", "uncle of x"], 
+      ["娟歌", "older sister of x"], 
+      ["李高柏", "classmate of x"], 
+      ["周忱纱", "friend of x"], 
+      ["李德木", "killed by x"], 
+      ["私塾先生", "teacher of x"]
+    ]
+}

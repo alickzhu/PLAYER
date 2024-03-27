@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "Oriental Star Cruise Incident",
+    "character_name": [
+        "Singer Lin",
+        "Han Chengwu (Han the Attendant or Han the Crew Member)",
+        "Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)",
+        "Manager Xiu",
+        "Captain Hong"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

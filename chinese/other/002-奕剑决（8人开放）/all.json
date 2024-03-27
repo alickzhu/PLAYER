@@ -1,0 +1,129 @@
+{
+    "杜仲": [
+      ["师父", "same person as x (different reference)"]
+    ],
+    "师父": [
+      ["忘忧", "sworn brother of x, mentor of x"], 
+      ["玄参", "sworn brother of x, mentor of x, murderer of x"], 
+      ["杜仲的孩子", "child of x"], 
+      ["红花夫人", "ex-romantic relationships with x"], 
+      ["石燕", "attempted murderer of x"], 
+      ["陆英", "student of x"], 
+      ["凌霄", "student of x, attempted murderer of x"], 
+      ["紫苏", "student of x"], 
+      ["玄冰教神曲使", "adversary of x"], 
+      ["杜仲", "same person as x (different reference)"]
+    ],
+    "玄参": [
+      ["二师叔", "same person as x (different reference)"]
+    ],
+    "二师叔": [
+      ["杜仲", "sworn brother of x, victim of x"], 
+      ["忍冬", "informant of x"], 
+      ["陆英", "student of x"], 
+      ["忘忧", "sworn brother of x"], 
+      ["松节", "guest of x"], 
+      ["玄参", "same person as x (different reference)"]
+    ],
+    "忘忧": [
+      ["杜仲", "sworn brother of x"], 
+      ["玄参", "sworn brother of x"], 
+      ["杜仲的孩子", "nephew of x"], 
+      ["松节", "suspected by x"]
+    ],
+    "陆英": [
+      ["大师兄", "same person as x (different reference)"]
+    ],
+    "大师兄": [
+      ["玄参", "mentor of x"], 
+      ["可疑人员", "suspected by x"], 
+      ["玄冰教使者", "guest of x"], 
+      ["武林盟的调查人员", "guest of x"], 
+      ["杜仲", "mentor of x"], 
+      ["凌霄", "schoolmate of x"], 
+      ["紫苏", "schoolmate of x"], 
+      ["陆英的恋人", "romantic relationships with x"], 
+      ["陆英", "same person as x (different reference)"]
+    ],
+    "陆英的恋人": [
+      ["陆英", "romantic relationships with x"]
+    ],
+    "凌霄": [
+      ["二师弟", "same person as x (different reference)"]
+    ],
+    "二师弟": [
+      ["师父", "mentor of x, victim of x"], 
+      ["大师兄", "schoolmate of x"], 
+      ["二师叔", "mentor of x"], 
+      ["蜂", "messenger of x"], 
+      ["凌霄", "same person as x (different reference)"]
+    ],
+    "紫苏": [
+      ["三师弟", "same person as x (different reference)"]
+    ],
+    "三师弟": [
+      ["杜仲", "jealous of x, mentor of x"], 
+      ["玄冰教使者", "acquaintance of x"], 
+      ["玄冰教神曲使", "acquaintance of x, superior of x"], 
+      ["紫苏", "same person as x (different reference)"]
+    ],
+    "石燕": [
+      ["红花夫人", "mentor of x, master of x"], 
+      ["杜仲", "victim of x, adversary of x"], 
+      ["蜂", "messenger of x"], 
+      ["杜仲的孩子", "same person as x (different identity)"], 
+      ["武林盟的调查人员", "same person as x (different identity)"]
+    ],
+    "武林盟的调查人员": [
+      ["石燕", "same person as x (different identity)"], 
+      ["陆英", "host of x"]
+    ],
+    "杜仲的孩子": [
+      ["杜仲", "father of x"], 
+      ["红花夫人", "mother of x"], 
+      ["忘忧", "uncle of x"], 
+      ["石燕", "same person as x (different identity)"]
+    ],
+    "红花夫人": [
+      ["石燕", "student of x, servant of x"], 
+      ["杜仲", "ex-romantic relationships with x, adversary of x"]
+    ],
+    "蜂": [
+      ["凌霄", "customer of x"], 
+      ["石燕", "customer of x"], 
+      ["松节", "employee of x"], 
+      ["决明", "customer of x"]
+    ],
+    "玄冰教神曲使": [
+      ["紫苏", "acquaintance of x, subordinate of x"]
+    ],
+    "决明": [
+      ["盗圣", "same person as x (different identity)"], 
+      ["玄冰教使者", "same person as x (different identity)"], 
+      ["紫苏", "acquaintance of x"], 
+      ["蜂", "messenger of x"]
+    ],
+    "盗圣": [
+      ["决明", "same person as x (different identity)"]
+    ],
+    "玄冰教使者": [
+      ["决明", "same person as x (different identity)"], 
+      ["陆英", "host of x"]
+    ],
+    "松节": [
+      ["蜂", "employer of x"], 
+      ["玄冰教的信使", "same person as x (different identity)"], 
+      ["盗圣", "suspected by x"], 
+      ["忍冬", "helper of x, quest companion of x, colleague of x"], 
+      ["武林盟的信使", "same person as x (different identity)"]
+    ],
+    "武林盟的信使": [
+      ["松节", "same person as x (different identity)"], 
+      ["玄参", "host of x"], 
+      ["陆英", "suspect to x"]
+    ],
+    "忍冬": [
+      ["松节", "seeker of help from x, quest companion of x, colleague of x"], 
+      ["玄参", "information receiver from x"]
+    ]
+}

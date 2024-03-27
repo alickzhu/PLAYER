@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "紫藤夫人",
+    "character_name": [
+        "于彦诚",
+        "薛达财",
+        "乐婉",
+        "葛月萝",
+        "吕松年",
+        "张太太"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

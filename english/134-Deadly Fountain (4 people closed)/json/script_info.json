@@ -1,0 +1,29 @@
+{
+    "agent_num": 4,
+    "script_name": "Deadly Fountain",
+    "character_name": [
+        "He Laoliu",
+        "Mu Bei",
+        "Zhang Jie",
+        "Neighbor Wang"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2
+    ],
+    "keep_asking": [
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0
+    ]
+}

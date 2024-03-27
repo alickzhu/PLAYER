@@ -1,0 +1,23 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Cui Shouheng】被谁杀死的？,Zhou Chitong,Yu Sunian,Yannan,Xi Yan,,b
+b,a,【Cui Shouheng】是怎么死的？,被弩枪射死的,被毒药毒死的,用机关杀死的,被水淹死的,,c
+b,a,凶手杀【Cui Shouheng】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Cui Shouheng】什么人？,仇人,同事,朋友,上级,,a
+b,a,【Cui Shouheng】是在哪里被杀死的？,家主房,南院,船上,河边,,a
+b,b,请选出你最怀疑杀死【Cui Shouheng】的两个人,Zhou Chitong,Yannan,Xi Yan,Yu Sunian,Zhou Lianyi,d
+a,a,Taitai(Wang Xi Rong)被谁杀死的？,Yu Sunian,Yannan,Zhou Chitong,Xi Yan,,a
+b,a,Taitai(Wang Xi Rong)是怎么死的？,被毒药毒死的,被拳头打死的,用石头砸死的,被水淹死的,,a
+b,a,凶手杀Taitai(Wang Xi Rong)的动机是什么？,情杀,仇杀,利益,误杀,,d
+b,a,凶手是被害人Taitai(Wang Xi Rong)什么人？,下属,母亲,律师,医生,,a
+b,a,Taitai(Wang Xi Rong)是在哪里被杀死的？,屋子里,山上,船上,河边,,a
+b,b,请选出你最怀疑杀死Taitai(Wang Xi Rong)的两个人,Xi Yan,Zhou Chitong,Yu Sunian,Yannan,Zhou Lianyi,c
+b,a,【Yu Sunian】和【Zhou Lianyi】真实关系是什么？,师生关系,恋人关系,没有关系,兄妹关系,,b
+c,a,【Zhou Chitong】和【Cui Shouheng】不存在的关系是什么？,Cui Shouheng is helper of Zhou Chitong,Cui Shouheng is superior of Zhou Chitong,Cui Shouheng is deceived by Zhou Chitong,Zhou Chitong is younger sister of Cui Shouheng,,d
+c,a,【Zhou Chitong】和【Tian Chou】不存在的关系是什么？,Tian Chou is helped by Zhou Chitong,Tian Chou is friend of Zhou Chitong,Tian Chou is admired by Zhou Chitong,Zhou Chitong is murderer of Tian Chou,,d
+c,a,【Zhou Chitong】和【Yu Sunian】的关系是什么？,Yu Sunian is relative and friend of Zhou Chitong,Zhou Chitong is deceiver and murderer of Yu Sunian,Zhou Chitong is murderer and guard of Yu Sunian,Zhou Chitong is guard and bully of Yu Sunian,,a
+c,a,Taitai(Wang Xi Rong)和【Bao Liu】的关系是什么？,Bao Liu is helped by x and servant of Taitai,Taitai is x's enemy's family and perpetrator of Bao Liu,Taitai is perpetrator and bully of Bao Liu,Taitai is bully and deceived by x of Bao Liu,,a
+c,a,Taitai(Wang Xi Rong)和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister and co-wives of Taitai,Taitai is jealous and attempted murderer of Wang Xi Yan,Taitai is attempted murderer and hated by x of Wang Xi Yan,Taitai is hated by x and victim of Wang Xi Yan,,a
+c,a,Taitai(Wang Xi Rong)和【Wang Shunming】的关系是什么？,Wang Shunming is father of Taitai,Taitai is host of Wang Shunming,Taitai is boyfriend of Wang Shunming,Taitai is lawyer of Wang Shunming,,a
+c,a,【Cui Shouheng】和【Zhou Mengdang】不存在的关系是什么？,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is future father in law of Zhou Mengdang,,d
+c,a,【Cui Shouheng】和【Zhou Chitong】不存在的关系是什么？,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is adoptive daughter of Zhou Chitong,,d
+c,a,【Cui Shouheng】和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is perpetrator and hated by x of Wang Xi Yan,Cui Shouheng is hated by x and lawyer of Wang Xi Yan,Cui Shouheng is lawyer and servant of Wang Xi Yan,,a

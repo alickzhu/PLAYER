@@ -1,0 +1,204 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Li Yu?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Li Yu die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing Li Yu?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Li Yu. Who is that?",Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Li Yu killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Li Yu killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Li Yu,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim [Zhao Wanlei]. Who is it?,Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,How did the woman Zhao Luoyi fall into the hands of the Black Wolf Society?,The members of the Black Wolf Society kidnapped Zhao Luoyi as a threat to Zhao Wanlei,Zhao Luoyi was arrested by the police for promoting gender equality,Zhao Luoyi was mistakenly arrested by the police for accidentally entering a murderer's villa while promoting gender equality,Zhao Luoyi is a member of the Black Wolf Society,,c
+b,a,What is the truth about kidnapping Zhao Luoyi?,"Zhao Luoyi was not kidnapped, she took her subordinates on a trip by herself","""Zhao Luoyi was not kidnapped, it was Feng Shuangji who sent someone to pick him up and take him home.""",Zhao Luoyi pretended to be kidnapped in order to break free from Zhao Wanlei's control,Zhao Luoyi was kidnapped by members of the Black Wolf Society as a threat to Zhao Wanlei,,b
+b,a,Who is the biological father of the woman Zhao Luoyi?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,"What is your relationship with Feng Shuangji, Yin Shaoming?",Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking 【 Zhao Wanlei 】,【 Zhao Wanlei 】 Unilateral liking 【 Zhao Qiu 】,Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,Have you ever seen Guo Wangshan?,I haven't seen it before,"Yes, I have seen him. He is my grandfather's disciple and works for the Liao family business",I have seen it. It was one of the people who kidnapped Zhao Luoyi,"Yes, it's from Danshui Villa",,b
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the non-existent relationship between Feng Shuangji and Zhao Wanlei?,Feng Shuangji is victim of Zhao Wanlei,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is employer of Zhao Wanlei,Feng Shuangji is grandmother of Zhao Wanlei,,d
+c,a,What is the relationship between Feng Shuangji and Ren Shifu?,Feng Shuangji is mentor and adoptive father of Ren Shifu,Feng Shuangji is adversary and subject of investigation for x of Ren Shifu,Feng Shuangji is subject of investigation for x and servant of Ren Shifu,Feng Shuangji is servant and tour guide of Ren Shifu,,a
+c,a,What is the relationship between Feng Shuangji and Zhao Wei?,Feng Shuangji is helped by x and master of Zhao Wei,Feng Shuangji is hate and possibly family of Zhao Wei,Feng Shuangji is possibly family and boyfriend of Zhao Wei,Feng Shuangji is boyfriend and father of Zhao Wei,,a
+c,a,What is the relationship between the woman Zhao Luoyi and Feng Shuangji?,Zhao Luoyi is father of Feng Shuangji,Zhao Luoyi is in the lawsuit against Feng Shuangji,Zhao Luoyi is colleague of Feng Shuangji,Zhao Luoyi is host of Feng Shuangji,,a
+c,a,What is the relationship between the woman Zhao Luoyi and Li Yu?,Zhao Luoyi is mother of Li Yu,Zhao Luoyi is secret crush of Li Yu,Zhao Luoyi is suspicious of Li Yu,Zhao Luoyi is customer of Li Yu,,a
+c,a,What is the relationship between the woman Zhao Luoyi and Zhao Wanlei?,Zhao Luoyi is father of Zhao Wanlei,Zhao Luoyi is jealous of Zhao Wanlei,Zhao Luoyi is ex-husband of Zhao Wanlei,Zhao Luoyi is fiancee of Zhao Wanlei,,a
+a,a,Who killed Miss Li (Madam)?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Miss Li (Madam) die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What was the motive behind the killer killing Miss Li (Mrs. Li Yu)?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Miss Li [Li Yu] (wife). Who is she?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Miss Li (Mrs.) killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the county town's own silk shop,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Miss Li killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Miss Li (Mrs. Li Yu),Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed your wife?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did your wife die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing your wife?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,Who is the perpetrator of the victim (your wife)?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was your wife killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the county town's own silk shop,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was your wife killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing your wife,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,My own nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,How did Miss Zhao Luoyi fall into the hands of the Black Wolf Society?,The members of the Black Wolf Society kidnapped Zhao Luoyi as a threat to Zhao Wanlei,Zhao Luoyi was arrested by the police for promoting gender equality,Zhao Luoyi was mistakenly arrested by the police for accidentally entering a murderer's villa while promoting gender equality,Zhao Luoyi is a member of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking 【 Zhao Wanlei 】,【 Zhao Wanlei 】 Unilateral liking 【 Zhao Qiu 】,Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the relationship between Yin Shaoming and Miss Zhao Luoyi?,Yin Shaoming is seeker of help from x and secret admirer of Zhao Luoyi,Yin Shaoming is seller and rival of Zhao Luoyi,Yin Shaoming is rival and creditor of Zhao Luoyi,Yin Shaoming is creditor and lawyer of Zhao Luoyi,,a
+c,a,What is the relationship between Yin Shaoming and Yu Beichen?,Yin Shaoming is father of Yu Beichen,Yin Shaoming is seeker of help from Yu Beichen,Yin Shaoming is helped by Yu Beichen,Yin Shaoming is messenger of Yu Beichen,,a
+c,a,What is the relationship between Yin Shaoming and Ren?,Yin Shaoming is mother of Ren,Yin Shaoming is acquaintance of Ren,Yin Shaoming is friend of Ren,Yin Shaoming is debtor of Ren,,a
+c,a,What is the non-existent relationship between Zhao Wanlei and Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is suspected by Feng Shuangji,,d
+c,a,What is the relationship between Zhao Wanlei and Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is jealous and manipulated by x of Qi Yue,Zhao Wanlei is manipulated by x and rebellion against x of Qi Yue,Zhao Wanlei is rebellion against x and son of Qi Yue,,a
+c,a,What is the relationship between Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is murderer and ex wife of Zhao An,Zhao Wanlei is ex-wife and step-daughter of Zhao An,Zhao Wanlei is step-daughter and rebellion against x of Zhao An,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Feng Shuangji?,Zhao Luoyi is father of Feng Shuangji,Zhao Luoyi is attempted perpetrator of Feng Shuangji,Zhao Luoyi is co-wives of Feng Shuangji,Zhao Luoyi is servant of Feng Shuangji,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Miss Li Li Yu (Madam)?,Zhao Luoyi is mother of Li Yu,Zhao Luoyi is tour guide of Li Yu,Zhao Luoyi is ex-boyfriend of Li Yu,Zhao Luoyi is saviour of Li Yu,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Zhao Wanlei?,Zhao Luoyi is father of Zhao Wanlei,Zhao Luoyi is hated by Zhao Wanlei,Zhao Luoyi is perpetrator of Zhao Wanlei,Zhao Luoyi is co-wives of Zhao Wanlei,,a
+b,a,Why does Guo Wangshan hire herself?,Having a personal grudge against the Zhao family,Hired by others to bomb shops,I want to find someone to test the power of the bomb,Forced by others,,b
+a,a,Who killed Mr. Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Mr. Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Mr. Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Mr. Zhao Wanlei. Who is that?",Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Mr. Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In their own shops in the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Mr. Zhao Wanlei,No killer (this is an accident),Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,How did Miss Zhao Luoyi fall into the hands of the Black Wolf Society?,The members of the Black Wolf Society kidnapped Zhao Luoyi as a threat to Zhao Wanlei,Zhao Luoyi was arrested by the police for promoting gender equality,Zhao Luoyi was mistakenly arrested by the police for accidentally entering a murderer's villa while promoting gender equality,Zhao Luoyi is a member of the Black Wolf Society,,c
+b,a,What is the truth about kidnapping Zhao Luoyi?,"Zhao Luoyi was not kidnapped, she took her subordinates on a trip by herself","""Zhao Luoyi was not kidnapped, it was Feng Shuangji who sent someone to pick him up and take him home.""",Zhao Luoyi pretended to be kidnapped in order to break free from Zhao Wanlei's control,Zhao Luoyi was kidnapped by members of the Black Wolf Society as a threat to Zhao Wanlei,,b
+b,a,Who is Zhao Wei's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Miss Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao,,c
+b,a,"What is Yin Shaoming, a young person?",People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between the young man Yin Shaoming and the butler Feng Shuangji?,Yin Shaoming is Feng Shuangji's cousin's nephew,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and the master Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking of the master 【 Zhao Wanlei 】,Grandpa [Zhao Wanlei] unilaterally likes [Zhao Qiu],Grandpa [Zhao Wanlei] is just joking about marrying [Zhao Qiu],Grandpa Zhao Wanlei and Zhao Qiu are in love with each other,,d
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the relationship between the young man Yin Shaoming and the young lady Zhao Luoyi?,Yin Shaoming is seeker of help from x and secret admirer of Zhao Luoyi,Yin Shaoming is step-sister and perpetrator of Zhao Luoyi,Yin Shaoming is perpetrator and father in law of Zhao Luoyi,Yin Shaoming is father in law and employer of Zhao Luoyi,,a
+c,a,What is the relationship between young people Yin Shaoming and Yu Beichen?,Yin Shaoming is father of Yu Beichen,Yin Shaoming is tenant of Yu Beichen,Yin Shaoming is extramarital affair with Yu Beichen,Yin Shaoming is crime partner of Yu Beichen,,a
+c,a,What is the relationship between young people Yin Shaoming and Ren?,Yin Shaoming is mother of Ren,Yin Shaoming is tenant of Ren,Yin Shaoming is guard of Ren,Yin Shaoming is fiance of Ren,,a
+c,a,What is the non-existent relationship between Master Zhao Wanlei and Butler Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is suspected by Feng Shuangji,,d
+c,a,What is the relationship between Master Zhao Wanlei and Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is enemy and fondness of Qi Yue,Zhao Wanlei is fondness and dislike of Qi Yue,Zhao Wanlei is dislike and future daughter in law of Qi Yue,,a
+c,a,What is the relationship between Master Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is the author and advocate of Zhao An,Zhao Wanlei is advisory and recorder of Zhao An,Zhao Wanlei is murderer and ex husband of Zhao An,,a
+c,a,What is the non-existent relationship between Zhao Qiu and Miss Zhao Luoyi?,Zhao Qiuer is master of Zhao Luoyi,Zhao Qiuer is friend of Zhao Luoyi,Zhao Qiuer is jealous by Zhao Luoyi,Zhao Qiuer is brother in law of Zhao Luoyi,,d
+c,a,What is the relationship between Zhao Qiu and Qi Yue?,Zhao Qiuer is colleague and possibly family of Qi Yue,Zhao Qiuer is boyfriend and girlfriend of Qi Yue,Zhao Qiuer is girlfriend and suspicious of Qi Yue,Zhao Qiuer is suspicious and schoolmate of Qi Yue,,a
+c,a,What is the relationship between Zhao Qiu and his master Zhao Wanlei?,Zhao Qiuer is employer of Zhao Wanlei,Zhao Qiuer is student of Zhao Wanlei,Zhao Qiuer is girlfriend of Zhao Wanlei,Zhao Qiuer is attempted murderer of Zhao Wanlei,,a
+c,a,What is the relationship between Shuang Mian Hu and Guo Wangshan and Xiao Hunhun or Little Rascal?,Guo Wangshan is manipulated by x and employee of Xiao Hunhun or Little Rascal,Guo Wangshan is host and sister of Xiao Hunhun or Little Rascal,Guo Wangshan is sister and adoptive daughter of Xiao Hunhun or Little Rascal,Guo Wangshan is adoptive daughter and ex-boyfriend of Xiao Hunhun or Little Rascal,,a
+c,a,What is the relationship between Shuang Mian Hu Guo Wangshan and Grandpa Zhao Wanlei?,Guo Wangshan is x's victim's family and business partner of Zhao Wanlei,Guo Wangshan is child and brother in law of Zhao Wanlei,Guo Wangshan is brother in law and secret admirer of Zhao Wanlei,Guo Wangshan is secret admirer and elder brother of Zhao Wanlei,,a
+c,a,What is the relationship between Shuang Mian Hu Guo Wangshan and Huazi Li or Skunk?,Guo Wangshan is informant and acquaintance of Huazi Li or Skunk,Guo Wangshan is step-brother and adoptive sister of Huazi Li or Skunk,Guo Wangshan is adoptive sister and brother in law of Huazi Li or Skunk,Guo Wangshan is brother in law and adoptive daughter of Huazi Li or Skunk,,a
+a,a,Who killed Mr. Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Mr. Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Mr. Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Mr. Zhao Wanlei. Who is that?",Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Mr. Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Mr. Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,Who is Zhao Wei's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,"What is Yin Shaoming, a young person?",People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between the young man Yin Shaoming and the general manager Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,"What is the actual relationship between Zhao Qiu and Qi Yue, the head nurse of the nursing home?",Siblings,Enemies,Apprentice,friend,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking for Mr. Zhao 【 Zhao Wanlei 】,Zhao Wanlei unilaterally likes Zhao Qiu,Mr. Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu are in love with each other,,d
+c,a,What is the relationship between young people Yin Shaoming and Zhao Luoyi?,Yin Shaoming is seeker of help from x and secret admirer of Zhao Luoyi,Yin Shaoming is master and twin brother of Zhao Luoyi,Yin Shaoming is twin brother and in the lawsuit against x of Zhao Luoyi,Yin Shaoming is in the lawsuit against x and suspicious of Zhao Luoyi,,a
+c,a,What is the relationship between young people Yin Shaoming and Yu Beichen?,Yin Shaoming is father of Yu Beichen,Yin Shaoming is suspect of Yu Beichen,Yin Shaoming is tour guide of Yu Beichen,Yin Shaoming is ex-romantic relationships with Yu Beichen,,a
+c,a,What is the relationship between young people Yin Shaoming and Ren?,Yin Shaoming is mother of Ren,Yin Shaoming is teacher of Ren,Yin Shaoming is secret crush of Ren,Yin Shaoming is quest companion of Ren,,a
+c,a,What is the non-existent relationship between Mr. Zhao Wanlei and General Manager Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is younger brother of Feng Shuangji,,d
+c,a,What is the relationship between Mr. Zhao Wanlei and the Chief Guardian Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is student and killed by x of Qi Yue,Zhao Wanlei is killed by x and jealous by x of Qi Yue,Zhao Wanlei is jealous by x and mother of Qi Yue,,a
+c,a,What is the relationship between Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is son and love of Zhao An,Zhao Wanlei is love and grandson of Zhao An,Zhao Wanlei is grandson and spy of Zhao An,,a
+c,a,"What is the non-existent relationship between Qi Yue, the head nurse, and Shuang Mian Hu?",Qi Yue is manipulator of Shuang Mian Hu,Qi Yue is adversary of Shuang Mian Hu,Qi Yue is employer of Shuang Mian Hu,Qi Yue is ex-boyfriend of Shuang Mian Hu,,d
+c,a,"What is the non-existent relationship between Qi Yue, the general manager of the nursing home, and Zhao Wanlei?",Qi Yue is employer of Zhao Wanlei,Qi Yue is master of Zhao Wanlei,Qi Yue is Zhao Wanlei's victim's family,Qi Yue is cousin of Zhao Wanlei,,d
+c,a,"What is the relationship between Qi Yue, the head nurse, and Feng Shuangji, the head nurse?",Qi Yue is colleague and x's victim's family of Feng Shuangji,Qi Yue is student and cousin of Feng Shuangji,Qi Yue is cousin and ex-girlfriend of Feng Shuangji,Qi Yue is ex-girlfriend and niece of Feng Shuangji,,a
+a,a,Who killed Yu Fei [Li Yu]?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Yu Fei [Li Yu] die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing Yu Fei [Li Yu]?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Yu Fei [Li Yu]. Who is that?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Yu Fei [Li Yu] killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Yu Fei [Li Yu] killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Yu Fei [Li Yu],Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim [Zhao Wanlei]. Who is it?,Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,"Who is Zhao Wei, your biological father?",Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,Did you come here for your royal identity?,Guo Wangshan,Yin Shaoming,"No, no one has yet discovered your identity as a prince","""No, because you have never been a prince, this is just a lie created to comfort your childhood trauma.""",,d
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and the butler Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking 【 Zhao Wanlei 】,【 Zhao Wanlei 】 Unilateral liking 【 Zhao Qiu 】,Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the non-existent relationship between the butler Feng Shuangji and Zhao Wanlei?,Feng Shuangji is victim of Zhao Wanlei,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is employer of Zhao Wanlei,Feng Shuangji is mother of Zhao Wanlei,,d
+c,a,What is the relationship between the butler Feng Shuangji and Ren Shifu?,Feng Shuangji is mentor and adoptive father of Ren Shifu,Feng Shuangji is ex-girlfriend and liked by x of Ren Shifu,Feng Shuangji is liked by x and ex-wife of Ren Shifu,Feng Shuangji is ex-wife and patient of Ren Shifu,,a
+c,a,What is the relationship between the butler Feng Shuangji and Zhao Wei?,Feng Shuangji is helped by x and master of Zhao Wei,Feng Shuangji is step-sister and son in law of Zhao Wei,Feng Shuangji is son in law and perpetrator of Zhao Wei,Feng Shuangji is perpetrator and adoptive daughter of Zhao Wei,,a
+c,a,What is the relationship between Yu Fei and the butler Feng Shuangji?,Li Yu is extramarital affair with Feng Shuangji,Li Yu is elder sister of Feng Shuangji,Li Yu is biological daughter of Feng Shuangji,Li Yu is adoptive son of Feng Shuangji,,a
+c,a,What is the relationship between Yu Fei and Zhao Wanlei?,Li Yu is husband of Zhao Wanlei,Li Yu is unsuccessful helper of Zhao Wanlei,Li Yu is rival of Zhao Wanlei,Li Yu is tenant of Zhao Wanlei,,a
+c,a,What is the relationship between Yu Fei and Zhao Luoyi?,Li Yu is daughter of Zhao Luoyi,Li Yu is boyfriend of Zhao Luoyi,Li Yu is subordinate of Zhao Luoyi,Li Yu is girlfriend of Zhao Luoyi,,a
+c,a,What is the non-existent relationship between Zhao Wanlei and the butler Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is future daughter in law of Feng Shuangji,,d
+c,a,What is the relationship between Zhao Wanlei and Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is x's victim's family and enemy of Qi Yue,Zhao Wanlei is enemy and spy of Qi Yue,Zhao Wanlei is spy and murderer of Qi Yue,,a
+c,a,What is the relationship between Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is step daughter and dismissed by x of Zhao An,Zhao Wanlei is disliked by x and younger brother of Zhao An,Zhao Wanlei is younger brother and prospect of Zhao An,,a
+a,a,"Who killed Li Yu, the Li family of Zhaomen?",Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,"How did Li Yu, the Li family of Zhao, die?",Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,"What is the motive behind the killer killing Li Yu, a member of the Zhao family?",Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Zhao Men, Li Yu. Who is this?",Enemies,Apprentice,friend,stranger,,d
+b,a,"Where was Li Yu, the Li family of Zhaomen, killed?",In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,"When was Li Yu, the Li family of Zhaomen, killed?",In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing the Li Yu of Zhao Men,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed my father Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,"How did Zhao Wanlei, the father, die?",Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing his father Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim's father, Zhao Wanlei. Who is this?",Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was the father Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,"Please select the two people you most suspect of killing your father, Zhao Wanlei",Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,Who is Zhao Wei's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,"Who is Zhao Luoyi, your biological father?",Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and the butler Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and his father Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking of father 【 Zhao Wanlei 】,Father [Zhao Wanlei] unilaterally likes [Zhao Qiu],Father [Zhao Wanlei] was just joking about marrying [Zhao Qiu],Father Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+b,a,Who is the person from Liao's firm?,Qi Yue,Feng Shuangji,Guo Wangshan,Zhao Qiuer,,c
+c,a,What is the relationship between Yin Shaoming and Zhao Luoyi?,Yin Shaoming is seeker of help from x and secret admirer of Zhao Luoyi,Yin Shaoming is adversary and step-mother of Zhao Luoyi,Yin Shaoming is step-mother and deceived by x of Zhao Luoyi,Yin Shaoming is deceived by x and master of Zhao Luoyi,,a
+c,a,What is the relationship between Yin Shaoming and Yu Beichen?,Yin Shaoming is father of Yu Beichen,Yin Shaoming is bully of Yu Beichen,Yin Shaoming is suspicious of Yu Beichen,Yin Shaoming is murderer of Yu Beichen,,a
+c,a,What is the relationship between Yin Shaoming and Ren?,Yin Shaoming is mother of Ren,Yin Shaoming is superior of Ren,Yin Shaoming is ex-boyfriend of Ren,Yin Shaoming is co-wives of Ren,,a
+c,a,What is the non-existent relationship between Liao Laoban and Ren Shifu?,Liao Laoban is master of Ren Shifu,Liao Laoban is employee of Ren Shifu,Liao Laoban is servant of Ren Shifu,Liao Laoban is grandmother of Ren Shifu,,d
+c,a,What is the relationship between Liao Laoban and Guo Wangshan?,Liao Laoban is employee of Guo Wangshan,Liao Laoban is grandmother of Guo Wangshan,Liao Laoban is uncle of Guo Wangshan,Liao Laoban is cousin of Guo Wangshan,,a
+c,a,What is the relationship between Liao Laoban and his father Zhao Wanlei?,Liao Laoban is rival of Zhao Wanlei,Liao Laoban is father in law of Zhao Wanlei,Liao Laoban is step-mother of Zhao Wanlei,Liao Laoban is messenger of Zhao Wanlei,,a
+c,a,What is the non-existent relationship between father Zhao Wanlei and butler Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is bully of Feng Shuangji,,d
+c,a,What is the relationship between father Zhao Wanlei and Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is son in law and rival of Qi Yue,Zhao Wanlei is rival and perpetrator of Qi Yue,Zhao Wanlei is perpetrator and secret admirer of Qi Yue,,a
+c,a,What is the relationship between father Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is wife and information receiver from x of Zhao An,Zhao Wanlei is information receiver from x and biological father of Zhao An,Zhao Wanlei is biological father and relative of Zhao An,,a
+c,a,What is the non-existent relationship between Zhao Qiu and Zhao Luoyi?,Zhao Qiuer is master of Zhao Luoyi,Zhao Qiuer is friend of Zhao Luoyi,Zhao Qiuer is jealous by Zhao Luoyi,Zhao Qiuer is adoptive father of Zhao Luoyi,,d
+c,a,What is the relationship between Zhao Qiu and Qi Yue?,Zhao Qiuer is colleague and possibly family of Qi Yue,Zhao Qiuer is dislike and rival of Qi Yue,Zhao Qiuer is rival and admired by x of Qi Yue,Zhao Qiuer is admired by x and girlfriend of Qi Yue,,a
+c,a,What is the relationship between Zhao Qiu and his father Zhao Wanlei?,Zhao Qiuer is employer of Zhao Wanlei,Zhao Qiuer is nephew of Zhao Wanlei,Zhao Qiuer is rival in love of Zhao Wanlei,Zhao Qiuer is twin brother of Zhao Wanlei,,a
+a,a,Who killed Li Yu?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Li Yu die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing Li Yu?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Li Yu. Who is that?",Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Li Yu killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Li Yu killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Li Yu,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed Mr. Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Mr. Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Mr. Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Mr. Zhao Wanlei. Who is that?",Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Mr. Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Mr. Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,Who is the biological father of the young master Zhao Wei?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Miss Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,My own nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and the butler Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,friend,,a
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the non-existent relationship between Master Zhao Wanlei and Butler Feng Shuangji?,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is servant of Feng Shuangji,Zhao Wanlei is employee of Feng Shuangji,Zhao Wanlei is admired by Feng Shuangji,,d
+c,a,What is the relationship between Master Zhao Wanlei and Qi Yue?,Zhao Wanlei is employee and servant of Qi Yue,Zhao Wanlei is rival and son in law of Qi Yue,Zhao Wanlei is son in law and co-wives of Qi Yue,Zhao Wanlei is co-wives and boyfriend of Qi Yue,,a
+c,a,What is the relationship between Master Zhao Wanlei and Zhao An?,Zhao Wanlei is an employee and servant of Zhao An,Zhao Wanlei is the subject of investment for x and fiance of Zhao An,Zhao Wanlei is fiance and friendship of Zhao An,Zhao Wanlei is fond and next of Zhao An,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Butler Feng Shuangji?,Zhao Luoyi is father of Feng Shuangji,Zhao Luoyi is debtor of Feng Shuangji,Zhao Luoyi is superior of Feng Shuangji,Zhao Luoyi is wife of Feng Shuangji,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Li Yu?,Zhao Luoyi is mother of Li Yu,Zhao Luoyi is jealous of Li Yu,Zhao Luoyi is seeker of help from Li Yu,Zhao Luoyi is dislike of Li Yu,,a
+c,a,What is the relationship between Miss Zhao Luoyi and Grandpa Zhao Wanlei?,Zhao Luoyi is father of Zhao Wanlei,Zhao Luoyi is rival of Zhao Wanlei,Zhao Luoyi is co-wives of Zhao Wanlei,Zhao Luoyi is host of Zhao Wanlei,,a

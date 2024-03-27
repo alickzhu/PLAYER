@@ -1,0 +1,39 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Zhou Mengdang】被谁杀死的？,Zhou Chitong,Xi Yan,Yu Sunian,Tian Chou,,d
+b,a,【Zhou Mengdang】是怎么死的？,被弩枪射死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Zhou Mengdang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Zhou Mengdang】什么人？,仇人,同事,朋友,上级,,a
+b,a,【Zhou Mengdang】是在哪里被杀死的？,船上,南院,山上,河边,,a
+b,b,请选出你最怀疑杀死【Zhou Mengdang】的两个人,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Zhou Lianyi,c
+a,a,Bao Liu(Yu Shi)被谁杀死的？,Yu Sunian,Xi Yan,Xi Yan,Tian Chou,,d
+b,a,Bao Liu(Yu Shi)是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀Bao Liu(Yu Shi)的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人Bao Liu(Yu Shi)什么人？,仇人,母亲,律师,医生,,a
+b,a,Bao Liu(Yu Shi)是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死Bao Liu(Yu Shi)的两个人,Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Zhou Lianyi,a
+a,a,父亲【Cui Shouheng】被谁杀死的？,Zhou Chitong,Yu Sunian,Xi Yan,Tian Chou,,b
+b,a,父亲【Cui Shouheng】是怎么死的？,被弩枪射死的,被毒药毒死的,用机关杀死的,被水淹死的,,c
+b,a,凶手杀父亲【Cui Shouheng】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人父亲【Cui Shouheng】什么人？,仇人,同事,朋友,上级,,a
+b,a,父亲【Cui Shouheng】是在哪里被杀死的？,家主房,南院,船上,河边,,a
+b,b,请选出你最怀疑杀死父亲【Cui Shouheng】的两个人,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Zhou Lianyi,d
+a,a,Mother Wang Xi Rong被谁杀死的？,Yu Sunian,Xi Yan,Zhou Chitong,Tian Chou,,a
+b,a,Mother Wang Xi Rong是怎么死的？,被毒药毒死的,被拳头打死的,用石头砸死的,被水淹死的,,a
+b,a,凶手杀Mother Wang Xi Rong的动机是什么？,情杀,仇杀,利益,误杀,,d
+b,a,凶手是被害人Mother Wang Xi Rong什么人？,下属,母亲,律师,医生,,a
+b,a,Mother Wang Xi Rong是在哪里被杀死的？,屋子里,山上,船上,河边,,a
+b,b,请选出你最怀疑杀死Mother Wang Xi Rong的两个人,Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Zhou Lianyi,c
+b,a,【Yu Sunian】和【Zhou Lianyi】真实关系是什么？,师生关系,恋人关系,没有关系,兄妹关系,,b
+b,a,【Zhou Chitong】和【Tian Chou】真实关系是什么？,没有关系,恋人关系,Tian Chou在利用Zhou Chitong,兄妹关系,,c
+c,a,Bao Liu(Yu Shi)和【Tian Chou】不存在的关系是什么？,Tian Chou is friend of Yu Shi,Tian Chou is helped by Yu Shi,Tian Chou is betrayed by Yu Shi,Yu Shi is creditor of Tian Chou,,d
+c,a,Bao Liu(Yu Shi)和【Wang Xi Rong】的关系是什么？,Wang Xi Rong is master and helper of Yu Shi,Yu Shi is grandparent and father in law of Wang Xi Rong,Yu Shi is father in law and admired by x of Wang Xi Rong,Yu Shi is admired by x and concubine of Wang Xi Rong,,a
+c,a,Bao Liu(Yu Shi)和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is master and bully of Yu Shi,Yu Shi is ex-husband and daughter in law of Wang Xi Yan,Yu Shi is daughter in law and host of Wang Xi Yan,Yu Shi is host and co-wives of Wang Xi Yan,,a
+c,a,【Zhou Mengdang】和【Cui Shouheng】不存在的关系是什么？,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is romantic relationships with Cui Shouheng,,d
+c,a,【Zhou Mengdang】和【Wang Xi Yan】不存在的关系是什么？,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is rebellion against Wang Xi Yan,,d
+c,a,【Zhou Mengdang】和【Bao Liu】的关系是什么？,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is servant of Bao Liu,Zhou Mengdang is subordinate of Bao Liu,Zhou Mengdang is child of Bao Liu,,a
+c,a,Mother Wang Xi Rong和【Bao Liu】的关系是什么？,Bao Liu is helped by x and servant of Mother Wang Xi Rong,Mother Wang Xi Rong is hate and hated by x of Bao Liu,Mother Wang Xi Rong is hated by x and ex-romantic relationships with x of Bao Liu,Mother Wang Xi Rong is ex-romantic relationships with x and step-sister of Bao Liu,,a
+c,a,Mother Wang Xi Rong和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister and co-wives of Mother Wang Xi Rong,Mother Wang Xi Rong is neighbour and perpetrator of Wang Xi Yan,Mother Wang Xi Rong is perpetrator and unsuccessful helper of Wang Xi Yan,Mother Wang Xi Rong is unsuccessful helper and saviour of Wang Xi Yan,,a
+c,a,Mother Wang Xi Rong和【Wang Shunming】的关系是什么？,Wang Shunming is father of Mother Wang Xi Rong,Mother Wang Xi Rong is fondness of Wang Shunming,Mother Wang Xi Rong is ex-romantic relationships with Wang Shunming,Mother Wang Xi Rong is hated by Wang Shunming,,a
+c,a,【Cui Shouheng】和【Zhou Mengdang】不存在的关系是什么？,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is suspicious of Zhou Mengdang,,d
+c,a,【Cui Shouheng】和【Zhou Chitong】不存在的关系是什么？,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is mother in law of Zhou Chitong,,d
+c,a,【Cui Shouheng】和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is authority over x and suspect to x of Wang Xi Yan,Cui Shouheng is suspect to x and customer of Wang Xi Yan,Cui Shouheng is customer and tenant of Wang Xi Yan,,a

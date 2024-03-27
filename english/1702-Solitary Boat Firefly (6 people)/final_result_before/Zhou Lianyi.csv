@@ -1,0 +1,39 @@
+value,type,question,a,b,c,d,e,truth
+a,a,父亲【Zhou Mengdang】被谁杀死的？,Zhou Chitong,Xi Yan,Yu Sunian,Tian Chou,,d
+b,a,父亲【Zhou Mengdang】是怎么死的？,被弩枪射死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀父亲【Zhou Mengdang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人父亲【Zhou Mengdang】什么人？,仇人,同事,朋友,上级,,a
+b,a,父亲【Zhou Mengdang】是在哪里被杀死的？,船上,南院,山上,河边,,a
+b,b,请选出你最怀疑杀死父亲【Zhou Mengdang】的两个人,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Yannan,c
+a,a,母亲【Yu Shi】被谁杀死的？,Yu Sunian,Xi Yan,Xi Yan,Tian Chou,,d
+b,a,母亲【Yu Shi】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀母亲【Yu Shi】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人母亲【Yu Shi】什么人？,仇人,母亲,律师,医生,,a
+b,a,母亲【Yu Shi】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死母亲【Yu Shi】的两个人,Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Yannan,a
+a,a,【Cui Shouheng】被谁杀死的？,Zhou Chitong,Yu Sunian,Xi Yan,Tian Chou,,b
+b,a,【Cui Shouheng】是怎么死的？,被弩枪射死的,被毒药毒死的,用机关杀死的,被水淹死的,,c
+b,a,凶手杀【Cui Shouheng】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Cui Shouheng】什么人？,仇人,同事,朋友,上级,,a
+b,a,【Cui Shouheng】是在哪里被杀死的？,家主房,南院,船上,河边,,a
+b,b,请选出你最怀疑杀死【Cui Shouheng】的两个人,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Yannan,d
+a,a,Taitai(Wang Xi Rong)被谁杀死的？,Yu Sunian,Xi Yan,Zhou Chitong,Tian Chou,,a
+b,a,Taitai(Wang Xi Rong)是怎么死的？,被毒药毒死的,被拳头打死的,用石头砸死的,被水淹死的,,a
+b,a,凶手杀Taitai(Wang Xi Rong)的动机是什么？,情杀,仇杀,利益,误杀,,d
+b,a,凶手是被害人Taitai(Wang Xi Rong)什么人？,下属,母亲,律师,医生,,a
+b,a,Taitai(Wang Xi Rong)是在哪里被杀死的？,屋子里,山上,船上,河边,,a
+b,b,请选出你最怀疑杀死Taitai(Wang Xi Rong)的两个人,Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Yannan,c
+b,a,【Yu Sunian】和【Yannan】真实关系是什么？,师生关系,恋人关系,没有关系,兄妹关系,,b
+b,a,【Zhou Chitong】和【Tian Chou】真实关系是什么？,没有关系,恋人关系,Tian Chou在利用Zhou Chitong,兄妹关系,,c
+c,a,母亲【Yu Shi】和【Tian Chou】不存在的关系是什么？,Tian Chou is friend of Yu Shi,Tian Chou is helped by Yu Shi,Tian Chou is betrayed by Yu Shi,Yu Shi is mother of Tian Chou,,d
+c,a,母亲【Yu Shi】和【Wang Xi Rong】的关系是什么？,Wang Xi Rong is master and helper of Yu Shi,Yu Shi is jealous by x and adoptive father of Wang Xi Rong,Yu Shi is adoptive father and future son in law of Wang Xi Rong,Yu Shi is future son in law and adversary of Wang Xi Rong,,a
+c,a,母亲【Yu Shi】和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is master and bully of Yu Shi,Yu Shi is schoolmate and grandchild of Wang Xi Yan,Yu Shi is grandchild and father in law of Wang Xi Yan,Yu Shi is father in law and future mother in law of Wang Xi Yan,,a
+c,a,父亲【Zhou Mengdang】和【Cui Shouheng】不存在的关系是什么？,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is step-mother of Cui Shouheng,,d
+c,a,父亲【Zhou Mengdang】和【Wang Xi Yan】不存在的关系是什么？,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is younger sister of Wang Xi Yan,,d
+c,a,父亲【Zhou Mengdang】和【Bao Liu】的关系是什么？,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is future son in law of Bao Liu,Zhou Mengdang is perpetrator of Bao Liu's family,Zhou Mengdang is betrayed by Bao Liu,,a
+c,a,Taitai(Wang Xi Rong)和【Bao Liu】的关系是什么？,Bao Liu is helped by x and servant of Taitai,Taitai is suspect to x and fiancee of Bao Liu,Taitai is fiancee and grandson of Bao Liu,Taitai is grandson and grandparent of Bao Liu,,a
+c,a,Taitai(Wang Xi Rong)和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister and co-wives of Taitai,Taitai is bully and creditor of Wang Xi Yan,Taitai is creditor and rebellion against x of Wang Xi Yan,Taitai is rebellion against x and schoolmate of Wang Xi Yan,,a
+c,a,Taitai(Wang Xi Rong)和【Wang Shunming】的关系是什么？,Wang Shunming is father of Taitai,Taitai is romantic relationships with Wang Shunming,Taitai is ex-husband of Wang Shunming,Taitai is deceived by Wang Shunming,,a
+c,a,【Cui Shouheng】和【Zhou Mengdang】不存在的关系是什么？,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is son in law of Zhou Mengdang,,d
+c,a,【Cui Shouheng】和【Zhou Chitong】不存在的关系是什么？,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is grandson of Zhou Chitong,,d
+c,a,【Cui Shouheng】和【Wang Xi Yan】的关系是什么？,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is superior and master of Wang Xi Yan,Cui Shouheng is master and spy of Wang Xi Yan,Cui Shouheng is spy and perpetrator 's family of Wang Xi Yan,,a

@@ -1,0 +1,22 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Shen Cheng,Chen Jingwen,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Lin Yang,Shen Cheng,Chen Jingwen,Lin Xi,e
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is step-daughter of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is subordinate and tenant of Lin Yang,Lin Xi is tenant and concubine of Lin Yang,Lin Xi is concubine and ex-wife of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is nephew and relative of Chen Jingwen,Lin Xi is relative and future daughter in law of Chen Jingwen,Lin Xi is future daughter in law and son in law of Chen Jingwen,,a
+c,a,【Lin Tong】和【Shen Cheng】的关系是什么？,Shen Cheng is father of Lin Tong,Lin Tong is informant of Shen Cheng,Lin Tong is manipulator of Shen Cheng,Lin Tong is rival of Shen Cheng,,a
+c,a,【Lin Tong】和【Qin Siqi】的关系是什么？,Qin Siqi is mother of Lin Tong,Lin Tong is seller of Qin Siqi,Lin Tong is girlfriend of Qin Siqi,Lin Tong is co-wives of Qin Siqi,,a
+c,a,【Lin Tong】和【Su Yang】的关系是什么？,Su Yang is ex-boyfriend of Lin Tong,Lin Tong is subject of investigation for Su Yang,Lin Tong is brother of Su Yang,Lin Tong is minion of Su Yang,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is biological father of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is admirer of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is suspicious and rival of Lin Yang,Lin Weiren is rival and informant of Lin Yang,Lin Weiren is informant and murderer of Lin Yang,,a
+c,a,【Gu Yu】和【Lin Xi】不存在的关系是什么？,Lin Xi is ex-girlfriend of Gu Yu,Lin Xi is fondness of Gu Yu,Lin Xi is friend of Gu Yu,Gu Yu is step-mother of Lin Xi,,d
+c,a,【Gu Yu】和【Chen Jingwen】的关系是什么？,Chen Jingwen is romantic relationships with x and hate of Gu Yu,Gu Yu is mentor and landlord of Chen Jingwen,Gu Yu is landlord and neighbour of Chen Jingwen,Gu Yu is neighbour and informant of Chen Jingwen,,a
+c,a,【Gu Yu】和【Gu Minghe】的关系是什么？,Gu Minghe is father and superior of Gu Yu,Gu Yu is secret admirer and x's victim's family of Gu Minghe,Gu Yu is x's victim's family and betrayer of Gu Minghe,Gu Yu is betrayer and jealous by x of Gu Minghe,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is betrayer and in the lawsuit against x of Gu Yu,Gu Minghe is in the lawsuit against x and rival of Gu Yu,Gu Minghe is rival and host of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is step-mother of Shen Cheng,Gu Minghe is cousin of Shen Cheng,Gu Minghe is biological daughter of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is tenant of Gu Qing,Gu Minghe is bully of Gu Qing,Gu Minghe is debtor of Gu Qing,,a

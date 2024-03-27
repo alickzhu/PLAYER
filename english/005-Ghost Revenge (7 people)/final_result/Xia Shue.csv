@@ -1,0 +1,42 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Father Xia Bolong?,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,How did Father Xia Bolong die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,c
+b,a,"What is the motive behind the killer killing his father, Xia Bolong?",Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim's father, Xia Bolong. Who is this?",Enemies,brothers,friend,lover,,b
+b,a,Where was the father Xia Bolong killed?,"Tianji Co., Ltd",My own room,On the arena,Jiashantang Medical Hall,,b
+b,b,"Please select the two people you most suspect of killing your father, Xia Bolong",Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,Who killed Uncle Xia Sanhu?,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,b
+b,a,How did Uncle Xia Sanhu die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Strangled by a belt,,d
+b,a,What is the motive behind the killer killing Uncle Xia Sanhu?,Love killing,Vendetta,interest,To annihilate one's family with great righteousness,,d
+b,a,"The perpetrator is the victim's third uncle, Xia Sanhu. Who is that?",Enemies,Apprentice,friend,brothers,,d
+b,a,Where was Uncle Xia Sanhu killed?,"Tianji Co., Ltd",In my own room,On the arena,Jiashantang Medical Hall,,b
+b,a,When was Uncle Xia Sanhu killed?,Today (August 3rd) from 18:00 to 18:10,Today (August 3rd) from 20:00 to 20:10,July 30th 18:00-18:10,July 20th 20:00-20:10,,a
+b,b,Please select the two people you most suspect of killing Uncle Xia Sanhu,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,a
+a,a,Who killed Uncle Wu Baian?,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,b
+b,a,How did Uncle Wu Baian die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,b
+b,a,What is the motive behind the killer killing Uncle Wu Baian?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The murderer is the victim Wu Baian. Who is that?,Enemies,colleague,friend,wife,,a
+b,a,Where was Uncle Wu Baian killed?,Outside the warehouse,Franci Cake Shop,Quan Guan,Wu Baian's home,,a
+b,a,When was Uncle Wu Baian killed?,On the evening of July 28th,On the morning of July 29th,On the evening of July 29th,On the morning of July 30th,,c
+b,b,Please select the two people you most suspect of killing Uncle Wu Baian,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,"What was not done by my father, Xia Bolong?",Having an affair,I often go to Shuixuan Restaurant to get drunk,Yun Jian Defeats Several Western Martial Arts Masters Setting the Challenge,An illegitimate child who had an affair,,c
+b,a,Who is Duan Yuetong's biological father?,Father Xia Bolong,Xia Zhongpeng,Xia Sanhu,Li Zicai,,a
+b,a,"What conspiracy caused the ""Xia Family Boxing Gym"" to owe debts?",Uncle Xia Sanhu Gambling,Uncle Xia Sanhu was deceived by Yu Zu Chengmu and Aming who teamed up to buy fake goods,Father Xia Bolong's illegitimate son extorts Xia Family Boxing Club,"The Xia Family Boxing Hall was suppressed by Tianji Co., Ltd",,b
+b,a,What is Yu Zhu Chengmu?,"Li Zicai's younger brother from the ""Jiashantang"" medical clinic","Founder of Tianji Co., Ltd",Xia Sanhu's Japanese classmate,Father Xia Bolong's illegitimate child,,a
+b,a,What is the true identity of Aming [Luo Ming]?,Father Xia Bolong's illegitimate child,"Luo Ming, an orphan working at the dock","Li Zicai's son from the ""Jiashantang"" medical clinic",Eyeliner of [Yu Zu Chengmu],,c
+b,b,Who took the gold medal?,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,How did Uncle Xia Sanhu get addicted to gambling?,Being taken to gamble by Yu Zhu Chengmu,Lack of money flower,Gambling was very popular when studying in Japan,Social needs,,a
+b,a,What is the relationship between Aming and Yu Zu Chengmu?,uncles and nephews,stranger,Enemies,friend,,a
+b,a,What is Yue Dongwen hiding?,His company sells fake drugs,"Wu Baian has sold the ""insect killing spirit"" that can cause human death",He is a murderer,He is Duan Yuetong's biological father,,b
+c,a,What is the relationship between Wu Baian and Li Zicai?,Li Zicai is schoolmate and quest companion of Wu Baian,Wu Baian is employer and future daughter in law of Li Zicai,Wu Baian is future daughter in law and deceived by x of Li Zicai,Wu Baian is deceived by x and patient of Li Zicai,,a
+c,a,What is the relationship between Wu Baian and Xia Shue (you)?,Xia Shue is colleague and information receiver from x of Wu Baian,Wu Baian is grandmother and grandson of Xia Shue,Wu Baian is grandson and grandchild of Xia Shue,Wu Baian is grandchild and perpetrator of Xia Shue,,a
+c,a,What is the relationship between Wu Baian and Li Luoming?,Li Luoming is murderer of Wu Baian,Wu Baian is messenger of Li Luoming,Wu Baian is cousin of Li Luoming,Wu Baian is father in law of Li Luoming,,a
+c,a,What is the non-existent relationship between Uncle Xia Sanhu and Aming Luo Ming?,Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is twin sister of Luo Ming,,d
+c,a,What is the non-existent relationship between Uncle Xia Sanhu and Yu Zhu Chengmu?,Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is future father in law of Yu Zu Chengmu,,d
+c,a,What is the relationship between Uncle Xia Sanhu and Grandpa Xia Beigui?,Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is secret crush and lawyer of Xia Beigui,Xia Sanhu is lawyer and doctor of Xia Beigui,Xia Sanhu is doctor and colleague of Xia Beigui,,a
+c,a,What is the non-existent relationship between Second Uncle Xia Zhongpeng and Xia Shue?,Xia Shue is niece of Xia Zhongpeng,Xia Shue is student of Xia Zhongpeng,Xia Shue is helped by Xia Zhongpeng,Xia Zhongpeng is secret crush of Xia Shue,,d
+c,a,What is the non-existent relationship between Uncle Xia Zhongpeng and Father Xia Bolong?,Xia Bolong is brother of Xia Zhongpeng,Xia Bolong is superior of Xia Zhongpeng,Xia Bolong is victim of Xia Zhongpeng,Xia Zhongpeng is concubine of Xia Bolong,,d
+c,a,What is the non-existent relationship between Second Uncle Xia Zhongpeng and Third Uncle Xia Sanhu?,Xia Sanhu is brother of Xia Zhongpeng,Xia Sanhu is helped by Xia Zhongpeng,Xia Sanhu is killed by Xia Zhongpeng,Xia Zhongpeng is lawyer of Xia Sanhu,,d
+c,a,What is the non-existent relationship between father Xia Bolong and second uncle Xia Zhongpeng?,Xia Zhongpeng is brother of Xia Bolong,Xia Zhongpeng is subordinate of Xia Bolong,Xia Zhongpeng is murderer of Xia Bolong,Xia Bolong is ex-girlfriend of Xia Zhongpeng,,d
+c,a,What is the non-existent relationship between father Xia Bolong and third uncle Xia Sanhu?,Xia Sanhu is brother of Xia Bolong,Xia Sanhu is subordinate of Xia Bolong,Xia Sanhu is murderer of Xia Bolong,Xia Bolong is romantic relationships with Xia Sanhu,,d
+c,a,What is the relationship between father Xia Bolong and grandfather Xia Beigui?,Xia Beigui is father and mentor of Xia Bolong,Xia Bolong is suspicious and admirer of Xia Beigui,Xia Bolong is admirer and jealous by x of Xia Beigui,Xia Bolong is jealous by x and minion of Xia Beigui,,a

@@ -1,0 +1,20 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Andrew Paloski is colleague of Hans Li Morette,Andrew Paloski is mentor of Hans Li Morette,Andrew Paloski is jealous of Hans Li Morette,Hans Li Morette is admirer of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Sylvia Costa is colleague of Hans Li Morette,Sylvia Costa is manipulator of Hans Li Morette,Sylvia Costa is deceiver of Hans Li Morette,Hans Li Morette is information receiver from Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Gale Li Morette is wife of Hans Li Morette,Gale Li Morette is attempted murderer of Hans Li Morette,Gale Li Morette is betrayer of Hans Li Morette,Hans Li Morette is mother in law of Gale Li Morette,,d
+c,a,【Gale Li Morette】和【Drake Li Morette】不存在的关系是什么？,Drake Li Morette is extramarital affair with Gale Li Morette,Drake Li Morette is brother in law of Gale Li Morette,Drake Li Morette is victim of Gale Li Morette,Gale Li Morette is creditor of Drake Li Morette,,d
+c,a,【Gale Li Morette】和【Hans Li Morette】的关系是什么？,Hans Li Morette is husband and betrayed by x of Gale Li Morette,Gale Li Morette is business partner and service provider of Hans Li Morette,Gale Li Morette is service provider and biological father of Hans Li Morette,Gale Li Morette is biological father and half sister of Hans Li Morette,,a
+c,a,【Gale Li Morette】和【James Lai Li】的关系是什么？,James Lai Li is helper and customer of Gale Li Morette,Gale Li Morette is in the lawsuit against x and brother in law of James Lai Li,Gale Li Morette is brother in law and concubine of James Lai Li,Gale Li Morette is concubine and sister in law of James Lai Li,,a

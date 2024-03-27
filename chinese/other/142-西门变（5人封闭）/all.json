@@ -1,0 +1,43 @@
+{
+    "张伟": [
+      ["赵中杨", "victim of x, master of x"], 
+      ["赵中正", "acquaintance of x"], 
+      ["陈媚儿", "acquaintance of x"], 
+      ["李成", "colleague of x"], 
+      ["赵三", "business partner of x"], 
+      ["马老板", "business partner of x"]
+    ],
+    "赵中杨": [
+      ["张伟", "murderer of x, servant of x"], 
+      ["陈媚儿", "romantic relationships with x, spy of x"], 
+      ["李成", "colleague of x"], 
+      ["赵中正", "brother of x"]
+    ],
+    "赵中正": [
+      ["赵中杨", "brother of x, enemy of x"], 
+      ["赵三", "subordinate of x"], 
+      ["陈媚儿", "spy of x"], 
+      ["李成", "employee of x, spy of x"]
+    ],
+    "赵三": [
+      ["赵中正", "adoptive brother of x"], 
+      ["赵中杨", "adoptive brother of x"], 
+      ["张伟", "colleague of x"], 
+      ["马老板", "business partner of x"], 
+      ["陈媚儿", "acquaintance of x"]
+    ],
+    "陈媚儿": [
+      ["赵中杨", "adversary of x, romantic relationships with x, attempted perpetrator of x"], 
+      ["赵中正", "master of x"]
+    ],
+    "李成": [
+      ["赵中正", "business partner of x"], 
+      ["赵中杨", "master of x"], 
+      ["张伟", "acquaintance of x"], 
+      ["陈媚儿", "acquaintance of x"]
+    ],
+    "马老板": [
+      ["赵三", "business partner of x"], 
+      ["张伟", "business partner of x"]
+    ]
+}

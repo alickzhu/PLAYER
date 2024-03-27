@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Zhang Eba】被谁杀死的？,Hao Guimi,Lin Xiaohua,Li Xiaodi,Zhao Shuaige,,b
+b,a,【Zhang Eba】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,用枪打死的,,c
+b,a,凶手杀【Zhang Eba】的动机是什么？,情杀,仇杀,利益,误杀,,a
+b,a,凶手是被害人【Zhang Eba】什么人？,未婚妻,父亲,律师,仇人,,a
+b,a,【Zhang Eba】是在哪里被杀死的？,校园里面,旧教学楼,寝室里面,他自己家里,,a
+b,a,【Zhang Eba】是什么时候被杀死的？,晚上11点33,晚上0点,上午8点,下午3点,,a
+b,b,请选出你最怀疑杀死【Zhang Eba】的两个人,Hao Guimi,Lin Xiaohua,Li Xiaodi,Zhao Shuaige,,b
+c,a,【Zhang Eba】和【Lin Xiaohua】的关系是什么？,Lin Xiaohua is fiance and victim of Zhang Eba,Zhang Eba is child and information receiver from x of Lin Xiaohua,Zhang Eba is information receiver from x and elder sister of Lin Xiaohua,Zhang Eba is elder sister and sworn brother of Lin Xiaohua,,a
+c,a,【Zhang Eba】和【Cousin Sister】的关系是什么？,Cousin Sister is schoolmate and murderer of Zhang Eba,Zhang Eba is elder sister and future mother in law of Cousin Sister,Zhang Eba is future mother in law and messenger of Cousin Sister,Zhang Eba is messenger and subordinate of Cousin Sister,,a
+c,a,【Zhang Eba】和【Li Dage】的关系是什么？,Li Dage is schoolmate and bully of Zhang Eba,Zhang Eba is brother in law and tenant of Li Dage,Zhang Eba is tenant and superior of Li Dage,Zhang Eba is superior and future daughter in law of Li Dage,,a

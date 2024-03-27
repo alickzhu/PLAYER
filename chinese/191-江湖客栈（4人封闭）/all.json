@@ -1,0 +1,68 @@
+{
+    "张红生": [
+      ["孟三春", "husband of x"], 
+      ["洪二郎", "same person as x (different identity)"], 
+      ["洪江水", "employee of x, colleague of x"], 
+      ["蔡思娘", "employee of x, admirer of x, fondness of x"], 
+      ["洪长烈", "father of x"], 
+      ["张金银", "employee of x, employer of x"], 
+      ["洪三妹", "same person as x (different reference)"]
+    ],
+    "孟三春": [
+      ["张红生", "wife of x, enemy of x"], 
+      ["蔡思娘", "employee of x, dislike of x, enemy of x"], 
+      ["张金银", "sworn brother of x, deceived by x, friend of x, business partner of x, murderer of x"], 
+      ["张金山", "deceived by x, friend of x"], 
+      ["洪江水", "employee of x, murderer of x"], 
+      ["洪长烈", "enemy of x"], 
+      ["洪二郎", "enemy of x"]
+    ],
+    "洪江水": [
+      ["张红生", "employer of x, colleague of x"], 
+      ["蔡思娘", "admired by x, colleague of x"], 
+      ["张金银", "employer of x"], 
+      ["孟三春", "employer of x, victim of x"], 
+      ["洪寨主", "father of x"]
+    ],
+    "蔡思娘": [
+      ["张红生", "employer of x, admired by x"], 
+      ["孟三春", "employer of x, acquaintance of x"], 
+      ["洪江水", "admirer of x, colleague of x"], 
+      ["张金银", "employer of x"]
+    ],
+    "洪长烈": [
+      ["张红生", "daughter of x"], 
+      ["洪二郎", "daughter of x"], 
+      ["洪三妹", "daughter of x"], 
+      ["张金银", "enemy of x"], 
+      ["孟三春", "enemy of x"]
+    ],
+    "张金银": [
+      ["洪二郎", "enemy of x"], 
+      ["张红生", "employee of x, enemy of x"], 
+      ["孟三春", "deceiver of x, victim of x, sworn brother of x, friend of x, business partner of x"], 
+      ["张金山", "brother of x"], 
+      ["洪江水", "employee of x"], 
+      ["蔡思娘", "employee of x"], 
+      ["洪长烈", "enemy of x"]
+    ],
+    "张金山": [
+      ["洪二郎", "enemy of x"], 
+      ["张红生", "enemy of x"], 
+      ["孟三春", "deceiver of x, friend of x"], 
+      ["张金银", "brother of x"]
+    ],
+    "洪三妹": [
+      ["张红生", "same person as x (different reference)"]
+    ],
+    "洪二郎": [
+      ["张红生", "same person as x (different identity)"], 
+      ["孟三春", "enemy of x"], 
+      ["张金银", "enemy of x"], 
+      ["洪长烈", "father of x"], 
+      ["张金山", "enemy of x"]
+    ],
+    "洪寨主": [
+      ["洪江水", "son of x"]
+    ]
+}

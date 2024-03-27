@@ -1,0 +1,40 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Xia Bolong?,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,How did Xia Bolong die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,c
+b,a,What was the motive behind the killer killing Xia Bolong?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Xia Bolong. Who is that?,Enemies,brothers,friend,lover,,b
+b,a,Where was Xia Bolong killed?,"Tianji Co., Ltd",My own room,On the arena,Jiashantang Medical Hall,,b
+b,b,Please select the two people you most suspect of killing Xia Bolong,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,Who killed Xia Sanhu?,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,b
+b,a,How did Xia Sanhu die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Strangled by a belt,,d
+b,a,What was the motive behind the killer killing Xia Sanhu?,Love killing,Vendetta,interest,To annihilate one's family with great righteousness,,d
+b,a,The perpetrator is the victim Xia Sanhu. Who is that?,Enemies,Apprentice,friend,brothers,,d
+b,a,Where was Xia Sanhu killed?,"Tianji Co., Ltd",In my own room,On the arena,Jiashantang Medical Hall,,b
+b,a,When was Xia Sanhu killed?,Today (August 3rd) from 18:00 to 18:10,Today (August 3rd) from 20:00 to 20:10,July 30th 18:00-18:10,July 20th 20:00-20:10,,a
+b,b,Please select the two people you most suspect of killing Xia Sanhu,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,a
+a,a,Who killed Wu Baian?,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,b
+b,a,How did Wu Baian die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,b
+b,a,What was the motive behind the killer killing Wu Baian?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim, Wu Baian. Who is that?",Enemies,colleague,friend,wife,,a
+b,a,Where was Wu Baian killed?,Outside the warehouse,Franci Cake Shop,Quan Guan,Wu Baian's home,,a
+b,a,When was Wu Baian killed?,On the evening of July 28th,On the morning of July 29th,On the evening of July 29th,On the morning of July 30th,,c
+b,b,Please select the two people you most suspect of killing Wu Baian,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,Who is the person who deceived Xia Sanhu into buying counterfeit goods?,Yu Zu Chengmu and Aming,Duan Yuetong,Master Meng,Wu Baian,,a
+b,b,Who took the gold medal?,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,How did Xia Sanhu get addicted to gambling?,Being taken to gamble by Yu Zhu Chengmu,Lack of money flower,Gambling was very popular when studying in Japan,Social needs,,a
+b,a,What is the relationship between Aming and Yu Zu Chengmu?,uncles and nephews,stranger,Enemies,friend,,a
+b,a,What has Yue Kesa been doing lately?,gambling,Doing business,Learn Boxing in a Boxing Studio,Developing drugs,,c
+b,a,How is the relationship between Xia Shue and Yue Kesa?,Business partners,Master apprentice,enemy,lover,,b
+b,a,"Why do Xia Shue become an ""intern nurse""?",Exploring the Truth about Father's Death,make money,Personal interests and hobbies,Family arrangements,,a
+c,a,What is the relationship between Wu Baian and Li Zicai?,Li Zicai is schoolmate and quest companion of Wu Baian,Wu Baian is half brother and child of Li Zicai,Wu Baian is child and colleague of Li Zicai,Wu Baian is colleague and elder sister of Li Zicai,,a
+c,a,What is the relationship between Wu Baian and Xia Shue?,Xia Shue is colleague and information receiver from x of Wu Baian,Wu Baian is x's victim's family and murderer of Xia Shue,Wu Baian is murderer and suspicious of Xia Shue,Wu Baian is suspicious and x's enemy's family of Xia Shue,,a
+c,a,What is the relationship between Wu Baian and Li Luoming?,Li Luoming is murderer of Wu Baian,Wu Baian is future son in law of Li Luoming,Wu Baian is adoptive mother of Li Luoming,Wu Baian is schoolmate of Li Luoming,,a
+c,a,What is the non-existent relationship between Xia Sanhu and Luo Ming?,Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is granddaughter of Luo Ming,,d
+c,a,What is the non-existent relationship between Xia Sanhu and Yu Zhu Chengmu?,Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is adoptive son of Yu Zu Chengmu,,d
+c,a,What is the relationship between Xia Sanhu and Xia Beigui?,Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is x's enemy's family and manipulated by x of Xia Beigui,Xia Sanhu is manipulated by x and ex-boyfriend of Xia Beigui,Xia Sanhu is ex-boyfriend and host of Xia Beigui,,a
+c,a,What is the non-existent relationship between Yue Kesa and Xia Shue?,Xia Shue is mentor of Yue Kesa,Xia Shue is helped by Yue Kesa,Xia Shue is perpetrator of Yue Kesa,Yue Kesa is child of Xia Shue,,d
+c,a,What is the relationship between Yue Kesa and Duan Yuetong?,Duan Yuetong is friend and helped by x of Yue Kesa,Yue Kesa is step-mother and guard of Duan Yuetong,Yue Kesa is guard and perpetrator 's family of Duan Yuetong,Yue Kesa is perpetrator 's family and brother of Duan Yuetong,,a
+c,a,What is the relationship between Yue Kesa and Xia Zhongpeng?,Xia Zhongpeng is mentor and superior of Yue Kesa,Yue Kesa is jealous by x and son of Xia Zhongpeng,Yue Kesa is son and grandchild of Xia Zhongpeng,Yue Kesa is grandchild and hate of Xia Zhongpeng,,a
+c,a,What is the non-existent relationship between Li Luoming and Xia Sanhu?,Xia Sanhu is superior of Li Luoming,Xia Sanhu is manipulated by Li Luoming,Xia Sanhu is deceived by Li Luoming,Li Luoming is helper of Xia Sanhu,,d
+c,a,What is the non-existent relationship between Li Luoming and Yu Zu Chengmu?,Yu Zu Chengmu is uncle of Li Luoming,Yu Zu Chengmu is quest companion of Li Luoming,Yu Zu Chengmu is business partner of Li Luoming,Li Luoming is unsuccessful helper of Yu Zu Chengmu,,d
+c,a,What is the non-existent relationship between Li Luoming and Yue Dongwen?,Yue Dongwen is helper of Li Luoming,Yue Dongwen is employer of Li Luoming,Yue Dongwen is deceiver of Li Luoming,Li Luoming is daughter in law of Yue Dongwen,,d

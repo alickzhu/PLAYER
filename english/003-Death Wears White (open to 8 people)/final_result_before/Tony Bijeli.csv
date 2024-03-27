@@ -1,0 +1,20 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Frank Bijeli】的真实身份是什么?, 杀人凶手,卧底警察,病人,汤姆神父的托,,d
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Frank Bijeli】和【Tony】的关系是什么？,Tony is brother of Frank Bijeli,Frank Bijeli is spy of Tony,Frank Bijeli is murderer of Tony,Frank Bijeli is customer of Tony,,a
+c,a,【Frank Bijeli】和【Father Tom】的关系是什么？,Father Tom is employer of Frank Bijeli,Frank Bijeli is perpetrator of Father Tom,Frank Bijeli is suspicious of Father Tom,Frank Bijeli is fiance of Father Tom,,a
+c,a,【Frank Bijeli】和【Drake Li Morette】的关系是什么？,Drake Li Morette is doctor of Frank Bijeli,Frank Bijeli is adversary of Drake Li Morette,Frank Bijeli is seeker of help from Drake Li Morette,Frank Bijeli is future relative of Drake Li Morette,,a
+c,a,【Father Tom】和【Tony】的关系是什么？,Tony is manipulated by x and deceived by x of Father Tom,Father Tom is authority over x and student of Tony,Father Tom is student and ex-girlfriend of Tony,Father Tom is ex-girlfriend and admired by x of Tony,,a
+c,a,【Father Tom】和【Frank Bijeli】的关系是什么？,Frank Bijeli is employee of Father Tom,Father Tom is father in law of Frank Bijeli,Father Tom is bully of Frank Bijeli,Father Tom is adoptive daughter of Frank Bijeli,,a
+c,a,【Father Tom】和【Drake Li Morette】的关系是什么？,Drake Li Morette is doctor of Father Tom,Father Tom is helped by Drake Li Morette,Father Tom is step-brother of Drake Li Morette,Father Tom is hate of Drake Li Morette,,a

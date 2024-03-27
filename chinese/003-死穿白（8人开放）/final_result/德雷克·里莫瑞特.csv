@@ -1,0 +1,20 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,安德鲁·帕洛斯基 is colleague of 汉斯·里莫瑞特,安德鲁·帕洛斯基 is mentor of 汉斯·里莫瑞特,安德鲁·帕洛斯基 is jealous of 汉斯·里莫瑞特,汉斯·里莫瑞特 is admirer of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,西尔维娅·科斯塔 is colleague of 汉斯·里莫瑞特,西尔维娅·科斯塔 is manipulator of 汉斯·里莫瑞特,西尔维娅·科斯塔 is deceiver of 汉斯·里莫瑞特,汉斯·里莫瑞特 is information receiver from 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,盖尔·里莫瑞特 is wife of 汉斯·里莫瑞特,盖尔·里莫瑞特 is attempted murderer of 汉斯·里莫瑞特,盖尔·里莫瑞特 is betrayer of 汉斯·里莫瑞特,汉斯·里莫瑞特 is mother in law of 盖尔·里莫瑞特,,d
+c,a,【盖尔·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,德雷克·里莫瑞特 is extramarital affair with 盖尔·里莫瑞特,德雷克·里莫瑞特 is brother in law of 盖尔·里莫瑞特,德雷克·里莫瑞特 is victim of 盖尔·里莫瑞特,盖尔·里莫瑞特 is creditor of 德雷克·里莫瑞特,,d
+c,a,【盖尔·里莫瑞特】和【汉斯·里莫瑞特】的关系是什么？,汉斯·里莫瑞特 is husband and betrayed by x of 盖尔·里莫瑞特,盖尔·里莫瑞特 is business partner and service provider of 汉斯·里莫瑞特,盖尔·里莫瑞特 is service provider and biological father of 汉斯·里莫瑞特,盖尔·里莫瑞特 is biological father and half sister of 汉斯·里莫瑞特,,a
+c,a,【盖尔·里莫瑞特】和【詹姆斯·莱利】的关系是什么？,詹姆斯·莱利 is helper and customer of 盖尔·里莫瑞特,盖尔·里莫瑞特 is in the lawsuit against x and brother in law of 詹姆斯·莱利,盖尔·里莫瑞特 is brother in law and concubine of 詹姆斯·莱利,盖尔·里莫瑞特 is concubine and sister in law of 詹姆斯·莱利,,a

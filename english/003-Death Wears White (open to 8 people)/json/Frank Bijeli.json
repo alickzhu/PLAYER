@@ -1,0 +1,20 @@
+{
+    "acts_num": 1,
+    "script": [
+        "Character introduction\nYou are Tony's big brother.After your parents die, you take care of him.\nYou all live by the godfather Lelly's various frauds.One day, when you transport a box of drugs for Riley, Tony was arrested and sentenced to 6 years in prison. You ran away, but injured during the escape caused blindness.You immediately start looking for a chance to make money to hire a lawyer for Tony.\nIt was at this time that Father Tom hired you that he was looking for the support in the performance.This job is simple and rich.Tom wants you to pretend to restore your eyesight on TV shows.You did not tell Tony because he was a very honest person, and you and Tom had an agreement to not disclose this information.The reward of this job is enough to hire a lawyer to help your brother to reduce his sentence.The final result was that Tony stayed in prison for less than a year.A few weeks after his release, you were cured by Father Tom in front of millions of audiences.Your brother began to believe that Tom really had the ability to cure.\nA few weeks ago, you were secretly hired to stole files from the computer center of the Brighton Hospital on the Internet.In the process, you are injured. Your brother takes you to the emergency room, and you have to hold the doctor as a hostage ...\nThose who may hire you are also among these people tonight.Unfortunately, you only know his net name.And your gunshot injury is very serious, so that you can't remember this name completely, you can only determine the name of the bird.You told your brother to use some bird names to see others' reactions during the communication process.\n\nCharacter Relationships\n1. Tony: Your brother, he admires and always believes in your suggestions.\n2. Father Tom: You deceived your brother with him, it is best to make sure not to be discovered by Tony.\n3. People in the hospital: You don't know them, but you have to do your best to ensure that they are not injured in the crisis of hostage hijacking."
+    ],
+    "acts_goal": [
+        "1. Convey various hints to ensure that everyone understands the characteristics of their role\n2. Pretend to have one leg injured and be cured by Paloski or Rimoret (at the beginning of the game)\n3. Organize Gael's delivery with the help of Gale, as well as Palovsky or Rimoret (who did not participate in healing you)\n4. Secondly, you need to use Big Brother to give Tony advice (don't forget to use Bird's name as a probe)"
+    ],
+    "questions": [],
+    "victims": [
+        "Hans Li Morette"
+    ],
+    "kill_by_me": [
+        0
+    ],
+    "final_goal": "",
+    "acts_performance": [],
+    "secrets": "",
+    "is_murderer": 0
+}

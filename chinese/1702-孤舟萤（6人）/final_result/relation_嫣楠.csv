@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【于氏】和【甜愁】不存在的关系是什么？,甜愁 is friend of 于氏,甜愁 is helped by 于氏,甜愁 is betrayed by 于氏,于氏 is creditor of 甜愁,,d
+c,a,【于氏】和【汪昔容】的关系是什么？,汪昔容 is master and helper of 于氏,于氏 is grandparent and father in law of 汪昔容,于氏 is father in law and admired by x of 汪昔容,于氏 is admired by x and concubine of 汪昔容,,a
+c,a,【于氏】和【汪昔颜】的关系是什么？,汪昔颜 is master and bully of 于氏,于氏 is ex-husband and daughter in law of 汪昔颜,于氏 is daughter in law and host of 汪昔颜,于氏 is host and co-wives of 汪昔颜,,a
+c,a,【周蒙当】和【崔寿亨】不存在的关系是什么？,崔寿亨 is helper of 周蒙当,崔寿亨 is master of 周蒙当,崔寿亨 is employer of 周蒙当,周蒙当 is romantic relationships with 崔寿亨,,d
+c,a,【周蒙当】和【汪昔颜】不存在的关系是什么？,汪昔颜 is friend of 周蒙当,汪昔颜 is ex-romantic relationships with 周蒙当,汪昔颜 is extramarital affair with 周蒙当,周蒙当 is rebellion against 汪昔颜,,d
+c,a,【周蒙当】和【宝柳】的关系是什么？,宝柳 is wife of 周蒙当,周蒙当 is servant of 宝柳,周蒙当 is subordinate of 宝柳,周蒙当 is child of 宝柳,,a
+c,a,【太太】和【宝柳】的关系是什么？,宝柳 is helped by x and servant of 太太,太太 is hate and hated by x of 宝柳,太太 is hated by x and ex-romantic relationships with x of 宝柳,太太 is ex-romantic relationships with x and step-sister of 宝柳,,a
+c,a,【太太】和【汪昔颜】的关系是什么？,汪昔颜 is sister and co-wives of 太太,太太 is neighbour and perpetrator of 汪昔颜,太太 is perpetrator and unsuccessful helper of 汪昔颜,太太 is unsuccessful helper and saviour of 汪昔颜,,a
+c,a,【太太】和【汪舜明】的关系是什么？,汪舜明 is father of 太太,太太 is fondness of 汪舜明,太太 is ex-romantic relationships with 汪舜明,太太 is hated by 汪舜明,,a
+c,a,【崔寿亨】和【周蒙当】不存在的关系是什么？,周蒙当 is minion of 崔寿亨,周蒙当 is servant of 崔寿亨,周蒙当 is employee of 崔寿亨,崔寿亨 is suspicious of 周蒙当,,d
+c,a,【崔寿亨】和【周持同】不存在的关系是什么？,周持同 is helped by 崔寿亨,周持同 is thief of 崔寿亨,周持同 is business partner of 崔寿亨,崔寿亨 is mother in law of 周持同,,d
+c,a,【崔寿亨】和【汪昔颜】的关系是什么？,汪昔颜 is sister in law and wife of 崔寿亨,崔寿亨 is authority over x and suspect to x of 汪昔颜,崔寿亨 is suspect to x and customer of 汪昔颜,崔寿亨 is customer and tenant of 汪昔颜,,a

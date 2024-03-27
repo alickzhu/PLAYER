@@ -1,0 +1,32 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Xia Bolong?,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,How did Xia Bolong die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,c
+b,a,What was the motive behind the killer killing Xia Bolong?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Xia Bolong. Who is that?,Enemies,brothers,friend,lover,,b
+b,a,Where was Xia Bolong killed?,"Tianji Co., Ltd",My own room,On the arena,Jiashantang Medical Hall,,b
+b,b,Please select the two people you most suspect of killing Xia Bolong,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,Who killed Xia Sanhu?,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,b
+b,a,How did Xia Sanhu die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Strangled by a belt,,d
+b,a,What was the motive behind the killer killing Xia Sanhu?,Love killing,Vendetta,interest,To annihilate one's family with great righteousness,,d
+b,a,The perpetrator is the victim Xia Sanhu. Who is that?,Enemies,Apprentice,friend,brothers,,d
+b,a,Where was Xia Sanhu killed?,"Tianji Co., Ltd",In my own room,On the arena,Jiashantang Medical Hall,,b
+b,a,When was Xia Sanhu killed?,Today (August 3rd) from 18:00 to 18:10,Today (August 3rd) from 20:00 to 20:10,July 30th 18:00-18:10,July 20th 20:00-20:10,,a
+b,b,Please select the two people you most suspect of killing Xia Sanhu,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,a
+a,a,Who killed Wu Baian?,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,b
+b,a,How did Wu Baian die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,b
+b,a,What was the motive behind the killer killing Wu Baian?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim, Wu Baian. Who is that?",Enemies,colleague,friend,wife,,a
+b,a,Where was Wu Baian killed?,Outside the warehouse,Franci Cake Shop,Quan Guan,Wu Baian's home,,a
+b,a,When was Wu Baian killed?,On the evening of July 28th,On the morning of July 29th,On the evening of July 29th,On the morning of July 30th,,c
+b,b,Please select the two people you most suspect of killing Wu Baian,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,What is Anqi's attitude towards Yu Zu Chengmu?,She likes herself,She just habitually relies on older men,She hates herself,She only considers herself a friend because she is Aming's friend,,d
+b,a,What is Yue Dongwen hiding?,His company sells fake drugs,"Wu Baian has sold the ""insect killing spirit"" that can cause human death",He is a murderer,He is Duan Yuetong's biological father,,b
+c,a,What is the non-existent relationship between Anqi (Lan Qin) and Yu Zu Chengmu?,Yu Zu Chengmu is customer of Lan Qin,Yu Zu Chengmu is helped by Lan Qin,Yu Zu Chengmu is debtor of Lan Qin,Lan Qin is step-father of Yu Zu Chengmu,,d
+c,a,What is the relationship between Anqi (Lan Qin) and Yi Lianzhi?,Yi Lianzhi is mother of Lan Qin,Lan Qin is dislike of Yi Lianzhi,Lan Qin is saved by Yi Lianzhi,Lan Qin is messenger of Yi Lianzhi,,a
+c,a,What is the relationship between Anqi (Lan Qin) and A'e?,A'e is brother of Lan Qin,Lan Qin is helper of A'e,Lan Qin is co-wives of A'e,Lan Qin is manipulated by A'e,,a
+c,a,What is the non-existent relationship between Xia Sanhu and Aming (Li Luoming)?,Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is secret admirer of Luo Ming,,d
+c,a,What is the non-existent relationship between Xia Sanhu and Yu Zhu Chengmu?,Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is son in law of Yu Zu Chengmu,,d
+c,a,What is the relationship between Xia Sanhu and Xia Beigui?,Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is rival in love and admirer of Xia Beigui,Xia Sanhu is admirer and ex-wife of Xia Beigui,Xia Sanhu is ex-wife and adversary of Xia Beigui,,a
+c,a,What is the non-existent relationship between Aming (Li Luoming) and Xia Sanhu?,Xia Sanhu is superior of Li Luoming,Xia Sanhu is manipulated by Li Luoming,Xia Sanhu is deceived by Li Luoming,Li Luoming is friend of Xia Sanhu,,d
+c,a,What is the non-existent relationship between Aming (Li Luoming) and Yu Zu Chengmu?,Yu Zu Chengmu is uncle of Li Luoming,Yu Zu Chengmu is quest companion of Li Luoming,Yu Zu Chengmu is business partner of Li Luoming,Li Luoming is hate of Yu Zu Chengmu,,d
+c,a,What is the non-existent relationship between Aming (Li Luoming) and Yue Dongwen?,Yue Dongwen is helper of Li Luoming,Yue Dongwen is employer of Li Luoming,Yue Dongwen is deceiver of Li Luoming,Li Luoming is younger sister of Yue Dongwen,,d

@@ -1,0 +1,38 @@
+{
+    "agent_num": 7,
+    "script_name": "Unfinished Love",
+    "character_name": [
+        "Lin Xi",
+        "Chen Jingwen",
+        "Shen Cheng",
+        "Lin Yang",
+        "Gu Qing",
+        "Su Yang",
+        "Gu Yu"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

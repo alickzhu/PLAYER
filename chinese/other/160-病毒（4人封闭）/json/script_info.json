@@ -1,0 +1,35 @@
+{
+    "agent_num": 4,
+    "script_name": "病毒",
+    "character_name": [
+        "李保安",
+        "孙清洁",
+        "秦鸥",
+        "贾教授"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

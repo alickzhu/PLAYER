@@ -1,0 +1,211 @@
+﻿value,type,question,a,b,c,d,e,truth
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+c,a,【依琳·卡特】和【帕洛斯基医生】不存在的关系是什么？,依琳·卡特 is mentor of 帕洛斯基医生,依琳·卡特 is colleague of 帕洛斯基医生,依琳·卡特 is subject of investigation for 帕洛斯基医生,依琳·卡特 is step-sister of 帕洛斯基医生,,d
+c,a,【依琳·卡特】和【詹姆斯·莱利】的关系是什么？,依琳·卡特 is suspected by x and subject of investigation for x of 詹姆斯·莱利,依琳·卡特 is cousin and employer of 詹姆斯·莱利,依琳·卡特 is employer and student of 詹姆斯·莱利,依琳·卡特 is student and grandson of 詹姆斯·莱利,,a
+c,a,【依琳·卡特】和【汉斯·里莫瑞提】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 汉斯·里莫瑞提,依琳·卡特 is informant and ex-romantic relationships with x of 汉斯·里莫瑞提,依琳·卡特 is ex-romantic relationships with x and classmate of 汉斯·里莫瑞提,依琳·卡特 is classmate and brother of 汉斯·里莫瑞提,,a
+c,a,【依琳·卡特】和【德雷克·里莫瑞特】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 德雷克·里莫瑞特,依琳·卡特 is step-father and son of 德雷克·里莫瑞特,依琳·卡特 is son and future son in law of 德雷克·里莫瑞特,依琳·卡特 is future son in law and adoptive brother of 德雷克·里莫瑞特,,a
+c,a,【依琳·卡特】和【西尔维娅·科斯塔】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 西尔维娅·科斯塔,依琳·卡特 is co-wives and future son in law of 西尔维娅·科斯塔,依琳·卡特 is future son in law and future daughter in law of 西尔维娅·科斯塔,依琳·卡特 is future daughter in law and informant of 西尔维娅·科斯塔,,a
+c,a,【托尼】和【弗兰克·比杰利】的关系是什么？,托尼 is brother of 弗兰克·比杰利,托尼 is buyer of 弗兰克·比杰利,托尼 is manipulator of 弗兰克·比杰利,托尼 is adversary of 弗兰克·比杰利,,a
+c,a,【托尼】和【神父汤姆】的关系是什么？,托尼 is manipulator of 神父汤姆,托尼 is biological daughter of 神父汤姆,托尼 is adoptive sister of 神父汤姆,托尼 is sister in law of 神父汤姆,,a
+c,a,【托尼】和【托尼·比杰利】的关系是什么？,托尼 is same person as 托尼·比杰利 (different reference),托尼 is helped by 托尼·比杰利,托尼 is daughter of 托尼·比杰利,托尼 is helper of 托尼·比杰利,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is relative of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is co-wives of 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is messenger of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is guest of 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is half brother of 吉姆梅森,,d
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+a,a,医院里是谁在帮助器官贩子贩卖器官?, 德雷克·里莫瑞特,护士长 西尔维娅·科斯塔,没有人,安德鲁·帕洛斯基,,b
+a,a,谁是器官贩子?, 托尼•比杰利,神父汤姆,院长【理查德·伯克利】,詹姆斯·莱利,,d
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+c,a,【弗兰克·比杰利】和【托尼】的关系是什么？,弗兰克·比杰利 is brother of 托尼,弗兰克·比杰利 is student of 托尼,弗兰克·比杰利 is creditor of 托尼,弗兰克·比杰利 is host of 托尼,,a
+c,a,【弗兰克·比杰利】和【神父汤姆】的关系是什么？,弗兰克·比杰利 is employer of 神父汤姆,弗兰克·比杰利 is sworn brother of 神父汤姆,弗兰克·比杰利 is subject of investigation for 神父汤姆,弗兰克·比杰利 is secret crush of 神父汤姆,,a
+c,a,【弗兰克·比杰利】和【德雷克·里莫瑞特】的关系是什么？,弗兰克·比杰利 is doctor of 德雷克·里莫瑞特,弗兰克·比杰利 is niece of 德雷克·里莫瑞特,弗兰克·比杰利 is quest companion of 德雷克·里莫瑞特,弗兰克·比杰利 is hate of 德雷克·里莫瑞特,,a
+c,a,【托尼】和【弗兰克·比杰利】的关系是什么？,托尼 is brother of 弗兰克·比杰利,托尼 is admirer of 弗兰克·比杰利,托尼 is informant of 弗兰克·比杰利,托尼 is secret lover of 弗兰克·比杰利,,a
+c,a,【托尼】和【神父汤姆】的关系是什么？,托尼 is manipulator of 神父汤姆,托尼 is fiance of 神父汤姆,托尼 is adoptive daughter of 神父汤姆,托尼 is secret lover of 神父汤姆,,a
+c,a,【托尼】和【托尼·比杰利】的关系是什么？,托尼 is same person as 托尼·比杰利 (different reference),托尼 is boyfriend of 托尼·比杰利,托尼 is murderer of 托尼·比杰利,托尼 is subject of investigation for 托尼·比杰利,,a
+c,a,【护士长科斯塔】和【汉斯·里莫瑞特】不存在的关系是什么？,护士长科斯塔 is colleague of 汉斯·里莫瑞特,护士长科斯塔 is manipulated by 汉斯·里莫瑞特,护士长科斯塔 is deceived by 汉斯·里莫瑞特,护士长科斯塔 is information receiver from 汉斯·里莫瑞特,,d
+c,a,【护士长科斯塔】和【詹姆斯·莱利】的关系是什么？,护士长科斯塔 is creditor and manipulator of 詹姆斯·莱利,护士长科斯塔 is younger sister and grandchild of 詹姆斯·莱利,护士长科斯塔 is grandchild and daughter of 詹姆斯·莱利,护士长科斯塔 is daughter and girlfriend of 詹姆斯·莱利,,a
+c,a,【护士长科斯塔】和【盖尔·里莫瑞特】的关系是什么？,护士长科斯塔 is lawyer of 盖尔·里莫瑞特,护士长科斯塔 is grandparent of 盖尔·里莫瑞特,护士长科斯塔 is unsuccessful helper of 盖尔·里莫瑞特,护士长科斯塔 is concubine of 盖尔·里莫瑞特,,a
+c,a,【理查德·伯克利】和【德雷克·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 德雷克·里莫瑞特,理查德·伯克利 is bully and rival of 德雷克·里莫瑞特,理查德·伯克利 is rival and bully of 德雷克·里莫瑞特,理查德·伯克利 is bully and brother of 德雷克·里莫瑞特,,a
+c,a,【理查德·伯克利】和【汉斯·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 汉斯·里莫瑞特,理查德·伯克利 is information receiver from x and twin brother of 汉斯·里莫瑞特,理查德·伯克利 is twin brother and admired by x of 汉斯·里莫瑞特,理查德·伯克利 is admired by x and thief of 汉斯·里莫瑞特,,a
+c,a,【理查德·伯克利】和【伊莱恩·卡特尔】的关系是什么？,理查德·伯克利 is quest companion of 伊莱恩·卡特尔,理查德·伯克利 is ex-romantic relationships with 伊莱恩·卡特尔,理查德·伯克利 is betrayed by 伊莱恩·卡特尔,理查德·伯克利 is future mother in law of 伊莱恩·卡特尔,,a
+c,a,【盖尔·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,盖尔·里莫瑞特 is extramarital affair with 德雷克·里莫瑞特,盖尔·里莫瑞特 is brother in law of 德雷克·里莫瑞特,盖尔·里莫瑞特 is victim of 德雷克·里莫瑞特,盖尔·里莫瑞特 is mentor of 德雷克·里莫瑞特,,d
+c,a,【盖尔·里莫瑞特】和【汉斯·里莫瑞特】的关系是什么？,盖尔·里莫瑞特 is husband and betrayed by x of 汉斯·里莫瑞特,盖尔·里莫瑞特 is future mother in law and adoptive mother of 汉斯·里莫瑞特,盖尔·里莫瑞特 is adoptive mother and elder sister of 汉斯·里莫瑞特,盖尔·里莫瑞特 is elder sister and granddaughter of 汉斯·里莫瑞特,,a
+c,a,【盖尔·里莫瑞特】和【詹姆斯·莱利】的关系是什么？,盖尔·里莫瑞特 is helper and customer of 詹姆斯·莱利,盖尔·里莫瑞特 is future relative and admired by x of 詹姆斯·莱利,盖尔·里莫瑞特 is admired by x and step-brother of 詹姆斯·莱利,盖尔·里莫瑞特 is step-brother and daughter of 詹姆斯·莱利,,a
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is concubine of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is step-mother of 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is product provider of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is helper of 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is grandmother of 吉姆梅森,,d
+c,a,【盖尔·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,盖尔·里莫瑞特 is extramarital affair with 德雷克·里莫瑞特,盖尔·里莫瑞特 is brother in law of 德雷克·里莫瑞特,盖尔·里莫瑞特 is victim of 德雷克·里莫瑞特,盖尔·里莫瑞特 is schoolmate of 德雷克·里莫瑞特,,d
+c,a,【盖尔·里莫瑞特】和【汉斯·里莫瑞特】的关系是什么？,盖尔·里莫瑞特 is husband and betrayed by x of 汉斯·里莫瑞特,盖尔·里莫瑞特 is younger brother and debtor of 汉斯·里莫瑞特,盖尔·里莫瑞特 is debtor and uncle of 汉斯·里莫瑞特,盖尔·里莫瑞特 is uncle and information receiver from x of 汉斯·里莫瑞特,,a
+c,a,【盖尔·里莫瑞特】和【詹姆斯·莱利】的关系是什么？,盖尔·里莫瑞特 is helper and customer of 詹姆斯·莱利,盖尔·里莫瑞特 is father and murderer of 詹姆斯·莱利,盖尔·里莫瑞特 is murderer and step-mother of 詹姆斯·莱利,盖尔·里莫瑞特 is step-mother and twin sister of 詹姆斯·莱利,,a
+c,a,【盖尔·里莫瑞特】和【西尔维娅·科斯塔】的关系是什么？,盖尔·里莫瑞特 is customer of 西尔维娅·科斯塔,盖尔·里莫瑞特 is neighbour of 西尔维娅·科斯塔,盖尔·里莫瑞特 is 西尔维娅·科斯塔's victim's family,盖尔·里莫瑞特 is girlfriend of 西尔维娅·科斯塔,,a
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【依琳·卡特】和【帕洛斯基医生】不存在的关系是什么？,依琳·卡特 is mentor of 帕洛斯基医生,依琳·卡特 is colleague of 帕洛斯基医生,依琳·卡特 is subject of investigation for 帕洛斯基医生,依琳·卡特 is fiancee of 帕洛斯基医生,,d
+c,a,【依琳·卡特】和【詹姆斯·莱利】的关系是什么？,依琳·卡特 is suspected by x and subject of investigation for x of 詹姆斯·莱利,依琳·卡特 is future relative and acquaintance of 詹姆斯·莱利,依琳·卡特 is acquaintance and helped by x of 詹姆斯·莱利,依琳·卡特 is helped by x and relative of 詹姆斯·莱利,,a
+c,a,【依琳·卡特】和【汉斯·里莫瑞提】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 汉斯·里莫瑞提,依琳·卡特 is adoptive mother and aunt of 汉斯·里莫瑞提,依琳·卡特 is aunt and sister of 汉斯·里莫瑞提,依琳·卡特 is sister and concubine of 汉斯·里莫瑞提,,a
+c,a,【依琳·卡特】和【德雷克·里莫瑞特】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 德雷克·里莫瑞特,依琳·卡特 is uncle and possibly family of 德雷克·里莫瑞特,依琳·卡特 is possibly family and daughter in law of 德雷克·里莫瑞特,依琳·卡特 is daughter in law and half sister of 德雷克·里莫瑞特,,a
+c,a,【依琳·卡特】和【西尔维娅·科斯塔】的关系是什么？,依琳·卡特 is colleague and subject of investigation for x of 西尔维娅·科斯塔,依琳·卡特 is romantic relationships with x and biological father of 西尔维娅·科斯塔,依琳·卡特 is biological father and friend of 西尔维娅·科斯塔,依琳·卡特 is friend and elder brother of 西尔维娅·科斯塔,,a
+c,a,【德雷克·里莫瑞特】和【汉斯·里莫瑞特】不存在的关系是什么？,德雷克·里莫瑞特 is colleague of 汉斯·里莫瑞特,德雷克·里莫瑞特 is brother of 汉斯·里莫瑞特,德雷克·里莫瑞特 is rival in love of 汉斯·里莫瑞特,德雷克·里莫瑞特 is helper of 汉斯·里莫瑞特,,d
+c,a,【德雷克·里莫瑞特】和【盖尔·里莫瑞特】的关系是什么？,德雷克·里莫瑞特 is extramarital affair with x and sister in law of 盖尔·里莫瑞特,德雷克·里莫瑞特 is sworn brother and attempted perpetrator of 盖尔·里莫瑞特,德雷克·里莫瑞特 is attempted perpetrator and employee of 盖尔·里莫瑞特,德雷克·里莫瑞特 is employee and informant of 盖尔·里莫瑞特,,a
+c,a,【德雷克·里莫瑞特】和【理查德·伯克利】的关系是什么？,德雷克·里莫瑞特 is superior and colleague of 理查德·伯克利,德雷克·里莫瑞特 is future mother in law and step-son of 理查德·伯克利,德雷克·里莫瑞特 is step-son and in the lawsuit against x of 理查德·伯克利,德雷克·里莫瑞特 is in the lawsuit against x and schoolmate of 理查德·伯克利,,a
+c,a,【德雷克·里莫瑞特】和【安德鲁·帕洛斯基】的关系是什么？,德雷克·里莫瑞特 is colleague of 安德鲁·帕洛斯基,德雷克·里莫瑞特 is jealous by 安德鲁·帕洛斯基,德雷克·里莫瑞特 is biological daughter of 安德鲁·帕洛斯基,德雷克·里莫瑞特 is victim of 安德鲁·帕洛斯基,,a
+c,a,【德雷克·里莫瑞特】和【伊莱恩·卡特尔】的关系是什么？,德雷克·里莫瑞特 is colleague of 伊莱恩·卡特尔,德雷克·里莫瑞特 is daughter in law of 伊莱恩·卡特尔,德雷克·里莫瑞特 is adoptive sister of 伊莱恩·卡特尔,德雷克·里莫瑞特 is bully of 伊莱恩·卡特尔,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is biological mother of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is aunt of 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is half brother of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is quest companion of 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is fondness of 吉姆梅森,,d
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【德雷克·里莫瑞特】和【汉斯·里莫瑞特】不存在的关系是什么？,德雷克·里莫瑞特 is colleague of 汉斯·里莫瑞特,德雷克·里莫瑞特 is brother of 汉斯·里莫瑞特,德雷克·里莫瑞特 is rival in love of 汉斯·里莫瑞特,德雷克·里莫瑞特 is acquaintance of 汉斯·里莫瑞特,,d
+c,a,【德雷克·里莫瑞特】和【盖尔·里莫瑞特】的关系是什么？,德雷克·里莫瑞特 is extramarital affair with x and sister in law of 盖尔·里莫瑞特,德雷克·里莫瑞特 is murderer and patient of 盖尔·里莫瑞特,德雷克·里莫瑞特 is patient and subject of investigation for x of 盖尔·里莫瑞特,德雷克·里莫瑞特 is subject of investigation for x and servant of 盖尔·里莫瑞特,,a
+c,a,【德雷克·里莫瑞特】和【理查德·伯克利】的关系是什么？,德雷克·里莫瑞特 is superior and colleague of 理查德·伯克利,德雷克·里莫瑞特 is teacher and deceiver of 理查德·伯克利,德雷克·里莫瑞特 is deceiver and granddaughter of 理查德·伯克利,德雷克·里莫瑞特 is granddaughter and relative of 理查德·伯克利,,a
+c,a,【德雷克·里莫瑞特】和【安德鲁·帕洛斯基】的关系是什么？,德雷克·里莫瑞特 is colleague of 安德鲁·帕洛斯基,德雷克·里莫瑞特 is betrayed by 安德鲁·帕洛斯基,德雷克·里莫瑞特 is jealous of 安德鲁·帕洛斯基,德雷克·里莫瑞特 is friend of 安德鲁·帕洛斯基,,a
+c,a,【德雷克·里莫瑞特】和【伊莱恩·卡特尔】的关系是什么？,德雷克·里莫瑞特 is colleague of 伊莱恩·卡特尔,德雷克·里莫瑞特 is helper of 伊莱恩·卡特尔,德雷克·里莫瑞特 is betrayed by 伊莱恩·卡特尔,德雷克·里莫瑞特 is acquaintance of 伊莱恩·卡特尔,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is extramarital affair with 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is brother in law of 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is quest companion of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is secret admirer of 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is admired by 吉姆梅森,,d
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【托尼】和【弗兰克·比杰利】的关系是什么？,托尼 is brother of 弗兰克·比杰利,托尼 is liked by 弗兰克·比杰利,托尼 is landlord of 弗兰克·比杰利,托尼 is colleague of 弗兰克·比杰利,,a
+c,a,【托尼】和【神父汤姆】的关系是什么？,托尼 is manipulator of 神父汤姆,托尼 is authority over 神父汤姆,托尼 is romantic relationships with 神父汤姆,托尼 is mother in law of 神父汤姆,,a
+c,a,【托尼】和【托尼·比杰利】的关系是什么？,托尼 is same person as 托尼·比杰利 (different reference),托尼 is brother of 托尼·比杰利,托尼 is niece of 托尼·比杰利,托尼 is doctor of 托尼·比杰利,,a
+c,a,【理查德·伯克利】和【安德鲁·帕洛斯基】的关系是什么？,理查德·伯克利 is subordinate and colleague of 安德鲁·帕洛斯基,理查德·伯克利 is thief and elder sister of 安德鲁·帕洛斯基,理查德·伯克利 is elder sister and granddaughter of 安德鲁·帕洛斯基,理查德·伯克利 is granddaughter and younger brother of 安德鲁·帕洛斯基,,a
+c,a,【理查德·伯克利】和【西尔维娅·科斯塔】的关系是什么？,理查德·伯克利 is subordinate and colleague of 西尔维娅·科斯塔,理查德·伯克利 is killed by x and informant of 西尔维娅·科斯塔,理查德·伯克利 is informant and jealous of 西尔维娅·科斯塔,理查德·伯克利 is jealous and son in law of 西尔维娅·科斯塔,,a
+c,a,【理查德·伯克利】和【德雷克·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 德雷克·里莫瑞特,理查德·伯克利 is adoptive brother and biological son of 德雷克·里莫瑞特,理查德·伯克利 is biological son and hate of 德雷克·里莫瑞特,理查德·伯克利 is hate and thief of 德雷克·里莫瑞特,,a
+c,a,【理查德·伯克利】和【汉斯·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 汉斯·里莫瑞特,理查德·伯克利 is manipulator and adoptive father of 汉斯·里莫瑞特,理查德·伯克利 is adoptive father and son in law of 汉斯·里莫瑞特,理查德·伯克利 is son in law and disliked by x of 汉斯·里莫瑞特,,a
+c,a,【理查德·伯克利】和【伊莱恩·卡特尔】的关系是什么？,理查德·伯克利 is quest companion of 伊莱恩·卡特尔,理查德·伯克利 is suspected by 伊莱恩·卡特尔,理查德·伯克利 is rival of 伊莱恩·卡特尔,理查德·伯克利 is master of 伊莱恩·卡特尔,,a
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is possibly family of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is step-sister of 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is tenant of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is extramarital affair with 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is quest companion of 吉姆梅森,,d
+c,a,【理查德·伯克利】和【安德鲁·帕洛斯基】的关系是什么？,理查德·伯克利 is subordinate and colleague of 安德鲁·帕洛斯基,理查德·伯克利 is manipulated by x and future relative of 安德鲁·帕洛斯基,理查德·伯克利 is future relative and hated by x of 安德鲁·帕洛斯基,理查德·伯克利 is hated by x and step-father of 安德鲁·帕洛斯基,,a
+c,a,【理查德·伯克利】和【西尔维娅·科斯塔】的关系是什么？,理查德·伯克利 is subordinate and colleague of 西尔维娅·科斯塔,理查德·伯克利 is enemy and sibling of 西尔维娅·科斯塔,理查德·伯克利 is sibling and student of 西尔维娅·科斯塔,理查德·伯克利 is student and deceiver of 西尔维娅·科斯塔,,a
+c,a,【理查德·伯克利】和【德雷克·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 德雷克·里莫瑞特,理查德·伯克利 is ex-girlfriend and future daughter in law of 德雷克·里莫瑞特,理查德·伯克利 is future daughter in law and admired by x of 德雷克·里莫瑞特,理查德·伯克利 is admired by x and murderer of 德雷克·里莫瑞特,,a
+c,a,【理查德·伯克利】和【汉斯·里莫瑞特】的关系是什么？,理查德·伯克利 is subordinate and colleague of 汉斯·里莫瑞特,理查德·伯克利 is bully and suspect to x of 汉斯·里莫瑞特,理查德·伯克利 is suspect to x and suspected by x of 汉斯·里莫瑞特,理查德·伯克利 is suspected by x and brother in law of 汉斯·里莫瑞特,,a
+c,a,【理查德·伯克利】和【伊莱恩·卡特尔】的关系是什么？,理查德·伯克利 is quest companion of 伊莱恩·卡特尔,理查德·伯克利 is ex-girlfriend of 伊莱恩·卡特尔,理查德·伯克利 is product provider of 伊莱恩·卡特尔,理查德·伯克利 is husband of 伊莱恩·卡特尔,,a
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【德雷克·里莫瑞特】的真实身份是什么?, 器官贩子,卧底警察,汉斯·里莫瑞特假扮的,绑匪,,c
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【托尼·比杰利】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【弗兰克·比杰利】和【托尼】的关系是什么？,弗兰克·比杰利 is brother of 托尼,弗兰克·比杰利 is fiancee of 托尼,弗兰克·比杰利 is rival of 托尼,弗兰克·比杰利 is lover of 托尼,,a
+c,a,【弗兰克·比杰利】和【神父汤姆】的关系是什么？,弗兰克·比杰利 is employer of 神父汤姆,弗兰克·比杰利 is teacher of 神父汤姆,弗兰克·比杰利 is half brother of 神父汤姆,弗兰克·比杰利 is informant of 神父汤姆,,a
+c,a,【弗兰克·比杰利】和【德雷克·里莫瑞特】的关系是什么？,弗兰克·比杰利 is doctor of 德雷克·里莫瑞特,弗兰克·比杰利 is brother of 德雷克·里莫瑞特,弗兰克·比杰利 is grandchild of 德雷克·里莫瑞特,弗兰克·比杰利 is daughter in law of 德雷克·里莫瑞特,,a
+c,a,【托尼】和【弗兰克·比杰利】的关系是什么？,托尼 is brother of 弗兰克·比杰利,托尼 is spy of 弗兰克·比杰利,托尼 is admirer of 弗兰克·比杰利,托尼 is secret lover of 弗兰克·比杰利,,a
+c,a,【托尼】和【神父汤姆】的关系是什么？,托尼 is manipulator of 神父汤姆,托尼 is seller of 神父汤姆,托尼 is crime partner of 神父汤姆,托尼 is father in law of 神父汤姆,,a
+c,a,【托尼】和【托尼·比杰利】的关系是什么？,托尼 is same person as 托尼·比杰利 (different reference),托尼 is rival in love of 托尼·比杰利,托尼 is subject of investigation for 托尼·比杰利,托尼 is crime partner of 托尼·比杰利,,a
+c,a,【汉斯·里莫瑞特】和【安德鲁·帕洛斯基】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is mentor of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is jealous of 安德鲁·帕洛斯基,汉斯·里莫瑞特 is future daughter in law of 安德鲁·帕洛斯基,,d
+c,a,【汉斯·里莫瑞特】和【西尔维娅·科斯塔】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 西尔维娅·科斯塔,汉斯·里莫瑞特 is manipulator of 西尔维娅·科斯塔,汉斯·里莫瑞特 is deceiver of 西尔维娅·科斯塔,汉斯·里莫瑞特 is seeker of help from 西尔维娅·科斯塔,,d
+c,a,【汉斯·里莫瑞特】和【盖尔·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is wife of 盖尔·里莫瑞特,汉斯·里莫瑞特 is attempted murderer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is betrayer of 盖尔·里莫瑞特,汉斯·里莫瑞特 is step-father of 盖尔·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【德雷克·里莫瑞特】不存在的关系是什么？,汉斯·里莫瑞特 is colleague of 德雷克·里莫瑞特,汉斯·里莫瑞特 is brother of 德雷克·里莫瑞特,汉斯·里莫瑞特 is rival in love of 德雷克·里莫瑞特,汉斯·里莫瑞特 is ex-husband of 德雷克·里莫瑞特,,d
+c,a,【汉斯·里莫瑞特】和【吉姆梅森】不存在的关系是什么？,汉斯·里莫瑞特 is in the lawsuit against 吉姆梅森,汉斯·里莫瑞特 is victim of 吉姆梅森,汉斯·里莫瑞特 is patient of 吉姆梅森,汉斯·里莫瑞特 is fiancee of 吉姆梅森,,d
+a,a,【汉斯·里莫瑞特】被谁杀死的？,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,【汉斯·里莫瑞特】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【汉斯·里莫瑞特】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【汉斯·里莫瑞特】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【汉斯·里莫瑞特】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【汉斯·里莫瑞特】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【汉斯·里莫瑞特】的两个人,盖尔·里莫瑞特,护士长【西尔维娅·科斯塔】,德雷克·里莫瑞特,弗兰克·比杰利,,a
+b,a,实习生【依琳·卡特】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【弗兰克·比杰利】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【弗兰克·比杰利】的真实身份是什么?, 杀人凶手,卧底警察,病人,汤姆神父的托,,d
+b,a,哪件事不是【理查德·伯克利】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【神父汤姆】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【西尔维娅·科斯塔】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【弗兰克·比杰利】和【托尼】的关系是什么？,弗兰克·比杰利 is brother of 托尼,弗兰克·比杰利 is authority over 托尼,弗兰克·比杰利 is subordinate of 托尼,弗兰克·比杰利 is betrayer of 托尼,,a
+c,a,【弗兰克·比杰利】和【神父汤姆】的关系是什么？,弗兰克·比杰利 is employer of 神父汤姆,弗兰克·比杰利 is rival in love of 神父汤姆,弗兰克·比杰利 is in the lawsuit against 神父汤姆,弗兰克·比杰利 is 神父汤姆's victim's family,,a
+c,a,【弗兰克·比杰利】和【德雷克·里莫瑞特】的关系是什么？,弗兰克·比杰利 is doctor of 德雷克·里莫瑞特,弗兰克·比杰利 is rebellion against 德雷克·里莫瑞特,弗兰克·比杰利 is grandchild of 德雷克·里莫瑞特,弗兰克·比杰利 is crime partner of 德雷克·里莫瑞特,,a
+c,a,【神父汤姆】和【托尼】的关系是什么？,神父汤姆 is manipulated by x and deceived by x of 托尼,神父汤姆 is sworn brother and grandparent of 托尼,神父汤姆 is grandparent and secret crush of 托尼,神父汤姆 is secret crush and adoptive brother of 托尼,,a
+c,a,【神父汤姆】和【弗兰克·比杰利】的关系是什么？,神父汤姆 is employee of 弗兰克·比杰利,神父汤姆 is adoptive daughter of 弗兰克·比杰利,神父汤姆 is girlfriend of 弗兰克·比杰利,神父汤姆 is future mother in law of 弗兰克·比杰利,,a
+c,a,【神父汤姆】和【德雷克·里莫瑞特】的关系是什么？,神父汤姆 is doctor of 德雷克·里莫瑞特,神父汤姆 is guest of 德雷克·里莫瑞特,神父汤姆 is elder brother of 德雷克·里莫瑞特,神父汤姆 is half brother of 德雷克·里莫瑞特,,a
+c,a,【神父汤姆】和【安德鲁·帕洛斯基】的关系是什么？,神父汤姆 is seeker of help from 安德鲁·帕洛斯基,神父汤姆 is creditor of 安德鲁·帕洛斯基,神父汤姆 is subject of investigation for 安德鲁·帕洛斯基,神父汤姆 is step-mother of 安德鲁·帕洛斯基,,a

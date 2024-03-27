@@ -1,0 +1,38 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Lv Mingran?,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Shang Zhi,Hai You,Cheng Ge,Mrs. Tan,Liao Gongzi,a
+a,a,Who killed A masked female corpse?,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+a,a,Who is A masked female corpse?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did A masked female corpse die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing A masked female corpse?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,What person is the perpetrator a masked female corpse?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was A masked female corpse killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was A masked female corpse killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing A masked female corpse,Shang Zhi,Liao Gongzi,Mrs. Tan,Hai You,Cheng Ge,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Cheng Ge,Mrs. Tan,Hai You,Shang Zhi,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is sibling of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is co-wives and grandchild of Luo Hengli,Lv Mingran is grandchild and boyfriend of Luo Hengli,Lv Mingran is boyfriend and biological father of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is thief and bully of Tan Renchang,Lv Mingran is bully and younger sister of Tan Renchang,Lv Mingran is younger sister and adoptive father of Tan Renchang,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is liked by Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is mentor of Cheng Ge,Hong Er is customer of Cheng Ge,Hong Er is daughter in law of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is disliked by Xinya,Hong Er is ex-boyfriend of Xinya,Hong Er is ex-husband of Xinya,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is helped by x and secret crush of Tan Shang Zhi,Tan Renchang is secret crush and friendship of Tan Shang Zhi,Tan Renchang is fond and wife of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is younger sister and attempted murderer of Lv Mingran,Tan Renchang is attempted murderer and secret crush of Lv Mingran,Tan Renchang is secret crush and elder brother of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is master and ex-husband of Cheng Ge,Tan Renchang is ex-husband and fiance of Cheng Ge,Tan Renchang is fiance and seller of Cheng Ge,,a
+c,a,What is the relationship between Mrs. Tan and Shang Zhi?,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is suspicious and subject of investigation for x of Shang Zhi,Mrs. Tan is subject of investigation for x and messenger of Shang Zhi,Mrs. Tan is messenger and guest of Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Mrs. Tan,Mrs. Tan is ex busy and over of Tan Shang Zhi,Ms. Tan is love and product provider of Tan Shang Zhi,Ms. Tan is a product provider and doctor of Tan Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Lv Mingran?,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is patient and unsuccessful helper of Lv Mingran,Mrs. Tan is unsuccessful helper and bully of Lv Mingran,Mrs. Tan is bully and biological mother of Lv Mingran,,a

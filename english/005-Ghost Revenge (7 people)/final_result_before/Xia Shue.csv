@@ -1,0 +1,42 @@
+value,type,question,a,b,c,d,e,truth
+a,a,父亲【Xia Bolong】被谁杀死的？,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,父亲【Xia Bolong】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,c
+b,a,凶手杀父亲【Xia Bolong】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人父亲【Xia Bolong】什么人？,仇人,兄弟,朋友,情人,,b
+b,a,父亲【Xia Bolong】是在哪里被杀死的？,田吉株式会社,自己的房间,擂台上,“嘉善堂”医馆,,b
+b,b,请选出你最怀疑杀死父亲【Xia Bolong】的两个人,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,三叔【Xia Sanhu】被谁杀死的？,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,b
+b,a,三叔【Xia Sanhu】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被腰带勒死的,,d
+b,a,凶手杀三叔【Xia Sanhu】的动机是什么？,情杀,仇杀,利益,大义灭亲,,d
+b,a,凶手是被害人三叔【Xia Sanhu】什么人？,仇人,徒弟,朋友,兄弟,,d
+b,a,三叔【Xia Sanhu】是在哪里被杀死的？,田吉株式会社,自己房里,擂台上,“嘉善堂”医馆,,b
+b,a,三叔【Xia Sanhu】是在何时被杀死的？,今天 (8月3日）18:00-18:10,今天 (8月3日）20:00-20:10,7月30日 18:00-18:10,7月20日 20:00-20:10,,a
+b,b,请选出你最怀疑杀死三叔【Xia Sanhu】的两个人,Yu Zu Chengmu,Xia Zhongpeng,Aming,Duan Yuetong,,a
+a,a,吴伯伯【Wu Baian】被谁杀死的？,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,b
+b,a,吴伯伯【Wu Baian】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,b
+b,a,凶手杀吴伯伯【Wu Baian】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人吴伯伯【Wu Baian】什么人？,仇人,同事,朋友,妻子,,a
+b,a,吴伯伯【Wu Baian】是在哪里被杀死的？,仓库外,芙兰茜西饼店,拳馆,Wu Baian家,,a
+b,a,吴伯伯【Wu Baian】是在何时被杀死的？,7月28日傍晚,7月29日早上,7月29日傍晚,7月30日早上,,c
+b,b,请选出你最怀疑杀死吴伯伯【Wu Baian】的两个人,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,哪件事不是父亲【Xia Bolong】做的?, 有外遇,常去水轩酒楼买醉,云建打擂击败设擂的数名洋武师,有一个外遇的私生子,,c
+b,a,【Duan Yuetong】的亲生父亲是谁？, 父亲【Xia Bolong】,Xia Zhongpeng,Xia Sanhu,Li Zicai,,a
+b,a,是什么阴谋让“夏家拳馆”欠债？,三叔【Xia Sanhu】赌博,三叔【Xia Sanhu】被【Yu Zu Chengmu】和【Aming】联手欺骗买下了假货,父亲【Xia Bolong】的私生子勒索夏家拳馆,夏家拳馆被田吉株式会社打压,,b
+b,a,【Yu Zu Chengmu】是什么人？, “嘉善堂”医馆的Li Zicai的弟弟,田吉株式会社的创办人,Xia Sanhu的日本人同学,父亲【Xia Bolong】的私生子,,a
+b,a,Aming【Luo Ming】的真实身份是什么？, 父亲【Xia Bolong】的私生子,在码头工作的孤儿Luo Ming,“嘉善堂”医馆的Li Zicai的儿子,【Yu Zu Chengmu】的眼线,,c
+b,b,是谁拿走了黄金奖牌？,Yu Zu Chengmu,Aming,Yue Dongwen,Duan Yuetong,,a
+b,a,三叔【Xia Sanhu】如何染上赌瘾？,被【Yu Zu Chengmu】带去赌博,缺钱花,在日本读书的时候很流行赌博,应酬需要,,a
+b,a,【Aming】和【Yu Zu Chengmu】是什么关系？, 叔侄,陌生人,仇人,朋友,,a
+b,a,【Yue Dongwen】在隐瞒什么？, 他的公司卖假药,Wu Baian卖出过能致人死亡的“虫杀灵”,他是杀人凶手,他是Duan Yuetong的亲生父亲,,b
+c,a,吴伯伯【Wu Baian】和【Li Zicai】的关系是什么？,Li Zicai is schoolmate and quest companion of Wu Baian,Wu Baian is employer and future daughter in law of Li Zicai,Wu Baian is future daughter in law and deceived by x of Li Zicai,Wu Baian is deceived by x and patient of Li Zicai,,a
+c,a,吴伯伯【Wu Baian】和【Xia Shue】(你)的关系是什么？,Xia Shue is colleague and information receiver from x of Wu Baian,Wu Baian is grandmother and grandson of Xia Shue,Wu Baian is grandson and grandchild of Xia Shue,Wu Baian is grandchild and perpetrator of Xia Shue,,a
+c,a,吴伯伯【Wu Baian】和【Li Luoming】的关系是什么？,Li Luoming is murderer of Wu Baian,Wu Baian is messenger of Li Luoming,Wu Baian is cousin of Li Luoming,Wu Baian is father in law of Li Luoming,,a
+c,a,三叔【Xia Sanhu】和Aming【Luo Ming】不存在的关系是什么？,Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is twin sister of Luo Ming,,d
+c,a,三叔【Xia Sanhu】和【Yu Zu Chengmu】不存在的关系是什么？,Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is future father in law of Yu Zu Chengmu,,d
+c,a,三叔【Xia Sanhu】和爷爷【Xia Beigui】的关系是什么？,Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is secret crush and lawyer of Xia Beigui,Xia Sanhu is lawyer and doctor of Xia Beigui,Xia Sanhu is doctor and colleague of Xia Beigui,,a
+c,a,二叔【Xia Zhongpeng】和【Xia Shue】(你)不存在的关系是什么？,Xia Shue is niece of Xia Zhongpeng,Xia Shue is student of Xia Zhongpeng,Xia Shue is helped by Xia Zhongpeng,Xia Zhongpeng is secret crush of Xia Shue,,d
+c,a,二叔【Xia Zhongpeng】和父亲【Xia Bolong】不存在的关系是什么？,Xia Bolong is brother of Xia Zhongpeng,Xia Bolong is superior of Xia Zhongpeng,Xia Bolong is victim of Xia Zhongpeng,Xia Zhongpeng is concubine of Xia Bolong,,d
+c,a,二叔【Xia Zhongpeng】和三叔【Xia Sanhu】不存在的关系是什么？,Xia Sanhu is brother of Xia Zhongpeng,Xia Sanhu is helped by Xia Zhongpeng,Xia Sanhu is killed by Xia Zhongpeng,Xia Zhongpeng is lawyer of Xia Sanhu,,d
+c,a,父亲【Xia Bolong】和二叔【Xia Zhongpeng】不存在的关系是什么？,Xia Zhongpeng is brother of Xia Bolong,Xia Zhongpeng is subordinate of Xia Bolong,Xia Zhongpeng is murderer of Xia Bolong,Xia Bolong is ex-girlfriend of Xia Zhongpeng,,d
+c,a,父亲【Xia Bolong】和三叔【Xia Sanhu】不存在的关系是什么？,Xia Sanhu is brother of Xia Bolong,Xia Sanhu is subordinate of Xia Bolong,Xia Sanhu is murderer of Xia Bolong,Xia Bolong is romantic relationships with Xia Sanhu,,d
+c,a,父亲【Xia Bolong】和爷爷【Xia Beigui】的关系是什么？,Xia Beigui is father and mentor of Xia Bolong,Xia Bolong is suspicious and admirer of Xia Beigui,Xia Bolong is admirer and jealous by x of Xia Beigui,Xia Bolong is jealous by x and minion of Xia Beigui,,a

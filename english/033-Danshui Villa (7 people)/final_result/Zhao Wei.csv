@@ -1,0 +1,33 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Yu Fei [Li Yu]?,Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+b,a,How did Yu Fei [Li Yu] die?,Shot to death,Beaten to death with a fist,Killed by explosives,Strangled by a belt,,c
+b,a,What is the motive behind the killer killing Yu Fei [Li Yu]?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Yu Fei [Li Yu]. Who is that?,Enemies,Apprentice,friend,stranger,,d
+b,a,Where was Yu Fei [Li Yu] killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,b
+b,a,When was Yu Fei [Li Yu] killed?,In the early winter of the 26th year of Guangxu reign (1900),"In the 21st year of the Guangxu reign (1895), the 24th day of the second lunar month",In the third year of Xuantong (1911),today,,a
+b,b,Please select the two people you most suspect of killing Yu Fei [Li Yu],Ren Shifu,Zhao Wanlei,Li Yu,Guo Wangshan instructed Qi Yue,,d
+a,a,Who killed Zhao Wanlei?,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,How did Zhao Wanlei die?,Shot to death,Beaten to death with a fist,Killed by explosives,Poisoned to death by poison,,d
+b,a,What is the motive behind the killer killing Zhao Wanlei?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim [Zhao Wanlei]. Who is it?,Enemies,Apprentice,subordinate,stranger,,c
+b,a,Where was Zhao Wanlei killed?,In the manor of Jiaoshangfeng outside Zezhou Prefecture,In the silk shops of the county town,The Arsenal in Hanyang,In Zhao Wanlei's bedroom,,d
+b,b,Please select the two people you most suspect of killing Zhao Wanlei,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,"Who is Zhao Wei, your biological father?",Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,a
+b,a,Who is Zhao Luoyi's biological father?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Emperor Guangxu,,c
+b,a,Who is helping Black Wolf do some secretive business?,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,Did you come here for your royal identity?,Guo Wangshan,Yin Shaoming,"No, no one has yet discovered your identity as a prince","""No, because you have never been a prince, this is just a lie created to comfort your childhood trauma.""",,d
+b,a,What is Yin Shaoming?,People from the Black Wolf Society,A kind-hearted person who mistakenly thought that Zhao Luoyi had been kidnapped and followed over feeling uneasy,Feng Shuangji's cousin and nephew,Zhao Wanlei's subordinates,,c
+b,a,What is the relationship between Yin Shaoming and the butler Feng Shuangji?,Yin Shaoming is Feng Shuangji's son-in-law,Yin Shaoming and Feng Shuangji are strangers,Yin Shaoming's grandfather is Feng Shuangji's master,Yin Shaoming and Feng Shuangji are both members of the Black Wolf Society,,c
+b,a,What is the actual relationship between Zhao Qiu and Qi Yue?,Siblings,Enemies,Apprentice,Father and daughter,,a
+b,a,What is the actual relationship between Zhao Qiu and Zhao Wanlei?,【 Zhao Qiu 】 Unilateral liking 【 Zhao Wanlei 】,【 Zhao Wanlei 】 Unilateral liking 【 Zhao Qiu 】,Zhao Wanlei is just joking about marrying Zhao Qiu,Zhao Wanlei and Zhao Qiu fell in love with each other,,d
+b,a,Who is Shuang Mian Hu?,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,What is the purpose of coming to Danshui Mountain Villa?,Destroy the Zhao family,Discussing business with Zhao Wanlei,Propose to Zhao Wanlei,Find out the truth about the bombing case back then,,a
+c,a,What is the non-existent relationship between the butler Feng Shuangji and Zhao Wanlei?,Zhao Wanlei is victim of Feng Shuangji,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is employer of Feng Shuangji,Feng Shuangji is step-sister of Zhao Wanlei,,d
+c,a,What is the relationship between the butler Feng Shuangji and Ren Shifu?,Ren Shifu is mentor and adoptive father of Feng Shuangji,Feng Shuangji is rival and co-wives of Ren Shifu,Feng Shuangji is co-wives and employee of Ren Shifu,Feng Shuangji is employee and rival in love of Ren Shifu,,a
+c,a,What is the relationship between the butler Feng Shuangji and Zhao Wei?,Zhao Wei is helped by x and master of Feng Shuangji,Feng Shuangji is biological daughter and deceiver of Zhao Wei,Feng Shuangji is deceiver and future relative of Zhao Wei,Feng Shuangji is future relative and son of Zhao Wei,,a
+c,a,What is the relationship between Yu Fei and the butler Feng Shuangji?,Feng Shuangji is extramarital affair with Li Yu,Li Yu is thief of Feng Shuangji,Li Yu is twin brother of Feng Shuangji,Li Yu is murderer of Feng Shuangji,,a
+c,a,What is the relationship between Yu Fei and Zhao Wanlei?,Zhao Wanlei is husband of Li Yu,Li Yu is biological father of Zhao Wanlei,Li Yu is bully of Zhao Wanlei,Li Yu is enemy of Zhao Wanlei,,a
+c,a,What is the relationship between Yu Fei and Zhao Luoyi?,Zhao Luoyi is daughter of Li Yu,Li Yu is seeker of help from Zhao Luoyi,Li Yu is teacher of Zhao Luoyi,Li Yu is extramarital affair with Zhao Luoyi,,a
+c,a,What is the non-existent relationship between Zhao Wanlei and the butler Feng Shuangji?,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is servant of Zhao Wanlei,Feng Shuangji is employee of Zhao Wanlei,Zhao Wanlei is step-sister of Feng Shuangji,,d
+c,a,What is the non-existent relationship between Zhao Wanlei and Guo Wangshan?,Guo Wangshan is Business Partner of X,Guo Wangshan is Attempted Murderer of X,Guo Wangshan is Perpetrator of X's family,Zhao Wanlei is future son in law of Guo Wangshan,,d
+c,a,What is the non-existent relationship between Zhao Wanlei and Qi Yue?,Qi Yue is employee of Zhao Wanlei,Qi Yue is servant of Zhao Wanlei,Qi Yue is Perpetrator of X's family,Zhao Wanlei is helper of Qi Yue,,d

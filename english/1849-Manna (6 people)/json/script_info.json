@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "Manna",
+    "character_name": [
+        "Mrs. Tan",
+        "Shang Zhi",
+        "Hai You",
+        "Liao Gongzi",
+        "Mrs. Wei",
+        "Cheng Ge"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

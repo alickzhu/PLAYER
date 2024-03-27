@@ -1,0 +1,45 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Zhao Cishan?,Zhang Villager,Chief Wang,Hu Investigate,,,b
+b,a,How did Zhao Cishan die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Killed with a gun,,c
+b,a,What was the motive behind the killer killing Zhao Cishan?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Zhao Cishan. Who is it?,Son,father,lawyer,Enemies,,d
+b,a,Where was Zhao Cishan killed?,In his own home,ashore ,On deck,Riverside,,a
+b,a,When was Zhao Cishan killed?,"May 14th, 2032, after 9pm","May 1st, 2032 daytime","Early morning on May 14, 2032","May 14, 2032 daytime",,a
+b,b,Please select the two people you most suspect of killing Zhao Cishan,Zhang Villager,Chief Wang,Hu Investigate,commit suicide,,b
+b,a,Who is a killer?,Zhang Villager,Chief Wang,Hu Investigate,,,a
+c,a,What is the relationship between Zhao Cishan and Officer Li?,Officer Li is attempted murderer and dislike of Zhao Cishan,Zhao Cishan is adoptive sister and twin sister of Officer Li,Zhao Cishan is twin sister and admired by x of Officer Li,Zhao Cishan is admired by x and informant of Officer Li,,a
+c,a,What is the relationship between Zhao Cishan and Hu Investigate?,Hu Investigate is hate and dislike of Zhao Cishan,Zhao Cishan is romantic relationships with x and tour guide of Hu Investigate,Zhao Cishan is tour guide and guest of Hu Investigate,Zhao Cishan is guest and minion of Hu Investigate,,a
+c,a,What is the relationship between Zhao Cishan and Chief Wang?,Chief Wang is hate and murderer of Zhao Cishan,Zhao Cishan is daughter and lover of Chief Wang,Zhao Cishan is lover and adoptive son of Chief Wang,Zhao Cishan is adoptive son and step-mother of Chief Wang,,a
+a,a,Who killed Zhao Cishan?,Officer Li,Chief Wang,Hu Investigate,,,b
+b,a,How did Zhao Cishan die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Killed with a gun,,c
+b,a,What was the motive behind the killer killing Zhao Cishan?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Zhao Cishan. Who is it?,Son,father,lawyer,Enemies,,d
+b,a,Where was Zhao Cishan killed?,In his own home,ashore ,On deck,Riverside,,a
+b,a,When was Zhao Cishan killed?,"May 14th, 2032, after 9pm","May 1st, 2032 daytime","Early morning on May 14, 2032","May 14, 2032 daytime",,a
+b,b,Please select the two people you most suspect of killing Zhao Cishan,Officer Li,Chief Wang,Hu Investigate,commit suicide,,b
+c,a,What is the relationship between Chief Wang and Hu Investigate?,Hu Investigate is dislike and acquaintance of Chief Wang,Chief Wang is creditor and secret admirer of Hu Investigate,Chief Wang is secret admirer and adoptive daughter of Hu Investigate,Chief Wang is adoptive daughter and authority over x of Hu Investigate,,a
+c,a,What is the relationship between Chief Wang and Zhao Cishan?,Zhao Cishan is victim and hate of Chief Wang,Chief Wang is concubine and minion of Zhao Cishan,Chief Wang is minion and step-daughter of Zhao Cishan,Chief Wang is step-daughter and ex-girlfriend of Zhao Cishan,,a
+c,a,What is the relationship between Chief Wang and Zhang Villager?,Zhang Villager is acquaintance of Chief Wang,Chief Wang is mother in law of Zhang Villager,Chief Wang is master of Zhang Villager,Chief Wang is unsuccessful helper of Zhang Villager,,a
+c,a,What is the relationship between Zhao Cishan and Officer Li?,Officer Li is attempted murderer and dislike of Zhao Cishan,Zhao Cishan is son and step-son of Officer Li,Zhao Cishan is step-son and saviour of Officer Li,Zhao Cishan is saviour and elder brother of Officer Li,,a
+c,a,What is the relationship between Zhao Cishan and Hu Investigate?,Hu Investigate is hate and dislike of Zhao Cishan,Zhao Cishan is future daughter in law and landlord of Hu Investigate,Zhao Cishan is landlord and sibling of Hu Investigate,Zhao Cishan is sibling and grandson of Hu Investigate,,a
+c,a,What is the relationship between Zhao Cishan and Chief Wang?,Chief Wang is hate and murderer of Zhao Cishan,Zhao Cishan is mother in law and sister of Chief Wang,Zhao Cishan is sister and adoptive father of Chief Wang,Zhao Cishan is adoptive father and friend of Chief Wang,,a
+a,a,Who killed Zhao Cishan?,Zhang Villager,Chief Wang,Officer Li,,,b
+b,a,How did Zhao Cishan die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Killed with a gun,,c
+b,a,What was the motive behind the killer killing Zhao Cishan?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Zhao Cishan. Who is it?,Son,father,lawyer,Enemies,,d
+b,a,Where was Zhao Cishan killed?,In his own home,ashore ,On deck,Riverside,,a
+b,a,When was Zhao Cishan killed?,"May 14th, 2032, after 9pm","May 1st, 2032 daytime","Early morning on May 14, 2032","May 14, 2032 daytime",,a
+b,b,Please select the two people you most suspect of killing Zhao Cishan,Zhang Villager,Chief Wang,Officer Li,commit suicide,,b
+b,a,Who is a killer?,Zhang Villager,Chief Wang,Officer Li,,,a
+c,a,What is the relationship between Chief Wang and Hu Investigate?,Hu Investigate is dislike and acquaintance of Chief Wang,Chief Wang is future relative and biological mother of Hu Investigate,Chief Wang is biological mother and elder brother of Hu Investigate,Chief Wang is elder brother and brother of Hu Investigate,,a
+c,a,What is the relationship between Chief Wang and Zhao Cishan?,Zhao Cishan is victim and hate of Chief Wang,Chief Wang is girlfriend and step-son of Zhao Cishan,Chief Wang is step-son and tour guide of Zhao Cishan,Chief Wang is tour guide and twin sister of Zhao Cishan,,a
+c,a,What is the relationship between Chief Wang and Zhang Villager?,Zhang Villager is acquaintance of Chief Wang,Chief Wang is rebellion against Zhang Villager,Chief Wang is mother of Zhang Villager,Chief Wang is killed by Zhang Villager,,a
+c,a,What is the relationship between Zhao Cishan and Officer Li?,Officer Li is attempted murderer and dislike of Zhao Cishan,Zhao Cishan is step-daughter and lawyer of Officer Li,Zhao Cishan is lawyer and acquaintance of Officer Li,Zhao Cishan is acquaintance and lover of Officer Li,,a
+c,a,What is the relationship between Zhao Cishan and Hu Investigate?,Hu Investigate is hate and dislike of Zhao Cishan,Zhao Cishan is step-father and seller of Hu Investigate,Zhao Cishan is seller and son in law of Hu Investigate,Zhao Cishan is son in law and possibly family of Hu Investigate,,a
+c,a,What is the relationship between Zhao Cishan and Chief Wang?,Chief Wang is hate and murderer of Zhao Cishan,Zhao Cishan is host and romantic relationships with x of Chief Wang,Zhao Cishan is romantic relationships with x and seeker of help from x of Chief Wang,Zhao Cishan is seeker of help from x and mother of Chief Wang,,a
+c,a,What is the relationship between Zhang Villager and his father?,Zhang Villager's father is son of Zhang Villager,Zhang Villager is the teacher of Zhang Villager's father,Zhang Villager is received by his father,Zhang Villager is ex-wife of his father,,a
+c,a,What is the relationship between Zhang Villager and Chief Wang?,Chief Wang is acquaintance of Zhang Villager,Zhang Villager is ex-wife of Chief Wang,Zhang Villager is husband of Chief Wang,Zhang Villager is adoptive son of Chief Wang,,a
+c,a,What is the relationship between Zhang Villager and Hu Research?,Hu Research is acquaintance of Zhang Villager,Zhang Villager is manipulated by Hu Research,Zhang Villager is ex-girlfriend of Hu Research,Zhang Villager is biological mother of Hu Research,,a
+c,a,What is the relationship between Zhao Cishan and Officer Li?,Officer Li is attempted murderer and dislike of Zhao Cishan,Zhao Cishan is biological daughter and grandfather of Officer Li,Zhao Cishan is grandfather and relative of Officer Li,Zhao Cishan is relative and guest of Officer Li,,a
+c,a,What is the relationship between Zhao Cishan and Hu Investigate?,Hu Investigate is hate and dislike of Zhao Cishan,Zhao Cishan is younger sister and host of Hu Investigate,Zhao Cishan is host and seller of Hu Investigate,Zhao Cishan is seller and neighbour of Hu Investigate,,a
+c,a,What is the relationship between Zhao Cishan and Chief Wang?,Chief Wang is hate and murderer of Zhao Cishan,Zhao Cishan is step-brother and grandmother of Chief Wang,Zhao Cishan is grandmother and future mother in law of Chief Wang,Zhao Cishan is future mother in law and minion of Chief Wang,,a

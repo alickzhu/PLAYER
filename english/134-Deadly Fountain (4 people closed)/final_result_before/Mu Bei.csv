@@ -1,0 +1,12 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Li Guofu被谁杀死的？,He Laoliu,Zhang Jie,Neighbor Wang,自杀,,b
+b,a,Li Guofu是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,d
+b,a,Li Guofu的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人Li Guofu什么人？,律师,亲戚,儿子,同伙（下级）,,d
+b,a,你知道震惊全城的连环碎尸强奸案的凶手是谁吗,He Laoliu,Zhang Jie,Neighbor Wang,不是已有选项中的人,,a
+b,b,请选出你最怀疑杀死Li Guofu的两个人,He Laoliu,Zhang Jie,Neighbor Wang,自杀,,b
+b,a,Li Guofu是在哪里被杀死的？,在喷泉边上,在警卫室,在小区门口,在清洁室,,a
+b,a,Li Guofu是什么时候被杀死的？,22:10左右,22点之前,凌晨0点,上午10点,,a
+c,a,【Li Guofu】和【Zhang Jie】不存在的关系是什么？,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is admirer of Zhang Jie,,d
+c,a,【Li Guofu】和【Mu Bei】不存在的关系是什么？,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is adoptive sister of Mu Bei,,d
+c,a,【Li Guofu】和【He Laoliu】的关系是什么？,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is step-brother and future daughter in law of He Laoliu,Li Guofu is future daughter in law and fiance of He Laoliu,Li Guofu is fiance and relative of He Laoliu,,a

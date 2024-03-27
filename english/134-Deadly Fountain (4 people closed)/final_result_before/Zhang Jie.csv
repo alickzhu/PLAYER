@@ -1,0 +1,5 @@
+value,type,question,a,b,c,d,e,truth
+b,b,你知道震惊全城的连环碎尸强奸案的凶手是谁吗,He Laoliu,Mu Bei,Neighbor Wang,不是已有选项中的人,,a
+c,a,【Li Guofu】和【Zhang Jie】不存在的关系是什么？,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is ex-girlfriend of Zhang Jie,,d
+c,a,【Li Guofu】和【Mu Bei】不存在的关系是什么？,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is student of Mu Bei,,d
+c,a,【Li Guofu】和【He Laoliu】的关系是什么？,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is fondness and boyfriend of He Laoliu,Li Guofu is boyfriend and half brother of He Laoliu,Li Guofu is half brother and brother of He Laoliu,,a

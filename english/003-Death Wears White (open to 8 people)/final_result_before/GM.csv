@@ -1,0 +1,211 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+c,a,【Elaine Carter】和【Dr. Paloski】不存在的关系是什么？,Elaine Carter is mentor of Dr. Paloski,Elaine Carter is colleague of Dr. Paloski,Elaine Carter is subject of investigation for Dr. Paloski,Elaine Carter is step-sister of Dr. Paloski,,d
+c,a,【Elaine Carter】和【James Lai Li】的关系是什么？,Elaine Carter is suspected by x and subject of investigation for x of James Lai Li,Elaine Carter is cousin and employer of James Lai Li,Elaine Carter is employer and student of James Lai Li,Elaine Carter is student and grandson of James Lai Li,,a
+c,a,【Elaine Carter】和【Hans Li Morette】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Hans Li Morette,Elaine Carter is informant and ex-romantic relationships with x of Hans Li Morette,Elaine Carter is ex-romantic relationships with x and classmate of Hans Li Morette,Elaine Carter is classmate and brother of Hans Li Morette,,a
+c,a,【Elaine Carter】和【Drake Li Morette】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Drake Li Morette,Elaine Carter is step-father and son of Drake Li Morette,Elaine Carter is son and future son in law of Drake Li Morette,Elaine Carter is future son in law and adoptive brother of Drake Li Morette,,a
+c,a,【Elaine Carter】和【Sylvia Costa】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Sylvia Costa,Elaine Carter is co-wives and future son in law of Sylvia Costa,Elaine Carter is future son in law and future daughter in law of Sylvia Costa,Elaine Carter is future daughter in law and informant of Sylvia Costa,,a
+c,a,【Tony】和【Frank Bijeli】的关系是什么？,Tony is brother of Frank Bijeli,Tony is buyer of Frank Bijeli,Tony is manipulator of Frank Bijeli,Tony is adversary of Frank Bijeli,,a
+c,a,【Tony】和【Father Tom】的关系是什么？,Tony is manipulator of Father Tom,Tony is biological daughter of Father Tom,Tony is adoptive sister of Father Tom,Tony is sister in law of Father Tom,,a
+c,a,【Tony】和【Tony Bijeli】的关系是什么？,Tony is same person as Tony Bijeli (different reference),Tony is helped by Tony Bijeli,Tony is daughter of Tony Bijeli,Tony is helper of Tony Bijeli,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is relative of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is co-wives of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is messenger of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is guest of Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is half brother of 吉姆梅森,,d
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+a,a,医院里是谁在帮助器官贩子贩卖器官?, Drake Li Morette,护士长 Sylvia Costa,没有人,Andrew Paloski,,b
+a,a,谁是器官贩子?, Tony•比杰利,Father Tom,院长【Richard Berkeley】,James Lai Li,,d
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+c,a,【Frank Bijeli】和【Tony】的关系是什么？,Frank Bijeli is brother of Tony,Frank Bijeli is student of Tony,Frank Bijeli is creditor of Tony,Frank Bijeli is host of Tony,,a
+c,a,【Frank Bijeli】和【Father Tom】的关系是什么？,Frank Bijeli is employer of Father Tom,Frank Bijeli is sworn brother of Father Tom,Frank Bijeli is subject of investigation for Father Tom,Frank Bijeli is secret crush of Father Tom,,a
+c,a,【Frank Bijeli】和【Drake Li Morette】的关系是什么？,Frank Bijeli is doctor of Drake Li Morette,Frank Bijeli is niece of Drake Li Morette,Frank Bijeli is quest companion of Drake Li Morette,Frank Bijeli is hate of Drake Li Morette,,a
+c,a,【Tony】和【Frank Bijeli】的关系是什么？,Tony is brother of Frank Bijeli,Tony is admirer of Frank Bijeli,Tony is informant of Frank Bijeli,Tony is secret lover of Frank Bijeli,,a
+c,a,【Tony】和【Father Tom】的关系是什么？,Tony is manipulator of Father Tom,Tony is fiance of Father Tom,Tony is adoptive daughter of Father Tom,Tony is secret lover of Father Tom,,a
+c,a,【Tony】和【Tony Bijeli】的关系是什么？,Tony is same person as Tony Bijeli (different reference),Tony is boyfriend of Tony Bijeli,Tony is murderer of Tony Bijeli,Tony is subject of investigation for Tony Bijeli,,a
+c,a,【Head Nurse Costa】和【Hans Li Morette】不存在的关系是什么？,Head Nurse Costa is colleague of Hans Li Morette,Head Nurse Costa is manipulated by Hans Li Morette,Head Nurse Costa is deceived by Hans Li Morette,Head Nurse Costa is information receiver from Hans Li Morette,,d
+c,a,【Head Nurse Costa】和【James Lai Li】的关系是什么？,Head Nurse Costa is creditor and manipulator of James Lai Li,Head Nurse Costa is younger sister and grandchild of James Lai Li,Head Nurse Costa is grandchild and daughter of James Lai Li,Head Nurse Costa is daughter and girlfriend of James Lai Li,,a
+c,a,【Head Nurse Costa】和【Gale Li Morette】的关系是什么？,Head Nurse Costa is lawyer of Gale Li Morette,Head Nurse Costa is grandparent of Gale Li Morette,Head Nurse Costa is unsuccessful helper of Gale Li Morette,Head Nurse Costa is concubine of Gale Li Morette,,a
+c,a,【Richard Berkeley】和【Drake Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Drake Li Morette,Richard Berkeley is bully and rival of Drake Li Morette,Richard Berkeley is rival and bully of Drake Li Morette,Richard Berkeley is bully and brother of Drake Li Morette,,a
+c,a,【Richard Berkeley】和【Hans Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Hans Li Morette,Richard Berkeley is information receiver from x and twin brother of Hans Li Morette,Richard Berkeley is twin brother and admired by x of Hans Li Morette,Richard Berkeley is admired by x and thief of Hans Li Morette,,a
+c,a,【Richard Berkeley】和【伊莱恩·卡特尔】的关系是什么？,Richard Berkeley is quest companion of 伊莱恩·卡特尔,Richard Berkeley is ex-romantic relationships with 伊莱恩·卡特尔,Richard Berkeley is betrayed by 伊莱恩·卡特尔,Richard Berkeley is future mother in law of 伊莱恩·卡特尔,,a
+c,a,【Gale Li Morette】和【Drake Li Morette】不存在的关系是什么？,Gale Li Morette is extramarital affair with Drake Li Morette,Gale Li Morette is brother in law of Drake Li Morette,Gale Li Morette is victim of Drake Li Morette,Gale Li Morette is mentor of Drake Li Morette,,d
+c,a,【Gale Li Morette】和【Hans Li Morette】的关系是什么？,Gale Li Morette is husband and betrayed by x of Hans Li Morette,Gale Li Morette is future mother in law and adoptive mother of Hans Li Morette,Gale Li Morette is adoptive mother and elder sister of Hans Li Morette,Gale Li Morette is elder sister and granddaughter of Hans Li Morette,,a
+c,a,【Gale Li Morette】和【James Lai Li】的关系是什么？,Gale Li Morette is helper and customer of James Lai Li,Gale Li Morette is future relative and admired by x of James Lai Li,Gale Li Morette is admired by x and step-brother of James Lai Li,Gale Li Morette is step-brother and daughter of James Lai Li,,a
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is concubine of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is step-mother of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is product provider of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is helper of Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is grandmother of 吉姆梅森,,d
+c,a,【Gale Li Morette】和【Drake Li Morette】不存在的关系是什么？,Gale Li Morette is extramarital affair with Drake Li Morette,Gale Li Morette is brother in law of Drake Li Morette,Gale Li Morette is victim of Drake Li Morette,Gale Li Morette is schoolmate of Drake Li Morette,,d
+c,a,【Gale Li Morette】和【Hans Li Morette】的关系是什么？,Gale Li Morette is husband and betrayed by x of Hans Li Morette,Gale Li Morette is younger brother and debtor of Hans Li Morette,Gale Li Morette is debtor and uncle of Hans Li Morette,Gale Li Morette is uncle and information receiver from x of Hans Li Morette,,a
+c,a,【Gale Li Morette】和【James Lai Li】的关系是什么？,Gale Li Morette is helper and customer of James Lai Li,Gale Li Morette is father and murderer of James Lai Li,Gale Li Morette is murderer and step-mother of James Lai Li,Gale Li Morette is step-mother and twin sister of James Lai Li,,a
+c,a,【Gale Li Morette】和【Sylvia Costa】的关系是什么？,Gale Li Morette is customer of Sylvia Costa,Gale Li Morette is neighbour of Sylvia Costa,Gale Li Morette is Sylvia Costa's victim's family,Gale Li Morette is girlfriend of Sylvia Costa,,a
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Elaine Carter】和【Dr. Paloski】不存在的关系是什么？,Elaine Carter is mentor of Dr. Paloski,Elaine Carter is colleague of Dr. Paloski,Elaine Carter is subject of investigation for Dr. Paloski,Elaine Carter is fiancee of Dr. Paloski,,d
+c,a,【Elaine Carter】和【James Lai Li】的关系是什么？,Elaine Carter is suspected by x and subject of investigation for x of James Lai Li,Elaine Carter is future relative and acquaintance of James Lai Li,Elaine Carter is acquaintance and helped by x of James Lai Li,Elaine Carter is helped by x and relative of James Lai Li,,a
+c,a,【Elaine Carter】和【Hans Li Morette】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Hans Li Morette,Elaine Carter is adoptive mother and aunt of Hans Li Morette,Elaine Carter is aunt and sister of Hans Li Morette,Elaine Carter is sister and concubine of Hans Li Morette,,a
+c,a,【Elaine Carter】和【Drake Li Morette】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Drake Li Morette,Elaine Carter is uncle and possibly family of Drake Li Morette,Elaine Carter is possibly family and daughter in law of Drake Li Morette,Elaine Carter is daughter in law and half sister of Drake Li Morette,,a
+c,a,【Elaine Carter】和【Sylvia Costa】的关系是什么？,Elaine Carter is colleague and subject of investigation for x of Sylvia Costa,Elaine Carter is romantic relationships with x and biological father of Sylvia Costa,Elaine Carter is biological father and friend of Sylvia Costa,Elaine Carter is friend and elder brother of Sylvia Costa,,a
+c,a,【Drake Li Morette】和【Hans Li Morette】不存在的关系是什么？,Drake Li Morette is colleague of Hans Li Morette,Drake Li Morette is brother of Hans Li Morette,Drake Li Morette is rival in love of Hans Li Morette,Drake Li Morette is helper of Hans Li Morette,,d
+c,a,【Drake Li Morette】和【Gale Li Morette】的关系是什么？,Drake Li Morette is extramarital affair with x and sister in law of Gale Li Morette,Drake Li Morette is sworn brother and attempted perpetrator of Gale Li Morette,Drake Li Morette is attempted perpetrator and employee of Gale Li Morette,Drake Li Morette is employee and informant of Gale Li Morette,,a
+c,a,【Drake Li Morette】和【Richard Berkeley】的关系是什么？,Drake Li Morette is superior and colleague of Richard Berkeley,Drake Li Morette is future mother in law and step-son of Richard Berkeley,Drake Li Morette is step-son and in the lawsuit against x of Richard Berkeley,Drake Li Morette is in the lawsuit against x and schoolmate of Richard Berkeley,,a
+c,a,【Drake Li Morette】和【Andrew Paloski】的关系是什么？,Drake Li Morette is colleague of Andrew Paloski,Drake Li Morette is jealous by Andrew Paloski,Drake Li Morette is biological daughter of Andrew Paloski,Drake Li Morette is victim of Andrew Paloski,,a
+c,a,【Drake Li Morette】和【伊莱恩·卡特尔】的关系是什么？,Drake Li Morette is colleague of 伊莱恩·卡特尔,Drake Li Morette is daughter in law of 伊莱恩·卡特尔,Drake Li Morette is adoptive sister of 伊莱恩·卡特尔,Drake Li Morette is bully of 伊莱恩·卡特尔,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is biological mother of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is aunt of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is half brother of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is quest companion of Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is fondness of 吉姆梅森,,d
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Drake Li Morette】和【Hans Li Morette】不存在的关系是什么？,Drake Li Morette is colleague of Hans Li Morette,Drake Li Morette is brother of Hans Li Morette,Drake Li Morette is rival in love of Hans Li Morette,Drake Li Morette is acquaintance of Hans Li Morette,,d
+c,a,【Drake Li Morette】和【Gale Li Morette】的关系是什么？,Drake Li Morette is extramarital affair with x and sister in law of Gale Li Morette,Drake Li Morette is murderer and patient of Gale Li Morette,Drake Li Morette is patient and subject of investigation for x of Gale Li Morette,Drake Li Morette is subject of investigation for x and servant of Gale Li Morette,,a
+c,a,【Drake Li Morette】和【Richard Berkeley】的关系是什么？,Drake Li Morette is superior and colleague of Richard Berkeley,Drake Li Morette is teacher and deceiver of Richard Berkeley,Drake Li Morette is deceiver and granddaughter of Richard Berkeley,Drake Li Morette is granddaughter and relative of Richard Berkeley,,a
+c,a,【Drake Li Morette】和【Andrew Paloski】的关系是什么？,Drake Li Morette is colleague of Andrew Paloski,Drake Li Morette is betrayed by Andrew Paloski,Drake Li Morette is jealous of Andrew Paloski,Drake Li Morette is friend of Andrew Paloski,,a
+c,a,【Drake Li Morette】和【伊莱恩·卡特尔】的关系是什么？,Drake Li Morette is colleague of 伊莱恩·卡特尔,Drake Li Morette is helper of 伊莱恩·卡特尔,Drake Li Morette is betrayed by 伊莱恩·卡特尔,Drake Li Morette is acquaintance of 伊莱恩·卡特尔,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is extramarital affair with Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is brother in law of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is quest companion of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is secret admirer of Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is admired by 吉姆梅森,,d
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Tony】和【Frank Bijeli】的关系是什么？,Tony is brother of Frank Bijeli,Tony is liked by Frank Bijeli,Tony is landlord of Frank Bijeli,Tony is colleague of Frank Bijeli,,a
+c,a,【Tony】和【Father Tom】的关系是什么？,Tony is manipulator of Father Tom,Tony is authority over Father Tom,Tony is romantic relationships with Father Tom,Tony is mother in law of Father Tom,,a
+c,a,【Tony】和【Tony Bijeli】的关系是什么？,Tony is same person as Tony Bijeli (different reference),Tony is brother of Tony Bijeli,Tony is niece of Tony Bijeli,Tony is doctor of Tony Bijeli,,a
+c,a,【Richard Berkeley】和【Andrew Paloski】的关系是什么？,Richard Berkeley is subordinate and colleague of Andrew Paloski,Richard Berkeley is thief and elder sister of Andrew Paloski,Richard Berkeley is elder sister and granddaughter of Andrew Paloski,Richard Berkeley is granddaughter and younger brother of Andrew Paloski,,a
+c,a,【Richard Berkeley】和【Sylvia Costa】的关系是什么？,Richard Berkeley is subordinate and colleague of Sylvia Costa,Richard Berkeley is killed by x and informant of Sylvia Costa,Richard Berkeley is informant and jealous of Sylvia Costa,Richard Berkeley is jealous and son in law of Sylvia Costa,,a
+c,a,【Richard Berkeley】和【Drake Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Drake Li Morette,Richard Berkeley is adoptive brother and biological son of Drake Li Morette,Richard Berkeley is biological son and hate of Drake Li Morette,Richard Berkeley is hate and thief of Drake Li Morette,,a
+c,a,【Richard Berkeley】和【Hans Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Hans Li Morette,Richard Berkeley is manipulator and adoptive father of Hans Li Morette,Richard Berkeley is adoptive father and son in law of Hans Li Morette,Richard Berkeley is son in law and disliked by x of Hans Li Morette,,a
+c,a,【Richard Berkeley】和【伊莱恩·卡特尔】的关系是什么？,Richard Berkeley is quest companion of 伊莱恩·卡特尔,Richard Berkeley is suspected by 伊莱恩·卡特尔,Richard Berkeley is rival of 伊莱恩·卡特尔,Richard Berkeley is master of 伊莱恩·卡特尔,,a
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is possibly family of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is step-sister of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is tenant of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is extramarital affair with Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is quest companion of 吉姆梅森,,d
+c,a,【Richard Berkeley】和【Andrew Paloski】的关系是什么？,Richard Berkeley is subordinate and colleague of Andrew Paloski,Richard Berkeley is manipulated by x and future relative of Andrew Paloski,Richard Berkeley is future relative and hated by x of Andrew Paloski,Richard Berkeley is hated by x and step-father of Andrew Paloski,,a
+c,a,【Richard Berkeley】和【Sylvia Costa】的关系是什么？,Richard Berkeley is subordinate and colleague of Sylvia Costa,Richard Berkeley is enemy and sibling of Sylvia Costa,Richard Berkeley is sibling and student of Sylvia Costa,Richard Berkeley is student and deceiver of Sylvia Costa,,a
+c,a,【Richard Berkeley】和【Drake Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Drake Li Morette,Richard Berkeley is ex-girlfriend and future daughter in law of Drake Li Morette,Richard Berkeley is future daughter in law and admired by x of Drake Li Morette,Richard Berkeley is admired by x and murderer of Drake Li Morette,,a
+c,a,【Richard Berkeley】和【Hans Li Morette】的关系是什么？,Richard Berkeley is subordinate and colleague of Hans Li Morette,Richard Berkeley is bully and suspect to x of Hans Li Morette,Richard Berkeley is suspect to x and suspected by x of Hans Li Morette,Richard Berkeley is suspected by x and brother in law of Hans Li Morette,,a
+c,a,【Richard Berkeley】和【伊莱恩·卡特尔】的关系是什么？,Richard Berkeley is quest companion of 伊莱恩·卡特尔,Richard Berkeley is ex-girlfriend of 伊莱恩·卡特尔,Richard Berkeley is product provider of 伊莱恩·卡特尔,Richard Berkeley is husband of 伊莱恩·卡特尔,,a
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Frank Bijeli】和【Tony】的关系是什么？,Frank Bijeli is brother of Tony,Frank Bijeli is fiancee of Tony,Frank Bijeli is rival of Tony,Frank Bijeli is lover of Tony,,a
+c,a,【Frank Bijeli】和【Father Tom】的关系是什么？,Frank Bijeli is employer of Father Tom,Frank Bijeli is teacher of Father Tom,Frank Bijeli is half brother of Father Tom,Frank Bijeli is informant of Father Tom,,a
+c,a,【Frank Bijeli】和【Drake Li Morette】的关系是什么？,Frank Bijeli is doctor of Drake Li Morette,Frank Bijeli is brother of Drake Li Morette,Frank Bijeli is grandchild of Drake Li Morette,Frank Bijeli is daughter in law of Drake Li Morette,,a
+c,a,【Tony】和【Frank Bijeli】的关系是什么？,Tony is brother of Frank Bijeli,Tony is spy of Frank Bijeli,Tony is admirer of Frank Bijeli,Tony is secret lover of Frank Bijeli,,a
+c,a,【Tony】和【Father Tom】的关系是什么？,Tony is manipulator of Father Tom,Tony is seller of Father Tom,Tony is crime partner of Father Tom,Tony is father in law of Father Tom,,a
+c,a,【Tony】和【Tony Bijeli】的关系是什么？,Tony is same person as Tony Bijeli (different reference),Tony is rival in love of Tony Bijeli,Tony is subject of investigation for Tony Bijeli,Tony is crime partner of Tony Bijeli,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Hans Li Morette is colleague of Andrew Paloski,Hans Li Morette is mentor of Andrew Paloski,Hans Li Morette is jealous of Andrew Paloski,Hans Li Morette is future daughter in law of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Hans Li Morette is colleague of Sylvia Costa,Hans Li Morette is manipulator of Sylvia Costa,Hans Li Morette is deceiver of Sylvia Costa,Hans Li Morette is seeker of help from Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Hans Li Morette is wife of Gale Li Morette,Hans Li Morette is attempted murderer of Gale Li Morette,Hans Li Morette is betrayer of Gale Li Morette,Hans Li Morette is step-father of Gale Li Morette,,d
+c,a,【Hans Li Morette】和【Drake Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Hans Li Morette is ex-husband of Drake Li Morette,,d
+c,a,【Hans Li Morette】和【吉姆梅森】不存在的关系是什么？,Hans Li Morette is in the lawsuit against 吉姆梅森,Hans Li Morette is victim of 吉姆梅森,Hans Li Morette is patient of 吉姆梅森,Hans Li Morette is fiancee of 吉姆梅森,,d
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Frank Bijeli】的真实身份是什么?, 杀人凶手,卧底警察,病人,汤姆神父的托,,d
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Frank Bijeli】和【Tony】的关系是什么？,Frank Bijeli is brother of Tony,Frank Bijeli is authority over Tony,Frank Bijeli is subordinate of Tony,Frank Bijeli is betrayer of Tony,,a
+c,a,【Frank Bijeli】和【Father Tom】的关系是什么？,Frank Bijeli is employer of Father Tom,Frank Bijeli is rival in love of Father Tom,Frank Bijeli is in the lawsuit against Father Tom,Frank Bijeli is Father Tom's victim's family,,a
+c,a,【Frank Bijeli】和【Drake Li Morette】的关系是什么？,Frank Bijeli is doctor of Drake Li Morette,Frank Bijeli is rebellion against Drake Li Morette,Frank Bijeli is grandchild of Drake Li Morette,Frank Bijeli is crime partner of Drake Li Morette,,a
+c,a,【Father Tom】和【Tony】的关系是什么？,Father Tom is manipulated by x and deceived by x of Tony,Father Tom is sworn brother and grandparent of Tony,Father Tom is grandparent and secret crush of Tony,Father Tom is secret crush and adoptive brother of Tony,,a
+c,a,【Father Tom】和【Frank Bijeli】的关系是什么？,Father Tom is employee of Frank Bijeli,Father Tom is adoptive daughter of Frank Bijeli,Father Tom is girlfriend of Frank Bijeli,Father Tom is future mother in law of Frank Bijeli,,a
+c,a,【Father Tom】和【Drake Li Morette】的关系是什么？,Father Tom is doctor of Drake Li Morette,Father Tom is guest of Drake Li Morette,Father Tom is elder brother of Drake Li Morette,Father Tom is half brother of Drake Li Morette,,a
+c,a,【Father Tom】和【Andrew Paloski】的关系是什么？,Father Tom is seeker of help from Andrew Paloski,Father Tom is creditor of Andrew Paloski,Father Tom is subject of investigation for Andrew Paloski,Father Tom is step-mother of Andrew Paloski,,a

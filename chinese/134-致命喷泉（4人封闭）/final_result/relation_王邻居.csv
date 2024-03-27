@@ -1,0 +1,4 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【李国富】和【张洁】不存在的关系是什么？,张洁 is subordinate of 李国富,张洁 is dislike of 李国富,张洁 is rival in love of 李国富,李国富 is mother in law of 张洁,,d
+c,a,【李国富】和【慕北】不存在的关系是什么？,慕北 is subordinate of 李国富,慕北 is suspicious of 李国富,慕北 is romantic relationships with 李国富,李国富 is twin brother of 慕北,,d
+c,a,【李国富】和【何老六】的关系是什么？,何老六 is subordinate and crime partner of 李国富,李国富 is romantic relationships with x and half brother of 何老六,李国富 is half brother and future daughter in law of 何老六,李国富 is future daughter in law and dislike of 何老六,,a

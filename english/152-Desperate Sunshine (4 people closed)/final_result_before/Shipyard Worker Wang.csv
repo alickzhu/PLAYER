@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Boss Yang被谁杀死的？,First Mate Zhang,Ship Doctor Ling,Secretary Wen,,,a
+b,a,Boss Yang是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,b
+b,a,凶手杀Boss Yang的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人Boss Yang什么人？,律师,亲戚,儿子,商业合作伙伴,,d
+b,a,Boss Yang是在哪里被杀死的？,甲板上,岸边,酒吧,自己的房间,,d
+b,a,Boss Yang是什么时候被杀死的？,22:10左右,凌晨1点,上午10点,晚上8点,,a
+b,b,请选出你最怀疑杀死Boss Yang的两个人,First Mate Zhang,Ship Doctor Ling,Secretary Wen,,,a
+c,a,【First Mate Zhang】和【Ship Doctor Ling】不存在的关系是什么？,Ship Doctor Ling is employee of First Mate Zhang,Ship Doctor Ling is fondness of First Mate Zhang,Ship Doctor Ling is colleague of First Mate Zhang,First Mate Zhang is murderer of Ship Doctor Ling,,d
+c,a,【First Mate Zhang】和【Boss Yang】的关系是什么？,Boss Yang is business partner and victim of First Mate Zhang,First Mate Zhang is saved by x and biological son of Boss Yang,First Mate Zhang is biological son and half brother of Boss Yang,First Mate Zhang is half brother and daughter of Boss Yang,,a
+c,a,【First Mate Zhang】和【Very Naive】的关系是什么？,Very Naive is brother of First Mate Zhang,First Mate Zhang is master of Very Naive,First Mate Zhang is in the lawsuit against Very Naive,First Mate Zhang is employer of Very Naive,,a
+c,a,【Boss Yang】和【Ship Doctor Ling】不存在的关系是什么？,Ship Doctor Ling is business partner of Boss Yang,Ship Doctor Ling is debtor of Boss Yang,Ship Doctor Ling is informant of Boss Yang,Boss Yang is attempted murderer of Ship Doctor Ling,,d
+c,a,【Boss Yang】和【First Mate Zhang】的关系是什么？,First Mate Zhang is business partner and murderer of Boss Yang,Boss Yang is grandfather and teacher of First Mate Zhang,Boss Yang is teacher and step-daughter of First Mate Zhang,Boss Yang is step-daughter and future son in law of First Mate Zhang,,a
+c,a,【Boss Yang】和【Very Naive】的关系是什么？,Very Naive is employee of Boss Yang,Boss Yang is saviour of Very Naive,Boss Yang is ex-wife of Very Naive,Boss Yang is son in law of Very Naive,,a
+c,a,【Ship Doctor Ling】和【First Mate Zhang】的关系是什么？,First Mate Zhang is employer and colleague of Ship Doctor Ling,Ship Doctor Ling is manipulator and ex-husband of First Mate Zhang,Ship Doctor Ling is ex-husband and suspect of First Mate Zhang,Ship Doctor Ling is suspect and adoptive sister of First Mate Zhang,,a
+c,a,【Ship Doctor Ling】和【Boss Yang】的关系是什么？,Boss Yang is creditor and employer of Ship Doctor Ling,Ship Doctor Ling is fondness and classmate of Boss Yang,Ship Doctor Ling is classmate and grandchild of Boss Yang,Ship Doctor Ling is grandchild and mother of Boss Yang,,a
+c,a,【Ship Doctor Ling】和【Secretary Wen】的关系是什么？,Secretary Wen is informant and information receiver from x of Ship Doctor Ling,Ship Doctor Ling is seller and biological daughter of Secretary Wen,Ship Doctor Ling is biological daughter and customer of Secretary Wen,Ship Doctor Ling is customer and secret admirer of Secretary Wen,,a

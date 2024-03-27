@@ -1,0 +1,236 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Lv Mingran】被谁杀死的？,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Shang Zhi,Mrs. Tan,Hai You,Mrs. Wei,Liao Gongzi,a
+a,a,【Hong Er】被谁杀死的？,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Liao Gongzi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Shang Zhi,Liao Gongzi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,【Tan Renchang】被谁杀死的？,Liao Gongzi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Liao Gongzi,Hai You,Mrs. Wei,Mrs. Tan,Shang Zhi,a
+b,a,【Shang Zhi】和【Zina】真正的关系是什么？,【Shang Zhi】喜欢【Zina】并帮她还债,【Shang Zhi】在利用【Zina】,【Shang Zhi】和【Zina】没有关系,【Shang Zhi】和【Zina】是兄妹,,a
+b,b,【Lv Mingran】被撤职的真相是什么？,被【Liao Gongzi】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【Lv Mingran】不想做了,因为【Lv Mingran】岁数太大退休了,因为【Lv Mingran】意外死亡,,a
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is sibling of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is son in law and daughter of Luo Hengli,Lv Mingran is daughter and brother in law of Luo Hengli,Lv Mingran is brother in law and fiancee of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is step-brother and step-son of Tan Renchang,Lv Mingran is step-son and biological son of Tan Renchang,Lv Mingran is biological son and half sister of Tan Renchang,,a
+c,a,【Liao Gongzi】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is acquaintance of Liao Gongzi,Liao Gongzi is grandmother of 谭Shang Zhi,Liao Gongzi is grandchild of 谭Shang Zhi,Liao Gongzi is brother in law of 谭Shang Zhi,,a
+c,a,【Liao Gongzi】和【Mrs. Wei】的关系是什么？,Mrs. Wei is acquaintance of Liao Gongzi,Liao Gongzi is lawyer of Mrs. Wei,Liao Gongzi is tour guide of Mrs. Wei,Liao Gongzi is landlord of Mrs. Wei,,a
+c,a,【Liao Gongzi】和【Hai You】的关系是什么？,Hai You is acquaintance of Liao Gongzi,Liao Gongzi is elder brother of Hai You,Liao Gongzi is unsuccessful helper of Hai You,Liao Gongzi is future mother in law of Hai You,,a
+c,a,【Xinya】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son of Xinya,Xinya is girlfriend of Cheng Ge,Xinya is jealous by Cheng Ge,Xinya is creditor of Cheng Ge,,a
+c,a,【Xinya】和【Lv Mingran】的关系是什么？,Lv Mingran is helper of Xinya,Xinya is perpetrator of Lv Mingran,Xinya is step-daughter of Lv Mingran,Xinya is jealous of Lv Mingran,,a
+c,a,【Xinya】和【Tan Renchang】的关系是什么？,Tan Renchang is secret lover of Xinya,Xinya is tour guide of Tan Renchang,Xinya is sister in law of Tan Renchang,Xinya is jealous of Tan Renchang,,a
+c,a,【Hai You】和【Tan Renchang】不存在的关系是什么？,Tan Renchang is adoptive father of Hai You,Tan Renchang is uncle of Hai You,Tan Renchang is victim of Hai You,Hai You is acquaintance of Tan Renchang,,d
+c,a,【Hai You】和【Mrs. Wei】的关系是什么？,Mrs. Wei is aunt and acquaintance of Hai You,Hai You is x's enemy's family and messenger of Mrs. Wei,Hai You is messenger and service provider of Mrs. Wei,Hai You is service provider and betrayed by x of Mrs. Wei,,a
+c,a,【Hai You】和【Luo Mingsha】的关系是什么？,Luo Mingsha is adoptive daughter and adoptive mother of Hai You,Hai You is secret admirer and murderer of Luo Mingsha,Hai You is murderer and quest companion of Luo Mingsha,Hai You is quest companion and colleague of Luo Mingsha,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is fiancee of Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is secret lover of Cheng Ge,Hong Er is uncle of Cheng Ge,Hong Er is elder brother of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is lawyer of Xinya,Hong Er is wife of Xinya,Hong Er is deceiver of Xinya,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is buyer and liked by x of 谭Shang Zhi,Tan Renchang is liked by x and service provider of 谭Shang Zhi,Tan Renchang is service provider and guard of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is ex-romantic relationships with x and ex-wife of Lv Mingran,Tan Renchang is ex-wife and elder brother of Lv Mingran,Tan Renchang is elder brother and grandparent of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is fondness and boyfriend of Cheng Ge,Tan Renchang is boyfriend and husband of Cheng Ge,Tan Renchang is husband and debtor of Cheng Ge,,a
+c,a,【Mrs. Tan】和【Shang Zhi】的关系是什么？,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is husband and suspect of Shang Zhi,Mrs. Tan is suspect and student of Shang Zhi,Mrs. Tan is student and dislike of Shang Zhi,,a
+c,a,【Mrs. Tan】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Mrs. Tan,Mrs. Tan is subordinate and neighbour of 谭Shang Zhi,Mrs. Tan is neighbour and lawyer of 谭Shang Zhi,Mrs. Tan is lawyer and romantic relationships with x of 谭Shang Zhi,,a
+c,a,【Mrs. Tan】和【Lv Mingran】的关系是什么？,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is younger brother and mother of Lv Mingran,Mrs. Tan is mother and murderer of Lv Mingran,Mrs. Tan is murderer and killed by x of Lv Mingran,,a
+a,a,【Lv Mingran】被谁杀死的？,Shang Zhi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Shang Zhi,Mrs. Tan,Cheng Ge,Mrs. Wei,Liao Gongzi,a
+a,a,【Hong Er】被谁杀死的？,Shang Zhi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Liao Gongzi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Shang Zhi,Liao Gongzi,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+a,a,【Tan Renchang】被谁杀死的？,Liao Gongzi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Liao Gongzi,Cheng Ge,Mrs. Wei,Mrs. Tan,Shang Zhi,a
+b,a,【Shang Zhi】和【Zina】真正的关系是什么？,【Shang Zhi】喜欢【Zina】并帮她还债,【Shang Zhi】在利用【Zina】,【Shang Zhi】和【Zina】没有关系,【Shang Zhi】和【Zina】是兄妹,,a
+b,b,【Cheng Ge】是【Xinya】的儿子吗？,不是，是冒充的,是亲生儿子,,,b,
+b,b,【Lv Mingran】被撤职的真相是什么？,被【Liao Gongzi】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【Lv Mingran】不想做了,因为【Lv Mingran】岁数太大退休了,因为【Lv Mingran】意外死亡,,a
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is half brother of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is ex-romantic relationships with x and spy of Luo Hengli,Lv Mingran is spy and possibly family of Luo Hengli,Lv Mingran is possibly family and bully of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is sister in law and father of Tan Renchang,Lv Mingran is father and daughter of Tan Renchang,Lv Mingran is daughter and secret admirer of Tan Renchang,,a
+c,a,【Shang Zhi】和【Cheng Ge】的关系是什么？,Cheng Ge is cousin and acquaintance of Shang Zhi,Shang Zhi is betrayed by x and jealous by x of Cheng Ge,Shang Zhi is jealous by x and spy of Cheng Ge,Shang Zhi is spy and wife of Cheng Ge,,a
+c,a,【Shang Zhi】和【Tan Renchang】的关系是什么？,Tan Renchang is uncle of Shang Zhi,Shang Zhi is secret crush of Tan Renchang,Shang Zhi is mentor of Tan Renchang,Shang Zhi is Tan Renchang's enemy's family,,a
+c,a,【Shang Zhi】和【Mrs. Tan】的关系是什么？,Mrs. Tan is aunt of Shang Zhi,Shang Zhi is killed by Mrs. Tan,Shang Zhi is teacher of Mrs. Tan,Shang Zhi is lawyer of Mrs. Tan,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is nephew of Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is messenger of Cheng Ge,Hong Er is grandfather of Cheng Ge,Hong Er is biological mother of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is doctor of Xinya,Hong Er is employee of Xinya,Hong Er is colleague of Xinya,,a
+c,a,【Julie】和【Dr. Zhan】的关系是什么？,Dr. Zhan is husband of Julie,Julie is half brother of Dr. Zhan,Julie is subject of investigation for Dr. Zhan,Julie is daughter in law of Dr. Zhan,,a
+c,a,【Julie】和【Liao Xuehan】的关系是什么？,Liao Xuehan is helped by Julie,Julie is messenger of Liao Xuehan,Julie is betrayed by Liao Xuehan,Julie is minion of Liao Xuehan,,a
+c,a,【Julie】和【Hai You】的关系是什么？,Hai You is helper of Julie,Julie is liked by Hai You,Julie is dislike of Hai You,Julie is guard of Hai You,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is classmate and ex-romantic relationships with x of 谭Shang Zhi,Tan Renchang is ex-romantic relationships with x and neighbour of 谭Shang Zhi,Tan Renchang is neighbour and saviour of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is secret admirer and admirer of Lv Mingran,Tan Renchang is admirer and half sister of Lv Mingran,Tan Renchang is half sister and rival of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is patient and fiancee of Cheng Ge,Tan Renchang is fiancee and host of Cheng Ge,Tan Renchang is host and ex-wife of Cheng Ge,,a
+c,a,【Mrs. Tan】和【Shang Zhi】的关系是什么？,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is landlord and manipulator of Shang Zhi,Mrs. Tan is manipulator and rival of Shang Zhi,Mrs. Tan is rival and fiance of Shang Zhi,,a
+c,a,【Mrs. Tan】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Mrs. Tan,Mrs. Tan is liked by x and seller of 谭Shang Zhi,Mrs. Tan is seller and guard of 谭Shang Zhi,Mrs. Tan is guard and wife of 谭Shang Zhi,,a
+c,a,【Mrs. Tan】和【Lv Mingran】的关系是什么？,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is subject of investigation for x and patient of Lv Mingran,Mrs. Tan is patient and manipulated by x of Lv Mingran,Mrs. Tan is manipulated by x and manipulator of Lv Mingran,,a
+a,a,【Lv Mingran】被谁杀死的？,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Shang Zhi,Hai You,Cheng Ge,Mrs. Tan,Liao Gongzi,a
+a,a,【Hong Er】被谁杀死的？,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Liao Gongzi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Shang Zhi,Liao Gongzi,Mrs. Tan,Hai You,Cheng Ge,a
+a,a,【Tan Renchang】被谁杀死的？,Liao Gongzi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Liao Gongzi,Cheng Ge,Mrs. Tan,Hai You,Shang Zhi,a
+b,b,【Cheng Ge】是【Xinya】的儿子吗？,不是，是冒充的,是亲生儿子,,,b,
+b,a,【Shang Zhi】和【Zina】真正的关系是什么？,【Shang Zhi】喜欢【Zina】并帮她还债,【Shang Zhi】在利用【Zina】,【Shang Zhi】和【Zina】没有关系,【Shang Zhi】和【Zina】是兄妹,,a
+b,b,【Lv Mingran】被撤职的真相是什么？,被【Liao Gongzi】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【Lv Mingran】不想做了,因为【Lv Mingran】岁数太大退休了,因为【Lv Mingran】意外死亡,,a
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is sibling of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is co-wives and grandchild of Luo Hengli,Lv Mingran is grandchild and boyfriend of Luo Hengli,Lv Mingran is boyfriend and biological father of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is thief and bully of Tan Renchang,Lv Mingran is bully and younger sister of Tan Renchang,Lv Mingran is younger sister and adoptive father of Tan Renchang,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is liked by Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is mentor of Cheng Ge,Hong Er is customer of Cheng Ge,Hong Er is daughter in law of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is disliked by Xinya,Hong Er is ex-boyfriend of Xinya,Hong Er is ex-husband of Xinya,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is helped by x and secret crush of 谭Shang Zhi,Tan Renchang is secret crush and fondness of 谭Shang Zhi,Tan Renchang is fondness and wife of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is younger sister and attempted murderer of Lv Mingran,Tan Renchang is attempted murderer and secret crush of Lv Mingran,Tan Renchang is secret crush and elder brother of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is master and ex-husband of Cheng Ge,Tan Renchang is ex-husband and fiance of Cheng Ge,Tan Renchang is fiance and seller of Cheng Ge,,a
+c,a,【Mrs. Tan】和【Shang Zhi】的关系是什么？,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is suspicious and subject of investigation for x of Shang Zhi,Mrs. Tan is subject of investigation for x and messenger of Shang Zhi,Mrs. Tan is messenger and guest of Shang Zhi,,a
+c,a,【Mrs. Tan】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Mrs. Tan,Mrs. Tan is ex-husband and lover of 谭Shang Zhi,Mrs. Tan is lover and product provider of 谭Shang Zhi,Mrs. Tan is product provider and doctor of 谭Shang Zhi,,a
+c,a,【Mrs. Tan】和【Lv Mingran】的关系是什么？,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is patient and unsuccessful helper of Lv Mingran,Mrs. Tan is unsuccessful helper and bully of Lv Mingran,Mrs. Tan is bully and biological mother of Lv Mingran,,a
+a,a,【Lv Mingran】被谁杀死的？,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Cheng Ge,Mrs. Tan,Hai You,Mrs. Wei,Shang Zhi,a
+a,a,【Hong Er】被谁杀死的？,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Shang Zhi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Cheng Ge,Shang Zhi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,【Tan Renchang】被谁杀死的？,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Shang Zhi,Hai You,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+b,a,【Shang Zhi】和【Zina】真正的关系是什么？,【Shang Zhi】喜欢【Zina】并帮她还债,【Shang Zhi】在利用【Zina】,【Shang Zhi】和【Zina】没有关系,【Shang Zhi】和【Zina】是兄妹,,a
+b,b,【Cheng Ge】是【Xinya】的儿子吗？,不是，是冒充的,是亲生儿子,,,b,
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is father in law of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is twin sister and jealous of Luo Hengli,Lv Mingran is jealous and father of Luo Hengli,Lv Mingran is father and biological daughter of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is hate and in the lawsuit against x of Tan Renchang,Lv Mingran is in the lawsuit against x and adoptive daughter of Tan Renchang,Lv Mingran is adoptive daughter and suspect to x of Tan Renchang,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is adoptive sister of Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is sibling of Cheng Ge,Hong Er is step-sister of Cheng Ge,Hong Er is business partner of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is spy of Xinya,Hong Er is fiancee of Xinya,Hong Er is ex-wife of Xinya,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is authority over x and ex-girlfriend of 谭Shang Zhi,Tan Renchang is ex-girlfriend and helper of 谭Shang Zhi,Tan Renchang is helper and business partner of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is elder brother and step-daughter of Lv Mingran,Tan Renchang is step-daughter and wife of Lv Mingran,Tan Renchang is wife and extramarital affair with x of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is creditor and romantic relationships with x of Cheng Ge,Tan Renchang is romantic relationships with x and fondness of Cheng Ge,Tan Renchang is fondness and buyer of Cheng Ge,,a
+a,a,【Lv Mingran】被谁杀死的？,Shang Zhi,Hai You,Mrs. Wei,Cheng Ge,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Shang Zhi,Hai You,Cheng Ge,Mrs. Wei,Liao Gongzi,a
+a,a,【Hong Er】被谁杀死的？,Shang Zhi,Hai You,Mrs. Wei,Cheng Ge,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Liao Gongzi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Shang Zhi,Liao Gongzi,Mrs. Wei,Hai You,Cheng Ge,a
+a,a,【Tan Renchang】被谁杀死的？,Liao Gongzi,Hai You,Mrs. Wei,Cheng Ge,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Liao Gongzi,Cheng Ge,Mrs. Wei,Hai You,Shang Zhi,a
+b,b,【Cheng Ge】是【Xinya】的儿子吗？,不是，是冒充的,是亲生儿子,,,b,
+b,a,【Shang Zhi】和【Zina】真正的关系是什么？,【Shang Zhi】喜欢【Zina】并帮她还债,【Shang Zhi】在利用【Zina】,【Shang Zhi】和【Zina】没有关系,【Shang Zhi】和【Zina】是兄妹,,a
+b,b,【Lv Mingran】被撤职的真相是什么？,被【Liao Gongzi】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【Lv Mingran】不想做了,因为【Lv Mingran】岁数太大退休了,因为【Lv Mingran】意外死亡,,a
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is step-father of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is elder sister and adoptive son of Luo Hengli,Lv Mingran is adoptive son and dislike of Luo Hengli,Lv Mingran is dislike and relative of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is perpetrator and deceiver of Tan Renchang,Lv Mingran is deceiver and deceived by x of Tan Renchang,Lv Mingran is deceived by x and granddaughter of Tan Renchang,,a
+c,a,【Shang Zhi】和【Cheng Ge】的关系是什么？,Cheng Ge is cousin and acquaintance of Shang Zhi,Shang Zhi is service provider and concubine of Cheng Ge,Shang Zhi is concubine and doctor of Cheng Ge,Shang Zhi is doctor and betrayed by x of Cheng Ge,,a
+c,a,【Shang Zhi】和【Tan Renchang】的关系是什么？,Tan Renchang is uncle of Shang Zhi,Shang Zhi is husband of Tan Renchang,Shang Zhi is ex-boyfriend of Tan Renchang,Shang Zhi is Tan Renchang's enemy's family,,a
+c,a,【Shang Zhi】和【Mrs. Tan】的关系是什么？,Mrs. Tan is aunt of Shang Zhi,Shang Zhi is in the lawsuit against Mrs. Tan,Shang Zhi is secret admirer of Mrs. Tan,Shang Zhi is hated by Mrs. Tan,,a
+c,a,【Hai You】和【Tan Renchang】不存在的关系是什么？,Tan Renchang is adoptive father of Hai You,Tan Renchang is uncle of Hai You,Tan Renchang is victim of Hai You,Hai You is liked by Tan Renchang,,d
+c,a,【Hai You】和【Mrs. Wei】的关系是什么？,Mrs. Wei is aunt and acquaintance of Hai You,Hai You is suspect and romantic relationships with x of Mrs. Wei,Hai You is romantic relationships with x and perpetrator of Mrs. Wei,Hai You is perpetrator and suspect to x of Mrs. Wei,,a
+c,a,【Hai You】和【Luo Mingsha】的关系是什么？,Luo Mingsha is adoptive daughter and adoptive mother of Hai You,Hai You is helped by x and schoolmate of Luo Mingsha,Hai You is schoolmate and lover of Luo Mingsha,Hai You is lover and attempted murderer of Luo Mingsha,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is romantic relationships with Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is twin brother of Cheng Ge,Hong Er is host of Cheng Ge,Hong Er is cousin of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is secret crush of Xinya,Hong Er is servant of Xinya,Hong Er is jealous by Xinya,,a
+c,a,【Luo Hengli】和【Lv Mingran】的关系是什么？,Lv Mingran is employee and subordinate of Luo Hengli,Luo Hengli is daughter in law and hated by x of Lv Mingran,Luo Hengli is hated by x and adoptive daughter of Lv Mingran,Luo Hengli is adoptive daughter and niece of Lv Mingran,,a
+c,a,【Luo Hengli】和【Luo Mingsha】的关系是什么？,Luo Mingsha is sister of Luo Hengli,Luo Hengli is customer of Luo Mingsha,Luo Hengli is admired by Luo Mingsha,Luo Hengli is information receiver from Luo Mingsha,,a
+c,a,【Luo Hengli】和【Tan Renchang】的关系是什么？,Tan Renchang is brother in law of Luo Hengli,Luo Hengli is unsuccessful helper of Tan Renchang,Luo Hengli is seeker of help from Tan Renchang,Luo Hengli is colleague of Tan Renchang,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is landlord and student of 谭Shang Zhi,Tan Renchang is student and superior of 谭Shang Zhi,Tan Renchang is superior and product provider of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is wife and future daughter in law of Lv Mingran,Tan Renchang is future daughter in law and adoptive daughter of Lv Mingran,Tan Renchang is adoptive daughter and ex-wife of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is admired by x and friend of Cheng Ge,Tan Renchang is friend and employee of Cheng Ge,Tan Renchang is employee and colleague of Cheng Ge,,a
+a,a,【Lv Mingran】被谁杀死的？,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Lv Mingran】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lv Mingran】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Lv Mingran】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【Lv Mingran】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【Lv Mingran】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【Lv Mingran】的两个人,Cheng Ge,Mrs. Tan,Hai You,Mrs. Wei,Liao Gongzi,a
+a,a,【Hong Er】被谁杀死的？,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,【Hong Er】是谁？,Hong Er,仆人,Dr. Zhan,Julie,,a
+b,a,【Hong Er】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【Hong Er】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hong Er】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【Hong Er】是在哪里被杀死的？,Liao Gongzi房,储物室,河边,山上,,a
+b,a,【Hong Er】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【Hong Er】的两个人,Cheng Ge,Liao Gongzi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,【Tan Renchang】被谁杀死的？,Liao Gongzi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,【Tan Renchang】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【Tan Renchang】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Tan Renchang】什么人？,仇人,母亲,律师,医生,,a
+b,a,【Tan Renchang】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【Tan Renchang】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【Tan Renchang】的两个人,Liao Gongzi,Hai You,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+b,b,【Lv Mingran】被撤职的真相是什么？,被【Liao Gongzi】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【Lv Mingran】不想做了,因为【Lv Mingran】岁数太大退休了,因为【Lv Mingran】意外死亡,,a
+b,b,【Cheng Ge】是【Xinya】的儿子吗？,不是，是冒充的,是亲生儿子,,,b,
+c,a,【Lv Mingran】和【Cheng Ge】不存在的关系是什么？,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is biological daughter of Cheng Ge,,d
+c,a,【Lv Mingran】和【Luo Hengli】的关系是什么？,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is victim and sister of Luo Hengli,Lv Mingran is sister and biological son of Luo Hengli,Lv Mingran is biological son and dislike of Luo Hengli,,a
+c,a,【Lv Mingran】和【Tan Renchang】的关系是什么？,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is step-sister and adoptive sister of Tan Renchang,Lv Mingran is adoptive sister and aunt of Tan Renchang,Lv Mingran is aunt and step-mother of Tan Renchang,,a
+c,a,【Zina】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is romantic relationships with Zina,Zina is sister of 谭Shang Zhi,Zina is informant of 谭Shang Zhi,Zina is colleague of 谭Shang Zhi,,a
+c,a,【Hong Er】和【Liao Xuehan】不存在的关系是什么？,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is ex-wife of Liao Xuehan,,d
+c,a,【Hong Er】和【Cheng Ge】的关系是什么？,Cheng Ge is murderer of Hong Er,Hong Er is helper of Cheng Ge,Hong Er is friend of Cheng Ge,Hong Er is tour guide of Cheng Ge,,a
+c,a,【Hong Er】和【Xinya】的关系是什么？,Xinya is mother of Hong Er,Hong Er is co-wives of Xinya,Hong Er is sworn brother of Xinya,Hong Er is attempted murderer of Xinya,,a
+c,a,【Tan Renchang】和【谭Shang Zhi】的关系是什么？,谭Shang Zhi is deceived by x and nephew of Tan Renchang,Tan Renchang is seeker of help from x and ex-girlfriend of 谭Shang Zhi,Tan Renchang is ex-girlfriend and friend of 谭Shang Zhi,Tan Renchang is friend and helper of 谭Shang Zhi,,a
+c,a,【Tan Renchang】和【Lv Mingran】的关系是什么？,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is mother and admirer of Lv Mingran,Tan Renchang is admirer and adoptive sister of Lv Mingran,Tan Renchang is adoptive sister and spy of Lv Mingran,,a
+c,a,【Tan Renchang】和【Cheng Ge】的关系是什么？,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is teacher and ex-boyfriend of Cheng Ge,Tan Renchang is ex-boyfriend and crime partner of Cheng Ge,Tan Renchang is crime partner and ex-husband of Cheng Ge,,a

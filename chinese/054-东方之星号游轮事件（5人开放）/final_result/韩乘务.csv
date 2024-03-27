@@ -1,0 +1,20 @@
+value,type,question,a,b,c,d,e,truth
+a,a,刘奇被谁杀死的？,修经理,张二副,林歌手,洪船长,,a
+b,a,刘奇是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,用枪打死的,,d
+b,a,凶手杀刘奇的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人刘奇什么人？,儿子,父亲,律师,上级,,d
+b,a,刘奇是在哪里被杀死的？,仓库里,在岸上,甲板上,河边,,a
+b,a,刘奇是什么时候被杀死的？,20 点烟花开始之后,20 点烟花开始之前,在凌晨,在白天,,a
+b,b,请选出你最怀疑杀死刘奇的两个人,修经理,张二副,林歌手,洪船长,,c
+c,a,【修经理】和【刘奇】不存在的关系是什么？,刘奇 is victim of 修经理,刘奇 is classmate of 修经理,刘奇 is colleague of 修经理,修经理 is step-daughter of 刘奇,,d
+c,a,【修经理】和【韩乘务】的关系是什么？,韩乘务 is friend and fondness of 修经理,修经理 is brother and minion of 韩乘务,修经理 is minion and disliked by x of 韩乘务,修经理 is disliked by x and nephew of 韩乘务,,a
+c,a,【修经理】和【洪船长】的关系是什么？,洪船长 is acquaintance of 修经理,修经理 is ex-husband of 洪船长,修经理 is liked by 洪船长,修经理 is betrayed by 洪船长,,a
+c,a,【刘奇】和【修经理】不存在的关系是什么？,修经理 is murderer of 刘奇,修经理 is classmate of 刘奇,修经理 is colleague of 刘奇,刘奇 is secret crush of 修经理,,d
+c,a,【刘奇】和【张二副】不存在的关系是什么？,张二副 is bully of 刘奇,张二副 is subordinate of 刘奇,张二副 is dislike of 刘奇,刘奇 is mother in law of 张二副,,d
+c,a,【刘奇】和【林歌手】的关系是什么？,林歌手 is secret admirer and fondness of 刘奇,刘奇 is in the lawsuit against x and twin sister of 林歌手,刘奇 is twin sister and half sister of 林歌手,刘奇 is half sister and aunt of 林歌手,,a
+c,a,【张二副】和【刘奇】不存在的关系是什么？,刘奇 is acquaintance of 张二副,刘奇 is dislike of 张二副,刘奇 is superior of 张二副,张二副 is mother of 刘奇,,d
+c,a,【张二副】和【洪船长】的关系是什么？,洪船长 is acquaintance and dislike of 张二副,张二副 is nephew and sister in law of 洪船长,张二副 is sister in law and adoptive son of 洪船长,张二副 is adoptive son and cousin of 洪船长,,a
+c,a,【张二副】和【修经理】的关系是什么？,修经理 is acquaintance of 张二副,张二副 is future father in law of 修经理,张二副 is possibly family of 修经理,张二副 is adoptive mother of 修经理,,a
+c,a,【林歌手】和【刘奇】的关系是什么？,刘奇 is helper and fondness of 林歌手,林歌手 is business partner and daughter of 刘奇,林歌手 is daughter and relative of 刘奇,林歌手 is relative and unsuccessful helper of 刘奇,,a
+c,a,【林歌手】和【修经理】的关系是什么？,修经理 is superior of 林歌手,林歌手 is perpetrator of 修经理,林歌手 is possibly family of 修经理,林歌手 is boyfriend of 修经理,,a
+c,a,【林歌手】和【张二副】的关系是什么？,张二副 is acquaintance of 林歌手,林歌手 is future daughter in law of 张二副,林歌手 is creditor of 张二副,林歌手 is adoptive mother of 张二副,,a

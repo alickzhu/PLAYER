@@ -1,0 +1,48 @@
+{
+    "张大副": [
+      ["很天真", "brother of x"], 
+      ["杨老板", "business partner of x, victim of x"], 
+      ["雯秘书", "acquaintance of x"], 
+      ["王船工", "subordinate of x"], 
+      ["玲船医", "employee of x, fondness of x, colleague of x"]
+    ],
+    "很天真": [
+      ["张大副", "brother of x"], 
+      ["杨老板", "employer of x"], 
+      ["雯秘书", "murderer of x, colleague of x"]
+    ],
+    "杨老板": [
+      ["张大副", "business partner of x, murderer of x"], 
+      ["很天真", "employee of x"], 
+      ["雯秘书", "employee of x"], 
+      ["玲船医", "business partner of x, debtor of x, informant of x"]
+    ],
+    "雯秘书": [
+      ["杨老板", "employer of x"], 
+      ["张大副", "acquaintance of x, business partner of x"], 
+      ["玲船医", "informant of x, information receiver from x"], 
+      ["很天真", "victim of x, colleague of x"], 
+      ["王船工", "acquaintance of x"], 
+      ["王小工", "victim of x"]
+    ],
+    "王船工": [
+      ["张大副", "superior of x"], 
+      ["玲船医", "acquaintance of x, child of x"], 
+      ["王小工", "son of x"], 
+      ["杨老板", "hate of x, acquaintance of x"], 
+      ["雯秘书", "acquaintance of x"]
+    ],
+    "玲船医": [
+      ["张大副", "employer of x, colleague of x"], 
+      ["王船工", "father of x"], 
+      ["王小工", "romantic relationships with x"], 
+      ["杨老板", "creditor of x, employer of x"], 
+      ["雯秘书", "informant of x, information receiver from x"]
+    ],
+    "王小工": [
+      ["玲船医", "romantic relationships with x"], 
+      ["王船工", "father of x"], 
+      ["张大副", "suspicious of x"], 
+      ["雯秘书", "murderer of x"]
+    ]
+}

@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Zhang Eba?,Zhao Shuaige,Lin Xiaohua,Li Xiaodi,Wang Xuexi,,b
+b,a,How did Zhang Eba die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Killed with a gun,,c
+b,a,What was the motive behind the killer killing Zhang Eba?,Love killing,Vendetta,interest,Accidental killing,,a
+b,a,"The perpetrator is the victim, Zhang Eba. Who is that?",fiancee,father,lawyer,Enemies,,a
+b,a,Where was Zhang Eba killed?,On campus,Old teaching building,Inside the dormitory,His own family,,a
+b,a,When was Zhang Eba killed?,11:33 PM,0pm,8am,3pm,,a
+b,b,Please select the two people you most suspect of killing Zhang Eba,Zhao Shuaige,Lin Xiaohua,Li Xiaodi,Wang Xuexi,,b
+c,a,What is the relationship between Zhang Eba and Lin Xiaohua?,Lin Xiaohua is fiance and victim of Zhang Eba,Zhang Eba is classmate and relative of Lin Xiaohua,Zhang Eba is relative and nephew of Lin Xiaohua,Zhang Eba is nephew and subordinate of Lin Xiaohua,,a
+c,a,What is the relationship between Zhang Eba and Cousin Sister?,Cousin Sister is schoolmate and murderer of Zhang Eba,Zhang Eba is admirer and brother in law of Cousin Sister,Zhang Eba is brother in law and extramarital affair with x of Cousin Sister,Zhang Eba is extramarital affair with x and lover of Cousin Sister,,a
+c,a,What is the relationship between Zhang Eba and Li Dage?,Li Dage is schoolmate and bully of Zhang Eba,Zhang Eba is minion and son in law of Li Dage,Zhang Eba is son in law and granddaughter of Li Dage,Zhang Eba is granddaughter and guard of Li Dage,,a

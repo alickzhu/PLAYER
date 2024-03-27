@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Boss Yang?,First Mate Zhang,Ship Doctor Ling,Secretary Wen,,,a
+b,a,How did Boss Yang die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,b
+b,a,What is the motive behind the killer killing Boss Yang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The killer is the victim, Boss Yang. Who is it?",lawyer,relative,Son,Business partners,,d
+b,a,Where was Boss Yang killed?,On deck,On the shore,Bar,My own room,,d
+b,a,When was Boss Yang killed?,Around 22:10,1:00 AM,10am,8pm,,a
+b,b,Please select the two people you most suspect of killing Boss Yang,First Mate Zhang,Ship Doctor Ling,Secretary Wen,,,a
+c,a,What is the relationship between First Mate Zhang and Ship Doctor Ling that does not exist?,Ship Doctor Ling is employee of First Mate Zhang,Ship Doctor Ling is fondness of First Mate Zhang,Ship Doctor Ling is colleague of First Mate Zhang,First Mate Zhang is murderer of Ship Doctor Ling,,d
+c,a,What is the relationship between First Mate Zhang and Boss Yang?,Boss Yang is business partner and victim of First Mate Zhang,First Mate Zhang is saved by x and biological son of Boss Yang,First Mate Zhang is biological son and half brother of Boss Yang,First Mate Zhang is half brother and daughter of Boss Yang,,a
+c,a,What is the relationship between First Mate Zhang and Very Naive?,Very Naive is brother of First Mate Zhang,First Mate Zhang is master of Very Naive,First Mate Zhang is in the lawsuit against Very Naive,First Mate Zhang is employer of Very Naive,,a
+c,a,What is the relationship between Boss Yang and Ship Doctor Ling that does not exist?,Ship Doctor Ling is business partner of Boss Yang,Ship Doctor Ling is debtor of Boss Yang,Ship Doctor Ling is informant of Boss Yang,Boss Yang is attempted murderer of Ship Doctor Ling,,d
+c,a,What is the relationship between Boss Yang and First Mate Zhang?,First Mate Zhang is business partner and murderer of Boss Yang,Boss Yang is grandfather and teacher of First Mate Zhang,Boss Yang is teacher and step-daughter of First Mate Zhang,Boss Yang is step-daughter and future son in law of First Mate Zhang,,a
+c,a,What is the relationship between Boss Yang and Very Naive?,Very Naive is employee of Boss Yang,Boss Yang is saviour of Very Naive,Boss Yang is ex-wife of Very Naive,Boss Yang is son in law of Very Naive,,a
+c,a,What is the relationship between Ship Doctor Ling and First Mate Zhang?,First Mate Zhang is employer and colleague of Ship Doctor Ling,Ship Doctor Ling is manipulator and ex-husband of First Mate Zhang,Ship Doctor Ling is ex-husband and suspect of First Mate Zhang,Ship Doctor Ling is suspect and adoptive sister of First Mate Zhang,,a
+c,a,What is the relationship between Ship Doctor Ling and Boss Yang?,Boss Yang is creditor and employer of Ship Doctor Ling,Ship Doctor Ling is fondness and classmate of Boss Yang,Ship Doctor Ling is classmate and grandchild of Boss Yang,Ship Doctor Ling is grandchild and mother of Boss Yang,,a
+c,a,What is the relationship between Ship Doctor Ling and Secret Wen?,Secretary Wen is informant and information receiver from x of Ship Doctor Ling,Ship Doctor Ling is seller and biological daughter of Secretary Wen,Ship Doctor Ling is biological daughter and customer of Secretary Wen,Ship Doctor Ling is customer and secret admirer of Secretary Wen,,a

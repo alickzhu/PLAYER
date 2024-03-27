@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,【Father Tom】的真实身份是什么?, 绑匪,杀人凶手,有着强烈欲望的大骗子,有特殊能力的人,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Drake Li Morette】和【Hans Li Morette】不存在的关系是什么？,Hans Li Morette is colleague of Drake Li Morette,Hans Li Morette is brother of Drake Li Morette,Hans Li Morette is rival in love of Drake Li Morette,Drake Li Morette is lover of Hans Li Morette,,d
+c,a,【Drake Li Morette】和【Gale Li Morette】的关系是什么？,Gale Li Morette is extramarital affair with x and sister in law of Drake Li Morette,Drake Li Morette is tour guide and helper of Gale Li Morette,Drake Li Morette is helper and student of Gale Li Morette,Drake Li Morette is student and hated by x of Gale Li Morette,,a
+c,a,【Drake Li Morette】和【Richard Berkeley】的关系是什么？,Richard Berkeley is superior and colleague of Drake Li Morette,Drake Li Morette is daughter in law and rebellion against x of Richard Berkeley,Drake Li Morette is rebellion against x and hate of Richard Berkeley,Drake Li Morette is hate and child of Richard Berkeley,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Andrew Paloski is colleague of Hans Li Morette,Andrew Paloski is mentor of Hans Li Morette,Andrew Paloski is jealous of Hans Li Morette,Hans Li Morette is admirer of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Sylvia Costa is colleague of Hans Li Morette,Sylvia Costa is manipulator of Hans Li Morette,Sylvia Costa is deceiver of Hans Li Morette,Hans Li Morette is secret lover of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Gale Li Morette is wife of Hans Li Morette,Gale Li Morette is attempted murderer of Hans Li Morette,Gale Li Morette is betrayer of Hans Li Morette,Hans Li Morette is elder sister of Gale Li Morette,,d

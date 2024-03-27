@@ -1,0 +1,10 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【兰秦】和【宇祖成木】不存在的关系是什么？,宇祖成木 is customer of 兰秦,宇祖成木 is helped by 兰秦,宇祖成木 is debtor of 兰秦,兰秦 is step-father of 宇祖成木,,d
+c,a,【兰秦】和【易莲芝】的关系是什么？,易莲芝 is mother of 兰秦,兰秦 is dislike of 易莲芝,兰秦 is saved by 易莲芝,兰秦 is messenger of 易莲芝,,a
+c,a,【兰秦】和【阿安】的关系是什么？,阿安 is brother of 兰秦,兰秦 is helper of 阿安,兰秦 is co-wives of 阿安,兰秦 is manipulated by 阿安,,a
+c,a,【夏三虎】和【骆明】不存在的关系是什么？,骆明 is student of 夏三虎,骆明 is subordinate of 夏三虎,骆明 is victim of 夏三虎,夏三虎 is secret admirer of 骆明,,d
+c,a,【夏三虎】和【宇祖成木】不存在的关系是什么？,宇祖成木 is creditor of 夏三虎,宇祖成木 is deceiver of 夏三虎,宇祖成木 is victim of 夏三虎,夏三虎 is son in law of 宇祖成木,,d
+c,a,【夏三虎】和【夏北归】的关系是什么？,夏北归 is father and mentor of 夏三虎,夏三虎 is rival in love and admirer of 夏北归,夏三虎 is admirer and ex-wife of 夏北归,夏三虎 is ex-wife and adversary of 夏北归,,a
+c,a,【李骆明】和【夏三虎】不存在的关系是什么？,夏三虎 is superior of 李骆明,夏三虎 is manipulated by 李骆明,夏三虎 is deceived by 李骆明,李骆明 is friend of 夏三虎,,d
+c,a,【李骆明】和【宇祖成木】不存在的关系是什么？,宇祖成木 is uncle of 李骆明,宇祖成木 is quest companion of 李骆明,宇祖成木 is business partner of 李骆明,李骆明 is hate of 宇祖成木,,d
+c,a,【李骆明】和【岳东汶】不存在的关系是什么？,岳东汶 is helper of 李骆明,岳东汶 is employer of 李骆明,岳东汶 is deceiver of 李骆明,李骆明 is younger sister of 岳东汶,,d

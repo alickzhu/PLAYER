@@ -1,0 +1,57 @@
+{
+    "方柳": [
+      ["小茜", "same person as x (different reference)"]
+    ],
+    "李仲": [
+      ["李钦仁", "father of x"], 
+      ["李延", "brother of x"], 
+      ["方絮", "mother of x"], 
+      ["陈倩", "fiance of x"], 
+      ["特尔特拉福德", "father in law of x"]
+    ],
+    "小茜": [
+      ["方叶", "father of x"], 
+      ["奶奶", "grandmother of x"], 
+      ["方絮", "aunt of x"], 
+      ["方眠", "aunt of x"], 
+      ["尔矢斯芭嗒", "adoptive father of x, uncle of x"], 
+      ["陈倩", "adoptive sister of x"], 
+      ["李延", "saviour of x, cousin of x"], 
+      ["李仲", "friend of x, deceived by x, cousin of x"], 
+      ["李钦仁", "rival of x"], 
+      ["方柳", "same person as x (different reference)"]
+    ],
+    "李延": [
+      ["李钦仁", "father of x"], 
+      ["尔矢斯芭嗒", "biological father of x"], 
+      ["李仲", "older brother of x, rival in love of x"], 
+      ["陈倩", "lover of x"], 
+      ["方絮", "mother of x"], 
+      ["方柳", "cousin of x"]
+    ],
+    "尔矢斯芭嗒": [
+      ["方夫人", "adoptive mother of x, enemy of x"], 
+      ["方絮", "older sister of x, lover of x"], 
+      ["方叶", "brother of x, adversary of x"], 
+      ["方眠", "sister of x, adversary of x"], 
+      ["特尔特拉福德", "quest companion of x, friend of x"], 
+      ["方柳", "adoptive daughter of x, student of x"], 
+      ["李钦仁", "rival of x"], 
+      ["李仲", "biological son of x"], 
+      ["李延", "biological son of x"]
+    ],
+    "陈倩": [
+      ["特尔特拉福德", "father of x"], 
+      ["陈氏", "mother of x"], 
+      ["方柳", "friend of x"], 
+      ["李仲", "lover of x, fiance of x"], 
+      ["李延", "lover of x, fiance of x"], 
+      ["李钦仁", "father in law of x"]
+    ],
+    "特尔特拉福德": [
+      ["李钦仁", "friend of x, quest companion of x, future relative of x"], 
+      ["尔矢斯芭嗒", "superior of x"], 
+      ["陈倩", "daughter of x"], 
+      ["李仲", "son in law of x"]
+    ]
+}

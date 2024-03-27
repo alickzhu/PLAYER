@@ -1,0 +1,23 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed my brother-in-law Zhou Mengdang?,Zhou Lianyi,Xi Yan,Zhou Chitong,Tian Chou,,d
+b,a,How did my brother-in-law Zhou Mengdang die?,Killed by crossbow guns,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing his brother-in-law Zhou Mengdang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"What person is the perpetrator the victim's brother-in-law, Zhou Mengdang?",Enemies,colleague,friend,Superior,,a
+b,a,Where was Zhou Mengdang's brother-in-law killed?,on board,Southern courtyard,On the mountain,Riverside,,a
+b,b,"Please select the two people you most suspect of killing your brother-in-law, Zhou Mengdang",Zhou Lianyi,Xi Yan,Tian Chou,Zhou Chitong,Yannan,c
+a,a,Who killed Sister Yu Shi?,Zhou Lianyi,Xi Yan,Zhou Chitong,Tian Chou,,d
+b,a,How did Sister Yu Shi die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What is the motive behind the killer killing his sister Yu Shi?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The killer is the victim's sister, Yu Shi. Who is that?",Enemies,mother,lawyer,doctor,,a
+b,a,Where was Sister Yu Shi killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing your sister Yu Shi,Tian Chou,Zhou Lianyi,Zhou Chitong,Xi Yan,Yannan,a
+b,a,What is the true relationship between Zhou Chitong and Tian Chou?,It doesn't matter.,Romantic relationship,Tian Chou is utilizing Zhou Chitong,Siblings,,c
+c,a,What is the non-existent relationship between Sister Yu Shi and Tian Chou?,Tian Chou is friend of Yu Shi,Tian Chou is helped by Yu Shi,Tian Chou is betrayed by Yu Shi,Yu Shi is future relative of Tian Chou,,d
+c,a,What is the relationship between Sister Yu Shi and Wang Xi Rong?,Wang Xi Rong is master and helper of Yu Shi,Yu Shi is sister and x's enemy's family of Wang Xi Rong,Yu Shi is x's enemy's family and rebellion against x of Wang Xi Rong,Yu Shi is rebellion against x and grandmother of Wang Xi Rong,,a
+c,a,What is the relationship between Sister Yu Shi and Wang Xi Yan?,Wang Xi Yan is master and bully of Yu Shi,Yu Shi is father and wife of Wang Xi Yan,Yu Shi is wife and grandfather of Wang Xi Yan,Yu Shi is grandfather and step-daughter of Wang Xi Yan,,a
+c,a,What is the non-existent relationship between brother-in-law Zhou Mengdang and Cui Shouheng?,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is admirer of Cui Shouheng,,d
+c,a,What is the non-existent relationship between brother-in-law Zhou Mengdang and Wang Xi Yan?,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is employee of Wang Xi Yan,,d
+c,a,What is the relationship between brother-in-law Zhou Mengdang and Bao Liu?,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is Bao Liu's victim's family,Zhou Mengdang is child of Bao Liu,Zhou Mengdang is future son in law of Bao Liu,,a
+c,a,What is the non-existent relationship between Cui Yannan and Yu Sunian?,Yu Sunian is friend of Cui Yannan,Yu Sunian is lover of Cui Yannan,Yu Sunian is teacher of Cui Yannan,Cui Yannan is Yu Sunian's enemy's family,,d
+c,a,What is the relationship between Cui Yannan and Wang Xi Yan?,Wang Xi Yan is aunt and step-mother of Cui Yannan,Cui Yannan is mentor and quest companion of Wang Xi Yan,Cui Yannan is quest companion and employer of Wang Xi Yan,Cui Yannan is employer and guard of Wang Xi Yan,,a
+c,a,What is the relationship between Cui Yannan and Bao Gan?,Bao Gan is servant and friend of Cui Yannan,Cui Yannan is granddaughter and grandchild of Bao Gan,Cui Yannan is grandchild and fiance of Bao Gan,Cui Yannan is fiance and lover of Bao Gan,,a

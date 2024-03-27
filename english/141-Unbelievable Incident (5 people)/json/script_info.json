@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "Unbelievable Incident",
+    "character_name": [
+        "Hao Guimi",
+        "Lin Xiaohua",
+        "Wang Xuexi",
+        "Li Xiaodi",
+        "Zhao Shuaige"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

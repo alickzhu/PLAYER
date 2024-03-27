@@ -1,0 +1,10 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【兰秦】和【宇祖成木】不存在的关系是什么？,宇祖成木 is customer of 兰秦,宇祖成木 is helped by 兰秦,宇祖成木 is debtor of 兰秦,兰秦 is rebellion against 宇祖成木,,d
+c,a,【兰秦】和【易莲芝】的关系是什么？,易莲芝 is mother of 兰秦,兰秦 is crime partner of 易莲芝,兰秦 is deceiver of 易莲芝,兰秦 is suspected by 易莲芝,,a
+c,a,【兰秦】和【阿安】的关系是什么？,阿安 is brother of 兰秦,兰秦 is suspect to 阿安,兰秦 is employer of 阿安,兰秦 is information receiver from 阿安,,a
+c,a,【吴百安】和【李子材】的关系是什么？,李子材 is schoolmate and quest companion of 吴百安,吴百安 is killed by x and rival of 李子材,吴百安 is rival and suspect to x of 李子材,吴百安 is suspect to x and disliked by x of 李子材,,a
+c,a,【吴百安】和【夏叔娥】的关系是什么？,夏叔娥 is colleague and information receiver from x of 吴百安,吴百安 is subject of investigation for x and niece of 夏叔娥,吴百安 is niece and mother in law of 夏叔娥,吴百安 is mother in law and aunt of 夏叔娥,,a
+c,a,【吴百安】和【李骆明】的关系是什么？,李骆明 is murderer of 吴百安,吴百安 is cousin of 李骆明,吴百安 is student of 李骆明,吴百安 is elder brother of 李骆明,,a
+c,a,【李骆明】和【夏三虎】不存在的关系是什么？,夏三虎 is superior of 李骆明,夏三虎 is manipulated by 李骆明,夏三虎 is deceived by 李骆明,李骆明 is husband of 夏三虎,,d
+c,a,【李骆明】和【宇祖成木】不存在的关系是什么？,宇祖成木 is uncle of 李骆明,宇祖成木 is quest companion of 李骆明,宇祖成木 is business partner of 李骆明,李骆明 is co-wives of 宇祖成木,,d
+c,a,【李骆明】和【岳东汶】不存在的关系是什么？,岳东汶 is helper of 李骆明,岳东汶 is employer of 李骆明,岳东汶 is deceiver of 李骆明,李骆明 is step-son of 岳东汶,,d

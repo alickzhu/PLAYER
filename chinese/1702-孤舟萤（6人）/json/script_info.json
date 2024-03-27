@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "孤舟萤",
+    "character_name": [
+        "甜愁",
+        "周琏逸",
+        "昔颜",
+        "于宿年",
+        "嫣楠",
+        "周持同"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

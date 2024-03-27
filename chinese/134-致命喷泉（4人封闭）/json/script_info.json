@@ -1,0 +1,29 @@
+{
+    "agent_num": 4,
+    "script_name": "致命喷泉",
+    "character_name": [
+        "何老六",
+        "慕北",
+        "张洁",
+        "王邻居"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2
+    ],
+    "keep_asking": [
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0
+    ]
+}

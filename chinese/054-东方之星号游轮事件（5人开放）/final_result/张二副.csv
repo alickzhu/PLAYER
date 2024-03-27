@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+a,a,刘奇被谁杀死的？,修经理,林歌手,洪船长,韩乘务,,a
+b,a,刘奇是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,用枪打死的,,d
+b,a,凶手杀刘奇的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人刘奇什么人？,儿子,父亲,律师,上级,,d
+b,a,刘奇是在哪里被杀死的？,仓库里,在岸上,甲板上,河边,,a
+b,a,刘奇是什么时候被杀死的？,20 点烟花开始之后,20 点烟花开始之前,在凌晨,在白天,,a
+b,b,请选出你最怀疑杀死刘奇的两个人,修经理,林歌手,洪船长,韩乘务,,c
+c,a,【刘奇】和【修经理】不存在的关系是什么？,修经理 is murderer of 刘奇,修经理 is classmate of 刘奇,修经理 is colleague of 刘奇,刘奇 is nephew of 修经理,,d
+c,a,【刘奇】和【张二副】不存在的关系是什么？,张二副 is bully of 刘奇,张二副 is subordinate of 刘奇,张二副 is dislike of 刘奇,刘奇 is secret crush of 张二副,,d
+c,a,【刘奇】和【林歌手】的关系是什么？,林歌手 is secret admirer and fondness of 刘奇,刘奇 is rebellion against x and jealous by x of 林歌手,刘奇 is jealous by x and perpetrator 's family of 林歌手,刘奇 is perpetrator 's family and deceiver of 林歌手,,a

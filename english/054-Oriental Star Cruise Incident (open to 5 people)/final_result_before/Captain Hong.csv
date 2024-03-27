@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Liu Qi被谁杀死的？,Manager Xiu,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Singer Lin,Han Chengwu (Han the Attendant or Han the Crew Member),,a
+b,a,Liu Qi是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,用枪打死的,,d
+b,a,凶手杀Liu Qi的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人Liu Qi什么人？,儿子,父亲,律师,上级,,d
+b,a,Liu Qi是在哪里被杀死的？,仓库里,在岸上,甲板上,河边,,a
+b,a,Liu Qi是什么时候被杀死的？,20 点烟花开始之后,20 点烟花开始之前,在凌晨,在白天,,a
+b,b,请选出你最怀疑杀死Liu Qi的两个人,Manager Xiu,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Singer Lin,Han Chengwu (Han the Attendant or Han the Crew Member),,c
+c,a,【Liu Qi】和【Manager Xiu】不存在的关系是什么？,Manager Xiu is murderer of Liu Qi,Manager Xiu is classmate of Liu Qi,Manager Xiu is colleague of Liu Qi,Liu Qi is granddaughter of Manager Xiu,,d
+c,a,【Liu Qi】和【Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)】不存在的关系是什么？,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is bully of Liu Qi,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is subordinate of Liu Qi,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is dislike of Liu Qi,Liu Qi is biological daughter of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),,d
+c,a,【Liu Qi】和【Singer Lin】的关系是什么？,Singer Lin is secret admirer and fondness of Liu Qi,Liu Qi is son in law and future father in law of Singer Lin,Liu Qi is future father in law and mentor of Singer Lin,Liu Qi is mentor and elder sister of Singer Lin,,a
+c,a,【Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)】和【Liu Qi】不存在的关系是什么？,Liu Qi is acquaintance of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Liu Qi is dislike of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Liu Qi is superior of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is sibling of Liu Qi,,d
+c,a,【Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)】和【Captain Hong】的关系是什么？,Captain Hong is acquaintance and dislike of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is ex-husband and creditor of Captain Hong,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is creditor and service provider of Captain Hong,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is service provider and husband of Captain Hong,,a
+c,a,【Zhang Erfu (Second Officer Zhang or Zhang the Second Mate)】和【Manager Xiu】的关系是什么？,Manager Xiu is acquaintance of Zhang Erfu (Second Officer Zhang or Zhang the Second Mate),Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is suspicious of Manager Xiu,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is biological son of Manager Xiu,Zhang Erfu (Second Officer Zhang or Zhang the Second Mate) is authority over Manager Xiu,,a

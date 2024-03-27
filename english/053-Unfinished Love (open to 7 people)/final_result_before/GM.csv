@@ -1,0 +1,146 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Lin Weiren】被谁杀死的？,Lin Xi,Lin Yang,Su Yang,Shen Cheng,,c
+b,a,【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Lin Weiren】的两个人,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Gu Yu,c
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Su Yang,Shen Cheng,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Lin Xi,e
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is aunt of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is service provider and admirer of Lin Yang,Lin Xi is admirer and helped by x of Lin Yang,Lin Xi is helped by x and debtor of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is customer and admirer of Chen Jingwen,Lin Xi is admirer and future father in law of Chen Jingwen,Lin Xi is future father in law and grandfather of Chen Jingwen,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is mother of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is host of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is creditor and debtor of Lin Yang,Lin Weiren is debtor and secret lover of Lin Yang,Lin Weiren is secret lover and colleague of Lin Yang,,a
+c,a,【Gu Yu】和【Lin Xi】不存在的关系是什么？,Lin Xi is ex-girlfriend of Gu Yu,Lin Xi is fondness of Gu Yu,Lin Xi is friend of Gu Yu,Gu Yu is betrayer of Lin Xi,,d
+c,a,【Gu Yu】和【Chen Jingwen】的关系是什么？,Chen Jingwen is romantic relationships with x and hate of Gu Yu,Gu Yu is superior and employer of Chen Jingwen,Gu Yu is employer and sister of Chen Jingwen,Gu Yu is sister and mother of Chen Jingwen,,a
+c,a,【Gu Yu】和【Gu Minghe】的关系是什么？,Gu Minghe is father and superior of Gu Yu,Gu Yu is sworn brother and co-wives of Gu Minghe,Gu Yu is co-wives and perpetrator 's family of Gu Minghe,Gu Yu is perpetrator 's family and secret admirer of Gu Minghe,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is concubine and victim of Gu Yu,Gu Minghe is victim and saviour of Gu Yu,Gu Minghe is saviour and enemy of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is son of Shen Cheng,Gu Minghe is nephew of Shen Cheng,Gu Minghe is secret admirer of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is saved by Gu Qing,Gu Minghe is perpetrator of Gu Qing,Gu Minghe is rebellion against Gu Qing,,a
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Shen Cheng,Chen Jingwen,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Lin Yang,Shen Cheng,Chen Jingwen,Lin Xi,e
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is step-daughter of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is subordinate and tenant of Lin Yang,Lin Xi is tenant and concubine of Lin Yang,Lin Xi is concubine and ex-wife of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is nephew and relative of Chen Jingwen,Lin Xi is relative and future daughter in law of Chen Jingwen,Lin Xi is future daughter in law and son in law of Chen Jingwen,,a
+c,a,【Lin Tong】和【Shen Cheng】的关系是什么？,Shen Cheng is father of Lin Tong,Lin Tong is informant of Shen Cheng,Lin Tong is manipulator of Shen Cheng,Lin Tong is rival of Shen Cheng,,a
+c,a,【Lin Tong】和【Qin Siqi】的关系是什么？,Qin Siqi is mother of Lin Tong,Lin Tong is seller of Qin Siqi,Lin Tong is girlfriend of Qin Siqi,Lin Tong is co-wives of Qin Siqi,,a
+c,a,【Lin Tong】和【Su Yang】的关系是什么？,Su Yang is ex-boyfriend of Lin Tong,Lin Tong is subject of investigation for Su Yang,Lin Tong is brother of Su Yang,Lin Tong is minion of Su Yang,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is biological father of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is admirer of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is suspicious and rival of Lin Yang,Lin Weiren is rival and informant of Lin Yang,Lin Weiren is informant and murderer of Lin Yang,,a
+c,a,【Gu Yu】和【Lin Xi】不存在的关系是什么？,Lin Xi is ex-girlfriend of Gu Yu,Lin Xi is fondness of Gu Yu,Lin Xi is friend of Gu Yu,Gu Yu is step-mother of Lin Xi,,d
+c,a,【Gu Yu】和【Chen Jingwen】的关系是什么？,Chen Jingwen is romantic relationships with x and hate of Gu Yu,Gu Yu is mentor and landlord of Chen Jingwen,Gu Yu is landlord and neighbour of Chen Jingwen,Gu Yu is neighbour and informant of Chen Jingwen,,a
+c,a,【Gu Yu】和【Gu Minghe】的关系是什么？,Gu Minghe is father and superior of Gu Yu,Gu Yu is secret admirer and x's victim's family of Gu Minghe,Gu Yu is x's victim's family and betrayer of Gu Minghe,Gu Yu is betrayer and jealous by x of Gu Minghe,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is betrayer and in the lawsuit against x of Gu Yu,Gu Minghe is in the lawsuit against x and rival of Gu Yu,Gu Minghe is rival and host of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is step-mother of Shen Cheng,Gu Minghe is cousin of Shen Cheng,Gu Minghe is biological daughter of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is tenant of Gu Qing,Gu Minghe is bully of Gu Qing,Gu Minghe is debtor of Gu Qing,,a
+a,a,【Lin Weiren】被谁杀死的？,Lin Xi,Shen Cheng,Su Yang,Chen Jingwen,,c
+b,a,【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Lin Weiren】的两个人,Lin Xi,Shen Cheng,Su Yang,Chen Jingwen,Gu Yu,c
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Su Yang,Chen Jingwen,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Shen Cheng,Su Yang,Chen Jingwen,Lin Xi,e
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is mother in law of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is crime partner and seller of Lin Yang,Lin Xi is seller and customer of Lin Yang,Lin Xi is customer and informant of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is twin brother and adoptive brother of Chen Jingwen,Lin Xi is adoptive brother and doctor of Chen Jingwen,Lin Xi is doctor and ex-husband of Chen Jingwen,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is helped by Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is patient of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is customer and romantic relationships with x of Lin Yang,Lin Weiren is romantic relationships with x and bully of Lin Yang,Lin Weiren is bully and secret crush of Lin Yang,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is lover and deceiver of Gu Yu,Gu Minghe is deceiver and helper of Gu Yu,Gu Minghe is helper and admired by x of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is fiance of Shen Cheng,Gu Minghe is adoptive daughter of Shen Cheng,Gu Minghe is elder brother of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is boyfriend of Gu Qing,Gu Minghe is seeker of help from Gu Qing,Gu Minghe is deceived by Gu Qing,,a
+a,a,【Lin Weiren】被谁杀死的？,Lin Xi,Lin Yang,Su Yang,Chen Jingwen,,c
+b,a,【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Lin Weiren】的两个人,Lin Xi,Lin Yang,Su Yang,Chen Jingwen,Gu Yu,c
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Su Yang,Chen Jingwen,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Lin Yang,Su Yang,Chen Jingwen,Lin Xi,e
+b,a,你是否信任【Lin Xi】？,信任,不信任,,,,a
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is younger sister of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is fiance and saviour of Lin Yang,Lin Xi is saviour and teacher of Lin Yang,Lin Xi is teacher and debtor of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is ex-romantic relationships with x and wife of Chen Jingwen,Lin Xi is wife and service provider of Chen Jingwen,Lin Xi is service provider and sister of Chen Jingwen,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is seeker of help from Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is patient of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is ex-wife and perpetrator of Lin Yang,Lin Weiren is perpetrator and wife of Lin Yang,Lin Weiren is wife and guest of Lin Yang,,a
+c,a,【Su Yang】和【Gu Qing】的关系是什么？,Gu Qing is acquaintance and secret admirer of Su Yang,Su Yang is disliked by x and creditor of Gu Qing,Su Yang is creditor and adoptive son of Gu Qing,Su Yang is adoptive son and grandmother of Gu Qing,,a
+c,a,【Su Yang】和【Lin Xi】的关系是什么？,Lin Xi is fiancee of Su Yang,Su Yang is jealous of Lin Xi,Su Yang is patient of Lin Xi,Su Yang is elder sister of Lin Xi,,a
+c,a,【Su Yang】和【Lin Weiren】的关系是什么？,Lin Weiren is teacher of Su Yang,Su Yang is sister of Lin Weiren,Su Yang is future daughter in law of Lin Weiren,Su Yang is service provider of Lin Weiren,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is schoolmate and neighbour of Gu Yu,Gu Minghe is neighbour and sworn brother of Gu Yu,Gu Minghe is sworn brother and suspicious of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is grandfather of Shen Cheng,Gu Minghe is husband of Shen Cheng,Gu Minghe is student of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is perpetrator of Gu Qing's family,Gu Minghe is in the lawsuit against Gu Qing,Gu Minghe is service provider of Gu Qing,,a
+a,a,父亲【Lin Weiren】被谁杀死的？,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,,c
+b,a,父亲【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀父亲【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人父亲【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,父亲【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死父亲【Lin Weiren】的两个人,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,Gu Yu,c
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is step-brother of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is customer of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is subordinate and seeker of help from x of Lin Yang,Lin Weiren is seeker of help from x and schoolmate of Lin Yang,Lin Weiren is schoolmate and adversary of Lin Yang,,a
+c,a,【Shen Cheng】和【Lin Weiren】不存在的关系是什么？,Lin Weiren is master of Shen Cheng,Lin Weiren is victim of Shen Cheng,Lin Weiren is employer of Shen Cheng,Shen Cheng is step-son of Lin Weiren,,d
+c,a,【Shen Cheng】和【Lin Xi】的关系是什么？,Lin Xi is master of Shen Cheng,Shen Cheng is enemy of Lin Xi,Shen Cheng is crime partner of Lin Xi,Shen Cheng is Lin Xi's enemy's family,,a
+c,a,【Shen Cheng】和【Lin Yang】的关系是什么？,Lin Yang is master of Shen Cheng,Shen Cheng is fondness of Lin Yang,Shen Cheng is victim of Lin Yang,Shen Cheng is brother of Lin Yang,,a
+a,a,【Lin Weiren】被谁杀死的？,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,,c
+b,a,【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Lin Weiren】的两个人,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,Gu Yu,c
+a,a,父亲【Gu Minghe】被谁杀死的？,Lin Yang,Lin Xi,Su Yang,Chen Jingwen,,b
+b,a,父亲【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀父亲【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人父亲【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,父亲【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死父亲【Gu Minghe】的两个人,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,Lin Xi,e
+c,a,【Lin Xi】和【Gu Qing】不存在的关系是什么？,Gu Qing is rival in love of Lin Xi,Gu Qing is dislike of Lin Xi,Gu Qing is friend of Lin Xi,Lin Xi is step-sister of Gu Qing,,d
+c,a,【Lin Xi】和【Lin Yang】的关系是什么？,Lin Yang is adoptive brother and hate of Lin Xi,Lin Xi is business partner and ex-romantic relationships with x of Lin Yang,Lin Xi is ex-romantic relationships with x and neighbour of Lin Yang,Lin Xi is neighbour and secret admirer of Lin Yang,,a
+c,a,【Lin Xi】和【Chen Jingwen】的关系是什么？,Chen Jingwen is acquaintance and rival in love of Lin Xi,Lin Xi is uncle and ex-husband of Chen Jingwen,Lin Xi is ex-husband and son of Chen Jingwen,Lin Xi is son and employer of Chen Jingwen,,a
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is secret crush of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is adoptive mother of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is guest and secret admirer of Lin Yang,Lin Weiren is secret admirer and sworn brother of Lin Yang,Lin Weiren is sworn brother and rival in love of Lin Yang,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is saved by x and x's enemy's family of Gu Yu,Gu Minghe is x's enemy's family and student of Gu Yu,Gu Minghe is student and rival of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is son of Shen Cheng,Gu Minghe is business partner of Shen Cheng,Gu Minghe is father of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is ex-husband of Gu Qing,Gu Minghe is superior of Gu Qing,Gu Minghe is fiance of Gu Qing,,a
+a,a,【Lin Weiren】被谁杀死的？,Lin Xi,Lin Yang,Su Yang,Shen Cheng,,c
+b,a,【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Lin Weiren】的两个人,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Gu Yu,c
+a,a,【Gu Minghe】被谁杀死的？,Lin Xi,Lin Xi,Su Yang,Shen Cheng,,b
+b,a,【Gu Minghe】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Gu Minghe】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【Gu Minghe】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【Gu Minghe】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【Gu Minghe】的两个人,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Lin Xi,e
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is concubine of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is son of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is helped by x and superior of Lin Yang,Lin Weiren is superior and killed by x of Lin Yang,Lin Weiren is killed by x and employer of Lin Yang,,a
+c,a,【Chen Jingwen】和【Lin Xi】的关系是什么？,Lin Xi is acquaintance and rival in love of Chen Jingwen,Chen Jingwen is sibling and child of Lin Xi,Chen Jingwen is child and grandson of Lin Xi,Chen Jingwen is grandson and master of Lin Xi,,a
+c,a,【Chen Jingwen】和【Gu Yu】的关系是什么？,Gu Yu is romantic relationships with Chen Jingwen,Chen Jingwen is service provider of Gu Yu,Chen Jingwen is attempted perpetrator of Gu Yu,Chen Jingwen is future son in law of Gu Yu,,a
+c,a,【Chen Jingwen】和【Zheng Xinmei】的关系是什么？,Zheng Xinmei is mother of Chen Jingwen,Chen Jingwen is suspected by Zheng Xinmei,Chen Jingwen is patient of Zheng Xinmei,Chen Jingwen is ex-romantic relationships with Zheng Xinmei,,a
+c,a,【Gu Minghe】和【Gu Yu】的关系是什么？,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is extramarital affair with x and disliked by x of Gu Yu,Gu Minghe is disliked by x and victim of Gu Yu,Gu Minghe is victim and deceived by x of Gu Yu,,a
+c,a,【Gu Minghe】和【Shen Cheng】的关系是什么？,Shen Cheng is hate of Gu Minghe,Gu Minghe is crime partner of Shen Cheng,Gu Minghe is saviour of Shen Cheng,Gu Minghe is schoolmate of Shen Cheng,,a
+c,a,【Gu Minghe】和【Gu Qing】的关系是什么？,Gu Qing is daughter of Gu Minghe,Gu Minghe is betrayed by Gu Qing,Gu Minghe is rebellion against Gu Qing,Gu Minghe is tour guide of Gu Qing,,a

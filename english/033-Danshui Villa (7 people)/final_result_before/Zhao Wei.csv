@@ -1,0 +1,33 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Yu Fei【Li Yu】被谁杀死的？,Ren Shifu,Zhao Wanlei,Li Yu,【Guo Wangshan】指使【Qi Yue】,,d
+b,a,Yu Fei【Li Yu】是怎么死的？,被枪打死的,被拳头打死的,被炸药炸死的,被腰带勒死的,,c
+b,a,凶手杀Yu Fei【Li Yu】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人Yu Fei【Li Yu】什么人？,仇人,徒弟,朋友,陌生人,,d
+b,a,Yu Fei【Li Yu】是在哪里被杀死的？,泽州府外的角山东峰的庄园中,县城的绸缎铺里,汉阳的兵工厂,Zhao Wanlei的卧室里,,b
+b,a,Yu Fei【Li Yu】是在何时被杀死的？,光绪二十六年（1900年）冬初,光绪二十一年（1895年）农历二月二十四,宣统三年（1911年）,今天,,a
+b,b,请选出你最怀疑杀死Yu Fei【Li Yu】的两个人,Ren Shifu,Zhao Wanlei,Li Yu,【Guo Wangshan】指使【Qi Yue】,,d
+a,a,【Zhao Wanlei】被谁杀死的？,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,,a
+b,a,【Zhao Wanlei】是怎么死的？,被枪打死的,被拳头打死的,被炸药炸死的,被毒药毒死的,,d
+b,a,凶手杀【Zhao Wanlei】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Zhao Wanlei】什么人？,仇人,徒弟,下属,陌生人,,c
+b,a,【Zhao Wanlei】是在哪里被杀死的？,泽州府外的角山东峰的庄园中,县城的绸缎铺里,汉阳的兵工厂,Zhao Wanlei的卧室里,,d
+b,b,请选出你最怀疑杀死【Zhao Wanlei】的两个人,Ren Shifu,Feng Shuangji,Guo Wangshan,Zhao Wei,Qi Yue,a
+b,a,谁是【Zhao Wei】你的亲生父亲？,Zhao Wanlei,Guo Wangshan,Feng Shuangji,光绪皇帝,,a
+b,a,谁是【Zhao Luoyi】的亲生父亲？,Zhao Wanlei,Guo Wangshan,Feng Shuangji,光绪皇帝,,c
+b,a,谁在帮助黑狼会做一些隐秘的生意？,Zhao Wanlei,Guo Wangshan,Feng Shuangji,Zhao Wei,,c
+b,a,有没有是为了你的皇族身份来的？,Guo Wangshan,Yin Shaoming,没有，暂且还没有人发现你的皇子身份," ""没有，因为你从来都不是皇子，这只是为了安慰你的童年创伤所创造出来的谎言""",,d
+b,a,【Yin Shaoming】是什么人？,黑狼会的人,误以为Zhao Luoyi被绑架了，不放心而跟过来的热心人,Feng Shuangji的表外甥,Zhao Wanlei的下属,,c
+b,a,【Yin Shaoming】和管家【Feng Shuangji】是什么关系？,Yin Shaoming是Feng Shuangji的女婿,Yin Shaoming和Feng Shuangji是陌生人,Yin Shaoming的外公是Feng Shuangji的师父,Yin Shaoming和Feng Shuangji都是黑狼会的人,,c
+b,a,【Zhao Qiuer】和【Qi Yue】实际上是什么关系？,兄妹,仇人,徒弟,父女,,a
+b,a,【Zhao Qiuer】和【Zhao Wanlei】实际上是什么关系？,【Zhao Qiuer】单方面喜欢【Zhao Wanlei】,【Zhao Wanlei】单方面喜欢【Zhao Qiuer】,【Zhao Wanlei】只是开玩笑要娶【Zhao Qiuer】,【Zhao Wanlei】和【Zhao Qiuer】两情相悦,,d
+b,a,【Shuang Mian Hu】是谁？,Qi Yue,Zhao Wanlei,Guo Wangshan,Liao Laoban,,c
+b,a,【Guo Wangshan】来丹水山庄有什么目的？,毁掉赵家,和Zhao Wanlei谈生意,向Zhao Wanlei提亲,找出当年爆炸案的真相,,a
+c,a,管家【Feng Shuangji】和【Zhao Wanlei】不存在的关系是什么？,Zhao Wanlei is victim of Feng Shuangji,Zhao Wanlei is schoolmate of Feng Shuangji,Zhao Wanlei is employer of Feng Shuangji,Feng Shuangji is step-sister of Zhao Wanlei,,d
+c,a,管家【Feng Shuangji】和【Ren Shifu】的关系是什么？,Ren Shifu is mentor and adoptive father of Feng Shuangji,Feng Shuangji is rival and co-wives of Ren Shifu,Feng Shuangji is co-wives and employee of Ren Shifu,Feng Shuangji is employee and rival in love of Ren Shifu,,a
+c,a,管家【Feng Shuangji】和【Zhao Wei】的关系是什么？,Zhao Wei is helped by x and master of Feng Shuangji,Feng Shuangji is biological daughter and deceiver of Zhao Wei,Feng Shuangji is deceiver and future relative of Zhao Wei,Feng Shuangji is future relative and son of Zhao Wei,,a
+c,a,Yu Fei【Li Yu】和管家【Feng Shuangji】的关系是什么？,Feng Shuangji is extramarital affair with Li Yu,Li Yu is thief of Feng Shuangji,Li Yu is twin brother of Feng Shuangji,Li Yu is murderer of Feng Shuangji,,a
+c,a,Yu Fei【Li Yu】和【Zhao Wanlei】的关系是什么？,Zhao Wanlei is husband of Li Yu,Li Yu is biological father of Zhao Wanlei,Li Yu is bully of Zhao Wanlei,Li Yu is enemy of Zhao Wanlei,,a
+c,a,Yu Fei【Li Yu】和【Zhao Luoyi】的关系是什么？,Zhao Luoyi is daughter of Li Yu,Li Yu is seeker of help from Zhao Luoyi,Li Yu is teacher of Zhao Luoyi,Li Yu is extramarital affair with Zhao Luoyi,,a
+c,a,【Zhao Wanlei】和管家【Feng Shuangji】不存在的关系是什么？,Feng Shuangji is schoolmate of Zhao Wanlei,Feng Shuangji is servant of Zhao Wanlei,Feng Shuangji is employee of Zhao Wanlei,Zhao Wanlei is step-sister of Feng Shuangji,,d
+c,a,【Zhao Wanlei】和【Guo Wangshan】不存在的关系是什么？,Guo Wangshan is Business Partner of X,Guo Wangshan is Attempted Murderer of X,Guo Wangshan is Perpetrator of X's family,Zhao Wanlei is future son in law of Guo Wangshan,,d
+c,a,【Zhao Wanlei】和【Qi Yue】不存在的关系是什么？,Qi Yue is employee of Zhao Wanlei,Qi Yue is servant of Zhao Wanlei,Qi Yue is Perpetrator of X's family,Zhao Wanlei is helper of Qi Yue,,d

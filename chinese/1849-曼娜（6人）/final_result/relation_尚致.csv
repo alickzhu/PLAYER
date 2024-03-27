@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【吕名然】和【承格】不存在的关系是什么？,承格 is murderer of 吕名然,承格 is acquaintance of 吕名然,承格 is employee of 吕名然,吕名然 is biological daughter of 承格,,d
+c,a,【吕名然】和【罗亨理】的关系是什么？,罗亨理 is superior and acquaintance of 吕名然,吕名然 is victim and sister of 罗亨理,吕名然 is sister and biological son of 罗亨理,吕名然 is biological son and dislike of 罗亨理,,a
+c,a,【吕名然】和【谭仁昌】的关系是什么？,谭仁昌 is employer and acquaintance of 吕名然,吕名然 is step-sister and adoptive sister of 谭仁昌,吕名然 is adoptive sister and aunt of 谭仁昌,吕名然 is aunt and step-mother of 谭仁昌,,a
+c,a,【紫娜】和【谭尚致】的关系是什么？,谭尚致 is romantic relationships with 紫娜,紫娜 is sister of 谭尚致,紫娜 is informant of 谭尚致,紫娜 is colleague of 谭尚致,,a
+c,a,【红儿】和【廖雪寒】不存在的关系是什么？,廖雪寒 is manipulator of 红儿,廖雪寒 is creditor of 红儿,廖雪寒 is helper of 红儿,红儿 is ex-wife of 廖雪寒,,d
+c,a,【红儿】和【承格】的关系是什么？,承格 is murderer of 红儿,红儿 is helper of 承格,红儿 is friend of 承格,红儿 is tour guide of 承格,,a
+c,a,【红儿】和【欣雅】的关系是什么？,欣雅 is mother of 红儿,红儿 is co-wives of 欣雅,红儿 is sworn brother of 欣雅,红儿 is attempted murderer of 欣雅,,a
+c,a,【谭仁昌】和【谭尚致】的关系是什么？,谭尚致 is deceived by x and nephew of 谭仁昌,谭仁昌 is seeker of help from x and ex-girlfriend of 谭尚致,谭仁昌 is ex-girlfriend and friend of 谭尚致,谭仁昌 is friend and helper of 谭尚致,,a
+c,a,【谭仁昌】和【吕名然】的关系是什么？,吕名然 is acquaintance and employee of 谭仁昌,谭仁昌 is mother and admirer of 吕名然,谭仁昌 is admirer and adoptive sister of 吕名然,谭仁昌 is adoptive sister and spy of 吕名然,,a
+c,a,【谭仁昌】和【承格】的关系是什么？,承格 is adoptive son and deceiver of 谭仁昌,谭仁昌 is teacher and ex-boyfriend of 承格,谭仁昌 is ex-boyfriend and crime partner of 承格,谭仁昌 is crime partner and ex-husband of 承格,,a

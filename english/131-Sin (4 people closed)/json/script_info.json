@@ -1,0 +1,35 @@
+{
+    "agent_num": 4,
+    "script_name": "Sin",
+    "character_name": [
+        "Zhang Villager",
+        "Chief Wang",
+        "Officer Li",
+        "Hu Investigate"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

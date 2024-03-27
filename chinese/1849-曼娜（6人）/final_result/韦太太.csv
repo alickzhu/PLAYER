@@ -1,0 +1,38 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【吕名然】被谁杀死的？,尚致,海悠,谭太太,承格,,a
+b,a,【吕名然】是怎么死的？,用麻醉药麻醉后吊死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【吕名然】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【吕名然】什么人？,合作关系,父亲,舅舅,律师,,a
+b,a,【吕名然】是在哪里被杀死的？,一层大厅上方,在楼顶,山上,河边,,a
+b,a,【吕名然】是什么时候被杀死的？,9.28号10点左右,9.28号9点左右,9.25号,9.24号,,a
+b,b,请选出你最怀疑杀死【吕名然】的两个人,尚致,海悠,承格,谭太太,廖公子,a
+a,a,【戴面具的女尸】被谁杀死的？,尚致,海悠,谭太太,承格,,a
+a,a,【戴面具的女尸】是谁？,红儿,仆人,张医师,茱丽,,a
+b,a,【戴面具的女尸】是怎么死的？,用枪杀死的,被拳头打死的,用绳子勒死的,被水淹死的,,c
+b,a,凶手杀【戴面具的女尸】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【戴面具的女尸】什么人？,小时候熟人,母亲,律师,医生,,a
+b,a,【戴面具的女尸】是在哪里被杀死的？,廖公子房,储物室,河边,山上,,a
+b,a,【戴面具的女尸】是什么时候被杀死的？,9.28号9点左右,9.25号,9.24号,10月,,a
+b,b,请选出你最怀疑杀死【戴面具的女尸】的两个人,尚致,廖公子,谭太太,海悠,承格,a
+a,a,【谭仁昌】被谁杀死的？,廖公子,海悠,谭太太,承格,,a
+b,a,【谭仁昌】是怎么死的？,用枪杀死的,被拳头打死的,用石头砸死的,被水淹死的,,c
+b,a,凶手杀【谭仁昌】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【谭仁昌】什么人？,仇人,母亲,律师,医生,,a
+b,a,【谭仁昌】是在哪里被杀死的？,南院,船上,河边,山上,,a
+b,a,【谭仁昌】是什么时候被杀死的？,南院,船上,河边,山上,,a
+b,b,请选出你最怀疑杀死【谭仁昌】的两个人,廖公子,承格,谭太太,海悠,尚致,a
+b,b,【承格】是【欣雅】的儿子吗？,不是，是冒充的,是亲生儿子,,,b
+b,a,【尚致】和【紫娜】真正的关系是什么？,【尚致】喜欢【紫娜】并帮她还债,【尚致】在利用【紫娜】,【尚致】和【紫娜】没有关系,【尚致】和【紫娜】是兄妹,,a
+b,b,【吕名然】被撤职的真相是什么？,被【廖公子】利用，被夺取了设计夺取“远亨罗氏”的码头并欠了一大笔钱,因为【吕名然】不想做了,因为【吕名然】岁数太大退休了,因为【吕名然】意外死亡,,a
+c,a,【吕名然】和【承格】不存在的关系是什么？,承格 is murderer of 吕名然,承格 is acquaintance of 吕名然,承格 is employee of 吕名然,吕名然 is sibling of 承格,,d
+c,a,【吕名然】和【罗亨理】的关系是什么？,罗亨理 is superior and acquaintance of 吕名然,吕名然 is co-wives and grandchild of 罗亨理,吕名然 is grandchild and boyfriend of 罗亨理,吕名然 is boyfriend and biological father of 罗亨理,,a
+c,a,【吕名然】和【谭仁昌】的关系是什么？,谭仁昌 is employer and acquaintance of 吕名然,吕名然 is thief and bully of 谭仁昌,吕名然 is bully and younger sister of 谭仁昌,吕名然 is younger sister and adoptive father of 谭仁昌,,a
+c,a,【红儿】和【廖雪寒】不存在的关系是什么？,廖雪寒 is manipulator of 红儿,廖雪寒 is creditor of 红儿,廖雪寒 is helper of 红儿,红儿 is liked by 廖雪寒,,d
+c,a,【红儿】和【承格】的关系是什么？,承格 is murderer of 红儿,红儿 is mentor of 承格,红儿 is customer of 承格,红儿 is daughter in law of 承格,,a
+c,a,【红儿】和【欣雅】的关系是什么？,欣雅 is mother of 红儿,红儿 is disliked by 欣雅,红儿 is ex-boyfriend of 欣雅,红儿 is ex-husband of 欣雅,,a
+c,a,【谭仁昌】和【谭尚致】的关系是什么？,谭尚致 is deceived by x and nephew of 谭仁昌,谭仁昌 is helped by x and secret crush of 谭尚致,谭仁昌 is secret crush and fondness of 谭尚致,谭仁昌 is fondness and wife of 谭尚致,,a
+c,a,【谭仁昌】和【吕名然】的关系是什么？,吕名然 is acquaintance and employee of 谭仁昌,谭仁昌 is younger sister and attempted murderer of 吕名然,谭仁昌 is attempted murderer and secret crush of 吕名然,谭仁昌 is secret crush and elder brother of 吕名然,,a
+c,a,【谭仁昌】和【承格】的关系是什么？,承格 is adoptive son and deceiver of 谭仁昌,谭仁昌 is master and ex-husband of 承格,谭仁昌 is ex-husband and fiance of 承格,谭仁昌 is fiance and seller of 承格,,a
+c,a,【谭太太】和【尚致】的关系是什么？,尚致 is nephew and relative of 谭太太,谭太太 is suspicious and subject of investigation for x of 尚致,谭太太 is subject of investigation for x and messenger of 尚致,谭太太 is messenger and guest of 尚致,,a
+c,a,【谭太太】和【谭尚致】的关系是什么？,谭尚致 is deceived by x and nephew of 谭太太,谭太太 is ex-husband and lover of 谭尚致,谭太太 is lover and product provider of 谭尚致,谭太太 is product provider and doctor of 谭尚致,,a
+c,a,【谭太太】和【吕名然】的关系是什么？,吕名然 is extramarital affair with x and acquaintance of 谭太太,谭太太 is patient and unsuccessful helper of 吕名然,谭太太 is unsuccessful helper and bully of 吕名然,谭太太 is bully and biological mother of 吕名然,,a

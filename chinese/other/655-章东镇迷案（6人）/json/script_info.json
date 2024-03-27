@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "章东镇迷案",
+    "character_name": [
+        "杨敏兮",
+        "夕婷",
+        "申午生",
+        "章方豪",
+        "蓝蕊",
+        "顾梦楚"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

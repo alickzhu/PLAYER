@@ -1,0 +1,22 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Lin Weiren?,Lin Xi,Lin Yang,Su Yang,Shen Cheng,,c
+b,a,How did Lin Weiren die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What was the motive behind the killer's murder of Lin Weiren?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim [Lin Weiren]. Who is it?,Son,father,lawyer,Superior,,d
+b,a,Where was Lin Weiren killed?,study,In the yard,On the mountain,Riverside,,a
+b,b,Please select the two people you most suspect of killing Lin Weiren,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Gu Yu,c
+a,a,Who killed Gu Minghe?,Lin Xi,Lin Xi,Su Yang,Shen Cheng,,b
+b,a,How did Gu Minghe die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Gu Minghe?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Gu Minghe. Who is that?,Son,father,lawyer,Enemies,,d
+b,a,Where was Gu Minghe killed?,Office building,In the yard,On the mountain,Riverside,,a
+b,b,Please select the two people you most suspect of killing Gu Minghe,Lin Xi,Lin Yang,Su Yang,Shen Cheng,Lin Xi,e
+c,a,What is the non-existent relationship between Lin Weiren and Shen Cheng?,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is concubine of Shen Cheng,,d
+c,a,What is the non-existent relationship between Lin Weiren and Su Yang?,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is son of Su Yang,,d
+c,a,What is the relationship between Lin Weiren and Lin Yang?,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is helped by x and superior of Lin Yang,Lin Weiren is superior and killed by x of Lin Yang,Lin Weiren is killed by x and employer of Lin Yang,,a
+c,a,What is the relationship between Chen Jingwen and Lin Xi?,Lin Xi is acquaintance and rival in love of Chen Jingwen,Chen Jingwen is sibling and child of Lin Xi,Chen Jingwen is child and grandson of Lin Xi,Chen Jingwen is grandson and master of Lin Xi,,a
+c,a,What is the relationship between Chen Jingwen and Gu Yu?,Gu Yu is romantic relationships with Chen Jingwen,Chen Jingwen is service provider of Gu Yu,Chen Jingwen is attempted perpetrator of Gu Yu,Chen Jingwen is future son in law of Gu Yu,,a
+c,a,What is the relationship between Chen Jingwen and Zheng Xinmei?,Zheng Xinmei is mother of Chen Jingwen,Chen Jingwen is suspected by Zheng Xinmei,Chen Jingwen is patient of Zheng Xinmei,Chen Jingwen is ex-romantic relationships with Zheng Xinmei,,a
+c,a,What is the relationship between Gu Minghe and Gu Yu?,Gu Yu is subordinate and son of Gu Minghe,Gu Minghe is extramarital affair with x and disliked by x of Gu Yu,Gu Minghe is disliked by x and victim of Gu Yu,Gu Minghe is victim and deceived by x of Gu Yu,,a
+c,a,What is the relationship between Gu Minghe and Shen Cheng?,Shen Cheng is hate of Gu Minghe,Gu Minghe is crime partner of Shen Cheng,Gu Minghe is saviour of Shen Cheng,Gu Minghe is schoolmate of Shen Cheng,,a
+c,a,What is the relationship between Gu Minghe and Gu Qing?,Gu Qing is daughter of Gu Minghe,Gu Minghe is betrayed by Gu Qing,Gu Minghe is rebellion against Gu Qing,Gu Minghe is tour guide of Gu Qing,,a

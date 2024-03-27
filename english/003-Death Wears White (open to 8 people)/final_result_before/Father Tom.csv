@@ -1,0 +1,23 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【Hans Li Morette】被谁杀死的？,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,【Hans Li Morette】是怎么死的？,被枪打死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【Hans Li Morette】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【Hans Li Morette】什么人？,仇人,同事,朋友,妻子,,d
+b,a,【Hans Li Morette】是在哪里被杀死的？,急诊室,约翰逊家,实验室,更衣室,,c
+b,a,【Hans Li Morette】是在何时被杀死的？,今天下午5:00到5:30,今天下午6:30到7:00,今天晚上7:00到7:30,今天早上6:30到7:00,,b
+b,b,请选出你最怀疑杀死【Hans Li Morette】的两个人,Gale Li Morette,护士长【Sylvia Costa】,Drake Li Morette,Frank Bijeli,,a
+b,a,实习生【Elaine Carter】的真实身份是什么?, 器官贩子,卧底警察 普通实习生,绑匪,,b,
+b,a,【Drake Li Morette】的真实身份是什么?, 器官贩子,卧底警察,Hans Li Morette假扮的,绑匪,,c
+b,a,哪件事不是【Frank Bijeli】做的?, 杀人,偷取文件,诈骗,当汤姆神父的托,,a
+b,a,【Tony Bijeli】的真实身份是什么?, 绑匪,杀人凶手,卧底警察,病人,,a
+b,a,哪件事不是【Richard Berkeley】做的?, 挪用医院资金作为津贴,雇人偷取文件,参与器官贩卖,雇人烧毁德雷克的房子,,c
+b,a,护士长【Sylvia Costa】的真实身份是什么?, 贩卖器官的帮凶,杀人凶手,卧底警察,有特殊能力的人,,a
+c,a,【Frank Bijeli】和【Tony】的关系是什么？,Tony is brother of Frank Bijeli,Frank Bijeli is buyer of Tony,Frank Bijeli is attempted murderer of Tony,Frank Bijeli is lover of Tony,,a
+c,a,【Frank Bijeli】和【Father Tom】的关系是什么？,Father Tom is employer of Frank Bijeli,Frank Bijeli is half brother of Father Tom,Frank Bijeli is spy of Father Tom,Frank Bijeli is enemy of Father Tom,,a
+c,a,【Frank Bijeli】和【Drake Li Morette】的关系是什么？,Drake Li Morette is doctor of Frank Bijeli,Frank Bijeli is biological son of Drake Li Morette,Frank Bijeli is Drake Li Morette's enemy's family,Frank Bijeli is adoptive daughter of Drake Li Morette,,a
+c,a,【Tony】和【Frank Bijeli】的关系是什么？,Frank Bijeli is brother of Tony,Tony is fiancee of Frank Bijeli,Tony is neighbour of Frank Bijeli,Tony is saved by Frank Bijeli,,a
+c,a,【Tony】和【Father Tom】的关系是什么？,Father Tom is manipulator of Tony,Tony is possibly family of Father Tom,Tony is step-sister of Father Tom,Tony is secret admirer of Father Tom,,a
+c,a,【Tony】和【Tony Bijeli】的关系是什么？,Tony Bijeli is same person as Tony (different reference),Tony is murderer of Tony Bijeli,Tony is biological mother of Tony Bijeli,Tony is adoptive father of Tony Bijeli,,a
+c,a,【Hans Li Morette】和【Andrew Paloski】不存在的关系是什么？,Andrew Paloski is colleague of Hans Li Morette,Andrew Paloski is mentor of Hans Li Morette,Andrew Paloski is jealous of Hans Li Morette,Hans Li Morette is biological daughter of Andrew Paloski,,d
+c,a,【Hans Li Morette】和【Sylvia Costa】不存在的关系是什么？,Sylvia Costa is colleague of Hans Li Morette,Sylvia Costa is manipulator of Hans Li Morette,Sylvia Costa is deceiver of Hans Li Morette,Hans Li Morette is friend of Sylvia Costa,,d
+c,a,【Hans Li Morette】和【Gale Li Morette】不存在的关系是什么？,Gale Li Morette is wife of Hans Li Morette,Gale Li Morette is attempted murderer of Hans Li Morette,Gale Li Morette is betrayer of Hans Li Morette,Hans Li Morette is saviour of Gale Li Morette,,d

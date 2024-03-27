@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "西门变",
+    "character_name": [
+        "张伟",
+        "李成",
+        "赵三",
+        "赵中正",
+        "陈媚儿"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

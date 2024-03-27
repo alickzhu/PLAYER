@@ -1,0 +1,131 @@
+{
+    "丹尼尔•佩里": [
+      ["杰奎琳•佩里", "wife of x"], 
+      ["玛丽娜•哈里森", "sister in law of x, lover of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["露西•哈里森", "biological daughter of x"], 
+      ["戴维斯•佩里", "brother of x"], 
+      ["罗宾•费依", "colleague of x"], 
+      ["艾米", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["乔纳森•佩里", "son of x"], 
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "乔•罗伯特森": [
+      ["麦克斯•琼斯", "friend of x"], 
+      ["国际刑警组织", "employer of x"], 
+      ["丹尼尔•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"]
+    ],
+    "乔纳森•佩里": [
+      ["杰奎琳•佩里", "mother of x"], 
+      ["玛丽娜•哈里森", "aunt of x"], 
+      ["露西•哈里森", "cousin of x, secret lover of x"], 
+      ["艾莱克斯•哈维", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["丹尼尔•佩里", "father of x"], 
+      ["戴维斯•佩里", "uncle of x"]
+    ],
+    "克里斯丁•邓恩": [
+      ["麦克斯•派克", "business partner of x"], 
+      ["乔•罗伯特森", "acquaintance of x"]
+    ],
+    "哈罗德•哈里森": [
+      ["玛丽娜•哈里森", "wife of x"], 
+      ["露西•哈里森", "daughter of x"], 
+      ["杰奎琳•佩里", "sister in law of x"], 
+      ["丹尼尔•佩里", "brother in law of x"], 
+      ["艾米•摩根", "sister of x"], 
+      ["安娜", "ex-wife of x"], 
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["约翰•摩根", "brother in law of x"]
+    ],
+    "戴维斯•佩里": [
+      ["玛丽娜•哈里森", "secret lover of x, sister in law of x"], 
+      ["丹尼尔•佩里", "brother of x"], 
+      ["杰奎琳•佩里", "sister in law of x"], 
+      ["约翰•摩根", "customer of x"], 
+      ["露西•哈里森", "niece of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"]
+    ],
+    "杰奎琳•佩里": [
+      ["玛丽娜•哈里森", "sister of x, hate of x"], 
+      ["丹尼尔•佩里", "husband of x"], 
+      ["乔纳森•佩里", "son of x"], 
+      ["戴维斯•佩里", "brother in law of x"], 
+      ["哈罗德•哈里森", "brother in law of x"], 
+      ["露西•哈里森", "niece of x"], 
+      ["艾莱克斯•哈维", "cousin of x"]
+    ],
+    "玛丽娜•哈里森": [
+      ["杰奎琳•佩里", "sister of x"], 
+      ["哈罗德•哈里森", "husband of x"], 
+      ["丹尼尔•佩里", "brother in law of x, secret lover of x"], 
+      ["露西•哈里森", "daughter of x"], 
+      ["乔纳森•佩里", "nephew of x"], 
+      ["艾米•摩根", "sister in law of x"], 
+      ["约翰•摩根", "brother in law of x"], 
+      ["戴维斯•佩里", "acquaintance of x, secret lover of x"], 
+      ["安娜", "acquaintance of x"], 
+      ["艾莱克斯•哈维", "cousin of x"]
+    ],
+    "罗宾•费依": [
+      ["丹尼尔•佩里", "friend of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["杰奎琳•佩里", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["艾米•摩根", "acquaintance of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "艾米•摩根": [
+      ["哈罗德•哈里森", "brother of x"], 
+      ["安娜", "sister in law of x"], 
+      ["玛丽娜•哈里森", "sister in law of x"], 
+      ["露西•哈里森", "niece of x"], 
+      ["麦克斯•派克", "acquaintance of x"], 
+      ["艾莱克斯•哈维", "friend of x"], 
+      ["约翰•摩根", "husband of x"], 
+      ["杰奎琳•佩里", "acquaintance of x"], 
+      ["戴维斯•佩里", "acquaintance of x"], 
+      ["乔•罗伯特森", "acquaintance of x"], 
+      ["麦克斯•派克", "acquaintance of x"]
+    ],
+    "艾莱克斯•哈维": [
+      ["玛丽娜•哈里森", "cousin of x, friend of x"], 
+      ["杰奎琳•佩里", "cousin of x"], 
+      ["丹尼尔•佩里", "dislike of x"], 
+      ["艾米•摩根", "acquaintance of x, friend of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["露西•哈里森", "acquaintance of x"], 
+      ["乔纳森•佩里", "acquaintance of x"], 
+      ["约翰•摩根", "acquaintance of x"], 
+      ["戴维斯•佩里", "acquaintance of x"]
+    ],
+    "露西•哈里森": [
+      ["玛丽娜•哈里森", "mother of x"], 
+      ["哈罗德•哈里森", "father of x"], 
+      ["丹尼尔•佩里", "uncle of x"], 
+      ["杰奎琳•佩里", "aunt of x"], 
+      ["乔纳森•佩里", "cousin of x, secret lover of x"]
+    ],
+    "Sleer&Leech": [
+      ["麦克斯•琼斯", "employee of x"]
+    ],
+    "麦克斯•琼斯": [
+      ["麦克斯•派克", "same person as x (different reference)"]
+    ],
+    "麦克斯•派克": [
+      ["Sleer&Leech", "employer of x"], 
+      ["哈罗德•哈里森", "acquaintance of x"], 
+      ["玛丽娜•哈里森", "acquaintance of x"], 
+      ["露西•哈里森", "dislike of x"], 
+      ["麦克斯•琼斯", "same person as x (different reference)"]
+    ]
+}

@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,父亲【Lin Weiren】被谁杀死的？,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,,c
+b,a,父亲【Lin Weiren】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀父亲【Lin Weiren】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人父亲【Lin Weiren】什么人？,儿子,父亲,律师,上级,,d
+b,a,父亲【Lin Weiren】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死父亲【Lin Weiren】的两个人,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,Gu Yu,c
+c,a,【Lin Weiren】和【Shen Cheng】不存在的关系是什么？,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is step-brother of Shen Cheng,,d
+c,a,【Lin Weiren】和【Su Yang】不存在的关系是什么？,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is customer of Su Yang,,d
+c,a,【Lin Weiren】和【Lin Yang】的关系是什么？,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is subordinate and seeker of help from x of Lin Yang,Lin Weiren is seeker of help from x and schoolmate of Lin Yang,Lin Weiren is schoolmate and adversary of Lin Yang,,a
+c,a,【Shen Cheng】和【Lin Weiren】不存在的关系是什么？,Lin Weiren is master of Shen Cheng,Lin Weiren is victim of Shen Cheng,Lin Weiren is employer of Shen Cheng,Shen Cheng is step-son of Lin Weiren,,d
+c,a,【Shen Cheng】和【Lin Xi】的关系是什么？,Lin Xi is master of Shen Cheng,Shen Cheng is enemy of Lin Xi,Shen Cheng is crime partner of Lin Xi,Shen Cheng is Lin Xi's enemy's family,,a
+c,a,【Shen Cheng】和【Lin Yang】的关系是什么？,Lin Yang is master of Shen Cheng,Shen Cheng is fondness of Lin Yang,Shen Cheng is victim of Lin Yang,Shen Cheng is brother of Lin Yang,,a

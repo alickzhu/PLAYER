@@ -1,0 +1,40 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Meng Sanchun?,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,How did Meng Sanchun die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Meng Sanchun's motivation?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Meng Sanchun. Who is it?,lawyer,relative,Son,boss,,d
+b,a,Where was Meng Sanchun killed?,toilet,Inn Room,On the mountain,on board,,a
+b,a,When was Meng Sanchun killed?,"October 25th, 1170 at 11pm","On October 25th, 1170 at 1 a.m","October 25th, 1170 at 10am","October 25th, 1170 at 8pm",,a
+b,b,Please select the two people you most suspect of killing Meng Sanchun,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,What is the non-existent relationship between Meng Sanchun and Zhang Jinyin?,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is service provider of Zhang Jinyin,,d
+c,a,What is the non-existent relationship between Meng Sanchun and Cai Sinang?,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is schoolmate of Cai Siniang,,d
+c,a,What is the relationship between Meng Sanchun and Zhang Hongsheng?,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is relative and patient of Zhang Hongsheng,Meng Sanchun is patient and grandmother of Zhang Hongsheng,Meng Sanchun is grandmother and father of Zhang Hongsheng,,a
+a,a,Who killed Meng Sanchun?,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,How did Meng Sanchun die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Meng Sanchun's motivation?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Meng Sanchun. Who is it?,lawyer,relative,Son,boss,,d
+b,a,Where was Meng Sanchun killed?,toilet,Inn Room,On the mountain,on board,,a
+b,a,When was Meng Sanchun killed?,"October 25th, 1170 at 11pm","On October 25th, 1170 at 1 a.m","October 25th, 1170 at 10am","October 25th, 1170 at 8pm",,a
+b,b,Please select the two people you most suspect of killing Meng Sanchun,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,What is the non-existent relationship between Meng Sanchun and Zhang Jinyin?,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is brother of Zhang Jinyin,,d
+c,a,What is the non-existent relationship between Meng Sanchun and Cai Sinang?,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is future mother in law of Cai Siniang,,d
+c,a,What is the relationship between Meng Sanchun and Zhang Hongsheng?,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is guest and step-son of Zhang Hongsheng,Meng Sanchun is step-son and grandmother of Zhang Hongsheng,Meng Sanchun is grandmother and possibly family of Zhang Hongsheng,,a
+c,a,What is the non-existent relationship between Zhang Hongsheng and Cai Sinang?,Cai Siniang is employee of Zhang Hongsheng,Cai Siniang is admirer of Zhang Hongsheng,Cai Siniang is fondness of Zhang Hongsheng,Zhang Hongsheng is hate of Cai Siniang,,d
+c,a,What is the relationship between Zhang Hongsheng and Hong Jiangshui?,Hong Jiangshui is employee and colleague of Zhang Hongsheng,Zhang Hongsheng is son and friend of Hong Jiangshui,Zhang Hongsheng is friend and mother of Hong Jiangshui,Zhang Hongsheng is mother and brother in law of Hong Jiangshui,,a
+c,a,What is the relationship between Zhang Hongsheng and Zhang Jinyin?,Zhang Jinyin is employee and employer of Zhang Hongsheng,Zhang Hongsheng is bully and bully of Zhang Jinyin,Zhang Hongsheng is bully and suspect of Zhang Jinyin,Zhang Hongsheng is suspect and fiance of Zhang Jinyin,,a
+c,a,What is the non-existent relationship between Meng Sanchun and Zhang Jinyin?,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is step-brother of Zhang Jinyin,,d
+c,a,What is the non-existent relationship between Meng Sanchun and Cai Sinang?,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is seeker of help from Cai Siniang,,d
+c,a,What is the relationship between Meng Sanchun and Zhang Hongsheng?,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is grandparent and subordinate of Zhang Hongsheng,Meng Sanchun is subordinate and colleague of Zhang Hongsheng,Meng Sanchun is colleague and tour guide of Zhang Hongsheng,,a
+a,a,Who killed Meng Sanchun?,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+b,a,How did Meng Sanchun die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Meng Sanchun's motivation?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Meng Sanchun. Who is it?,lawyer,relative,Son,boss,,d
+b,a,Where was Meng Sanchun killed?,toilet,Inn Room,On the mountain,on board,,a
+b,a,When was Meng Sanchun killed?,"October 25th, 1170 at 11pm","On October 25th, 1170 at 1 a.m","October 25th, 1170 at 10am","October 25th, 1170 at 8pm",,a
+b,b,Please select the two people you most suspect of killing Meng Sanchun,Cai Siniang,Zhang Jinyin,Hong Jiangshui,,,c
+c,a,What is the non-existent relationship between Meng Sanchun and Zhang Jinyin?,Zhang Jinyin is sworn brother of Meng Sanchun,Zhang Jinyin is deceived by Meng Sanchun,Zhang Jinyin is friend of Meng Sanchun,Meng Sanchun is brother in law of Zhang Jinyin,,d
+c,a,What is the non-existent relationship between Meng Sanchun and Cai Sinang?,Cai Siniang is employee of Meng Sanchun,Cai Siniang is dislike of Meng Sanchun,Cai Siniang is enemy of Meng Sanchun,Meng Sanchun is grandchild of Cai Siniang,,d
+c,a,What is the relationship between Meng Sanchun and Zhang Hongsheng?,Zhang Hongsheng is wife and enemy of Meng Sanchun,Meng Sanchun is superior and nephew of Zhang Hongsheng,Meng Sanchun is nephew and step-sister of Zhang Hongsheng,Meng Sanchun is step-sister and saved by x of Zhang Hongsheng,,a
+c,a,What is the relationship between Hong Jiangshui and Zhang Hongsheng?,Zhang Hongsheng is employer and colleague of Hong Jiangshui,Hong Jiangshui is murderer and cousin of Zhang Hongsheng,Hong Jiangshui is cousin and crime partner of Zhang Hongsheng,Hong Jiangshui is crime partner and lover of Zhang Hongsheng,,a
+c,a,What is the relationship between Hong Jiangshui and Cai Sinang?,Cai Siniang is admired by x and colleague of Hong Jiangshui,Hong Jiangshui is granddaughter and bully of Cai Siniang,Hong Jiangshui is bully and future relative of Cai Siniang,Hong Jiangshui is future relative and enemy of Cai Siniang,,a
+c,a,What is the relationship between Hong Jiangshui and Meng Sanchun?,Meng Sanchun is employer and victim of Hong Jiangshui,Hong Jiangshui is extramarital affair with x and romantic relationships with x of Meng Sanchun,Hong Jiangshui is romantic relationships with x and step-brother of Meng Sanchun,Hong Jiangshui is step-brother and future father in law of Meng Sanchun,,a

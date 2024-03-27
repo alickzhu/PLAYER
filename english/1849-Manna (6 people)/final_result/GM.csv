@@ -1,0 +1,236 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Lv Mingran?,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Shang Zhi,Mrs. Tan,Hai You,Mrs. Wei,Liao Gongzi,a
+a,a,Who killed Hong Er?,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Shang Zhi,Liao Gongzi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Hai You,Mrs. Wei,Mrs. Tan,Shang Zhi,a
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is sibling of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is son in law and daughter of Luo Hengli,Lv Mingran is daughter and brother in law of Luo Hengli,Lv Mingran is brother in law and fiancee of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is step-brother and step-son of Tan Renchang,Lv Mingran is step-son and biological son of Tan Renchang,Lv Mingran is biological son and half sister of Tan Renchang,,a
+c,a,What is the relationship between Liao Gongzi and Tan Shang Zhi?,Tan Shang Zhi is equality of Liao Gongzi,Liao Gongzi is grandmother of Tan Shang Zhi,Liao Gongzi is grandchild of Tan Shang Zhi,Liao Gongzi is brother in law of Tan Shang Zhi,,a
+c,a,What is the relationship between Liao Gongzi and Mrs. Wei?,Mrs. Wei is acquaintance of Liao Gongzi,Liao Gongzi is lawyer of Mrs. Wei,Liao Gongzi is tour guide of Mrs. Wei,Liao Gongzi is landlord of Mrs. Wei,,a
+c,a,What is the relationship between Liao Gongzi and Hai You?,Hai You is acquaintance of Liao Gongzi,Liao Gongzi is elder brother of Hai You,Liao Gongzi is unsuccessful helper of Hai You,Liao Gongzi is future mother in law of Hai You,,a
+c,a,What is the relationship between Xinya and Cheng Ge?,Cheng Ge is adoptive son of Xinya,Xinya is girlfriend of Cheng Ge,Xinya is jealous by Cheng Ge,Xinya is creditor of Cheng Ge,,a
+c,a,What is the relationship between Xinya and Lv Mingran?,Lv Mingran is helper of Xinya,Xinya is perpetrator of Lv Mingran,Xinya is step-daughter of Lv Mingran,Xinya is jealous of Lv Mingran,,a
+c,a,What is the relationship between Xinya and Tan Renchang?,Tan Renchang is secret lover of Xinya,Xinya is tour guide of Tan Renchang,Xinya is sister in law of Tan Renchang,Xinya is jealous of Tan Renchang,,a
+c,a,What is the non-existent relationship between Hai You and Tan Renchang?,Tan Renchang is adoptive father of Hai You,Tan Renchang is uncle of Hai You,Tan Renchang is victim of Hai You,Hai You is acquaintance of Tan Renchang,,d
+c,a,What is the relationship between Hai You and Mrs. Wei?,Mrs. Wei is aunt and acquaintance of Hai You,Hai You is x's enemy's family and messenger of Mrs. Wei,Hai You is messenger and service provider of Mrs. Wei,Hai You is service provider and betrayed by x of Mrs. Wei,,a
+c,a,What is the relationship between Hai You and Luo Mingsha?,Luo Mingsha is adoptive daughter and adoptive mother of Hai You,Hai You is secret admirer and murderer of Luo Mingsha,Hai You is murderer and quest companion of Luo Mingsha,Hai You is quest companion and colleague of Luo Mingsha,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is fiancee of Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is secret lover of Cheng Ge,Hong Er is uncle of Cheng Ge,Hong Er is elder brother of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is lawyer of Xinya,Hong Er is wife of Xinya,Hong Er is deceiver of Xinya,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is buyer and like by x of Tan Shang Zhi,Tan Renchang is like by x and service provider of Tan Shang Zhi,Tan Renchang is a service provider and guard of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is ex-romantic relationships with x and ex-wife of Lv Mingran,Tan Renchang is ex-wife and elder brother of Lv Mingran,Tan Renchang is elder brother and grandparent of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is fondness and boyfriend of Cheng Ge,Tan Renchang is boyfriend and husband of Cheng Ge,Tan Renchang is husband and debtor of Cheng Ge,,a
+c,a,What is the relationship between Mrs. Tan and Shang Zhi?,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is husband and suspect of Shang Zhi,Mrs. Tan is suspect and student of Shang Zhi,Mrs. Tan is student and dislike of Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Mrs. Tan,Mrs. Tan is subordate and neighbor of Tan Shang Zhi,Mrs. Tan is our neighbor and lawyer of Tan Shang Zhi,Mrs. Tan is a lawyer and romantic relationships with x of Tan Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Lv Mingran?,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is younger brother and mother of Lv Mingran,Mrs. Tan is mother and murderer of Lv Mingran,Mrs. Tan is murderer and killed by x of Lv Mingran,,a
+a,a,Who killed Lv Mingran?,Shang Zhi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Shang Zhi,Mrs. Tan,Cheng Ge,Mrs. Wei,Liao Gongzi,a
+a,a,Who killed Hong Er?,Shang Zhi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Shang Zhi,Liao Gongzi,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Mrs. Tan,Mrs. Wei,Cheng Ge,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Cheng Ge,Mrs. Wei,Mrs. Tan,Shang Zhi,a
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is half brother of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is ex-romantic relationships with x and spy of Luo Hengli,Lv Mingran is spy and possibly family of Luo Hengli,Lv Mingran is possibly family and bully of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is sister in law and father of Tan Renchang,Lv Mingran is father and daughter of Tan Renchang,Lv Mingran is daughter and secret admirer of Tan Renchang,,a
+c,a,What is the relationship between Shang Zhi and Cheng Ge?,Cheng Ge is cousin and acquaintance of Shang Zhi,Shang Zhi is betrayed by x and jealous by x of Cheng Ge,Shang Zhi is jealous by x and spy of Cheng Ge,Shang Zhi is spy and wife of Cheng Ge,,a
+c,a,What is the relationship between Shang Zhi and Tan Renchang?,Tan Renchang is uncle of Shang Zhi,Shang Zhi is secret crush of Tan Renchang,Shang Zhi is mentor of Tan Renchang,Shang Zhi is Tan Renchang's enemy's family,,a
+c,a,What is the relationship between Shang Zhi and Mrs. Tan?,Mrs. Tan is aunt of Shang Zhi,Shang Zhi is killed by Mrs. Tan,Shang Zhi is teacher of Mrs. Tan,Shang Zhi is lawyer of Mrs. Tan,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is nephew of Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is messenger of Cheng Ge,Hong Er is grandfather of Cheng Ge,Hong Er is biological mother of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is doctor of Xinya,Hong Er is employee of Xinya,Hong Er is colleague of Xinya,,a
+c,a,What is the relationship between Julie and Dr. Zhang?,Dr. Zhan is husband of Julie,Julie is half brother of Dr. Zhan,Julie is subject of investigation for Dr. Zhan,Julie is daughter in law of Dr. Zhan,,a
+c,a,What is the relationship between Julie and Liao Xuehan?,Liao Xuehan is helped by Julie,Julie is messenger of Liao Xuehan,Julie is betrayed by Liao Xuehan,Julie is minion of Liao Xuehan,,a
+c,a,What is the relationship between Julie and Hai You?,Hai You is helper of Julie,Julie is liked by Hai You,Julie is dislike of Hai You,Julie is guard of Hai You,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is classified and ex romantic relationships with x of Tan Shang Zhi,Tan Renchang is ex romantic relationships with x and neighbor of Tan Shang Zhi,Tan Renchang is nearby and savior of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is secret admirer and admirer of Lv Mingran,Tan Renchang is admirer and half sister of Lv Mingran,Tan Renchang is half sister and rival of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is patient and fiancee of Cheng Ge,Tan Renchang is fiancee and host of Cheng Ge,Tan Renchang is host and ex-wife of Cheng Ge,,a
+c,a,What is the relationship between Mrs. Tan and Shang Zhi?,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is landlord and manipulator of Shang Zhi,Mrs. Tan is manipulator and rival of Shang Zhi,Mrs. Tan is rival and fiance of Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Mrs. Tan,Mrs. Tan is like by x and seller of Tan Shang Zhi,Ms. Tan is seller and guard of Tan Shang Zhi,Mrs. Tan is guarded and wife of Tan Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Lv Mingran?,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is subject of investigation for x and patient of Lv Mingran,Mrs. Tan is patient and manipulated by x of Lv Mingran,Mrs. Tan is manipulated by x and manipulator of Lv Mingran,,a
+a,a,Who killed Lv Mingran?,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Shang Zhi,Hai You,Cheng Ge,Mrs. Tan,Liao Gongzi,a
+a,a,Who killed Hong Er?,Shang Zhi,Hai You,Mrs. Tan,Cheng Ge,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Shang Zhi,Liao Gongzi,Mrs. Tan,Hai You,Cheng Ge,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Hai You,Mrs. Tan,Cheng Ge,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Cheng Ge,Mrs. Tan,Hai You,Shang Zhi,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is sibling of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is co-wives and grandchild of Luo Hengli,Lv Mingran is grandchild and boyfriend of Luo Hengli,Lv Mingran is boyfriend and biological father of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is thief and bully of Tan Renchang,Lv Mingran is bully and younger sister of Tan Renchang,Lv Mingran is younger sister and adoptive father of Tan Renchang,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is liked by Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is mentor of Cheng Ge,Hong Er is customer of Cheng Ge,Hong Er is daughter in law of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is disliked by Xinya,Hong Er is ex-boyfriend of Xinya,Hong Er is ex-husband of Xinya,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is helped by x and secret crush of Tan Shang Zhi,Tan Renchang is secret crush and friendship of Tan Shang Zhi,Tan Renchang is fond and wife of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is younger sister and attempted murderer of Lv Mingran,Tan Renchang is attempted murderer and secret crush of Lv Mingran,Tan Renchang is secret crush and elder brother of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is master and ex-husband of Cheng Ge,Tan Renchang is ex-husband and fiance of Cheng Ge,Tan Renchang is fiance and seller of Cheng Ge,,a
+c,a,What is the relationship between Mrs. Tan and Shang Zhi?,Shang Zhi is nephew and relative of Mrs. Tan,Mrs. Tan is suspicious and subject of investigation for x of Shang Zhi,Mrs. Tan is subject of investigation for x and messenger of Shang Zhi,Mrs. Tan is messenger and guest of Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Mrs. Tan,Mrs. Tan is ex busy and over of Tan Shang Zhi,Ms. Tan is love and product provider of Tan Shang Zhi,Ms. Tan is a product provider and doctor of Tan Shang Zhi,,a
+c,a,What is the relationship between Mrs. Tan and Lv Mingran?,Lv Mingran is extramarital affair with x and acquaintance of Mrs. Tan,Mrs. Tan is patient and unsuccessful helper of Lv Mingran,Mrs. Tan is unsuccessful helper and bully of Lv Mingran,Mrs. Tan is bully and biological mother of Lv Mingran,,a
+a,a,Who killed Lv Mingran?,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Cheng Ge,Mrs. Tan,Hai You,Mrs. Wei,Shang Zhi,a
+a,a,Who killed Hong Er?,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Shang Zhi's room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Cheng Ge,Shang Zhi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,Who killed Tan Renchang?,Shang Zhi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Shang Zhi,Hai You,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is father in law of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is twin sister and jealous of Luo Hengli,Lv Mingran is jealous and father of Luo Hengli,Lv Mingran is father and biological daughter of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is hate and in the lawsuit against x of Tan Renchang,Lv Mingran is in the lawsuit against x and adoptive daughter of Tan Renchang,Lv Mingran is adoptive daughter and suspect to x of Tan Renchang,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is adoptive sister of Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is sibling of Cheng Ge,Hong Er is step-sister of Cheng Ge,Hong Er is business partner of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is spy of Xinya,Hong Er is fiancee of Xinya,Hong Er is ex-wife of Xinya,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is authoritative over x and ex girlfriend of Tan Shang Zhi,Tan Renchang is ex girlfriend and helper of Tan Shang Zhi,Tan Renchang is a helper and business partner of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is elder brother and step-daughter of Lv Mingran,Tan Renchang is step-daughter and wife of Lv Mingran,Tan Renchang is wife and extramarital affair with x of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is creditor and romantic relationships with x of Cheng Ge,Tan Renchang is romantic relationships with x and fondness of Cheng Ge,Tan Renchang is fondness and buyer of Cheng Ge,,a
+a,a,Who killed Lv Mingran?,Shang Zhi,Hai You,Mrs. Wei,Cheng Ge,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Shang Zhi,Hai You,Cheng Ge,Mrs. Wei,Liao Gongzi,a
+a,a,Who killed Hong Er?,Shang Zhi,Hai You,Mrs. Wei,Cheng Ge,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Shang Zhi,Liao Gongzi,Mrs. Wei,Hai You,Cheng Ge,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Hai You,Mrs. Wei,Cheng Ge,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Cheng Ge,Mrs. Wei,Hai You,Shang Zhi,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+b,a,What is the true relationship between Shang Zhi and Zina?,Shang Zhi likes Zina and helps her repay her debts,Shang Zhi is utilizing Zina,Shang Zhi and Zina have nothing to do with each other,Shang Zhi and Zina are siblings,,a
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is step-father of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is elder sister and adoptive son of Luo Hengli,Lv Mingran is adoptive son and dislike of Luo Hengli,Lv Mingran is dislike and relative of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is perpetrator and deceiver of Tan Renchang,Lv Mingran is deceiver and deceived by x of Tan Renchang,Lv Mingran is deceived by x and granddaughter of Tan Renchang,,a
+c,a,What is the relationship between Shang Zhi and Cheng Ge?,Cheng Ge is cousin and acquaintance of Shang Zhi,Shang Zhi is service provider and concubine of Cheng Ge,Shang Zhi is concubine and doctor of Cheng Ge,Shang Zhi is doctor and betrayed by x of Cheng Ge,,a
+c,a,What is the relationship between Shang Zhi and Tan Renchang?,Tan Renchang is uncle of Shang Zhi,Shang Zhi is husband of Tan Renchang,Shang Zhi is ex-boyfriend of Tan Renchang,Shang Zhi is Tan Renchang's enemy's family,,a
+c,a,What is the relationship between Shang Zhi and Mrs. Tan?,Mrs. Tan is aunt of Shang Zhi,Shang Zhi is in the lawsuit against Mrs. Tan,Shang Zhi is secret admirer of Mrs. Tan,Shang Zhi is hated by Mrs. Tan,,a
+c,a,What is the non-existent relationship between Hai You and Tan Renchang?,Tan Renchang is adoptive father of Hai You,Tan Renchang is uncle of Hai You,Tan Renchang is victim of Hai You,Hai You is liked by Tan Renchang,,d
+c,a,What is the relationship between Hai You and Mrs. Wei?,Mrs. Wei is aunt and acquaintance of Hai You,Hai You is suspect and romantic relationships with x of Mrs. Wei,Hai You is romantic relationships with x and perpetrator of Mrs. Wei,Hai You is perpetrator and suspect to x of Mrs. Wei,,a
+c,a,What is the relationship between Hai You and Luo Mingsha?,Luo Mingsha is adoptive daughter and adoptive mother of Hai You,Hai You is helped by x and schoolmate of Luo Mingsha,Hai You is schoolmate and lover of Luo Mingsha,Hai You is lover and attempted murderer of Luo Mingsha,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is romantic relationships with Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is twin brother of Cheng Ge,Hong Er is host of Cheng Ge,Hong Er is cousin of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is secret crush of Xinya,Hong Er is servant of Xinya,Hong Er is jealous by Xinya,,a
+c,a,What is the relationship between Luo Hengli and Lv Mingran?,Lv Mingran is employee and subordinate of Luo Hengli,Luo Hengli is daughter in law and hated by x of Lv Mingran,Luo Hengli is hated by x and adoptive daughter of Lv Mingran,Luo Hengli is adoptive daughter and niece of Lv Mingran,,a
+c,a,What is the relationship between Luo Hengli and Luo Mingsha?,Luo Mingsha is sister of Luo Hengli,Luo Hengli is customer of Luo Mingsha,Luo Hengli is admired by Luo Mingsha,Luo Hengli is information receiver from Luo Mingsha,,a
+c,a,What is the relationship between Luo Hengli and Tan Renchang?,Tan Renchang is brother in law of Luo Hengli,Luo Hengli is unsuccessful helper of Tan Renchang,Luo Hengli is seeker of help from Tan Renchang,Luo Hengli is colleague of Tan Renchang,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is landlord and student of Tan Shang Zhi,Tan Renchang is a student and superior of Tan Shang Zhi,Tan Renchang is superior and product provider of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is wife and future daughter in law of Lv Mingran,Tan Renchang is future daughter in law and adoptive daughter of Lv Mingran,Tan Renchang is adoptive daughter and ex-wife of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is admired by x and friend of Cheng Ge,Tan Renchang is friend and employee of Cheng Ge,Tan Renchang is employee and colleague of Cheng Ge,,a
+a,a,Who killed Lv Mingran?,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Lv Mingran die?,Hanged under anesthesia,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Lv Mingran?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim, Lv Mingran. Who is that?",Cooperative relationship,father,uncle,lawyer,,a
+b,a,Where was Lv Mingran killed?,Above the lobby on the first floor,On the rooftop,On the mountain,Riverside,,a
+b,a,When was Lv Mingran killed?,Around 10 o'clock on September 28th,Around 9 o'clock on September 28th,September 25th,September 24th,,a
+b,b,Please select the two people you most suspect of killing Lv Mingran,Cheng Ge,Mrs. Tan,Hai You,Mrs. Wei,Liao Gongzi,a
+a,a,Who killed Hong Er?,Cheng Ge,Mrs. Tan,Mrs. Wei,Hai You,,a
+a,a,Who is Hong Er?,Hong Er,servant,Dr. Zhan,Julie,,a
+b,a,How did Hong Er die?,Killed with a gun,Beaten to death with a fist,Strangled with a rope,Drowned by water,,c
+b,a,What is the motive behind the killer killing Hong Er?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,The perpetrator is the victim Hong Er. Who is that?,Childhood acquaintances,mother,lawyer,doctor,,a
+b,a,Where was Hong Er killed?,Liao Gongzi Room,Storage room,Riverside,On the mountain,,a
+b,a,When was Hong Er killed?,Around 9 o'clock on September 28th,September 25th,September 24th,October,,a
+b,b,Please select the two people you most suspect of killing Hong Er,Cheng Ge,Liao Gongzi,Mrs. Wei,Mrs. Tan,Hai You,a
+a,a,Who killed Tan Renchang?,Liao Gongzi,Mrs. Tan,Mrs. Wei,Hai You,,a
+b,a,How did Tan Renchang die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing Tan Renchang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Tan Renchang. Who is that?,Enemies,mother,lawyer,doctor,,a
+b,a,Where was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,a,When was Tan Renchang killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Tan Renchang,Liao Gongzi,Hai You,Mrs. Wei,Mrs. Tan,Cheng Ge,a
+b,b,What is the truth about Lv Mingran's dismissal?,"Utilized by Liao Gongzi, the dock designed to seize the ""Far Hennessy"" was seized and a large amount of money was owed",Because Lv Mingran doesn't want to do it anymore,Because Lv Mingran is too old to retire,Because Lv Mingran died unexpectedly,,a
+b,b,Is Cheng Ge the son of Xinya?,"No, it's a fake",It's my biological son,,,b,
+c,a,What is the non-existent relationship between Lv Mingran and Cheng Ge?,Cheng Ge is murderer of Lv Mingran,Cheng Ge is acquaintance of Lv Mingran,Cheng Ge is employee of Lv Mingran,Lv Mingran is biological daughter of Cheng Ge,,d
+c,a,What is the relationship between Lv Mingran and Luo Hengli?,Luo Hengli is superior and acquaintance of Lv Mingran,Lv Mingran is victim and sister of Luo Hengli,Lv Mingran is sister and biological son of Luo Hengli,Lv Mingran is biological son and dislike of Luo Hengli,,a
+c,a,What is the relationship between Lv Mingran and Tan Renchang?,Tan Renchang is employer and acquaintance of Lv Mingran,Lv Mingran is step-sister and adoptive sister of Tan Renchang,Lv Mingran is adoptive sister and aunt of Tan Renchang,Lv Mingran is aunt and step-mother of Tan Renchang,,a
+c,a,What is the relationship between Zina and Tan Shang Zhi?,Tan Shang Zhi is romantic relationships with Zina,Zina is sister of Tan Shang Zhi,Zina is information of Tan Shang Zhi,Zina is college of Tan Shang Zhi,,a
+c,a,What is the non-existent relationship between Hong Er and Liao Xuehan?,Liao Xuehan is manipulator of Hong Er,Liao Xuehan is creditor of Hong Er,Liao Xuehan is helper of Hong Er,Hong Er is ex-wife of Liao Xuehan,,d
+c,a,What is the relationship between Hong Er and Cheng Ge?,Cheng Ge is murderer of Hong Er,Hong Er is helper of Cheng Ge,Hong Er is friend of Cheng Ge,Hong Er is tour guide of Cheng Ge,,a
+c,a,What is the relationship between Hong Er and Xinya?,Xinya is mother of Hong Er,Hong Er is co-wives of Xinya,Hong Er is sworn brother of Xinya,Hong Er is attempted murderer of Xinya,,a
+c,a,What is the relationship between Tan Renchang and Tan Shang Zhi?,Tan Shang Zhi is received by x and next of Tan Renchang,Tan Renchang is seeker of help from x and ex girlfriend of Tan Shang Zhi,Tan Renchang is ex girlfriend and friend of Tan Shang Zhi,Tan Renchang is a friend and helper of Tan Shang Zhi,,a
+c,a,What is the relationship between Tan Renchang and Lv Mingran?,Lv Mingran is acquaintance and employee of Tan Renchang,Tan Renchang is mother and admirer of Lv Mingran,Tan Renchang is admirer and adoptive sister of Lv Mingran,Tan Renchang is adoptive sister and spy of Lv Mingran,,a
+c,a,What is the relationship between Tan Renchang and Cheng Ge?,Cheng Ge is adoptive son and deceiver of Tan Renchang,Tan Renchang is teacher and ex-boyfriend of Cheng Ge,Tan Renchang is ex-boyfriend and crime partner of Cheng Ge,Tan Renchang is crime partner and ex-husband of Cheng Ge,,a

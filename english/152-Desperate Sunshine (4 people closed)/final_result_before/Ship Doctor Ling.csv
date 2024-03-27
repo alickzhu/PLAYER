@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Boss Yang被谁杀死的？,First Mate Zhang,Shipyard Worker Wang,Secretary Wen,,,a
+b,a,Boss Yang是怎么死的？,被拳头打死的,被毒药毒死的,被水淹死的,用刀杀死的,,b
+b,a,凶手杀Boss Yang的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人Boss Yang什么人？,律师,亲戚,儿子,商业合作伙伴,,d
+b,a,Boss Yang是在哪里被杀死的？,甲板上,岸边,酒吧,自己的房间,,d
+b,a,Boss Yang是什么时候被杀死的？,22:10左右,凌晨1点,上午10点,晚上8点,,a
+b,b,请选出你最怀疑杀死Boss Yang的两个人,First Mate Zhang,Shipyard Worker Wang,Secretary Wen,,,a
+c,a,【Boss Yang】和【Ship Doctor Ling】不存在的关系是什么？,Ship Doctor Ling is business partner of Boss Yang,Ship Doctor Ling is debtor of Boss Yang,Ship Doctor Ling is informant of Boss Yang,Boss Yang is secret lover of Ship Doctor Ling,,d
+c,a,【Boss Yang】和【First Mate Zhang】的关系是什么？,First Mate Zhang is business partner and murderer of Boss Yang,Boss Yang is grandson and future mother in law of First Mate Zhang,Boss Yang is future mother in law and step-mother of First Mate Zhang,Boss Yang is step-mother and romantic relationships with x of First Mate Zhang,,a
+c,a,【Boss Yang】和【Very Naive】的关系是什么？,Very Naive is employee of Boss Yang,Boss Yang is mother in law of Very Naive,Boss Yang is cousin of Very Naive,Boss Yang is possibly family of Very Naive,,a
+c,a,【Shipyard Worker Wang】和【Ship Doctor Ling】的关系是什么？,Ship Doctor Ling is acquaintance and child of Shipyard Worker Wang,Shipyard Worker Wang is ex-boyfriend and enemy of Ship Doctor Ling,Shipyard Worker Wang is enemy and lawyer of Ship Doctor Ling,Shipyard Worker Wang is lawyer and deceiver of Ship Doctor Ling,,a
+c,a,【Shipyard Worker Wang】和【Boss Yang】的关系是什么？,Boss Yang is hate and acquaintance of Shipyard Worker Wang,Shipyard Worker Wang is future son in law and possibly family of Boss Yang,Shipyard Worker Wang is possibly family and granddaughter of Boss Yang,Shipyard Worker Wang is granddaughter and admirer of Boss Yang,,a
+c,a,【Shipyard Worker Wang】和【First Mate Zhang】的关系是什么？,First Mate Zhang is superior of Shipyard Worker Wang,Shipyard Worker Wang is future mother in law of First Mate Zhang,Shipyard Worker Wang is informant of First Mate Zhang,Shipyard Worker Wang is seeker of help from First Mate Zhang,,a
+c,a,【Secretary Wen】和【First Mate Zhang】的关系是什么？,First Mate Zhang is acquaintance and business partner of Secretary Wen,Secretary Wen is adoptive son and future son in law of First Mate Zhang,Secretary Wen is future son in law and deceived by x of First Mate Zhang,Secretary Wen is deceived by x and sibling of First Mate Zhang,,a
+c,a,【Secretary Wen】和【Ship Doctor Ling】的关系是什么？,Ship Doctor Ling is informant and information receiver from x of Secretary Wen,Secretary Wen is son in law and adoptive sister of Ship Doctor Ling,Secretary Wen is adoptive sister and creditor of Ship Doctor Ling,Secretary Wen is creditor and co-wives of Ship Doctor Ling,,a
+c,a,【Secretary Wen】和【Very Naive】的关系是什么？,Very Naive is victim and colleague of Secretary Wen,Secretary Wen is fiancee and grandfather of Very Naive,Secretary Wen is grandfather and informant of Very Naive,Secretary Wen is informant and seeker of help from x of Very Naive,,a

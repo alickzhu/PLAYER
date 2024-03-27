@@ -1,0 +1,10 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【很天真】和【雯秘书】的关系是什么？,雯秘书 is murderer and colleague of 很天真,很天真 is lover and sibling of 雯秘书,很天真 is sibling and fondness of 雯秘书,很天真 is fondness and mother in law of 雯秘书,,a
+c,a,【很天真】和【张大副】的关系是什么？,张大副 is brother of 很天真,很天真 is servant of 张大副,很天真 is boyfriend of 张大副,很天真 is perpetrator of 张大副's family,,a
+c,a,【很天真】和【杨老板】的关系是什么？,杨老板 is employer of 很天真,很天真 is unsuccessful helper of 杨老板,很天真 is uncle of 杨老板,很天真 is crime partner of 杨老板,,a
+c,a,【杨老板】和【玲船医】不存在的关系是什么？,玲船医 is business partner of 杨老板,玲船医 is debtor of 杨老板,玲船医 is informant of 杨老板,杨老板 is grandmother of 玲船医,,d
+c,a,【杨老板】和【张大副】的关系是什么？,张大副 is business partner and murderer of 杨老板,杨老板 is saviour and younger brother of 张大副,杨老板 is younger brother and twin sister of 张大副,杨老板 is twin sister and neighbour of 张大副,,a
+c,a,【杨老板】和【很天真】的关系是什么？,很天真 is employee of 杨老板,杨老板 is cousin of 很天真,杨老板 is future daughter in law of 很天真,杨老板 is boyfriend of 很天真,,a
+c,a,【王船工】和【玲船医】的关系是什么？,玲船医 is acquaintance and child of 王船工,王船工 is secret crush and admired by x of 玲船医,王船工 is admired by x and ex-romantic relationships with x of 玲船医,王船工 is ex-romantic relationships with x and customer of 玲船医,,a
+c,a,【王船工】和【杨老板】的关系是什么？,杨老板 is hate and acquaintance of 王船工,王船工 is ex-wife and biological son of 杨老板,王船工 is biological son and debtor of 杨老板,王船工 is debtor and doctor of 杨老板,,a
+c,a,【王船工】和【张大副】的关系是什么？,张大副 is superior of 王船工,王船工 is son of 张大副,王船工 is ex-romantic relationships with 张大副,王船工 is deceiver of 张大副,,a

@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【林夕】和【顾晴】不存在的关系是什么？,顾晴 is rival in love of 林夕,顾晴 is dislike of 林夕,顾晴 is friend of 林夕,林夕 is aunt of 顾晴,,d
+c,a,【林夕】和【林阳】的关系是什么？,林阳 is adoptive brother and hate of 林夕,林夕 is service provider and admirer of 林阳,林夕 is admirer and helped by x of 林阳,林夕 is helped by x and debtor of 林阳,,a
+c,a,【林夕】和【陈静雯】的关系是什么？,陈静雯 is acquaintance and rival in love of 林夕,林夕 is customer and admirer of 陈静雯,林夕 is admirer and future father in law of 陈静雯,林夕 is future father in law and grandfather of 陈静雯,,a
+c,a,【林惟仁】和【沈城】不存在的关系是什么？,沈城 is employee of 林惟仁,沈城 is hate of 林惟仁,沈城 is servant of 林惟仁,林惟仁 is mother of 沈城,,d
+c,a,【林惟仁】和【苏阳】不存在的关系是什么？,苏阳 is student of 林惟仁,苏阳 is dislike of 林惟仁,苏阳 is hate of 林惟仁,林惟仁 is host of 苏阳,,d
+c,a,【林惟仁】和【林阳】的关系是什么？,林阳 is son and adoptive son of 林惟仁,林惟仁 is creditor and debtor of 林阳,林惟仁 is debtor and secret lover of 林阳,林惟仁 is secret lover and colleague of 林阳,,a
+c,a,【顾宇】和【林夕】不存在的关系是什么？,林夕 is ex-girlfriend of 顾宇,林夕 is fondness of 顾宇,林夕 is friend of 顾宇,顾宇 is betrayer of 林夕,,d
+c,a,【顾宇】和【陈静雯】的关系是什么？,陈静雯 is romantic relationships with x and hate of 顾宇,顾宇 is superior and employer of 陈静雯,顾宇 is employer and sister of 陈静雯,顾宇 is sister and mother of 陈静雯,,a
+c,a,【顾宇】和【顾明和】的关系是什么？,顾明和 is father and superior of 顾宇,顾宇 is sworn brother and co-wives of 顾明和,顾宇 is co-wives and perpetrator 's family of 顾明和,顾宇 is perpetrator 's family and secret admirer of 顾明和,,a
+c,a,【顾明和】和【顾宇】的关系是什么？,顾宇 is subordinate and son of 顾明和,顾明和 is concubine and victim of 顾宇,顾明和 is victim and saviour of 顾宇,顾明和 is saviour and enemy of 顾宇,,a
+c,a,【顾明和】和【沈城】的关系是什么？,沈城 is hate of 顾明和,顾明和 is son of 沈城,顾明和 is nephew of 沈城,顾明和 is secret admirer of 沈城,,a
+c,a,【顾明和】和【顾晴】的关系是什么？,顾晴 is daughter of 顾明和,顾明和 is saved by 顾晴,顾明和 is perpetrator of 顾晴,顾明和 is rebellion against 顾晴,,a

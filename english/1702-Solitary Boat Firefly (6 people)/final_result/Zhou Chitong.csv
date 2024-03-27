@@ -1,0 +1,41 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Big Brother Zhou Mengdang?,Zhou Lianyi,Xi Yan,Yu Sunian,Tian Chou,,d
+b,a,How did Big Brother Zhou Mengdang die?,Killed by crossbow guns,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What is the motive behind the killer killing Big Brother Zhou Mengdang?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim's elder brother, Zhou Mengdang. Who is that?",Enemies,colleague,friend,Superior,,a
+b,a,Where was Big Brother Zhou Mengdang killed?,on board,Southern courtyard,On the mountain,Riverside,,a
+b,b,"Please select the two people you most suspect of killing your elder brother, Zhou Mengdang",Zhou Lianyi,Xi Yan,Tian Chou,Yu Sunian,Yannan,c
+a,a,Who killed sister in law Bao Liu?,Yu Sunian,Xi Yan,Xi Yan,Tian Chou,,d
+b,a,How did Sister in law Bao Liu die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What was the motive behind the killer killing sister in law Bao Liu?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim, sister in law Bao Liu. Who is it?",Enemies,mother,lawyer,doctor,,a
+b,a,Where was Sister in law Bao Liu killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,Please select the two people you most suspect of killing Sister in law Bao Liu,Tian Chou,Zhou Lianyi,Yu Sunian,Xi Yan,Yannan,a
+a,a,"Cui Shouheng, who killed him?",Zhou Lianyi,Yu Sunian,Xi Yan,Tian Chou,,b
+b,a,How did Cui Shouheng die?,Killed by crossbow guns,Poisoned to death by poison,Killed with a mechanism,Drowned by water,,c
+b,a,What is the motive behind the killer killing Cui Shouheng?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Cui Shouheng. Who is that?,Enemies,colleague,friend,Superior,,a
+b,a,Where was Cui Shouheng killed?,Home owner's room,Southern courtyard,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Cui Shouheng,Zhou Lianyi,Xi Yan,Tian Chou,Yu Sunian,Yannan,d
+a,a,Who killed Taitai (Wang Xi Rong)?,Yu Sunian,Xi Yan,Zhou Lianyi,Tian Chou,,a
+b,a,How did Taitai (Wang Xi Rong) die?,Poisoned to death by poison,Beaten to death with a fist,Killed with stones,Drowned by water,,a
+b,a,What was the motive behind the killer killing Taitai (Wang Xi Rong)?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,The perpetrator is the victim Taitai (Wang Xi Rong) who?,subordinate,mother,lawyer,doctor,,a
+b,a,Where was Taitai (Wang Xi Rong) killed?,In the room,On the mountain,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Taitai (Wang Xi Rong),Tian Chou,Zhou Lianyi,Yu Sunian,Xi Yan,Yannan,c
+b,a,What is the true relationship between Yu Sunian and Yannan?,Teacher-student relationship,Romantic relationship,It doesn't matter.,Siblings,,b
+c,a,What is the non-existent relationship between sister in law Bao Liu and Tian Chou?,Tian Chou is friend of sister-in-law Bao Liu,Tian Chou is helped by sister-in-law Bao Liu,Tian Chou is betrayed by sister-in-law Bao Liu,sister-in-law Bao Liu is future son in law of Tian Chou,,d
+c,a,What is the relationship between sister in law Bao Liu and Wang Xi Rong?,Wang Xi Rong is master and helper of sister-in-law Bao Liu,sister-in-law Bao Liu is ex-wife and bully of Wang Xi Rong,sister-in-law Bao Liu is bully and future mother in law of Wang Xi Rong,sister-in-law Bao Liu is future mother in law and relative of Wang Xi Rong,,a
+c,a,What is the relationship between sister in law Bao Liu and Wang Xi Yan?,Wang Xi Yan is master and bully of sister-in-law Bao Liu,sister-in-law Bao Liu is father and adoptive sister of Wang Xi Yan,sister-in-law Bao Liu is adoptive sister and father in law of Wang Xi Yan,sister-in-law Bao Liu is father in law and boyfriend of Wang Xi Yan,,a
+c,a,What is the non-existent relationship between Big Brother Zhou Mengdang and Cui Shouheng?,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is in the lawsuit against Cui Shouheng,,d
+c,a,What is the non-existent relationship between Big Brother Zhou Menggang and Wang Xi Yan?,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is master of Wang Xi Yan,,d
+c,a,What is the relationship between Big Brother Zhou Mengdang and Bao Liu?,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is business partner of Bao Liu,Zhou Mengdang is adoptive brother of Bao Liu,Zhou Mengdang is debtor of Bao Liu,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Bao Liu?,Bao Liu is helped by x and servant of Taitai,Taitai is step-brother and subject of investigation for x of Bao Liu,Taitai is subject of investigation for x and future daughter in law of Bao Liu,Taitai is future daughter in law and unsuccessful helper of Bao Liu,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Xi Yan?,Wang Xi Yan is sister and co-wives of Taitai,Taitai is jealous by x and doctor of Wang Xi Yan,Taitai is doctor and friend of Wang Xi Yan,Taitai is friend and perpetrator of Wang Xi Yan,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Shunming?,Wang Shunming is father of Taitai,Taitai is product provider of Wang Shunming,Taitai is perpetrator of Wang Shunming,Taitai is girlfriend of Wang Shunming,,a
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Mengdang?,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is ex-husband of Zhou Mengdang,,d
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Chitong?,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is elder brother of Zhou Chitong,,d
+c,a,What is the relationship between Cui Shouheng and Wang Xi Yan?,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is victim and adversary of Wang Xi Yan,Cui Shouheng is adversary and helper of Wang Xi Yan,Cui Shouheng is helper and murderer of Wang Xi Yan,,a
+c,a,What is the non-existent relationship between Tian Chou and Bao Liu?,Bao Liu is friend of Tian Chou,Bao Liu is helper of Tian Chou,Bao Liu is Tian Chou's enemy's family,Tian Chou is service provider of Bao Liu,,d
+c,a,What is the non-existent relationship between Tian Chou and Zhou Chitong?,Zhou Chitong is helper of Tian Chou,Zhou Chitong is Tian Chou's enemy's family,Zhou Chitong is informant of Tian Chou,Tian Chou is business partner of Zhou Chitong,,d
+c,a,What is the non-existent relationship between Tian Chou and Zhou Mengdang?,Zhou Mengdang is enemy of Tian Chou,Zhou Mengdang is perpetrator of Tian Chou,Zhou Mengdang is perpetrator of Tian Chou's family,Tian Chou is student of Zhou Mengdang,,d

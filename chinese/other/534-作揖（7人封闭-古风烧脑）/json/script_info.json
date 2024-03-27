@@ -1,0 +1,38 @@
+{
+    "agent_num": 7,
+    "script_name": "作揖",
+    "character_name": [
+        "李延",
+        "小茜",
+        "陈倩",
+        "李仲",
+        "草藤居士",
+        "李氏",
+        "陈府主"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Lin Weiren's father?,Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,,c
+b,a,How did Lin Weiren's father die?,Stabbed to death with a knife,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,What was the motive behind the killer's father Lin Weiren's murder?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim's father, Lin Weiren. Who is this?",Son,father,lawyer,Superior,,d
+b,a,Where was Lin Weiren's father killed?,study,In the yard,On the mountain,Riverside,,a
+b,b,"Please select the two people you most suspect of killing your father, Lin Weiren",Lin Yang,Shen Cheng,Su Yang,Chen Jingwen,Gu Yu,c
+c,a,What is the non-existent relationship between Lin Weiren and Shen Cheng?,Shen Cheng is employee of Lin Weiren,Shen Cheng is hate of Lin Weiren,Shen Cheng is servant of Lin Weiren,Lin Weiren is step-brother of Shen Cheng,,d
+c,a,What is the non-existent relationship between Lin Weiren and Su Yang?,Su Yang is student of Lin Weiren,Su Yang is dislike of Lin Weiren,Su Yang is hate of Lin Weiren,Lin Weiren is customer of Su Yang,,d
+c,a,What is the relationship between Lin Weiren and Lin Yang?,Lin Yang is son and adoptive son of Lin Weiren,Lin Weiren is subordinate and seeker of help from x of Lin Yang,Lin Weiren is seeker of help from x and schoolmate of Lin Yang,Lin Weiren is schoolmate and adversary of Lin Yang,,a
+c,a,What is the non-existent relationship between Shen Cheng and Lin Weiren?,Lin Weiren is master of Shen Cheng,Lin Weiren is victim of Shen Cheng,Lin Weiren is employer of Shen Cheng,Shen Cheng is step-son of Lin Weiren,,d
+c,a,What is the relationship between Shen Cheng and Lin Xi?,Lin Xi is master of Shen Cheng,Shen Cheng is enemy of Lin Xi,Shen Cheng is crime partner of Lin Xi,Shen Cheng is Lin Xi's enemy's family,,a
+c,a,What is the relationship between Shen Cheng and Lin Yang?,Lin Yang is master of Shen Cheng,Shen Cheng is fondness of Lin Yang,Shen Cheng is victim of Lin Yang,Shen Cheng is brother of Lin Yang,,a

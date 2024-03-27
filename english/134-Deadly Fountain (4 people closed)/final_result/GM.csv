@@ -1,0 +1,37 @@
+value,type,question,a,b,c,d,e,truth
+b,b,Do you know who the perpetrator of the shocking serial dismemberment rape case in the whole city was,He Laoliu,Mu Bei,Neighbor Wang,Not a person from the existing options,,a
+c,a,What is the non-existent relationship between Li Guofu and Zhang Jie?,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is ex-girlfriend of Zhang Jie,,d
+c,a,What is the non-existent relationship between Li Guofu and Mu Bei?,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is student of Mu Bei,,d
+c,a,What is the relationship between Li Guofu and He Laoliu?,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is fondness and boyfriend of He Laoliu,Li Guofu is boyfriend and half brother of He Laoliu,Li Guofu is half brother and brother of He Laoliu,,a
+a,a,Who killed Li Guofu?,Zhang Jie,Mu Bei,Neighbor Wang,commit suicide,,a
+b,a,How did Li Guofu die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Li Guofu's motivation?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Li Guofu. Who is it?,lawyer,relative,Son,Associate (subordinate),,d
+b,a,Where was Li Guofu killed?,On the edge of the fountain,In the security room,At the entrance of the community,In the cleaning room,,a
+b,a,When was Li Guofu killed?,Around 22:10,Before 22:00,At midnight,10am,,a
+b,b,Please select the two people you most suspect of killing Li Guofu,Zhang Jie,Mu Bei,Neighbor Wang,commit suicide,,a
+c,a,What is the non-existent relationship between Li Guofu and Zhang Jie?,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is niece of Zhang Jie,,d
+c,a,What is the non-existent relationship between Li Guofu and Mu Bei?,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is biological daughter of Mu Bei,,d
+c,a,What is the relationship between Li Guofu and He Laoliu?,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is hate and half sister of He Laoliu,Li Guofu is half sister and future mother in law of He Laoliu,Li Guofu is future mother in law and twin brother of He Laoliu,,a
+a,a,Who killed Li Guofu?,He Laoliu,Zhang Jie,Neighbor Wang,commit suicide,,b
+b,a,How did Li Guofu die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Li Guofu's motivation?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Li Guofu. Who is it?,lawyer,relative,Son,Associate (subordinate),,d
+b,a,Do you know who the perpetrator of the shocking serial dismemberment rape case in the whole city was,He Laoliu,Zhang Jie,Neighbor Wang,Not a person from the existing options,,a
+b,b,Please select the two people you most suspect of killing Li Guofu,He Laoliu,Zhang Jie,Neighbor Wang,commit suicide,,b
+b,a,Where was Li Guofu killed?,On the edge of the fountain,In the security room,At the entrance of the community,In the cleaning room,,a
+b,a,When was Li Guofu killed?,Around 22:10,Before 22:00,At midnight,10am,,a
+c,a,What is the non-existent relationship between Li Guofu and Zhang Jie?,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is admirer of Zhang Jie,,d
+c,a,What is the non-existent relationship between Li Guofu and Mu Bei?,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is adoptive sister of Mu Bei,,d
+c,a,What is the relationship between Li Guofu and He Laoliu?,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is step-brother and future daughter in law of He Laoliu,Li Guofu is future daughter in law and fiance of He Laoliu,Li Guofu is fiance and relative of He Laoliu,,a
+a,a,Who killed Li Guofu?,He Laoliu,Zhang Jie,Mu Bei,commit suicide,,b
+b,a,How did Li Guofu die?,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,Killed with a knife,,d
+b,a,What is Li Guofu's motivation?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Li Guofu. Who is it?,lawyer,relative,Son,Associate (subordinate),,d
+b,a,Do you know who the perpetrator of the shocking serial dismemberment rape case in the whole city was,He Laoliu,Mu Bei,Zhang Jie,Not a person from the existing options,,a
+b,b,Please select the two people you most suspect of killing Li Guofu,He Laoliu,Zhang Jie,Mu Bei,commit suicide,,b
+b,a,Where was Li Guofu killed?,On the edge of the fountain,In the security room,At the entrance of the community,In the cleaning room,,a
+b,a,When was Li Guofu killed?,Around 22:10,Before 22:00,At midnight,10am,,a
+c,a,What is the non-existent relationship between Li Guofu and Zhang Jie?,Zhang Jie is subordinate of Li Guofu,Zhang Jie is dislike of Li Guofu,Zhang Jie is rival in love of Li Guofu,Li Guofu is mother in law of Zhang Jie,,d
+c,a,What is the non-existent relationship between Li Guofu and Mu Bei?,Mu Bei is subordinate of Li Guofu,Mu Bei is suspicious of Li Guofu,Mu Bei is romantic relationships with Li Guofu,Li Guofu is twin brother of Mu Bei,,d
+c,a,What is the relationship between Li Guofu and He Laoliu?,He Laoliu is subordinate and crime partner of Li Guofu,Li Guofu is romantic relationships with x and half brother of He Laoliu,Li Guofu is half brother and future daughter in law of He Laoliu,Li Guofu is future daughter in law and dislike of He Laoliu,,a

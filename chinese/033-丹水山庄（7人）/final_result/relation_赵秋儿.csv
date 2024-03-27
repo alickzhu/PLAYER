@@ -1,0 +1,7 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【赵万雷】和【冯双骥】不存在的关系是什么？,冯双骥 is schoolmate of 赵万雷,冯双骥 is servant of 赵万雷,冯双骥 is employee of 赵万雷,赵万雷 is biological father of 冯双骥,,d
+c,a,【赵万雷】和【郭望山】不存在的关系是什么？,郭望山 is Business Partner of X,郭望山 is Attempted Murderer of X,郭望山 is Perpetrator of X's family,赵万雷 is son of 郭望山,,d
+c,a,【赵万雷】和【齐岳】不存在的关系是什么？,齐岳 is employee of 赵万雷,齐岳 is servant of 赵万雷,齐岳 is Perpetrator of X's family,赵万雷 is admired by 齐岳,,d
+c,a,【赵洛意】和【齐岳】的关系是什么？,齐岳 is servant and x's victim's family of 赵洛意,赵洛意 is daughter in law and student of 齐岳,赵洛意 is student and grandparent of 齐岳,赵洛意 is grandparent and concubine of 齐岳,,a
+c,a,【赵洛意】和【冯双骥】的关系是什么？,冯双骥 is father of 赵洛意,赵洛意 is extramarital affair with 冯双骥,赵洛意 is business partner of 冯双骥,赵洛意 is ex-girlfriend of 冯双骥,,a
+c,a,【赵洛意】和【李郁】的关系是什么？,李郁 is mother of 赵洛意,赵洛意 is sworn brother of 李郁,赵洛意 is seller of 李郁,赵洛意 is admired by 李郁,,a

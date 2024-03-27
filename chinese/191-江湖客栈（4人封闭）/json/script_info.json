@@ -1,0 +1,35 @@
+{
+    "agent_num": 4,
+    "script_name": "江湖客栈",
+    "character_name": [
+        "蔡思娘",
+        "张金银",
+        "张红生",
+        "洪江水"
+    ],
+    "acts_num": 1,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

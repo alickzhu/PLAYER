@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "Solitary Boat Firefly",
+    "character_name": [
+        "Tian Chou",
+        "Zhou Lianyi",
+        "Xi Yan",
+        "Yu Sunian",
+        "Yannan",
+        "Zhou Chitong"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

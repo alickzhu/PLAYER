@@ -1,0 +1,40 @@
+{
+    "agent_num": 9,
+    "script_name": "Death Wears White",
+    "character_name": [
+        "Richard Berkeley",
+        "Drake Li Morette",
+        "Frank Bijeli",
+        "Father Tom",
+        "Sylvia Costa",
+        "Tony Bijeli",
+        "Elaine Carter",
+        "Gale Li Morette",
+        "Andrew Paloski"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

@@ -1,0 +1,39 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Father Zhou Mengdang?,Zhou Chitong,Xi Yan,Yu Sunian,Tian Chou,,d
+b,a,"How did Zhou Mengdang, the father, die?",Killed by crossbow guns,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,a
+b,a,"What is the motive behind the killer killing his father, Zhou Mengdang?",Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim's father, Zhou Mengdang. Who is this?",Enemies,colleague,friend,Superior,,a
+b,a,Where was the father Zhou Mengdang killed?,on board,Southern courtyard,On the mountain,Riverside,,a
+b,b,"Please select the two people you most suspect of killing your father, Zhou Mengdang",Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Yannan,c
+a,a,Who killed the mother Yu Shi?,Yu Sunian,Xi Yan,Xi Yan,Tian Chou,,d
+b,a,How did the mother Yu Shi die?,Killed with a gun,Beaten to death with a fist,Killed with stones,Drowned by water,,c
+b,a,What is the motive behind the killer killing his mother Yu Shi?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim's mother, Yu Shi. Who is that?",Enemies,mother,lawyer,doctor,,a
+b,a,Where was the mother Yu Shi killed?,Southern courtyard,on board,Riverside,On the mountain,,a
+b,b,"Please select the two people you most suspect of killing your mother, Yu Shi",Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Yannan,a
+a,a,"Cui Shouheng, who killed him?",Zhou Chitong,Yu Sunian,Xi Yan,Tian Chou,,b
+b,a,How did Cui Shouheng die?,Killed by crossbow guns,Poisoned to death by poison,Killed with a mechanism,Drowned by water,,c
+b,a,What is the motive behind the killer killing Cui Shouheng?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,The perpetrator is the victim Cui Shouheng. Who is that?,Enemies,colleague,friend,Superior,,a
+b,a,Where was Cui Shouheng killed?,Home owner's room,Southern courtyard,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Cui Shouheng,Zhou Chitong,Xi Yan,Tian Chou,Yu Sunian,Yannan,d
+a,a,Who killed Taitai (Wang Xi Rong)?,Yu Sunian,Xi Yan,Zhou Chitong,Tian Chou,,a
+b,a,How did Taitai (Wang Xi Rong) die?,Poisoned to death by poison,Beaten to death with a fist,Killed with stones,Drowned by water,,a
+b,a,What was the motive behind the killer killing Taitai (Wang Xi Rong)?,Love killing,Vendetta,interest,Accidental killing,,d
+b,a,The perpetrator is the victim Taitai (Wang Xi Rong) who?,subordinate,mother,lawyer,doctor,,a
+b,a,Where was Taitai (Wang Xi Rong) killed?,In the room,On the mountain,on board,Riverside,,a
+b,b,Please select the two people you most suspect of killing Taitai (Wang Xi Rong),Tian Chou,Zhou Chitong,Yu Sunian,Xi Yan,Yannan,c
+b,a,What is the true relationship between Yu Sunian and Yannan?,Teacher-student relationship,Romantic relationship,It doesn't matter.,Siblings,,b
+b,a,What is the true relationship between Zhou Chitong and Tian Chou?,It doesn't matter.,Romantic relationship,Tian Chou is utilizing Zhou Chitong,Siblings,,c
+c,a,What is the non-existent relationship between mother Yu Shi and Tian Chou?,Tian Chou is friend of Yu Shi,Tian Chou is helped by Yu Shi,Tian Chou is betrayed by Yu Shi,Yu Shi is mother of Tian Chou,,d
+c,a,What is the relationship between mother Yu Shi and Wang Xi Rong?,Wang Xi Rong is master and helper of Yu Shi,Yu Shi is jealous by x and adoptive father of Wang Xi Rong,Yu Shi is adoptive father and future son in law of Wang Xi Rong,Yu Shi is future son in law and adversary of Wang Xi Rong,,a
+c,a,What is the relationship between mother Yu Shi and Wang Xi Yan?,Wang Xi Yan is master and bully of Yu Shi,Yu Shi is schoolmate and grandchild of Wang Xi Yan,Yu Shi is grandchild and father in law of Wang Xi Yan,Yu Shi is father in law and future mother in law of Wang Xi Yan,,a
+c,a,What is the non-existent relationship between father Zhou Mengdang and Cui Shouheng?,Cui Shouheng is helper of Zhou Mengdang,Cui Shouheng is master of Zhou Mengdang,Cui Shouheng is employer of Zhou Mengdang,Zhou Mengdang is step-mother of Cui Shouheng,,d
+c,a,What is the non-existent relationship between father Zhou Mengdang and Wang Xi Yan?,Wang Xi Yan is friend of Zhou Mengdang,Wang Xi Yan is ex-romantic relationships with Zhou Mengdang,Wang Xi Yan is extramarital affair with Zhou Mengdang,Zhou Mengdang is younger sister of Wang Xi Yan,,d
+c,a,What is the relationship between father Zhou Mengdang and Bao Liu?,Bao Liu is wife of Zhou Mengdang,Zhou Mengdang is future son in law of Bao Liu,Zhou Mengdang is perpetrator of Bao Liu's family,Zhou Mengdang is betrayed by Bao Liu,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Bao Liu?,Bao Liu is helped by x and servant of Taitai,Taitai is suspect to x and fiancee of Bao Liu,Taitai is fiancee and grandson of Bao Liu,Taitai is grandson and grandparent of Bao Liu,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Xi Yan?,Wang Xi Yan is sister and co-wives of Taitai,Taitai is bully and creditor of Wang Xi Yan,Taitai is creditor and rebellion against x of Wang Xi Yan,Taitai is rebellion against x and schoolmate of Wang Xi Yan,,a
+c,a,What is the relationship between Taitai (Wang Xi Rong) and Wang Shunming?,Wang Shunming is father of Taitai,Taitai is romantic relationships with Wang Shunming,Taitai is ex-husband of Wang Shunming,Taitai is deceived by Wang Shunming,,a
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Mengdang?,Zhou Mengdang is minion of Cui Shouheng,Zhou Mengdang is servant of Cui Shouheng,Zhou Mengdang is employee of Cui Shouheng,Cui Shouheng is son in law of Zhou Mengdang,,d
+c,a,What is the non-existent relationship between Cui Shouheng and Zhou Chitong?,Zhou Chitong is helped by Cui Shouheng,Zhou Chitong is thief of Cui Shouheng,Zhou Chitong is business partner of Cui Shouheng,Cui Shouheng is grandson of Zhou Chitong,,d
+c,a,What is the relationship between Cui Shouheng and Wang Xi Yan?,Wang Xi Yan is sister in law and wife of Cui Shouheng,Cui Shouheng is superior and master of Wang Xi Yan,Cui Shouheng is master and spy of Wang Xi Yan,Cui Shouheng is spy and perpetrator 's family of Wang Xi Yan,,a

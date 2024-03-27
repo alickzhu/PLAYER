@@ -1,0 +1,38 @@
+{
+    "agent_num": 7,
+    "script_name": "Danshui Villa",
+    "character_name": [
+        "Feng Shuangji",
+        "Zhao Wei",
+        "Guo Wangshan",
+        "Zhao Luoyi",
+        "Zhao Qiuer",
+        "Yin Shaoming",
+        "Qi Yue"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

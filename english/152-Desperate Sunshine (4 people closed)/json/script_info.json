@@ -1,0 +1,23 @@
+{
+    "agent_num": 4,
+    "script_name": "Desperate Sunshine",
+    "character_name": [
+        "First Mate Zhang",
+        "Secretary Wen",
+        "Ship Doctor Ling",
+        "Shipyard Worker Wang"
+    ],
+    "acts_num": 1,
+    "stage": [
+        ""
+    ],
+    "open_discuss_rounds": [
+        2
+    ],
+    "keep_asking": [
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0
+    ]
+}

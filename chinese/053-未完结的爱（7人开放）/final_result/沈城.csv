@@ -1,0 +1,26 @@
+value,type,question,a,b,c,d,e,truth
+a,a,【林惟仁】被谁杀死的？,林夕,林阳,苏阳,陈静雯,,c
+b,a,【林惟仁】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【林惟仁】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【林惟仁】什么人？,儿子,父亲,律师,上级,,d
+b,a,【林惟仁】是在哪里被杀死的？,书房,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【林惟仁】的两个人,林夕,林阳,苏阳,陈静雯,顾宇,c
+a,a,【顾明和】被谁杀死的？,林夕,林夕,苏阳,陈静雯,,b
+b,a,【顾明和】是怎么死的？,用刀捅死的,被拳头打死的,被毒药毒死的,被水淹死的,,a
+b,a,凶手杀【顾明和】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【顾明和】什么人？,儿子,父亲,律师,仇人,,d
+b,a,【顾明和】是在哪里被杀死的？,办公大楼,院子里,山上,河边,,a
+b,b,请选出你最怀疑杀死【顾明和】的两个人,林夕,林阳,苏阳,陈静雯,林夕,e
+b,a,你是否信任【林夕】？,信任,不信任,,,,a
+c,a,【林夕】和【顾晴】不存在的关系是什么？,顾晴 is rival in love of 林夕,顾晴 is dislike of 林夕,顾晴 is friend of 林夕,林夕 is younger sister of 顾晴,,d
+c,a,【林夕】和【林阳】的关系是什么？,林阳 is adoptive brother and hate of 林夕,林夕 is fiance and saviour of 林阳,林夕 is saviour and teacher of 林阳,林夕 is teacher and debtor of 林阳,,a
+c,a,【林夕】和【陈静雯】的关系是什么？,陈静雯 is acquaintance and rival in love of 林夕,林夕 is ex-romantic relationships with x and wife of 陈静雯,林夕 is wife and service provider of 陈静雯,林夕 is service provider and sister of 陈静雯,,a
+c,a,【林惟仁】和【沈城】不存在的关系是什么？,沈城 is employee of 林惟仁,沈城 is hate of 林惟仁,沈城 is servant of 林惟仁,林惟仁 is seeker of help from 沈城,,d
+c,a,【林惟仁】和【苏阳】不存在的关系是什么？,苏阳 is student of 林惟仁,苏阳 is dislike of 林惟仁,苏阳 is hate of 林惟仁,林惟仁 is patient of 苏阳,,d
+c,a,【林惟仁】和【林阳】的关系是什么？,林阳 is son and adoptive son of 林惟仁,林惟仁 is ex-wife and perpetrator of 林阳,林惟仁 is perpetrator and wife of 林阳,林惟仁 is wife and guest of 林阳,,a
+c,a,【苏阳】和【顾晴】的关系是什么？,顾晴 is acquaintance and secret admirer of 苏阳,苏阳 is disliked by x and creditor of 顾晴,苏阳 is creditor and adoptive son of 顾晴,苏阳 is adoptive son and grandmother of 顾晴,,a
+c,a,【苏阳】和【林夕】的关系是什么？,林夕 is fiancee of 苏阳,苏阳 is jealous of 林夕,苏阳 is patient of 林夕,苏阳 is elder sister of 林夕,,a
+c,a,【苏阳】和【林惟仁】的关系是什么？,林惟仁 is teacher of 苏阳,苏阳 is sister of 林惟仁,苏阳 is future daughter in law of 林惟仁,苏阳 is service provider of 林惟仁,,a
+c,a,【顾明和】和【顾宇】的关系是什么？,顾宇 is subordinate and son of 顾明和,顾明和 is schoolmate and neighbour of 顾宇,顾明和 is neighbour and sworn brother of 顾宇,顾明和 is sworn brother and suspicious of 顾宇,,a
+c,a,【顾明和】和【沈城】的关系是什么？,沈城 is hate of 顾明和,顾明和 is grandfather of 沈城,顾明和 is husband of 沈城,顾明和 is student of 沈城,,a
+c,a,【顾明和】和【顾晴】的关系是什么？,顾晴 is daughter of 顾明和,顾明和 is perpetrator of 顾晴's family,顾明和 is in the lawsuit against 顾晴,顾明和 is service provider of 顾晴,,a
