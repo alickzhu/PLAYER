@@ -91,7 +91,7 @@ class ScriptManager:
             final_result_file_path = os.path.join(args.script_root, args.script_name, 'final_result', name + '.csv')
             final_result = pd.read_csv(final_result_file_path, encoding='utf-8-sig')
             self.agents_final_result[name] = final_result
-        self.agents_final_result['GM'] = pd.read_csv(os.path.join(args.script_root, args.script_name, 'final_result', 'GM.csv'), encoding='utf-8-sig')
+        self.agents_final_result['GM'] = pd.read_csv(os.path.join(args.script_root, args.script_name, 'final_result', 'FSA.csv'), encoding='utf-8-sig')
 
     def update_script(self, agent, n):
         """
@@ -671,7 +671,7 @@ if __name__ == "__main__":
     parser.add_argument('--load_history', default="/scratch/prj/lmrep/qinglin/Murder_Mystery_Game/log_Werewolf/134-致命喷泉（4人封闭）Werewolf", type=str,required=False)
 
     # for model
-    parser.add_argument('--temperature', default=0.9, type=float, help='the diversity of generated text')
+    parser.add_argument('--temperature', default=1, type=float, help='the diversity of generated text')
     parser.add_argument('--model_type', default="gpt35", type=str, required=False, help='[gpt35, gpt4, llama13b]')
 
     # for game

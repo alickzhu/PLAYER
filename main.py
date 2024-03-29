@@ -91,7 +91,7 @@ class ScriptManager:
             final_result_file_path = os.path.join(args.script_root, args.script_name, 'final_result', name + '.csv')
             final_result = pd.read_csv(final_result_file_path, encoding='utf-8-sig')
             self.agents_final_result[name] = final_result
-        self.agents_final_result['GM'] = pd.read_csv(os.path.join(args.script_root, args.script_name, 'final_result', 'GM.csv'), encoding='utf-8-sig')
+        self.agents_final_result['GM'] = pd.read_csv(os.path.join(args.script_root, args.script_name, 'final_result', 'FSA.csv'), encoding='utf-8-sig')
 
     def update_script(self, agent, n):
         """
@@ -759,7 +759,7 @@ if __name__ == "__main__":
     parser.add_argument('--load_history', default="./", type=str,required=False)
 
     # for model
-    parser.add_argument('--temperature', default=0.9, type=float, help='the diversity of generated text')
+    parser.add_argument('--temperature', default=1, type=float, help='the diversity of generated text')
     parser.add_argument('--model_type', default="gpt35", type=str, required=False, help='[gpt35, gpt4, llama13b]')
 
     # for game
@@ -779,7 +779,7 @@ if __name__ == "__main__":
     parser.add_argument('--ckpt_dir', default="/scratch/prj/lmrep/llama2_model/Llama-2-13b-hf", type=str,required=False, help='if llama')
 
     # for log
-    parser.add_argument('--output_root_path', default=r'./log_ours_en', type=str, required=False, help='max_tree_depth')
+    parser.add_argument('--output_root_path', default=r'./log_ours', type=str, required=False, help='max_tree_depth')
 
     args = parser.parse_args()
     agent_num2each_rsl={
