@@ -1,0 +1,33 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Big Brother Xia Bolong?,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+b,a,How did Big Brother Xia Bolong die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,c
+b,a,What is the motive behind the killer killing Big Brother Xia Bolong?,Love killing,Vendetta,interest,Accidental killing,,c
+b,a,"The perpetrator is the victim's elder brother, Xia Bolong. Who is that?",Enemies,brothers,friend,lover,,b
+b,a,Where was Big Brother Xia Bolong killed?,"Tianji Co., Ltd",My own room,On the arena,Jiashantang Medical Hall,,b
+b,b,Please select the two people you most suspect of killing Big Brother Xia Bolong,Xia Sanhu,Xia Zhongpeng,Li Zicai,Duan Hejun,,a
+a,a,Who killed Wu Baian?,Yu Zu Chengmu,Aming【Luo Ming】,Yue Dongwen,Duan Yuetong,,b
+b,a,How did Wu Baian die?,Shot to death,Beaten to death with a fist,Poisoned to death by poison,Drowned by water,,b
+b,a,What was the motive behind the killer killing Wu Baian?,Love killing,Vendetta,interest,Accidental killing,,b
+b,a,"The perpetrator is the victim, Wu Baian. Who is that?",Enemies,colleague,friend,wife,,a
+b,a,Where was Wu Baian killed?,Outside the warehouse,Franci Cake Shop,Quan Guan,Wu Baian's home,,a
+b,a,When was Wu Baian killed?,On the evening of July 28th,On the morning of July 29th,On the evening of July 29th,On the morning of July 30th,,c
+b,b,Please select the two people you most suspect of killing Wu Baian,Yu Zu Chengmu,Aming【Luo Ming】,Yue Dongwen,Duan Yuetong,,a
+b,a,"What is the relationship between Xia Sanhu and Yu Zhu Chengmu, the third brother?","Xia Sanhu, the third younger brother, was tricked into making money by Yu Zhu Chengmu's trap",Xia Sanhu and Yu Zhu Chengmu are good friends,"Yu Zhu Chengmu is the disciple of Xia Sanhu, the third brother","Yu Zhu Chengmu is the superior of Xia Sanhu, the third brother",,c
+b,a,Who ambushed A'e [Xia Shue] in Xia Sanhu's room?, Xia Sanhu,Yu Zu Chengmu,Aming【Luo Ming】,Duan Yuetong,,b
+b,a,How did the furniture in the warehouse come from?,"Xia Sanhu, the third brother, was deceived into buying fake goods",The birthday gift of Emperor Taisho,Deposited by Yu Zhu Chengmu,"Xia Sanhu, the third brother, bought it for his own use",,a
+b,a,Who is Duan Yuetong's biological father?,Big Brother [Xia Bolong],Xia Zhongpeng,Xia Sanhu,Li Zicai,,a
+b,b,Who took the gold medal?,Yu Zu Chengmu,Aming【Luo Ming】,Yue Dongwen,Duan Yuetong,,a
+b,a,"How did Xia Sanhu, the third brother, become addicted to gambling?",Being taken to gamble by Yu Zhu Chengmu,Lack of money flower,Gambling was very popular when studying in Japan,Social needs,,a
+b,a,What is Yu Zhu Chengmu?,"Li Zicai's younger brother from the ""Jiashantang"" medical clinic","Founder of Tianji Co., Ltd",Xia Sanhu's Japanese classmate,Xia Bolong's illegitimate child,,a
+b,a,What is the relationship between Aming Luo Ming and Yu Zu Chengmu?,uncles and nephews,stranger,Enemies,friend,,a
+b,a,What is the true identity of Aming [Luo Ming]?,Big brother Xia Bolong's illegitimate child,"Luo Ming, an orphan working at the dock","Li Zicai's son from the ""Jiashantang"" medical clinic",Eyeliner of [Yu Zu Chengmu],,c
+b,a,What is Yue Dongwen hiding?,His company sells fake drugs,"Wu Baian has sold the ""insect killing spirit"" that can cause human death",He is a murderer,He is Duan Yuetong's biological father,,b
+c,a,"What is the non-existent relationship between Xia Sanhu and Luo Ming, the third brother?",Luo Ming is student of Xia Sanhu,Luo Ming is subordinate of Xia Sanhu,Luo Ming is victim of Xia Sanhu,Xia Sanhu is possibly family of Luo Ming,,d
+c,a,"What is the non-existent relationship between Xia Sanhu and Yu Zhu Chengmu, the third brother?",Yu Zu Chengmu is creditor of Xia Sanhu,Yu Zu Chengmu is deceiver of Xia Sanhu,Yu Zu Chengmu is victim of Xia Sanhu,Xia Sanhu is friend of Yu Zu Chengmu,,d
+c,a,"What is the relationship between Xia Sanhu and Xia Beigui, the third brother?",Xia Beigui is father and mentor of Xia Sanhu,Xia Sanhu is subject of investigation for x and ex-romantic relationships with x of Xia Beigui,Xia Sanhu is ex-romantic relationships with x and patient of Xia Beigui,Xia Sanhu is patient and suspect to x of Xia Beigui,,a
+c,a,What is the non-existent relationship between A'e [Xia Shue] and [Xia Zhongpeng]?,Xia Zhongpeng is uncle of Xia Shue,Xia Zhongpeng is mentor of Xia Shue,Xia Zhongpeng is helper of Xia Shue,Xia Shue is romantic relationships with Xia Zhongpeng,,d
+c,a,What is the non-existent relationship between A'e [Xia Shue] and his third brother [Xia Sanhu]?,Xia Sanhu is uncle of Xia Shue,Xia Sanhu is mentor of Xia Shue,Xia Sanhu is helper of Xia Shue,Xia Shue is spy of Xia Sanhu,,d
+c,a,What is the non-existent relationship between A'e Xia Shue and Luo Ming?,Luo Ming is student of Xia Shue,Luo Ming is friend of Xia Shue,Luo Ming is perpetrator of Xia Shue,Xia Shue is future son in law of Luo Ming,,d
+c,a,What is the non-existent relationship between Yu Zhu Chengmu and his third brother Xia Sanhu?,Xia Sanhu is schoolmate of Yu Zu Chengmu,Xia Sanhu is friend of Yu Zu Chengmu,Xia Sanhu is deceived by Yu Zu Chengmu,Yu Zu Chengmu is future father in law of Xia Sanhu,,d
+c,a,What is the non-existent relationship between Yu Zu Chengmu and Aming Li Luoming?,Li Luoming is nephew of Yu Zu Chengmu,Li Luoming is manipulator of Yu Zu Chengmu,Li Luoming is quest companion of Yu Zu Chengmu,Yu Zu Chengmu is employer of Li Luoming,,d
+c,a,What is the non-existent relationship between Yu Zhu Chengmu and Anqi?,Anqi is helper of Yu Zu Chengmu,Anqi is product provider of Yu Zu Chengmu,Anqi is creditor of Yu Zu Chengmu,Yu Zu Chengmu is secret lover of Anqi,,d
