@@ -605,9 +605,8 @@ class Game:
         output_csv_path = os.path.join(path, "data_summary.csv")
         result_df.to_csv(output_csv_path, index=False, encoding='utf-8-sig')
 
-def evalute_para(game, rsl, rchl, path, prefix = ''):
-    game.args.rsl = rsl
-    game.args.rchl = rchl
+def evalute_para(game,  path, prefix = ''):
+
     game.evaluate()
     game.save_evaluate_history(path, prefix)
 
@@ -623,9 +622,9 @@ def main():
 
     path = args.output_root_path
 
-    evalute_para(game, 5000, 5000,path, "0")
-    evalute_para(game, 5000, 5000,path, "1")
-    evalute_para(game, 5000, 5000,path, "2")
+    evalute_para(game, path, "0")
+    evalute_para(game, path, "1")
+    evalute_para(game, path, "2")
 
     game.save_all_evaluate(path)
     game.save_params(args)

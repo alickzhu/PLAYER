@@ -636,11 +636,6 @@ class Game:
             json.dump(args_dict, file, indent=4, ensure_ascii=False)
 
     def mkdir_output_dir(self, args, post = ''):
-        # now = datetime.now()
-        # time_string = now.strftime("%Y%m%d%H%M%S")
-        # args.output_root_path = os.path.join(args.output_root_path, args.script_name+time_string)
-        # post = "_S_{}_C_{}_T_{}_Q_{}".format(args.sensor, args.constraint, args.max_turn, args.question_number)
-
         args.output_root_path = os.path.join(args.output_root_path, args.script_name+post)
 
         if not os.path.exists(args.output_root_path):
@@ -677,9 +672,6 @@ class Game:
         time_string = now.strftime("%Y%m%d%H%M%S")
         args.output_root_path = os.path.join(args.output_root_path, args.script_name+time_string)
         self.args.output_root_path = args.output_root_path
-        # post = "_S_{}_C_{}_T_{}_Q_{}".format(args.sensor, args.constraint, args.max_turn, args.question_number)
-        # args.output_root_path = os.path.join(args.output_root_path, args.script_name+post)
-
         if not os.path.exists(args.output_root_path):
             os.makedirs(args.output_root_path)
         self.save_args_to_json(args, os.path.join(args.output_root_path, 'args.json'))
@@ -718,9 +710,8 @@ class Game:
         result_df.to_csv(output_csv_path, index=False, encoding='utf-8-sig')
         print(output_csv_path)
 
-def evalute_para(game, rsl, rchl, path, prefix = ''):
-    game.args.rsl = rsl
-    game.args.rchl = rchl
+def evalute_para(game,path, prefix = ''):
+
     game.evaluate()
     game.save_evaluate_history(path, prefix)
 
@@ -736,9 +727,9 @@ def main():
 
     path = args.output_root_path
 
-    evalute_para(game, 5000, 5000,path, "0")
-    evalute_para(game, 5000, 5000,path, "1")
-    evalute_para(game, 5000, 5000,path, "2")
+    evalute_para(game, path, "0")
+    evalute_para(game, path, "1")
+    evalute_para(game, path, "2")
 
     game.save_all_evaluate(path)
     game.save_params(args)
@@ -754,37 +745,6 @@ def ablation():
 
     game.save_all_evaluate(args.output_root_path)
 
-def evalute_from_history():
-
-
-    # """evaluate by history"""
-    scriptmanager = ScriptManager(args)
-    game = Game(scriptmanager, args)
-    game.load_history(args.load_history)
-    #
-    path = args.load_history
-
-    # evalute_para(game, 3000, 6000,path)
-    # evalute_para(game, 4000, 5000,path)
-    # evalute_para(game, 5000, 5000,path)
-
-    # game.each_rsl = agent_num2each_rsl[len(game.agents)]
-    # game.evaluate_gm(version=0)
-    # game.save_evaluate_history(path,'GM_')
-    #
-    # game.each_rsl -= 200
-    # game.evaluate_gm(version=0)
-    # game.save_evaluate_history(path,'GM_')
-
-    evalute_para(game, 5000, 5000,path, "0")
-    evalute_para(game, 5000, 5000,path, "1")
-    evalute_para(game, 5000, 5000,path, "2")
-    evalute_para(game, 5000, 5000,path, "3")
-    evalute_para(game, 5000, 5000,path, "4")
-
-
-    game.save_all_evaluate(path)
-
 
 
 if __name__ == "__main__":
@@ -796,7 +756,7 @@ if __name__ == "__main__":
     parser.add_argument('--prompt_path', default="./prompts.yaml", type=str,required=False)
     parser.add_argument('--sensor_path', default="./sensors.json", type=str,required=False)
 
-    parser.add_argument('--load_history', default="./log/152-绝命阳光号（4人封闭）_S_1_C_1_T_4_Q_2", type=str,required=False)
+    parser.add_argument('--load_history', default="./", type=str,required=False)
 
     # for model
     parser.add_argument('--temperature', default=0.9, type=float, help='the diversity of generated text')
@@ -848,6 +808,6 @@ if __name__ == "__main__":
         ablation()
     elif args.evaluate:
         print('evalute begin')
-        evalute_from_history()
+        # evalute_from_history()
     else:
         main()
