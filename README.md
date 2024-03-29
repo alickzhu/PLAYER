@@ -27,4 +27,4 @@ Python main.py --script_name "1702-Solitary Boat Firefly (6 people)" --output_ro
 ```
 
 
-The default model is the GPT-3.5 16k version. However, we also offer code support for using models such as LLaMA2 (7B, 13B, 70B) and Gemma7B. Please include the --model_type parameter and add the path to your model in the main.py file.
+The default model is the `GPT-3.5 16k` version. However, we also offer code support for using models such as LLaMA2 (7B, 13B, 70B) and Gemma7B. Please include the `--model_type` parameter and add the path to your model in the main.py file.
