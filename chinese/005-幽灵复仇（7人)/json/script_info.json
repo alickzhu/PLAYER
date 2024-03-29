@@ -9,30 +9,5 @@
         "段约同",
         "夏叔娥",
         "夏仲鹏"
-    ],
-    "acts_num": 3,
-    "stage": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
-    "open_discuss_rounds": [
-        2,
-        2,
-        2
-    ],
-    "keep_asking": [
-        2,
-        2,
-        2
-    ],
-    "privacy_discuss_rounds": [
-        0,
-        0,
-        1
     ]
 }

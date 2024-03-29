@@ -1,0 +1,266 @@
+{
+    "equivalent relations": {
+        "Same person as X (different reference)":[],
+        "Same person as X (different identity)":[],
+        "Replaced X's identity":[],
+        "Stranger to X":[],
+        "Wife of X":[
+            "Concubine of X"
+        ],
+        "Husband of X":[],
+        "Extramarital Affair with X":[
+            "secret lover of X"
+        ],
+        "Romantic relationships with X":[
+            "lover of x",
+            "boyfriend of x",
+            "girlfriend of x"
+        ],
+        "Ex-romantic relationships with X":[
+            "ex-boyfriend of X",
+            "ex-girlfriend of X",
+            "ex-wife of X",
+            "ex-husband of X"
+        ],
+        "Admirer of X":[
+            "Secret admirer of X",
+            "Fondness of X"
+        ],
+        "Admired by X":[
+            "liked by x",
+            "Secret Crush of X"
+        ],
+        "Fiance of X":[],
+        "Fiancee of X":[],
+        "co-wives of X":[],
+        "Father of X":[
+            "Father in law of X",
+            "Adoptive Father of X",
+            "future father in law of X",
+            "step-father of X",
+            "biological father of X"
+        ],
+        "Mother of X":[
+            "Mother in law of X",
+            "Adoptive Mother of X",
+            "future mother in law of X",
+            "step-mother of X",
+            "biological mother of X"
+        ],
+        "Child of X":[
+            "Son of X",
+            "Son in law of X",
+            "future son in law of X",
+            "Adoptive Son of X",
+            "step-son of X",
+            "biological son of X", 
+            "Daughter of X",
+            "Daughter in law of X",
+            "future daughter in law of X",
+            "Adoptive Daughter of X",
+            "step-daughter of X",
+            "biological daughter of X"        
+        ],
+        "Sibling of X":[
+            "Brother of X",
+            "Half brother of X",
+            "Adoptive Brother of X",
+            "Step-brother of X",
+            "Elder brother of x",
+            "younger brother of x",
+            "twin brother of X", 
+            "Sister of X",
+            "Half sister of X",
+            "Adoptive Sister of X",
+            "Step-sister of X",
+            "Elder sister of x",
+            "younger sister of x",
+            "twin sister of X"
+        ],
+        "Grandparent of X":[
+            "Grandfather of X",
+            "Grandmother of X"
+        ],
+        "Grandchild of X":[
+            "Grandson of X",
+            "Granddaughter of X"
+        ],
+        "Relative of X": [
+            "Sister in law of X",
+            "Brother in law of X",
+            "Nephew of X",
+            "Aunt of X",
+            "Uncle of X",
+            "Niece of X",
+            "Cousin of X",
+            "future relative of X"
+        ],
+        "possibly family of X":[],
+        "Friend of X":[
+            "Sworn Brother of X"
+        ],
+        "Mentor of X":[
+            "teacher of x"
+        ],
+        "Student of X":[],
+        "Informant of X":[],
+        "Information Receiver from X":[],
+        "Acquaintance of X":[
+            "classmate of x",
+            "Schoolmate of X",
+            "Neighbour of X"
+        ],
+        "Helper of X":[
+            "Saviour of X"
+        ],
+        "Helped by X":[
+            "Seeker of Help from X",
+            "Saved by X"
+        ],
+        "Quest Companion of X": [
+            "Crime Partner of X"
+        ],
+        "Guest of X":[],
+        "Host of X":[],
+        "Perpetrator of X":[
+            "Bully of X",
+            "Murderer of X"
+        ],
+        "Attempted Perpetrator of X": [
+            "Attempted Murderer of X"
+        ],
+        "Victim of X": [
+            "killed by x"
+        ],
+        "Dislike of X": [
+            "Jealous of x",
+            "unsuccessful helper of x",
+            "suspect to X"
+        ],
+        "Disliked by X": [
+            "Jealous by x"
+        ],
+        "Subject of investigation for X": [],
+        "Deceiver of X": [
+            "thief of X",
+            "betrayer of X",
+            "Spy of X"
+        ],
+        "Deceived by X": [
+            "betrayed by X"
+        ],
+        "Suspected by X": [
+            "Suspicious of X",
+            "Suspect of X"
+        ],
+        "Adversary of X": [
+            "Enemy of X",
+            "Hate of X",
+            "Hated by X",
+            "Rebellion against X",
+            "Rival of X",
+            "Rival in love of X",
+            "X's victim's family",
+            "X's enemy's family",
+            "Perpetrator of X's family",
+            "in the lawsuit against x"
+        ],
+        "Manipulator of X":[],
+        "Manipulated by X":[],
+        "Superior of X": [
+            "Authority over X",
+            "Employer of X",
+            "Master of X"
+        ],
+        "Subordinate of X":[
+            "Employee of X",
+            "servant of X",
+            "guard of X",
+            "Tour guide of X",
+            "Minion of X"
+        ],
+        "Debtor of X":[],
+        "Creditor of X":[],
+        "Colleague of X":[],
+        "Business Partner of X":[],
+        "Customer of X":[
+            "Buyer of X",
+            "Tenant of X",
+            "Patient of X"
+        ],
+        "Product provider of X":[
+            "Seller of X",
+            "Landlord of X"
+        ],
+        "Service provider of X":[
+            "Lawyer of X",
+            "Messenger of X",
+            "Doctor of X"
+        ]
+    },
+    "High-Level relations":{
+
+        "Romantic relationships":[
+            "Wife of X",
+            "Husband of X",
+            "Extramarital Affair with X",
+            "Romantic relationships with X",
+            "Ex-romantic relationships with X",
+            "Admirer of X",
+            "Admired by X",
+            "Fiance of X",
+            "Fiancee of X",
+            "co-wives of X"
+        ],
+        "Family relationships":[
+            "Father of X",
+            "Mother of X",
+            "Child of X",
+            "Sibling of X",
+            "Grandparent of X",
+            "Grandchild of X",
+            "Relative of X",
+            "possibly family of X"
+        ],
+        "Allies":[
+            "Friend of X",
+            "Mentor of X",
+            "Student of X",
+            "Informant of X",
+            "Information Receiver from X",
+            "Acquaintance of X",
+            "Helper of X",
+            "Helped by X",
+            "Quest Companion of X",
+            "Guest of X",
+            "Host of X"
+        ],
+        "Antagonistic relationships":[
+            "Perpetrator of X",
+            "Attempted Perpetrator of X",
+            "Perpetrator of X",
+            "Victim of X",
+            "Dislike of X",
+            "Disliked by X",
+            "Subject of investigation for X",
+            "Deceiver of X",
+            "Deceived by X",
+            "Suspected by X",
+            "Adversary of X",
+            "Manipulator of X",
+            "Manipulated by X"
+        ],
+        "Business relationships":[
+            "Superior of X",
+            "Subordinate of X",
+            "Debtor of X",
+            "Creditor of X",
+            "Colleague of X",
+            "Business Partner of X",
+            "Customer of X",
+            "Product provider of X",
+            "Service provider of X",
+            "Host of X"
+        ]
+    }
+}

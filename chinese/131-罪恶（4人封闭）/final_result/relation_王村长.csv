@@ -1,7 +1,0 @@
-value,type,question,a,b,c,d,e,truth
-c,a,【张村民】和【张村民的父亲】的关系是什么？,张村民的父亲 is son of 张村民,张村民 is teacher of 张村民的父亲,张村民 is deceived by 张村民的父亲,张村民 is ex-wife of 张村民的父亲,,a
-c,a,【张村民】和【王村长】的关系是什么？,王村长 is acquaintance of 张村民,张村民 is ex-wife of 王村长,张村民 is husband of 王村长,张村民 is adoptive son of 王村长,,a
-c,a,【张村民】和【胡研究】的关系是什么？,胡研究 is acquaintance of 张村民,张村民 is manipulated by 胡研究,张村民 is ex-girlfriend of 胡研究,张村民 is biological mother of 胡研究,,a
-c,a,【赵慈善】和【李警察】的关系是什么？,李警察 is attempted murderer and dislike of 赵慈善,赵慈善 is biological daughter and grandfather of 李警察,赵慈善 is grandfather and relative of 李警察,赵慈善 is relative and guest of 李警察,,a
-c,a,【赵慈善】和【胡调研】的关系是什么？,胡调研 is hate and dislike of 赵慈善,赵慈善 is younger sister and host of 胡调研,赵慈善 is host and seller of 胡调研,赵慈善 is seller and neighbour of 胡调研,,a
-c,a,【赵慈善】和【王村长】的关系是什么？,王村长 is hate and murderer of 赵慈善,赵慈善 is step-brother and grandmother of 王村长,赵慈善 is grandmother and future mother in law of 王村长,赵慈善 is future mother in law and minion of 王村长,,a

@@ -1,7 +1,0 @@
-value,type,question,a,b,c,d,e,truth
-c,a,【弗兰克·比杰利】和【托尼】的关系是什么？,托尼 is brother of 弗兰克·比杰利,弗兰克·比杰利 is spy of 托尼,弗兰克·比杰利 is murderer of 托尼,弗兰克·比杰利 is customer of 托尼,,a
-c,a,【弗兰克·比杰利】和【神父汤姆】的关系是什么？,神父汤姆 is employer of 弗兰克·比杰利,弗兰克·比杰利 is perpetrator of 神父汤姆,弗兰克·比杰利 is suspicious of 神父汤姆,弗兰克·比杰利 is fiance of 神父汤姆,,a
-c,a,【弗兰克·比杰利】和【德雷克·里莫瑞特】的关系是什么？,德雷克·里莫瑞特 is doctor of 弗兰克·比杰利,弗兰克·比杰利 is adversary of 德雷克·里莫瑞特,弗兰克·比杰利 is seeker of help from 德雷克·里莫瑞特,弗兰克·比杰利 is future relative of 德雷克·里莫瑞特,,a
-c,a,【神父汤姆】和【托尼】的关系是什么？,托尼 is manipulated by x and deceived by x of 神父汤姆,神父汤姆 is authority over x and student of 托尼,神父汤姆 is student and ex-girlfriend of 托尼,神父汤姆 is ex-girlfriend and admired by x of 托尼,,a
-c,a,【神父汤姆】和【弗兰克·比杰利】的关系是什么？,弗兰克·比杰利 is employee of 神父汤姆,神父汤姆 is father in law of 弗兰克·比杰利,神父汤姆 is bully of 弗兰克·比杰利,神父汤姆 is adoptive daughter of 弗兰克·比杰利,,a
-c,a,【神父汤姆】和【德雷克·里莫瑞特】的关系是什么？,德雷克·里莫瑞特 is doctor of 神父汤姆,神父汤姆 is helped by 德雷克·里莫瑞特,神父汤姆 is step-brother of 德雷克·里莫瑞特,神父汤姆 is hate of 德雷克·里莫瑞特,,a

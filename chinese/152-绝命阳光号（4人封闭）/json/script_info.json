@@ -6,18 +6,5 @@
         "雯秘书",
         "玲船医",
         "王船工"
-    ],
-    "acts_num": 1,
-    "stage": [
-        ""
-    ],
-    "open_discuss_rounds": [
-        2
-    ],
-    "keep_asking": [
-        2
-    ],
-    "privacy_discuss_rounds": [
-        0
     ]
 }

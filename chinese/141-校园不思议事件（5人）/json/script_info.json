@@ -7,30 +7,5 @@
         "王学习",
         "李小弟",
         "赵帅哥"
-    ],
-    "acts_num": 1,
-    "stage": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
-    "open_discuss_rounds": [
-        2,
-        2,
-        2
-    ],
-    "keep_asking": [
-        2,
-        2,
-        2
-    ],
-    "privacy_discuss_rounds": [
-        0,
-        0,
-        1
     ]
 }

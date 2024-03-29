@@ -36,32 +36,11 @@ class VectorDatabase:
 
     def _get_embedding(self, text):
         openai.api_type = "azure"
-        openai.api_version = "2023-05-15"
-        openai.api_base = 'https://runcong.openai.azure.com/'
-        openai.api_key = '4310a36f2b0c46558cda6674dd587354'
-        # while True:
-        #     try:
-        #         embedding = get_embedding(
-        #             text,
-        #             engine="embedding" # engine should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
-        #         )
-        #     except:
-        #         time.sleep(10)
-        # embedding = np.array()
+        openai.api_version = ""
+        openai.api_base = ''
+        openai.api_key = ''
+
         embedding = np.random.random((1,1536))
-        # count = 0
-        # while count < 5:
-        #     try:
-        #         embedding = get_embedding(
-        #             text,
-        #             engine="embedding" # engine should be set to the deployment name you chose when you deployed the text-embedding-ada-002 (Version 2) model
-        #         )
-        #         embedding = np.array(embedding)
-        #         embedding = embedding.reshape(1, -1)
-        #         break
-        #     except:
-        #         count += 1
-        #         time.sleep(5)
 
 
         return embedding

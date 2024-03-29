@@ -1,7 +1,0 @@
-value,type,question,a,b,c,d,e,truth
-c,a,【刘奇】和【修经理】不存在的关系是什么？,修经理 is murderer of 刘奇,修经理 is classmate of 刘奇,修经理 is colleague of 刘奇,刘奇 is granddaughter of 修经理,,d
-c,a,【刘奇】和【张二副】不存在的关系是什么？,张二副 is bully of 刘奇,张二副 is subordinate of 刘奇,张二副 is dislike of 刘奇,刘奇 is biological daughter of 张二副,,d
-c,a,【刘奇】和【林歌手】的关系是什么？,林歌手 is secret admirer and fondness of 刘奇,刘奇 is son in law and future father in law of 林歌手,刘奇 is future father in law and mentor of 林歌手,刘奇 is mentor and elder sister of 林歌手,,a
-c,a,【张二副】和【刘奇】不存在的关系是什么？,刘奇 is acquaintance of 张二副,刘奇 is dislike of 张二副,刘奇 is superior of 张二副,张二副 is sibling of 刘奇,,d
-c,a,【张二副】和【洪船长】的关系是什么？,洪船长 is acquaintance and dislike of 张二副,张二副 is ex-husband and creditor of 洪船长,张二副 is creditor and service provider of 洪船长,张二副 is service provider and husband of 洪船长,,a
-c,a,【张二副】和【修经理】的关系是什么？,修经理 is acquaintance of 张二副,张二副 is suspicious of 修经理,张二副 is biological son of 修经理,张二副 is authority over 修经理,,a
