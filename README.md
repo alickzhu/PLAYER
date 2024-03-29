@@ -2,7 +2,7 @@
 
 This repository contains the code submitted to COLM for "PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games."
 
-The bilingual dataset is located in the [chinese](https://github.com/alickzhu/PLAYER/tree/main/chinese) and [english](https://github.com/alickzhu/PLAYER/tree/main/english) folders, with the [Chinese]() and [English]() explanations.
+The bilingual dataset is located in the [chinese](https://github.com/alickzhu/PLAYER/tree/main/chinese) and [english](https://github.com/alickzhu/PLAYER/tree/main/english) folders.
 
 To run our method on the Chinese dataset, please use the following:
 ```
