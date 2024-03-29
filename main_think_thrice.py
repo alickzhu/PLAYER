@@ -683,10 +683,10 @@ if __name__ == "__main__":
         args.script_root = "./english"
 
     model2ckpt = {
-        "gemma7b": "/scratch/prj/lmrep/llama2_model/gemma-7b-it/",
-        "llama70b": "/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Llama-2-70b-chat-hf/snapshots/e1ce257bd76895e0864f3b4d6c7ed3c4cdec93e2/",
-        "llama13b": "/scratch/prj/lmrep/llama2_model/Llama-2-13b-hf",
-        "llama7b": "/scratch/prj/lmrep/llama2_model/Llama-2-7b-chat-hf",
+        "gemma7b": "path",
+        "llama70b": "path",
+        "llama13b": "path",
+        "llama7b": "path",
         "gpt35": "",
         "gpt4": ""
     }
