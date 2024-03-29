@@ -10,7 +10,7 @@ This repository contains the code submitted to COLM for **PLAYER*: Enhancing LLM
 * transformers >= 4.38.2
 
 ## Dataset
-The bilingual dataset is housed within the `./chinese` and `./english` folders. For detailed information, please refer to the **README files** located in these folders, available in both **Chinese** and **English** versions, respectively.
+The bilingual dataset is housed within the `./chinese` and `./english` folders. For detailed information, please refer to the `README.me files` located in these folders, available in both **Chinese** and **English** versions, respectively.
 
 
 ## Gameplay and Evaluation
