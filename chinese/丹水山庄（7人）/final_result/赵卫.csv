@@ -1,0 +1,33 @@
+﻿value,type,question,a,b,c,d,e,truth
+a,a,瑜妃【李郁】被谁杀死的？,任师父,赵万雷,李郁,【郭忘山】指使【齐岳】,,d
+b,a,瑜妃【李郁】是怎么死的？,被枪打死的,被拳头打死的,被炸药炸死的,被腰带勒死的,,c
+b,a,凶手杀瑜妃【李郁】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人瑜妃【李郁】什么人？,仇人,徒弟,朋友,陌生人,,d
+b,a,瑜妃【李郁】是在哪里被杀死的？,泽州府外的角山东峰的庄园中,县城的绸缎铺里,汉阳的兵工厂,赵万雷的卧室里,,b
+b,a,瑜妃【李郁】是在何时被杀死的？,光绪二十六年（1900年）冬初,光绪二十一年（1895年）农历二月二十四,宣统三年（1911年）,今天,,a
+b,b,请选出你最怀疑杀死瑜妃【李郁】的两个人,任师父,赵万雷,李郁,【郭忘山】指使【齐岳】,,d
+a,a,【赵万雷】被谁杀死的？,冯双骥,郭忘山,赵卫,齐岳,,a
+b,a,【赵万雷】是怎么死的？,被枪打死的,被拳头打死的,被炸药炸死的,被毒药毒死的,,d
+b,a,凶手杀【赵万雷】的动机是什么？,情杀,仇杀,利益,误杀,,c
+b,a,凶手是被害人【赵万雷】什么人？,仇人,徒弟,下属,陌生人,,c
+b,a,【赵万雷】是在哪里被杀死的？,泽州府外的角山东峰的庄园中,县城的绸缎铺里,汉阳的兵工厂,赵万雷的卧室里,,d
+b,b,请选出你最怀疑杀死【赵万雷】的两个人,任师父,冯双骥,郭忘山,赵卫,齐岳,a
+b,a,谁是【赵卫】你的亲生父亲？,赵万雷,郭忘山,冯双骥,光绪皇帝,,a
+b,a,谁是【赵洛意】的亲生父亲？,赵万雷,郭忘山,冯双骥,光绪皇帝,,c
+b,a,谁在帮助黑狼会做一些隐秘的生意？,赵万雷,郭忘山,冯双骥,赵卫,,c
+b,a,有没有是为了你的皇族身份来的？,郭忘山,尹少鸣,"没有，暂且还没有人发现你的皇子身份", "没有，因为你从来都不是皇子，这只是为了安慰你的童年创伤所创造出来的谎言",,d
+b,a,【尹少鸣】是什么人？,黑狼会的人,"误以为赵洛意被绑架了，不放心而跟过来的热心人",冯双骥的表外甥,赵万雷的下属,,c
+b,a,【尹少鸣】和管家【冯双骥】是什么关系？,尹少鸣是冯双骥的女婿,尹少鸣和冯双骥是陌生人,尹少鸣的外公是冯双骥的师父,尹少鸣和冯双骥都是黑狼会的人,,c
+b,a,【赵秋儿】和【齐岳】实际上是什么关系？,兄妹,仇人,徒弟,父女,,a
+b,a,【赵秋儿】和【赵万雷】实际上是什么关系？,【赵秋儿】单方面喜欢【赵万雷】,【赵万雷】单方面喜欢【赵秋儿】,【赵万雷】只是开玩笑要娶【赵秋儿】,【赵万雷】和【赵秋儿】两情相悦,,d
+b,a,【双面虎】是谁？,齐岳,赵万雷,郭忘山,廖老板,,c
+b,a,【郭忘山】来丹水山庄有什么目的？,毁掉赵家,和赵万雷谈生意,向赵万雷提亲,找出当年爆炸案的真相,,a
+c,a,管家【冯双骥】和【赵万雷】不存在的关系是什么？,赵万雷 is victim of 冯双骥,赵万雷 is schoolmate of 冯双骥,赵万雷 is employer of 冯双骥,冯双骥 is step-sister of 赵万雷,,d
+c,a,管家【冯双骥】和【任师父】的关系是什么？,任师父 is mentor and adoptive father of 冯双骥,冯双骥 is rival and co-wives of 任师父,冯双骥 is co-wives and employee of 任师父,冯双骥 is employee and rival in love of 任师父,,a
+c,a,管家【冯双骥】和【赵卫】的关系是什么？,赵卫 is helped by x and master of 冯双骥,冯双骥 is biological daughter and deceiver of 赵卫,冯双骥 is deceiver and future relative of 赵卫,冯双骥 is future relative and son of 赵卫,,a
+c,a,瑜妃【李郁】和管家【冯双骥】的关系是什么？,冯双骥 is extramarital affair with 李郁,李郁 is thief of 冯双骥,李郁 is twin brother of 冯双骥,李郁 is murderer of 冯双骥,,a
+c,a,瑜妃【李郁】和【赵万雷】的关系是什么？,赵万雷 is husband of 李郁,李郁 is biological father of 赵万雷,李郁 is bully of 赵万雷,李郁 is enemy of 赵万雷,,a
+c,a,瑜妃【李郁】和【赵洛意】的关系是什么？,赵洛意 is daughter of 李郁,李郁 is seeker of help from 赵洛意,李郁 is teacher of 赵洛意,李郁 is extramarital affair with 赵洛意,,a
+c,a,【赵万雷】和管家【冯双骥】不存在的关系是什么？,冯双骥 is schoolmate of 赵万雷,冯双骥 is servant of 赵万雷,冯双骥 is employee of 赵万雷,赵万雷 is step-sister of 冯双骥,,d
+c,a,【赵万雷】和【郭望山】不存在的关系是什么？,郭望山 is Business Partner of X,郭望山 is Attempted Murderer of X,郭望山 is Perpetrator of X's family,赵万雷 is future son in law of 郭望山,,d
+c,a,【赵万雷】和【齐岳】不存在的关系是什么？,齐岳 is employee of 赵万雷,齐岳 is servant of 赵万雷,齐岳 is Perpetrator of X's family,赵万雷 is helper of 齐岳,,d

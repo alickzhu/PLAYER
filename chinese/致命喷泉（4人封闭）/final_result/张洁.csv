@@ -1,0 +1,5 @@
+value,type,question,a,b,c,d,e,truth
+b,b,你知道震惊全城的连环碎尸强奸案的凶手是谁吗,何老六,慕北,王邻居,不是已有选项中的人,,a
+c,a,【李国富】和【张洁】不存在的关系是什么？,张洁 is subordinate of 李国富,张洁 is dislike of 李国富,张洁 is rival in love of 李国富,李国富 is ex-girlfriend of 张洁,,d
+c,a,【李国富】和【慕北】不存在的关系是什么？,慕北 is subordinate of 李国富,慕北 is suspicious of 李国富,慕北 is romantic relationships with 李国富,李国富 is student of 慕北,,d
+c,a,【李国富】和【何老六】的关系是什么？,何老六 is subordinate and crime partner of 李国富,李国富 is fondness and boyfriend of 何老六,李国富 is boyfriend and half brother of 何老六,李国富 is half brother and brother of 何老六,,a

@@ -1,0 +1,23 @@
+﻿value,type,question,a,b,c,d,e,truth
+a,a,【崔寿亨】被谁杀死的？,周持同,于宿年,嫣楠,昔颜,,b
+b,a,【崔寿亨】是怎么死的？,被弩枪射死的,被毒药毒死的,用机关杀死的,被水淹死的,,c
+b,a,凶手杀【崔寿亨】的动机是什么？,情杀,仇杀,利益,误杀,,b
+b,a,凶手是被害人【崔寿亨】什么人？,仇人,同事,朋友,上级,,a
+b,a,【崔寿亨】是在哪里被杀死的？,家主房,南院,船上,河边,,a
+b,b,请选出你最怀疑杀死【崔寿亨】的两个人,周持同,嫣楠,昔颜,于宿年,周琏逸,d
+a,a,太太【汪昔容】被谁杀死的？,于宿年,嫣楠,周持同,昔颜,,a
+b,a,太太【汪昔容】是怎么死的？,被毒药毒死的,被拳头打死的,用石头砸死的,被水淹死的,,a
+b,a,凶手杀太太【汪昔容】的动机是什么？,情杀,仇杀,利益,误杀,,d
+b,a,凶手是被害人太太【汪昔容】什么人？,下属,母亲,律师,医生,,a
+b,a,太太【汪昔容】是在哪里被杀死的？,屋子里,山上,船上,河边,,a
+b,b,请选出你最怀疑杀死太太【汪昔容】的两个人,昔颜,周持同,于宿年,嫣楠,周琏逸,c
+b,a,【于宿年】和【周琏逸】真实关系是什么？,师生关系,恋人关系,没有关系,兄妹关系,,b
+c,a,【周持同】和【崔寿亨】不存在的关系是什么？,崔寿亨 is helper of 周持同,崔寿亨 is superior of 周持同,崔寿亨 is deceived by 周持同,周持同 is younger sister of 崔寿亨,,d
+c,a,【周持同】和【甜愁】不存在的关系是什么？,甜愁 is helped by 周持同,甜愁 is friend of 周持同,甜愁 is admired by 周持同,周持同 is murderer of 甜愁,,d
+c,a,【周持同】和【于宿年】的关系是什么？,于宿年 is relative and friend of 周持同,周持同 is deceiver and murderer of 于宿年,周持同 is murderer and guard of 于宿年,周持同 is guard and bully of 于宿年,,a
+c,a,太太【汪昔容】和【宝柳】的关系是什么？,宝柳 is helped by x and servant of 太太,太太 is x's enemy's family and perpetrator of 宝柳,太太 is perpetrator and bully of 宝柳,太太 is bully and deceived by x of 宝柳,,a
+c,a,太太【汪昔容】和【汪昔颜】的关系是什么？,汪昔颜 is sister and co-wives of 太太,太太 is jealous and attempted murderer of 汪昔颜,太太 is attempted murderer and hated by x of 汪昔颜,太太 is hated by x and victim of 汪昔颜,,a
+c,a,太太【汪昔容】和【汪舜明】的关系是什么？,汪舜明 is father of 太太,太太 is host of 汪舜明,太太 is boyfriend of 汪舜明,太太 is lawyer of 汪舜明,,a
+c,a,【崔寿亨】和【周蒙当】不存在的关系是什么？,周蒙当 is minion of 崔寿亨,周蒙当 is servant of 崔寿亨,周蒙当 is employee of 崔寿亨,崔寿亨 is future father in law of 周蒙当,,d
+c,a,【崔寿亨】和【周持同】不存在的关系是什么？,周持同 is helped by 崔寿亨,周持同 is thief of 崔寿亨,周持同 is business partner of 崔寿亨,崔寿亨 is adoptive daughter of 周持同,,d
+c,a,【崔寿亨】和【汪昔颜】的关系是什么？,汪昔颜 is sister in law and wife of 崔寿亨,崔寿亨 is perpetrator and hated by x of 汪昔颜,崔寿亨 is hated by x and lawyer of 汪昔颜,崔寿亨 is lawyer and servant of 汪昔颜,,a
