@@ -126,7 +126,7 @@ def llama_predict(
 
 
 if __name__ == "__main__":
-    model_name = '/scratch/prj/inf_llmcache/hf_cache/models--meta-llama--Llama-2-13b-chat-hf/snapshots/c2f3ec81aac798ae26dcc57799a994dfbf521496'
+    model_name = ''
     model = load_model(model_name)
     llama_predict(model)
 
