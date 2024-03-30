@@ -16,14 +16,14 @@ The bilingual dataset is housed within the `./chinese` and `./english` folders. 
 ## Gameplay and Evaluation
 To run our method on the Chinese dataset, please use the following:
 ```
-Python main.py --script_name "1702-孤舟萤（6人）" --output_root_path "./log_cn"
+Python main.py --script_name "孤舟萤（6人）" --output_root_path "./log_cn"
 ```
 
 Here, `script_name` is the name of the script you want to run.
 
 To run our method on the English dataset, please use the following:
 ```
-Python main.py --script_name "1702-Solitary Boat Firefly (6 people)" --output_root_path "./log_en" --is_english 1
+Python main.py --script_name "Solitary Boat Firefly (6 people)" --output_root_path "./log_en" --is_english 1
 ```
 
 
