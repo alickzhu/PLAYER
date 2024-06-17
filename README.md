@@ -1,6 +1,6 @@
 # PLAYER
 ## Introduction
-This repository contains the code submitted to COLM for **PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games.**
+This repository contains the code submitted to EMNLP for **PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games.**
 
 ## Requirements
 
