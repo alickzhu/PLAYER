@@ -31,6 +31,20 @@ Python main.py --script_name "Solitary Boat Firefly (6 people)" --output_root_pa
 
 The default model is the `GPT-3.5 16k` version. However, we also offer code support for using models such as LLaMA2 (7B, 13B, 70B) and Gemma7B. Please include the `--model_type` parameter and add the path to your model in the main.py file.
 
+## Citation
+
+The BibTex of the citation is as follow:
+
+```bibtex
+@article{zhu2024player,
+  title={PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games},
+  author={Zhu, Qinglin and Zhao, Runcong and Du, Jinhua and Gui, Lin and He, Yulan},
+  journal={arXiv preprint arXiv:2404.17662},
+  year={2024}
+}
+```
+
+
 ## Gameplay and Evaluation log
 The log files are stored in the `./log_cn` and `./log_en` folders. The log files contain the following information:
 * `*.xlsx`: The log file contains the dialogue history and the generated responses.
