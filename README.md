@@ -1,8 +1,4 @@
-# PLAYER
-## Introduction
-This repository contains the code for [PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games](https://arxiv.org/abs/2404.17662).
-
-Please cite our paper and kindly give a star for this repository if you use this code.
+# Questum
 
 ## Requirements
 
@@ -37,15 +33,5 @@ The log files are stored in the `./log_cn` and `./log_en` folders. The log files
 * `*.xlsx`: The log file contains the dialogue history and the generated responses.
 * `evaluation.xlsx`: The log file contains the evaluation results of the generated responses.
 
-## Citation
 
-The BibTex of the citation is as follow:
-
-```bibtex
-@article{zhu2024player,
-  title={PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games},
-  author={Zhu, Qinglin and Zhao, Runcong and Du, Jinhua and Gui, Lin and He, Yulan},
-  journal={arXiv preprint arXiv:2404.17662},
-  year={2024}
-}
 ```
