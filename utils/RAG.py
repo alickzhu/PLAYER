@@ -3,29 +3,45 @@ import time
 import numpy as np
 import faiss  # 确保已安装faiss库
 import openai
-from openai.embeddings_utils import get_embedding#, cosine_similarity
-from sklearn.metrics.pairwise import cosine_similarity
+
 import re
 import tiktoken
 import pickle
-
+import os
+from openai import OpenAI
+os.environ['OPENAI_API_KEY'] = ""
+client = OpenAI()
+import random
+from pathlib import Path
 class VectorDatabase:
     def __init__(self, dimension=1536):
         self.dimension = dimension
-        # self.index = faiss.IndexFlatL2(dimension)  # 使用L2距离创建FAISS索引
-        self.index = faiss.IndexFlatIP(dimension)  # 使用L2距离创建FAISS索引
-        self.texts = []  # 存储文本单位
+        # self.index = faiss.IndexFlatL2(dimension)
+        self.index = faiss.IndexFlatIP(dimension)  # 使
+        self.texts = []
         self.encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
-        self.max_length = 50 # 每个片段最大长度
+        self.max_length = 50
 
     def reset(self):
         self.index = faiss.IndexFlatIP(self.dimension)
 
     def save_faiss(self, path):
-        faiss.write_index(self.index, path)
+        # full_path = Path(directory) / file_name_faiss
+        # try:
+        index_bytes = faiss.serialize_index(self.index)
+        with open(path, 'wb') as f:
+            f.write(index_bytes)
+        # except:
+        #     faiss.write_index(self.index, path)
 
     def load_faiss(self, path):
-        self.index = faiss.read_index(path)
+        # try:
+        with open(path, 'rb') as f:
+            index_bytes = f.read()
+        index_array = np.frombuffer(index_bytes, dtype='uint8')
+        self.index = faiss.deserialize_index(index_array )
+        # except:
+        #     self.index = faiss.read_index(path)
 
     def save_texts(self, path):
         with open(path, 'wb') as f:
@@ -35,29 +51,34 @@ class VectorDatabase:
             self.texts = pickle.load(f)
 
     def _get_embedding(self, text):
-        openai.api_type = "azure"
-        openai.api_version = ""
-        openai.api_base = ''
-        openai.api_key = ''
+        embedding = None  # 初始化 embedding
+        count = 0
+        while count < 3:
+            try:
+                embedding = client.embeddings.create(input = [text], model='text-embedding-ada-002').data[0].embedding
+                break
 
-        embedding = np.random.random((1,1536))
-
+            except:
+                time.sleep(3)
+                count += 1
+        if embedding is None:
+            embedding = [random.uniform(-1, 1) for _ in range(1536)]
+        embedding = np.array(embedding)
+        embedding = embedding.reshape(1, -1)
 
         return embedding
 
 
 
     def merge_strings_until_max_length(self, strings, max_length, index):
-        merged_list = []  # 初始化合并后的字符串
+        merged_list = []
         for i in range(len(strings)):
-            # 检查添加下一个字符串是否会超过最大长度
+
             if len(self.tokenization(''.join(merged_list))) + len(self.tokenization(strings[i])) > max_length:
-                break  # 如果超过最大长度，停止合并
+                break
             merged_list.append(strings[i])
 
-        # 下面的代码是按照原来的顺序拼好
-        # 例如对一一段话[0,1,2,3,4,5], 按照相关程度排序是[5,3,4,0,1,2],为了不超过最大长度只能截取[5,3,4]
-        # 为了保证语义连贯，把这个句子的顺序调整为[3,4,5]
+
         index = index[:len(merged_list)]
         index_2 = [sorted(index).index(x) for x in index]
         original_order = sorted(enumerate(merged_list), key=lambda x: index_2[x[0]])
@@ -66,16 +87,16 @@ class VectorDatabase:
 
 
     def tokenization(self, text):
-        return self.encoding.encode(text)  # 简化：按字符分割
+        return self.encoding.encode(text)
 
     def add_text(self, text, split=True):
-        """添加新文本并计算其嵌入向量，然后将向量添加到FAISS索引中"""
+
         if split:
             segments = self.split_text(text, self.max_length)
             for sentence in segments:
                 embedding = self._get_embedding(sentence)
                 if self.index.is_trained:
-                    self.index.add(embedding)  # 向索引中添加向量
+                    self.index.add(embedding)
                 self.texts.append(sentence)
         else:
             embedding = self._get_embedding(text)
@@ -84,10 +105,10 @@ class VectorDatabase:
             self.texts.append(text)
 
     def query(self, query_text, max_length, return_list=False):
-        """给定查询，返回最相关的文本单位"""
+
         query_embedding = self._get_embedding(query_text)
-        D, I = self.index.search(query_embedding, 99999)  # 执行搜索
-        # [(self.texts[i], D[0][j]) for j, i in enumerate(I[0])]
+        D, I = self.index.search(query_embedding, 99999)
+
         relative_sentense =  [self.texts[i] for i in I[0] if i >= 0]
         index = [i for i in I[0] if i >= 0]
         text, text_list = self.merge_strings_until_max_length(strings=relative_sentense, max_length=max_length, index=index)
@@ -96,7 +117,7 @@ class VectorDatabase:
         return text
 
     def query_num(self, query_text, num):
-        """给定查询，返回最相关的文本单位"""
+
         query_embedding = self._get_embedding(query_text)
         D, I = self.index.search(query_embedding, 99999)  # 执行搜索
         # [(self.texts[i], D[0][j]) for j, i in enumerate(I[0])]
@@ -108,14 +129,11 @@ class VectorDatabase:
 
 
     def find_sentences(self, text):
-        """
-        根据句子界定符号分割文本为句子列表，同时保留分隔符。
-        支持中文和英文的界定符。
-        """
-        # 使用正则表达式分割，但保留分隔符
+
+
         sentence_endings = r'([。？！.?!\n]+)'
         sentences = re.split(sentence_endings, text)
-        # 将分隔符与前面的句子合并
+
         sentences = [sentences[i] + sentences[i+1] for i in range(0, len(sentences)-1, 2)]
         sentences = [i.strip() for i in sentences]
         sentences = [i for i in sentences if i != '']
@@ -147,7 +165,6 @@ class VectorDatabase:
                 current_segment = [sentence]  # 开始新的段
                 current_length = sentence_length
 
-        # 不要忘记添加最后一个段
         if current_segment:
             segments.append(''.join(current_segment))
 

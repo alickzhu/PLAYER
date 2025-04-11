@@ -1,4 +1,4 @@
-# Questum
+# PLAYER*
 
 ## Requirements
 
@@ -25,13 +25,3 @@ Python main.py --script_name "Solitary Boat Firefly (6 people)" --output_root_pa
 ```
 
 
-The default model is the `GPT-3.5 16k` version. However, we also offer code support for using models such as LLaMA2 (7B, 13B, 70B) and Gemma7B. Please include the `--model_type` parameter and add the path to your model in the main.py file.
-
-
-## Gameplay and Evaluation log
-The log files are stored in the `./log_cn` and `./log_en` folders. The log files contain the following information:
-* `*.xlsx`: The log file contains the dialogue history and the generated responses.
-* `evaluation.xlsx`: The log file contains the evaluation results of the generated responses.
-
-
-```
