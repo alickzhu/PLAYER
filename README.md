@@ -27,8 +27,6 @@ Python main.py --script_name "Solitary Boat Firefly (6 people)" --output_root_pa
 
 ## Murder Mystery Game Rules
 
-You are playing a game called **"Murder Mystery"** with other players, which is based on textual interaction. Here are the game rules:
-
 ### Rules
 
 **Rule 1:** The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.  
