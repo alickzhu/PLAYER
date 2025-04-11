@@ -13,6 +13,7 @@ Within the JSON folder, there is a file named script.json, which includes inform
     "character_name": ["list of agent names"]
 }
 ```
+
 Other JSON files contain detailed contents of the script, for example:
 ```
 {
