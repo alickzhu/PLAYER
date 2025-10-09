@@ -10,7 +10,6 @@ from  Bargains_Framework import Agent, ChatItem, ScriptManager, Game
 
 class Game_Player(Game):
     def __init__(self, scriptmanager, args):
-        # 初始化父类
         super().__init__(scriptmanager, args)
         self.sensors_ask = []
         self.sensors_pruner = []
