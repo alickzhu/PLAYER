@@ -1,0 +1,15 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Zhen Youcai?,Zhen Gongzi,Ding Assistant,Zhang Xiaomei,Li Butler,Wang Writer,c
+b,a,How did Zhen Youcai die?,Suffocated by silk scarf,Stabbed to death,Poisoned to death,Shot to death,,a
+b,a,What was the killer's motive for killing Zhen Youcai?,Revenge for mother,Fighting for inheritance,Emotional dispute,Accidental killing,,a
+b,a,What is the killer's relationship to victim Zhen Youcai?,Daughter,Assistant,Butler,Friend,,a
+b,a,Where was Zhen Youcai killed?,Zhen Youcai's room,Castle corridor,Li Butler's room,Castle garden,,a
+b,a,When was Zhen Youcai killed?,December 5th evening 10:25 PM,December 5th evening 9:00 PM,December 5th evening 11:00 PM,December 6th early morning,,a
+c,a,What relationship does NOT exist between Zhen Youcai and Zhang Xiaomei?,Zhang Xiaomei is child of Zhen Youcai,Zhen Youcai is victim of Zhang Xiaomei,Zhang Xiaomei is perpetrator of Zhen Youcai,Zhang Xiaomei is wife of Zhen Youcai,,d
+c,a,What is the relationship between Zhen Youcai and Zhen Gongzi?,Zhen Gongzi is child of Zhen Youcai,Zhen Youcai is friend of Zhen Gongzi,Zhen Youcai is colleague of Zhen Gongzi,Zhen Youcai is stranger to Zhen Gongzi,,a
+c,a,What relationship does NOT exist between Zhen Youcai and Li Butler?,Li Butler is subordinate of Zhen Youcai,Zhen Youcai is superior of Li Butler,Li Butler is helper of Zhen Youcai,Li Butler is child of Zhen Youcai,,d
+c,a,What is the relationship between Zhen Youcai and Wang Writer?,Wang Writer is friend of Zhen Youcai,Zhen Youcai is subordinate of Wang Writer,Zhen Youcai is romantic relationships with Wang Writer,Zhen Youcai is child of Wang Writer,,a
+c,a,What relationship does NOT exist between Zhang Xiaomei and Zhen Gongzi?,Zhen Gongzi is dislike of Zhang Xiaomei,Zhang Xiaomei is disliked by Zhen Gongzi,Zhen Gongzi is sibling of Zhang Xiaomei,Zhang Xiaomei is romantic relationships with Zhen Gongzi,,d
+c,a,What relationship does NOT exist between Zhang Xiaomei and Li Butler?,Li Butler is helper of Zhang Xiaomei,Zhang Xiaomei is helped by Li Butler,Li Butler is parent of Zhang Xiaomei,Zhang Xiaomei is child of Li Butler,,c
+c,a,What is the relationship between Zhang Xiaomei and Wang Guoqing?,Wang Guoqing is romantic relationships with Zhang Xiaomei,Zhang Xiaomei is colleague of Wang Guoqing,Zhang Xiaomei is subordinate of Wang Guoqing,Zhang Xiaomei is parent of Wang Guoqing,,a
+c,a,What is the relationship between Zhen Gongzi and Wang Writer?,Wang Writer is guest of Zhen Gongzi,Zhen Gongzi is romantic relationships with Wang Writer,Zhen Gongzi is subordinate of Wang Writer,Zhen Gongzi is child of Wang Writer,,a

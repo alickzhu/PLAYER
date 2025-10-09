@@ -1,0 +1,15 @@
+value,type,question,a,b,c,d,e,truth
+a,a,甄有钱被谁杀死的？,甄公子,丁助手,张小妹,李管家,王国庆,c
+b,a,甄有钱是怎么死的？,被丝巾窒息而死,被刀刺死,被毒药毒死,被枪击致死,,a
+b,a,凶手杀甄有钱的动机是什么？,为母报仇,争夺财产,情感纠纷,意外杀人,,a
+b,a,凶手是被害人甄有钱什么人？,女儿,助手,管家,朋友,,a
+b,a,甄有钱是在哪里被杀死的？,甄有钱的房间,古堡走廊,李管家房间,古堡花园,,a
+b,a,甄有钱是什么时候被杀死的？,12月5日晚上10点25分,12月5日晚上9点,12月5日晚上11点,12月6日凌晨,,a
+c,a,【甄有钱】和【张小妹】不存在的关系是什么？,张小妹 is child of 甄有钱,甄有钱 is victim of 张小妹,张小妹 is perpetrator of 甄有钱,张小妹 is wife of 甄有钱,,d
+c,a,【甄有钱】和【甄公子】的关系是什么？,甄公子 is child of 甄有钱,甄有钱 is friend of 甄公子,甄有钱 is colleague of 甄公子,甄有钱 is stranger to 甄公子,,a
+c,a,【甄有钱】和【李管家】不存在的关系是什么？,李管家 is subordinate of 甄有钱,甄有钱 is superior of 李管家,李管家 is helper of 甄有钱,李管家 is child of 甄有钱,,d
+c,a,【甄有钱】和【王作家】的关系是什么？,王作家 is friend of 甄有钱,甄有钱 is subordinate of 王作家,甄有钱 is romantic relationships with 王作家,甄有钱 is child of 王作家,,a
+c,a,【张小妹】和【甄公子】不存在的关系是什么？,甄公子 is dislike of 张小妹,张小妹 is disliked by 甄公子,甄公子 is sibling of 张小妹,张小妹 is romantic relationships with 甄公子,,d
+c,a,【张小妹】和【李管家】不存在的关系是什么？,李管家 is helper of 张小妹,张小妹 is helped by 李管家,李管家 is parent of 张小妹,张小妹 is child of 李管家,,c
+c,a,【张小妹】和【王国庆】的关系是什么？,王国庆 is romantic relationships with 张小妹,张小妹 is colleague of 王国庆,张小妹 is subordinate of 王国庆,张小妹 is parent of 王国庆,,a
+c,a,【甄公子】和【王作家】的关系是什么？,王作家 is guest of 甄公子,甄公子 is romantic relationships with 王作家,甄公子 is subordinate of 王作家,甄公子 is child of 王作家,,a

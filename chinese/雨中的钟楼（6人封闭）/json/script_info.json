@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "雨中的钟楼",
+    "character_name": [
+        "张老板",
+        "李梅梅",
+        "李长青",
+        "王姐",
+        "甄商",
+        "贾保姆"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

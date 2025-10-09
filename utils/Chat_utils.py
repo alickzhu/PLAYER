@@ -6,7 +6,7 @@ import random
 import time
 model_dict = {
     "qwen2.5_32B_0":{'model':'Qwen','base_url':"http://localhost:9999/v1"},
-    "qwen2.5_32B_1":{'model':'Qwen2','base_url':"http://localhost:9998/v1"},
+    "qwen2.5_72B_1":{'model':'Qwen2','base_url':"http://localhost:9998/v1"},
 }
 def select_random_url():
     url1 = "http://35.177.88.172:9001/v1"
@@ -31,21 +31,6 @@ class ChatSession:
         self.output_token = []
         self.input_token_eva = []
         self.output_token_eva = []
-
-    def set_gpt_version(self):
-        if self.model_type=='gpt35':
-            openai.api_type = "azure"
-            openai.api_version = "2023-05-15"
-            openai.api_base = ''
-            openai.api_key = ''
-            self.engine = 'gpt3516k'
-
-        elif self.model_type=='gpt4':
-            openai.api_type = "azure"
-            openai.api_version = "2023-05-15"
-            openai.api_base = ''
-            openai.api_key = ''
-            self.engine = ''
 
     def get_reply(self, prompt, evaluate=False, return_prob=False):
         if self.is_english:

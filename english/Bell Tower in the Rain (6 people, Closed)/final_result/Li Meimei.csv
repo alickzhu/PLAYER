@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+c,a,What is the relationship between Yao Qianshu and Wang Jie?,Wang Jie is wife of Yao Qianshu,Yao Qianshu is customer of Wang Jie,Yao Qianshu is friend of Wang Jie,Yao Qianshu is sibling of Wang Jie,,a
+c,a,What is the non-existent relationship between Yao Qianshu and Zhang Laoban?,Zhang Laoban is friend of Yao Qianshu,Yao Qianshu is deceived by Zhang Laoban,Zhang Laoban is victim of Yao Qianshu,Zhang Laoban is child of Yao Qianshu,,d
+c,a,What is the relationship between Yao Qianshu and Zhen Shang?,Zhen Shang is customer of Yao Qianshu,Yao Qianshu is mentor of Zhen Shang,Yao Qianshu is parent of Zhen Shang,Yao Qianshu is subordinate of Zhen Shang,,a
+c,a,What is the non-existent relationship between Yao Qianshu and Jia Baomu?,Jia Baomu is extramarital affair with Yao Qianshu,Yao Qianshu is deceiver of Jia Baomu,Jia Baomu is manipulated by Yao Qianshu,Yao Qianshu is parent of Jia Baomu,,d
+c,a,What is the non-existent relationship between Li Meimei and Li Changqing?,Li Changqing is same person as Li Meimei,Li Meimei is victim of Li Changqing,Li Changqing is manipulator of Li Meimei,Li Meimei is wife of Li Changqing,,d
+c,a,What is the non-existent relationship between Li Meimei and Yao Qianshu?,Li Meimei is perpetrator of Yao Qianshu,Yao Qianshu is victim of Li Meimei,Li Meimei is manipulated by Yao Qianshu,Yao Qianshu is husband of Li Meimei,,d
+c,a,What is the relationship between Li Meimei and Jia Baomu?,Jia Baomu is service provider of Li Meimei,Li Meimei is mentor of Jia Baomu,Li Meimei is friend of Jia Baomu,Li Meimei is parent of Jia Baomu,,a
+c,a,What is the non-existent relationship between Zhang Laoban and Wang Jie?,Zhang Laoban is extramarital affair with Wang Jie,Wang Jie is extramarital affair with Zhang Laoban,Zhang Laoban is friend of Wang Jie,Zhang Laoban is sibling of Wang Jie,,d
+c,a,What is the relationship between Li Changqing and Zhen Shang?,Zhen Shang is stranger to Li Changqing,Li Changqing is friend of Zhen Shang,Li Changqing is business partner of Zhen Shang,Li Changqing is child of Zhen Shang,,a
+c,a,What is the non-existent relationship between Wang Jie and Jia Baomu?,Jia Baomu is friend of Wang Jie,Wang Jie is friend of Jia Baomu,Jia Baomu is acquaintance of Wang Jie,Wang Jie is parent of Jia Baomu,,d

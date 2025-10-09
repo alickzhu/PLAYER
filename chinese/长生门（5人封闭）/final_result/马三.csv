@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,王婷婷被谁杀死的？,李浩,楚万户,苏圣策,楚川,,d
+b,a,王婷婷是怎么死的？,头撞床沿意外死亡,被箭射死,被毒药毒死,被刀刺死,,a
+b,a,凶手杀王婷婷的动机是什么？,性侵未遂过失杀人,争夺家产,仇杀报复,情感纠纷,,a
+b,a,凶手是被害人王婷婷什么人？,继子,丈夫,医生,管家,,a
+b,a,王婷婷是在哪里被杀死的？,楚万户夫妇卧室,后山禁地,医务室,客厅,,a
+b,a,王婷婷是什么时候被杀死的？,海历55年9月27日晚上8点,海历55年9月26日晚上,海历55年9月27日下午,海历55年9月28日凌晨,,a
+c,a,【王婷婷】和【楚万户】的关系是什么？,楚万户 is husband of 王婷婷,王婷婷 is mentor of 楚万户,王婷婷 is sibling of 楚万户,王婷婷 is friend of 楚万户,,a
+c,a,【王婷婷】和【李浩】的关系是什么？,李浩 is subordinate of 王婷婷,王婷婷 is child of 李浩,王婷婷 is romantic relationships with 李浩,王婷婷 is mentor of 李浩,,a
+c,a,【王婷婷】和【苏圣策】不存在的关系是什么？,苏圣策 is service provider of 王婷婷,王婷婷 is customer of 苏圣策,苏圣策 is subordinate of 王婷婷,王婷婷 is wife of 苏圣策,,d
+c,a,【王婷婷】和【马三】的关系是什么？,马三 is subordinate of 王婷婷,王婷婷 is sibling of 马三,王婷婷 is friend of 马三,王婷婷 is child of 马三,,a
+c,a,【楚川】和【楚万户】的关系是什么？,楚万户 is parent of 楚川,楚川 is mentor of 楚万户,楚川 is friend of 楚万户,楚川 is subordinate of 楚万户,,a
+c,a,【楚川】和【王婷婷】不存在的关系是什么？,楚川 is perpetrator of 王婷婷,楚川 is admirer of 王婷婷,王婷婷 is victim of 楚川,楚川 is husband of 王婷婷,,d
+c,a,【楚川】和【苏圣策】的关系是什么？,苏圣策 is parent of 楚川,楚川 is mentor of 苏圣策,楚川 is friend of 苏圣策,楚川 is subordinate of 苏圣策,,a
+c,a,【楚川】和【李浩】不存在的关系是什么？,李浩 is subordinate of 楚川,楚川 is superior of 李浩,李浩 is service provider of 楚川,楚川 is child of 李浩,,d
+c,a,【楚万户】和【苏圣策】不存在的关系是什么？,苏圣策 is service provider of 楚万户,楚万户 is customer of 苏圣策,苏圣策 is deceiver of 楚万户,楚万户 is parent of 苏圣策,,d
+c,a,【楚万户】和【马三】的关系是什么？,马三 is subordinate of 楚万户,楚万户 is friend of 马三,楚万户 is sibling of 马三,楚万户 is student of 马三,,a

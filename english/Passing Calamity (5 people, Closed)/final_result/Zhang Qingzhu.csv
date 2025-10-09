@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Yankong?,Li Xinyue,Zhao Zhengwei,Shi Yanren,Shi Hengming,,b
+b,a,How did Yankong die?,Poisoned by potassium cyanide,Stabbed to death,Strangled to death,Shot to death,,a
+b,a,What was the killer's motive for killing Yankong?,Revenge,Property dispute,Emotional conflict,Accidental killing,,a
+b,a,What was the killer's relationship to victim Yankong?,Enemy,Disciple,Investment partner,Believer,,a
+b,a,Where was Yankong killed?,Fengbo Temple prayer hall,Yankong's room,Quchenju residence,Back courtyard,,a
+b,a,When was Yankong killed?,August 3rd morning 5 AM,August 2nd evening,August 3rd afternoon,August 4th early morning,,a
+c,a,What relationship does NOT exist between Yankong and Zhang Qingzhu?,Zhang Qingzhu is extramarital affair with Yankong,Yankong is superior of Zhang Qingzhu,Yankong is manipulator of Zhang Qingzhu,Zhang Qingzhu is wife of Yankong,,d
+c,a,What relationship does NOT exist between Yankong and Li Xinyue?,Yankong is deceiver of Li Xinyue,Li Xinyue is victim of Yankong,Yankong is manipulator of Li Xinyue,Li Xinyue is child of Yankong,,d
+c,a,What relationship does NOT exist between Yankong and Shi Yanren?,Shi Yanren is colleague of Yankong,Yankong is adversary of Shi Yanren,Shi Yanren is disliked by Yankong,Shi Yanren is child of Yankong,,d
+c,a,What relationship does NOT exist between Yankong and Shi Hengming?,Yankong is mentor of Shi Hengming,Shi Hengming is student of Yankong,Shi Hengming is victim of Yankong,Shi Hengming is sibling of Yankong,,d
+c,a,What relationship does NOT exist between Zhao Zhengwei and Yankong?,Zhao Zhengwei is perpetrator of Yankong,Yankong is victim of Zhao Zhengwei,Zhao Zhengwei is business partner of Yankong,Zhao Zhengwei is child of Yankong,,d
+c,a,What is the relationship between Zhao Zhengwei and Zhang Qingzhu?,Zhang Qingzhu is stranger to Zhao Zhengwei,Zhao Zhengwei is romantic relationships with Zhang Qingzhu,Zhao Zhengwei is colleague of Zhang Qingzhu,Zhao Zhengwei is parent of Zhang Qingzhu,,a
+c,a,What is the relationship between Zhao Zhengwei and Shi Hengming?,Shi Hengming is acquaintance of Zhao Zhengwei,Zhao Zhengwei is romantic relationships with Shi Hengming,Zhao Zhengwei is mentor of Shi Hengming,Zhao Zhengwei is parent of Shi Hengming,,a
+c,a,What is the relationship between Zhang Qingzhu and Li Xinyue?,Li Xinyue is friend of Zhang Qingzhu,Zhang Qingzhu is romantic relationships with Li Xinyue,Zhang Qingzhu is superior of Li Xinyue,Zhang Qingzhu is parent of Li Xinyue,,a
+c,a,What relationship does NOT exist between Shi Yanren and Shi Hengming?,Shi Hengming is subordinate of Shi Yanren,Shi Yanren is superior of Shi Hengming,Shi Hengming is student of Shi Yanren,Shi Hengming is sibling of Shi Yanren,,d
+c,a,What relationship does NOT exist between Li Xinyue and Shi Yanren?,Li Xinyue is admirer of Shi Yanren,Shi Yanren is admired by Li Xinyue,Li Xinyue is student of Shi Yanren,Li Xinyue is wife of Shi Yanren,,d

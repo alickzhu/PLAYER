@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Johnny?,Clark,Andrew,Steven,George,Ken,e
+b,a,How did Johnny die?,Strangled with wire then staged as hanging,Stabbed to death,Poisoned to death,Beaten to death,,a
+b,a,What was the killer's motive for killing Johnny?,Revenge for father,Gang power struggle,Money dispute,Emotional entanglement,,a
+b,a,What is the killer's relationship to victim Johnny?,Seemingly subordinate but actually enemy,Biological son,Business partner,Cellmate,,a
+b,a,Where was Johnny killed?,Cell 1602,Bathroom,Hallway,Office,,a
+b,a,When was Johnny killed?,Last night after John fell asleep,Yesterday afternoon during cleaning,Early this morning,Yesterday evening,,a
+c,a,What is the relationship between Johnny and John?,John is subordinate of Johnny,Johnny is colleague of John,Johnny is student of John,Johnny is sibling of John,,a
+c,a,What is the non-existent relationship between Johnny and Steven?,Steven is service provider of Johnny,Johnny is customer of Steven,Steven is helped by Johnny,Johnny is parent of Steven,,d
+c,a,What is the relationship between Johnny and Clark?,Clark is adversary of Johnny,Johnny is mentor of Clark,Johnny is friend of Clark,Johnny is sibling of Clark,,a
+c,a,What is the non-existent relationship between Johnny and George?,George is victim of Johnny,Johnny is service provider of George,George is service provider of Johnny,Johnny is child of George,,d
+c,a,What is the relationship between Ken and John?,John is colleague of Ken,Ken is superior of John,Ken is student of John,Ken is parent of John,,a
+c,a,What is the non-existent relationship between Ken and Johnny?,Ken is perpetrator of Johnny,Ken is subordinate of Johnny,Johnny is victim of Ken,Ken is child of Johnny,,d
+c,a,What is the relationship between Ken and Steven?,Steven is superior of Ken,Ken is friend of Steven,Ken is mentor of Steven,Ken is sibling of Steven,,a
+c,a,What is the relationship between Ken and George?,George is helper of Ken,Ken is customer of George,Ken is parent of George,Ken is mentor of George,,a
+c,a,What is the relationship between John and Steven?,Steven is superior of John,John is mentor of Steven,John is friend of Steven,John is parent of Steven,,a
+c,a,What is the non-existent relationship between John and Clark?,John is stranger to Clark,Clark is stranger to John,John is acquaintance of Clark,John is romantic relationships with Clark,,d

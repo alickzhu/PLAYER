@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,姚钱树被谁杀死的？,张老板,王姐,甄商,贾保姆,李梅梅,e
+b,a,姚钱树是怎么死的？,头部中枪死亡,被刀刺死,被毒药毒死,被勒死,,a
+b,a,凶手杀姚钱树的动机是什么？,愤怒杀人,争夺财产,情感纠纷,商业仇杀,,a
+b,a,凶手是被害人姚钱树什么人？,仇人,商业伙伴,妻子,朋友,,a
+b,a,姚钱树是在哪里被杀死的？,钟楼旁的车内,当铺内,酒馆里,家中,,a
+b,a,姚钱树是什么时候被杀死的？,8月30日晚上11点,8月30日下午,8月31日凌晨,8月29日晚上,,a
+c,a,【李梅梅】和【李长青】不存在的关系是什么？,李长青 is same person as 李梅梅,李梅梅 is victim of 李长青,李长青 is manipulator of 李梅梅,李梅梅 is wife of 李长青,,d
+c,a,【李梅梅】和【姚钱树】不存在的关系是什么？,李梅梅 is perpetrator of 姚钱树,姚钱树 is victim of 李梅梅,李梅梅 is manipulated by 姚钱树,姚钱树 is husband of 李梅梅,,d
+c,a,【李梅梅】和【贾保姆】的关系是什么？,贾保姆 is service provider of 李梅梅,李梅梅 is mentor of 贾保姆,李梅梅 is friend of 贾保姆,李梅梅 is parent of 贾保姆,,a
+c,a,【张老板】和【王姐】不存在的关系是什么？,张老板 is extramarital affair with 王姐,王姐 is extramarital affair with 张老板,张老板 is friend of 王姐,张老板 is sibling of 王姐,,d
+c,a,【李长青】和【甄商】的关系是什么？,甄商 is stranger to 李长青,李长青 is friend of 甄商,李长青 is business partner of 甄商,李长青 is child of 甄商,,a
+c,a,【王姐】和【贾保姆】不存在的关系是什么？,贾保姆 is friend of 王姐,王姐 is friend of 贾保姆,贾保姆 is acquaintance of 王姐,王姐 is parent of 贾保姆,,d

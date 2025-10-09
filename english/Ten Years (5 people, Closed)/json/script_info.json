@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "Ten Years (5 people, Closed)",
+    "character_name": [
+        "Huang Long",
+        "Jin Wei",
+        "Li Renqing",
+        "Wang Zhi",
+        "Zhao Tianhu"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

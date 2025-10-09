@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,强尼被谁杀死的？,安德鲁,斯蒂文,约翰,乔治,肯,e
+b,a,强尼是怎么死的？,用铁丝勒死后伪造上吊,被刀刺死,被毒药毒死,被拳头打死,,a
+b,a,凶手杀强尼的动机是什么？,为父报仇,争夺帮派地位,金钱纠纷,情感纠葛,,a
+b,a,凶手是被害人强尼什么人？,表面上的手下实际是仇人,亲生儿子,商业伙伴,狱友,,a
+b,a,强尼是在哪里被杀死的？,1602牢房,澡堂,走廊,办公室,,a
+b,a,强尼是什么时候被杀死的？,昨天晚上约翰睡着后,昨天下午打扫时,今天凌晨,昨天傍晚,,a
+c,a,【强尼】和【约翰】的关系是什么？,约翰 is subordinate of 强尼,强尼 is colleague of 约翰,强尼 is student of 约翰,强尼 is sibling of 约翰,,a
+c,a,【强尼】和【斯蒂文】不存在的关系是什么？,斯蒂文 is service provider of 强尼,强尼 is customer of 斯蒂文,斯蒂文 is helped by 强尼,强尼 is parent of 斯蒂文,,d
+c,a,【强尼】和【克拉克】的关系是什么？,克拉克 is adversary of 强尼,强尼 is mentor of 克拉克,强尼 is friend of 克拉克,强尼 is sibling of 克拉克,,a
+c,a,【强尼】和【乔治】不存在的关系是什么？,乔治 is victim of 强尼,强尼 is service provider of 乔治,乔治 is service provider of 强尼,强尼 is child of 乔治,,d
+c,a,【肯】和【约翰】的关系是什么？,约翰 is colleague of 肯,肯 is superior of 约翰,肯 is student of 约翰,肯 is parent of 约翰,,a
+c,a,【肯】和【强尼】不存在的关系是什么？,肯 is perpetrator of 强尼,肯 is subordinate of 强尼,强尼 is victim of 肯,肯 is child of 强尼,,d
+c,a,【肯】和【斯蒂文】的关系是什么？,斯蒂文 is superior of 肯,肯 is friend of 斯蒂文,肯 is mentor of 斯蒂文,肯 is sibling of 斯蒂文,,a
+c,a,【肯】和【乔治】的关系是什么？,乔治 is helper of 肯,肯 is customer of 乔治,肯 is parent of 乔治,肯 is mentor of 乔治,,a
+c,a,【约翰】和【斯蒂文】的关系是什么？,斯蒂文 is superior of 约翰,约翰 is mentor of 斯蒂文,约翰 is friend of 斯蒂文,约翰 is parent of 斯蒂文,,a
+c,a,【约翰】和【克拉克】不存在的关系是什么？,约翰 is stranger to 克拉克,克拉克 is stranger to 约翰,约翰 is acquaintance of 克拉克,约翰 is romantic relationships with 克拉克,,d

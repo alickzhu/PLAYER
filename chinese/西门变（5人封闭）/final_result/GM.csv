@@ -1,0 +1,75 @@
+﻿value,type,question,a,b,c,d,e,truth
+a,a,赵中杨被谁杀死的？,张伟,赵三,赵中正,陈媚儿,,a
+b,a,赵中杨是怎么死的？,被毒针毒死,被刀刺死,被弩箭射死,被勒死,,a
+b,a,凶手杀赵中杨的动机是什么？,自保求生,争夺族长之位,报仇雪恨,情感纠纷,,a
+b,a,凶手是被害人赵中杨什么人？,贴身侍卫,兄弟,情人,陌生人,,a
+b,a,赵中杨是在哪里被杀死的？,赵中杨的房间,院落中,城外,酒楼内,,a
+b,a,赵中杨是什么时候被杀死的？,元历1507年7月25日晚上11:10分,元历1507年7月24日晚上,元历1507年7月25日白天,元历1507年7月26日凌晨,,a
+c,a,【赵中杨】和【张伟】不存在的关系是什么？,张伟 is subordinate of 赵中杨,赵中杨 is victim of 张伟,张伟 is perpetrator of 赵中杨,张伟 is sibling of 赵中杨,,d
+c,a,【赵中杨】和【李成】不存在的关系是什么？,李成 is subordinate of 赵中杨,赵中杨 is superior of 李成,李成 is helped by 赵中杨,李成 is child of 赵中杨,,d
+c,a,【赵中杨】和【赵中正】的关系是什么？,赵中正 is sibling of 赵中杨,赵中杨 is friend of 赵中正,赵中杨 is subordinate of 赵中正,赵中杨 is stranger to 赵中正,,a
+c,a,【赵中杨】和【陈媚儿】不存在的关系是什么？,陈媚儿 is romantic relationships with 赵中杨,赵中杨 is victim of 陈媚儿,陈媚儿 is deceiver of 赵中杨,陈媚儿 is wife of 赵中杨,,d
+c,a,【张伟】和【李成】的关系是什么？,李成 is colleague of 张伟,张伟 is parent of 李成,张伟 is romantic relationships with 李成,张伟 is mentor of 李成,,a
+c,a,【张伟】和【赵三】不存在的关系是什么？,赵三 is friend of 张伟,张伟 is business partner of 赵三,赵三 is helper of 张伟,张伟 is parent of 赵三,,d
+c,a,【张伟】和【赵中正】的关系是什么？,赵中正 is superior of 张伟,张伟 is child of 赵中正,张伟 is romantic relationships with 赵中正,张伟 is mentor of 赵中正,,a
+c,a,【李成】和【赵中正】不存在的关系是什么？,赵中正 is manipulator of 李成,李成 is manipulated by 赵中正,赵中正 is deceiver of 李成,李成 is child of 赵中正,,d
+c,a,【赵三】和【赵中正】不存在的关系是什么？,赵三 is subordinate of 赵中正,赵中正 is superior of 赵三,赵三 is friend of 赵中正,赵三 is parent of 赵中正,,d
+c,a,【陈媚儿】和【赵中正】的关系是什么？,赵中正 is superior of 陈媚儿,陈媚儿 is romantic relationships with 赵中正,陈媚儿 is child of 赵中正,陈媚儿 is mentor of 赵中正,,a
+c,a,【赵中杨】和【张伟】不存在的关系是什么？,张伟 is subordinate of 赵中杨,赵中杨 is victim of 张伟,张伟 is perpetrator of 赵中杨,张伟 is sibling of 赵中杨,,d
+c,a,【赵中杨】和【李成】不存在的关系是什么？,李成 is subordinate of 赵中杨,赵中杨 is superior of 李成,李成 is helped by 赵中杨,李成 is child of 赵中杨,,d
+c,a,【赵中杨】和【赵中正】的关系是什么？,赵中正 is sibling of 赵中杨,赵中杨 is friend of 赵中正,赵中杨 is subordinate of 赵中正,赵中杨 is stranger to 赵中正,,a
+c,a,【赵中杨】和【陈媚儿】不存在的关系是什么？,陈媚儿 is romantic relationships with 赵中杨,赵中杨 is victim of 陈媚儿,陈媚儿 is deceiver of 赵中杨,陈媚儿 is wife of 赵中杨,,d
+c,a,【张伟】和【李成】的关系是什么？,李成 is colleague of 张伟,张伟 is parent of 李成,张伟 is romantic relationships with 李成,张伟 is mentor of 李成,,a
+c,a,【张伟】和【赵三】不存在的关系是什么？,赵三 is friend of 张伟,张伟 is business partner of 赵三,赵三 is helper of 张伟,张伟 is parent of 赵三,,d
+c,a,【张伟】和【赵中正】的关系是什么？,赵中正 is superior of 张伟,张伟 is child of 赵中正,张伟 is romantic relationships with 赵中正,张伟 is mentor of 赵中正,,a
+c,a,【李成】和【赵中正】不存在的关系是什么？,赵中正 is manipulator of 李成,李成 is manipulated by 赵中正,赵中正 is deceiver of 李成,李成 is child of 赵中正,,d
+c,a,【赵三】和【赵中正】不存在的关系是什么？,赵三 is subordinate of 赵中正,赵中正 is superior of 赵三,赵三 is friend of 赵中正,赵三 is parent of 赵中正,,d
+c,a,【陈媚儿】和【赵中正】的关系是什么？,赵中正 is superior of 陈媚儿,陈媚儿 is romantic relationships with 赵中正,陈媚儿 is child of 赵中正,陈媚儿 is mentor of 赵中正,,a
+a,a,赵中杨被谁杀死的？,张伟,李成,赵三,赵中正,,a
+b,a,赵中杨是怎么死的？,被毒针毒死,被刀刺死,被弩箭射死,被勒死,,a
+b,a,凶手杀赵中杨的动机是什么？,自保求生,争夺族长之位,报仇雪恨,情感纠纷,,a
+b,a,凶手是被害人赵中杨什么人？,贴身侍卫,兄弟,情人,陌生人,,a
+b,a,赵中杨是在哪里被杀死的？,赵中杨的房间,院落中,城外,酒楼内,,a
+b,a,赵中杨是什么时候被杀死的？,元历1507年7月25日晚上11:10分,元历1507年7月24日晚上,元历1507年7月25日白天,元历1507年7月26日凌晨,,a
+c,a,【赵中杨】和【张伟】不存在的关系是什么？,张伟 is subordinate of 赵中杨,赵中杨 is victim of 张伟,张伟 is perpetrator of 赵中杨,张伟 is sibling of 赵中杨,,d
+c,a,【赵中杨】和【李成】不存在的关系是什么？,李成 is subordinate of 赵中杨,赵中杨 is superior of 李成,李成 is helped by 赵中杨,李成 is child of 赵中杨,,d
+c,a,【赵中杨】和【赵中正】的关系是什么？,赵中正 is sibling of 赵中杨,赵中杨 is friend of 赵中正,赵中杨 is subordinate of 赵中正,赵中杨 is stranger to 赵中正,,a
+c,a,【赵中杨】和【陈媚儿】不存在的关系是什么？,陈媚儿 is romantic relationships with 赵中杨,赵中杨 is victim of 陈媚儿,陈媚儿 is deceiver of 赵中杨,陈媚儿 is wife of 赵中杨,,d
+c,a,【张伟】和【李成】的关系是什么？,李成 is colleague of 张伟,张伟 is parent of 李成,张伟 is romantic relationships with 李成,张伟 is mentor of 李成,,a
+c,a,【张伟】和【赵三】不存在的关系是什么？,赵三 is friend of 张伟,张伟 is business partner of 赵三,赵三 is helper of 张伟,张伟 is parent of 赵三,,d
+c,a,【张伟】和【赵中正】的关系是什么？,赵中正 is superior of 张伟,张伟 is child of 赵中正,张伟 is romantic relationships with 赵中正,张伟 is mentor of 赵中正,,a
+c,a,【李成】和【赵中正】不存在的关系是什么？,赵中正 is manipulator of 李成,李成 is manipulated by 赵中正,赵中正 is deceiver of 李成,李成 is child of 赵中正,,d
+c,a,【赵三】和【赵中正】不存在的关系是什么？,赵三 is subordinate of 赵中正,赵中正 is superior of 赵三,赵三 is friend of 赵中正,赵三 is parent of 赵中正,,d
+c,a,【陈媚儿】和【赵中正】的关系是什么？,赵中正 is superior of 陈媚儿,陈媚儿 is romantic relationships with 赵中正,陈媚儿 is child of 赵中正,陈媚儿 is mentor of 赵中正,,a
+a,a,赵中杨被谁杀死的？,张伟,李成,赵三,陈媚儿,,a
+b,a,赵中杨是怎么死的？,被毒针毒死,被刀刺死,被弩箭射死,被勒死,,a
+b,a,凶手杀赵中杨的动机是什么？,自保求生,争夺族长之位,报仇雪恨,情感纠纷,,a
+b,a,凶手是被害人赵中杨什么人？,贴身侍卫,兄弟,情人,陌生人,,a
+b,a,赵中杨是在哪里被杀死的？,赵中杨的房间,院落中,城外,酒楼内,,a
+b,a,赵中杨是什么时候被杀死的？,元历1507年7月25日晚上11:10分,元历1507年7月24日晚上,元历1507年7月25日白天,元历1507年7月26日凌晨,,a
+c,a,【赵中杨】和【张伟】不存在的关系是什么？,张伟 is subordinate of 赵中杨,赵中杨 is victim of 张伟,张伟 is perpetrator of 赵中杨,张伟 is sibling of 赵中杨,,d
+c,a,【赵中杨】和【李成】不存在的关系是什么？,李成 is subordinate of 赵中杨,赵中杨 is superior of 李成,李成 is helped by 赵中杨,李成 is child of 赵中杨,,d
+c,a,【赵中杨】和【赵中正】的关系是什么？,赵中正 is sibling of 赵中杨,赵中杨 is friend of 赵中正,赵中杨 is subordinate of 赵中正,赵中杨 is stranger to 赵中正,,a
+c,a,【赵中杨】和【陈媚儿】不存在的关系是什么？,陈媚儿 is romantic relationships with 赵中杨,赵中杨 is victim of 陈媚儿,陈媚儿 is deceiver of 赵中杨,陈媚儿 is wife of 赵中杨,,d
+c,a,【张伟】和【李成】的关系是什么？,李成 is colleague of 张伟,张伟 is parent of 李成,张伟 is romantic relationships with 李成,张伟 is mentor of 李成,,a
+c,a,【张伟】和【赵三】不存在的关系是什么？,赵三 is friend of 张伟,张伟 is business partner of 赵三,赵三 is helper of 张伟,张伟 is parent of 赵三,,d
+c,a,【张伟】和【赵中正】的关系是什么？,赵中正 is superior of 张伟,张伟 is child of 赵中正,张伟 is romantic relationships with 赵中正,张伟 is mentor of 赵中正,,a
+c,a,【李成】和【赵中正】不存在的关系是什么？,赵中正 is manipulator of 李成,李成 is manipulated by 赵中正,赵中正 is deceiver of 李成,李成 is child of 赵中正,,d
+c,a,【赵三】和【赵中正】不存在的关系是什么？,赵三 is subordinate of 赵中正,赵中正 is superior of 赵三,赵三 is friend of 赵中正,赵三 is parent of 赵中正,,d
+c,a,【陈媚儿】和【赵中正】的关系是什么？,赵中正 is superior of 陈媚儿,陈媚儿 is romantic relationships with 赵中正,陈媚儿 is child of 赵中正,陈媚儿 is mentor of 赵中正,,a
+a,a,赵中杨被谁杀死的？,张伟,李成,赵中正,陈媚儿,,a
+b,a,赵中杨是怎么死的？,被毒针毒死,被刀刺死,被弩箭射死,被勒死,,a
+b,a,凶手杀赵中杨的动机是什么？,自保求生,争夺族长之位,报仇雪恨,情感纠纷,,a
+b,a,凶手是被害人赵中杨什么人？,贴身侍卫,兄弟,情人,陌生人,,a
+b,a,赵中杨是在哪里被杀死的？,赵中杨的房间,院落中,城外,酒楼内,,a
+b,a,赵中杨是什么时候被杀死的？,元历1507年7月25日晚上11:10分,元历1507年7月24日晚上,元历1507年7月25日白天,元历1507年7月26日凌晨,,a
+c,a,【赵中杨】和【张伟】不存在的关系是什么？,张伟 is subordinate of 赵中杨,赵中杨 is victim of 张伟,张伟 is perpetrator of 赵中杨,张伟 is sibling of 赵中杨,,d
+c,a,【赵中杨】和【李成】不存在的关系是什么？,李成 is subordinate of 赵中杨,赵中杨 is superior of 李成,李成 is helped by 赵中杨,李成 is child of 赵中杨,,d
+c,a,【赵中杨】和【赵中正】的关系是什么？,赵中正 is sibling of 赵中杨,赵中杨 is friend of 赵中正,赵中杨 is subordinate of 赵中正,赵中杨 is stranger to 赵中正,,a
+c,a,【赵中杨】和【陈媚儿】不存在的关系是什么？,陈媚儿 is romantic relationships with 赵中杨,赵中杨 is victim of 陈媚儿,陈媚儿 is deceiver of 赵中杨,陈媚儿 is wife of 赵中杨,,d
+c,a,【张伟】和【李成】的关系是什么？,李成 is colleague of 张伟,张伟 is parent of 李成,张伟 is romantic relationships with 李成,张伟 is mentor of 李成,,a
+c,a,【张伟】和【赵三】不存在的关系是什么？,赵三 is friend of 张伟,张伟 is business partner of 赵三,赵三 is helper of 张伟,张伟 is parent of 赵三,,d
+c,a,【张伟】和【赵中正】的关系是什么？,赵中正 is superior of 张伟,张伟 is child of 赵中正,张伟 is romantic relationships with 赵中正,张伟 is mentor of 赵中正,,a
+c,a,【李成】和【赵中正】不存在的关系是什么？,赵中正 is manipulator of 李成,李成 is manipulated by 赵中正,赵中正 is deceiver of 李成,李成 is child of 赵中正,,d
+c,a,【赵三】和【赵中正】不存在的关系是什么？,赵三 is subordinate of 赵中正,赵中正 is superior of 赵三,赵三 is friend of 赵中正,赵三 is parent of 赵中正,,d
+c,a,【陈媚儿】和【赵中正】的关系是什么？,赵中正 is superior of 陈媚儿,陈媚儿 is romantic relationships with 赵中正,陈媚儿 is child of 赵中正,陈媚儿 is mentor of 赵中正,,a

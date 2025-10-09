@@ -1,0 +1,8 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【王秘书】和【林峰】不存在的关系是什么？,林峰 is subordinate of 王秘书,林峰 is perpetrator of 王秘书,王秘书 is victim of 林峰,王秘书 is friend of 林峰,,d
+c,a,【林峰】和【郑爽】的关系是什么？,郑爽 is extramarital affair with 林峰,郑爽 is sister of 林峰,郑爽 is colleague of 林峰,郑爽 is mentor of 林峰,,a
+c,a,【郑爽】和【陆国平】的关系是什么？,陆国平 is husband of 郑爽,陆国平 is business partner of 郑爽,陆国平 is friend of 郑爽,陆国平 is colleague of 郑爽,,a
+c,a,【林峰】和【陆国平】的关系是什么？,陆国平 is parent of 林峰,陆国平 is mentor of 林峰,陆国平 is superior of 林峰,陆国平 is friend of 林峰,,a
+c,a,【王秘书】和【韩红斌】不存在的关系是什么？,韩红斌 is subordinate of 王秘书,韩红斌 is dislike of 王秘书,王秘书 is disliked by 韩红斌,王秘书 is friend of 韩红斌,,d
+c,a,【王秘书】和【陈宁】的关系是什么？,陈宁 is subordinate of 王秘书,陈宁 is friend of 王秘书,陈宁 is relative of 王秘书,陈宁 is romantic relationships with 王秘书,,a
+c,a,【王秘书】和【刘高阳】不存在的关系是什么？,刘高阳 is subordinate of 王秘书,刘高阳 is dislike of 王秘书,王秘书 is victim of 刘高阳,王秘书 is mentor of 刘高阳,,d

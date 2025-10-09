@@ -1,0 +1,75 @@
+﻿value,type,question,a,b,c,d,e,truth
+a,a,钱倩被谁杀死的？,金伟,黄龙,黎仁清,汪直,,c
+b,a,钱倩是怎么死的？,被围巾勒死,被刀刺死,被毒药毒死,被枪击致死,,a
+b,a,凶手杀钱倩的动机是什么？,背叛愤怒,争夺财产,报仇雪恨,意外杀人,,a
+b,a,凶手是被害人钱倩什么人？,秘密情人,兄弟,同事,陌生人,,a
+b,a,钱倩是在哪里被杀死的？,钱倩家的卧室,公司办公室,酒店房间,公园里,,a
+b,a,钱倩是什么时候被杀死的？,2006年12月22日晚上20:35-20:40,2006年12月22日白天,2006年12月23日凌晨,2006年12月21日晚上,,a
+c,a,【钱倩】和【金伟】的关系是什么？,金伟 is sibling of 钱倩,钱倩 is romantic relationships with 金伟,钱倩 is colleague of 金伟,钱倩 is stranger to 金伟,,a
+c,a,【钱倩】和【黎仁清】不存在的关系是什么？,黎仁清 is romantic relationships with 钱倩,钱倩 is victim of 黎仁清,黎仁清 is superior of 钱倩,钱倩 is wife of 黎仁清,,d
+c,a,【钱倩】和【黄龙】不存在的关系是什么？,黄龙 is admirer of 钱倩,钱倩 is acquaintance of 黄龙,黄龙 is stranger to 钱倩,钱倩 is romantic relationships with 黄龙,,d
+c,a,【钱倩】和【汪直】不存在的关系是什么？,汪直 is romantic relationships with 钱倩,钱倩 is deceived by 汪直,汪直 is manipulator of 钱倩,汪直 is sibling of 钱倩,,d
+c,a,【黎仁清】和【金伟】不存在的关系是什么？,金伟 is perpetrator of 黎仁清,黎仁清 is victim of 金伟,金伟 is adversary of 黎仁清,金伟 is child of 黎仁清,,d
+c,a,【黎仁清】和【黄龙】不存在的关系是什么？,黄龙 is helper of 黎仁清,黎仁清 is helped by 黄龙,黄龙 is acquaintance of 黎仁清,黄龙 is parent of 黎仁清,,d
+c,a,【黎仁清】和【汪直】不存在的关系是什么？,汪直 is subordinate of 黎仁清,黎仁清 is superior of 汪直,汪直 is colleague of 黎仁清,汪直 is child of 黎仁清,,d
+c,a,【金伟】和【黄龙】的关系是什么？,黄龙 is acquaintance of 金伟,金伟 is romantic relationships with 黄龙,金伟 is colleague of 黄龙,金伟 is parent of 黄龙,,a
+c,a,【金伟】和【汪直】不存在的关系是什么？,汪直 is adversary of 金伟,金伟 is adversary of 汪直,汪直 is deceiver of 金伟,汪直 is sibling of 金伟,,d
+c,a,【黄龙】和【汪直】的关系是什么？,汪直 is stranger to 黄龙,黄龙 is romantic relationships with 汪直,黄龙 is colleague of 汪直,黄龙 is parent of 汪直,,a
+c,a,【钱倩】和【金伟】的关系是什么？,金伟 is sibling of 钱倩,钱倩 is romantic relationships with 金伟,钱倩 is colleague of 金伟,钱倩 is stranger to 金伟,,a
+c,a,【钱倩】和【黎仁清】不存在的关系是什么？,黎仁清 is romantic relationships with 钱倩,钱倩 is victim of 黎仁清,黎仁清 is superior of 钱倩,钱倩 is wife of 黎仁清,,d
+c,a,【钱倩】和【黄龙】不存在的关系是什么？,黄龙 is admirer of 钱倩,钱倩 is acquaintance of 黄龙,黄龙 is stranger to 钱倩,钱倩 is romantic relationships with 黄龙,,d
+c,a,【钱倩】和【汪直】不存在的关系是什么？,汪直 is romantic relationships with 钱倩,钱倩 is deceived by 汪直,汪直 is manipulator of 钱倩,汪直 is sibling of 钱倩,,d
+c,a,【黎仁清】和【金伟】不存在的关系是什么？,金伟 is perpetrator of 黎仁清,黎仁清 is victim of 金伟,金伟 is adversary of 黎仁清,金伟 is child of 黎仁清,,d
+c,a,【黎仁清】和【黄龙】不存在的关系是什么？,黄龙 is helper of 黎仁清,黎仁清 is helped by 黄龙,黄龙 is acquaintance of 黎仁清,黄龙 is parent of 黎仁清,,d
+c,a,【黎仁清】和【汪直】不存在的关系是什么？,汪直 is subordinate of 黎仁清,黎仁清 is superior of 汪直,汪直 is colleague of 黎仁清,汪直 is child of 黎仁清,,d
+c,a,【金伟】和【黄龙】的关系是什么？,黄龙 is acquaintance of 金伟,金伟 is romantic relationships with 黄龙,金伟 is colleague of 黄龙,金伟 is parent of 黄龙,,a
+c,a,【金伟】和【汪直】不存在的关系是什么？,汪直 is adversary of 金伟,金伟 is adversary of 汪直,汪直 is deceiver of 金伟,汪直 is sibling of 金伟,,d
+c,a,【黄龙】和【汪直】的关系是什么？,汪直 is stranger to 黄龙,黄龙 is romantic relationships with 汪直,黄龙 is colleague of 汪直,黄龙 is parent of 汪直,,a
+a,a,钱倩被谁杀死的？,赵天虎,金伟,黄龙,黎仁清,,d
+b,a,钱倩是怎么死的？,被围巾勒死,被刀刺死,被毒药毒死,被枪击致死,,a
+b,a,凶手杀钱倩的动机是什么？,背叛愤怒,争夺财产,报仇雪恨,意外杀人,,a
+b,a,凶手是被害人钱倩什么人？,秘密情人,兄弟,同事,陌生人,,a
+b,a,钱倩是在哪里被杀死的？,钱倩家的卧室,公司办公室,酒店房间,公园里,,a
+b,a,钱倩是什么时候被杀死的？,2006年12月22日晚上20:35-20:40,2006年12月22日白天,2006年12月23日凌晨,2006年12月21日晚上,,a
+c,a,【钱倩】和【金伟】的关系是什么？,金伟 is sibling of 钱倩,钱倩 is romantic relationships with 金伟,钱倩 is colleague of 金伟,钱倩 is stranger to 金伟,,a
+c,a,【钱倩】和【黎仁清】不存在的关系是什么？,黎仁清 is romantic relationships with 钱倩,钱倩 is victim of 黎仁清,黎仁清 is superior of 钱倩,钱倩 is wife of 黎仁清,,d
+c,a,【钱倩】和【黄龙】不存在的关系是什么？,黄龙 is admirer of 钱倩,钱倩 is acquaintance of 黄龙,黄龙 is stranger to 钱倩,钱倩 is romantic relationships with 黄龙,,d
+c,a,【钱倩】和【汪直】不存在的关系是什么？,汪直 is romantic relationships with 钱倩,钱倩 is deceived by 汪直,汪直 is manipulator of 钱倩,汪直 is sibling of 钱倩,,d
+c,a,【黎仁清】和【金伟】不存在的关系是什么？,金伟 is perpetrator of 黎仁清,黎仁清 is victim of 金伟,金伟 is adversary of 黎仁清,金伟 is child of 黎仁清,,d
+c,a,【黎仁清】和【黄龙】不存在的关系是什么？,黄龙 is helper of 黎仁清,黎仁清 is helped by 黄龙,黄龙 is acquaintance of 黎仁清,黄龙 is parent of 黎仁清,,d
+c,a,【黎仁清】和【汪直】不存在的关系是什么？,汪直 is subordinate of 黎仁清,黎仁清 is superior of 汪直,汪直 is colleague of 黎仁清,汪直 is child of 黎仁清,,d
+c,a,【金伟】和【黄龙】的关系是什么？,黄龙 is acquaintance of 金伟,金伟 is romantic relationships with 黄龙,金伟 is colleague of 黄龙,金伟 is parent of 黄龙,,a
+c,a,【金伟】和【汪直】不存在的关系是什么？,汪直 is adversary of 金伟,金伟 is adversary of 汪直,汪直 is deceiver of 金伟,汪直 is sibling of 金伟,,d
+c,a,【黄龙】和【汪直】的关系是什么？,汪直 is stranger to 黄龙,黄龙 is romantic relationships with 汪直,黄龙 is colleague of 汪直,黄龙 is parent of 汪直,,a
+a,a,钱倩被谁杀死的？,赵天虎,黄龙,黎仁清,汪直,,c
+b,a,钱倩是怎么死的？,被围巾勒死,被刀刺死,被毒药毒死,被枪击致死,,a
+b,a,凶手杀钱倩的动机是什么？,背叛愤怒,争夺财产,报仇雪恨,意外杀人,,a
+b,a,凶手是被害人钱倩什么人？,秘密情人,兄弟,同事,陌生人,,a
+b,a,钱倩是在哪里被杀死的？,钱倩家的卧室,公司办公室,酒店房间,公园里,,a
+b,a,钱倩是什么时候被杀死的？,2006年12月22日晚上20:35-20:40,2006年12月22日白天,2006年12月23日凌晨,2006年12月21日晚上,,a
+c,a,【钱倩】和【金伟】的关系是什么？,金伟 is sibling of 钱倩,钱倩 is romantic relationships with 金伟,钱倩 is colleague of 金伟,钱倩 is stranger to 金伟,,a
+c,a,【钱倩】和【黎仁清】不存在的关系是什么？,黎仁清 is romantic relationships with 钱倩,钱倩 is victim of 黎仁清,黎仁清 is superior of 钱倩,钱倩 is wife of 黎仁清,,d
+c,a,【钱倩】和【黄龙】不存在的关系是什么？,黄龙 is admirer of 钱倩,钱倩 is acquaintance of 黄龙,黄龙 is stranger to 钱倩,钱倩 is romantic relationships with 黄龙,,d
+c,a,【钱倩】和【汪直】不存在的关系是什么？,汪直 is romantic relationships with 钱倩,钱倩 is deceived by 汪直,汪直 is manipulator of 钱倩,汪直 is sibling of 钱倩,,d
+c,a,【黎仁清】和【金伟】不存在的关系是什么？,金伟 is perpetrator of 黎仁清,黎仁清 is victim of 金伟,金伟 is adversary of 黎仁清,金伟 is child of 黎仁清,,d
+c,a,【黎仁清】和【黄龙】不存在的关系是什么？,黄龙 is helper of 黎仁清,黎仁清 is helped by 黄龙,黄龙 is acquaintance of 黎仁清,黄龙 is parent of 黎仁清,,d
+c,a,【黎仁清】和【汪直】不存在的关系是什么？,汪直 is subordinate of 黎仁清,黎仁清 is superior of 汪直,汪直 is colleague of 黎仁清,汪直 is child of 黎仁清,,d
+c,a,【金伟】和【黄龙】的关系是什么？,黄龙 is acquaintance of 金伟,金伟 is romantic relationships with 黄龙,金伟 is colleague of 黄龙,金伟 is parent of 黄龙,,a
+c,a,【金伟】和【汪直】不存在的关系是什么？,汪直 is adversary of 金伟,金伟 is adversary of 汪直,汪直 is deceiver of 金伟,汪直 is sibling of 金伟,,d
+c,a,【黄龙】和【汪直】的关系是什么？,汪直 is stranger to 黄龙,黄龙 is romantic relationships with 汪直,黄龙 is colleague of 汪直,黄龙 is parent of 汪直,,a
+a,a,钱倩被谁杀死的？,赵天虎,金伟,黎仁清,汪直,,c
+b,a,钱倩是怎么死的？,被围巾勒死,被刀刺死,被毒药毒死,被枪击致死,,a
+b,a,凶手杀钱倩的动机是什么？,背叛愤怒,争夺财产,报仇雪恨,意外杀人,,a
+b,a,凶手是被害人钱倩什么人？,秘密情人,兄弟,同事,陌生人,,a
+b,a,钱倩是在哪里被杀死的？,钱倩家的卧室,公司办公室,酒店房间,公园里,,a
+b,a,钱倩是什么时候被杀死的？,2006年12月22日晚上20:35-20:40,2006年12月22日白天,2006年12月23日凌晨,2006年12月21日晚上,,a
+c,a,【钱倩】和【金伟】的关系是什么？,金伟 is sibling of 钱倩,钱倩 is romantic relationships with 金伟,钱倩 is colleague of 金伟,钱倩 is stranger to 金伟,,a
+c,a,【钱倩】和【黎仁清】不存在的关系是什么？,黎仁清 is romantic relationships with 钱倩,钱倩 is victim of 黎仁清,黎仁清 is superior of 钱倩,钱倩 is wife of 黎仁清,,d
+c,a,【钱倩】和【黄龙】不存在的关系是什么？,黄龙 is admirer of 钱倩,钱倩 is acquaintance of 黄龙,黄龙 is stranger to 钱倩,钱倩 is romantic relationships with 黄龙,,d
+c,a,【钱倩】和【汪直】不存在的关系是什么？,汪直 is romantic relationships with 钱倩,钱倩 is deceived by 汪直,汪直 is manipulator of 钱倩,汪直 is sibling of 钱倩,,d
+c,a,【黎仁清】和【金伟】不存在的关系是什么？,金伟 is perpetrator of 黎仁清,黎仁清 is victim of 金伟,金伟 is adversary of 黎仁清,金伟 is child of 黎仁清,,d
+c,a,【黎仁清】和【黄龙】不存在的关系是什么？,黄龙 is helper of 黎仁清,黎仁清 is helped by 黄龙,黄龙 is acquaintance of 黎仁清,黄龙 is parent of 黎仁清,,d
+c,a,【黎仁清】和【汪直】不存在的关系是什么？,汪直 is subordinate of 黎仁清,黎仁清 is superior of 汪直,汪直 is colleague of 黎仁清,汪直 is child of 黎仁清,,d
+c,a,【金伟】和【黄龙】的关系是什么？,黄龙 is acquaintance of 金伟,金伟 is romantic relationships with 黄龙,金伟 is colleague of 黄龙,金伟 is parent of 黄龙,,a
+c,a,【金伟】和【汪直】不存在的关系是什么？,汪直 is adversary of 金伟,金伟 is adversary of 汪直,汪直 is deceiver of 金伟,汪直 is sibling of 金伟,,d
+c,a,【黄龙】和【汪直】的关系是什么？,汪直 is stranger to 黄龙,黄龙 is romantic relationships with 汪直,黄龙 is colleague of 汪直,黄龙 is parent of 汪直,,a

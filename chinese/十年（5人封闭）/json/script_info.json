@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "十年",
+    "character_name": [
+        "汪直",
+        "赵天虎",
+        "金伟",
+        "黄龙",
+        "黎仁清"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

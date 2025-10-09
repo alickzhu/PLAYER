@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "Sea of Blood (5 people, Closed)",
+    "character_name": [
+        "Wei Xiaodi",
+        "Xiao Tiyu",
+        "Xue Meiniang",
+        "Zheng Youhao",
+        "Zhuang Qingchun"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

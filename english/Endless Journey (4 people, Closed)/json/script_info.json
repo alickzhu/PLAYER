@@ -1,0 +1,35 @@
+{
+    "agent_num": 4,
+    "script_name": "Endless Journey (4 people, Closed)",
+    "character_name": [
+        "Bai Duyun",
+        "Lin Keke",
+        "Su Ning",
+        "Zhou Ming"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

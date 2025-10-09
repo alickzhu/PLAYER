@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Jia Meili?,Xiao Tiyu,Xue Meiniang,Zheng Youhao,Zhuang Qingchun,,d
+b,a,How did Jia Meili die?,Strangled with rope,Stabbed with knife,Poisoned,Beaten to death with blunt object,,a
+b,a,What was the motive of the murderer who killed Jia Meili?,Avenging mother,Fighting for boyfriend,Money dispute,Academic competition,,a
+b,a,What was the relationship between the murderer and Jia Meili?,Former best friend,Classmate,Teacher-student,Stranger,,a
+b,a,Where was Jia Meili killed?,Jia Meili's dormitory,Music room,Classroom,Canteen,,a
+b,a,When was Jia Meili killed?,June 1  2018  21:25,June 1  2018  20:00,June 1  2018  22:00,June 2  2018  early morning,,a
+c,a,What is the non-existent relationship between Jia Meili and Zhuang Qingchun?,Zhuang Qingchun is friend of Jia Meili,Jia Meili is victim of Zhuang Qingchun,Zhuang Qingchun is perpetrator of Jia Meili,Jia Meili is wife of Zhuang Qingchun,,d
+c,a,What is the relationship between Jia Meili and Xiao Tiyu?,Xiao Tiyu is student of Jia Meili,Jia Meili is friend of Xiao Tiyu,Jia Meili is child of Xiao Tiyu,Jia Meili is romantic partner of Xiao Tiyu,,a
+c,a,What is the relationship between Jia Meili and Xue Meiniang?,Xue Meiniang is mentor of Jia Meili,Jia Meili is parent of Xue Meiniang,Jia Meili is romantic partner of Xue Meiniang,Jia Meili is colleague of Xue Meiniang,,a
+c,a,What is the non-existent relationship between Zhuang Qingchun and Xiao Tiyu?,Xiao Tiyu is romantic partner of Zhuang Qingchun,Zhuang Qingchun is romantic partner of Xiao Tiyu,Xiao Tiyu is mentor of Zhuang Qingchun,Zhuang Qingchun is parent of Xiao Tiyu,,d
+c,a,What is the relationship between Zhuang Qingchun and Qin Laoda?,Qin Laoda is sibling of Zhuang Qingchun,Zhuang Qingchun is friend of Qin Laoda,Zhuang Qingchun is mentor of Qin Laoda,Zhuang Qingchun is romantic partner of Qin Laoda,,a
+c,a,What is the relationship between Wei Xiaodi and Zheng Youhao?,Zheng Youhao is colleague of Wei Xiaodi,Wei Xiaodi is parent of Zheng Youhao,Wei Xiaodi is romantic partner of Zheng Youhao,Wei Xiaodi is mentor of Zheng Youhao,,a
+c,a,What is the non-existent relationship between Xiao Tiyu and Xue Meiniang?,Xue Meiniang is romantic partner of Xiao Tiyu,Xiao Tiyu is romantic partner of Xue Meiniang,Xue Meiniang is ex-romantic partner of Xiao Tiyu,Xiao Tiyu is child of Xue Meiniang,,d

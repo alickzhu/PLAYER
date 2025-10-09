@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Secretary Wang?,Detective,Liu Gaoyang,Lin Feng,Zheng Shuang,Chen Ning,c
+b,a,How did Secretary Wang die?,Stabbed with a knife and kicked into the reservoir,Beaten to death with fists,Poisoned,Shot with a gun,,a
+b,a,What was the motive for killing Secretary Wang?,Blackmail, wanted to silence,Crime of passion,Revenge for debt,Work dispute,a
+b,a,What is the relationship between the murderer and Secretary Wang?,Boss’s son,Colleague,Enemy,Creditor,,a
+b,a,Where was Secretary Wang killed?,Beside the reservoir, next to the warehouse,In the dormitory,In the office,On the mountain road,a
+b,a,When was Secretary Wang killed?,June 30 on a rainy day at night,June 29 at night,July 1 in the morning,June 30 in the morning,,a
+c,a,What is the non-existent relationship between Secretary Wang and Lin Feng?,Lin Feng is subordinate of Secretary Wang,Lin Feng is perpetrator of Secretary Wang,Secretary Wang is victim of Lin Feng,Secretary Wang is friend of Lin Feng,,d
+c,a,What is the relationship between Lin Feng and Zheng Shuang?,Zheng Shuang is extramarital affair with Lin Feng,Zheng Shuang is sister of Lin Feng,Zheng Shuang is colleague of Lin Feng,Zheng Shuang is mentor of Lin Feng,,a
+c,a,What is the relationship between Zheng Shuang and Lu Guoping?,Lu Guoping is husband of Zheng Shuang,Lu Guoping is business partner of Zheng Shuang,Lu Guoping is friend of Zheng Shuang,Lu Guoping is colleague of Zheng Shuang,,a
+c,a,What is the relationship between Lin Feng and Lu Guoping?,Lu Guoping is parent of Lin Feng,Lu Guoping is mentor of Lin Feng,Lu Guoping is superior of Lin Feng,Lu Guoping is friend of Lin Feng,,a
+c,a,What is the non-existent relationship between Secretary Wang and Han Hongbin?,Han Hongbin is subordinate of Secretary Wang,Han Hongbin dislikes Secretary Wang,Secretary Wang is disliked by Han Hongbin,Secretary Wang is friend of Han Hongbin,,d
+c,a,What is the relationship between Secretary Wang and Chen Ning?,Chen Ning is subordinate of Secretary Wang,Chen Ning is friend of Secretary Wang,Chen Ning is relative of Secretary Wang,Chen Ning is in a romantic relationship with Secretary Wang,,a
+c,a,What is the non-existent relationship between Secretary Wang and Liu Gaoyang?,Liu Gaoyang is subordinate of Secretary Wang,Liu Gaoyang dislikes Secretary Wang,Secretary Wang is victim of Liu Gaoyang,Secretary Wang is mentor of Liu Gaoyang,,d

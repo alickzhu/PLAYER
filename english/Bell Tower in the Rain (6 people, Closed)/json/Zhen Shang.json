@@ -1,0 +1,20 @@
+{
+  "acts_num": 3,
+  "script": [
+    "Zhen Shang (Jewelry Merchant)\nZhen Shang is a jewelry merchant in town with a sharp and mean personality who values money above all else. He has a wife, Nanny Jia, who is very gossipy. Their marital relationship is neither good nor bad. Three years ago, someone suddenly came asking about a blue diamond. Since this gem was worth over a hundred million, he remembered it very clearly. He told that person he hadn't seen it here and suggested they go ask Yao Qianshu, the pawn shop owner in town. Yao Qianshu usually didn't do good things and spent his days getting drunk with Zhang, the gas station owner, at the tavern. He probably knew something about these matters.\nWho would have thought that this Yao Qianshu was actually having an affair with his wife, Nanny Jia? But Zhen Shang never found a chance to catch them in the act. The miserly Zhen Shang would never allow himself to divorce Nanny Jia for no reason and let her take half his property. But in recent years, Nanny Jia found a job as a nanny, working at the home of the wealthy newcomer Li Changqing, and often used this as an excuse to leave early and return late.\nZhen Shang was very angry about this. He regarded his wife as his property, and having his property violated was something this miser would never allow. So he found an opportunity to approach Yao Qianshu pretending to be friendly, asking if he had any good jewelry for sale - he wanted to buy a batch. Who knew that Yao Qianshu really had a batch of good stuff, especially a blue diamond worth over a hundred million. He pretended to bargain with Yao Qianshu and even had several heated discussions.\nOn August 25th, he negotiated the price with Yao Qianshu at a coffee shop near the clock tower in South Town and agreed to conduct the transaction at 11 PM on August 30th at the clock tower. But Zhen Shang didn't plan to give him the money - instead, he would take the opportunity to kill this person who tried to \"possess his property.\"\n[August 30th]\nZhen Shang knew that Yao Qianshu would definitely tell Nanny Jia about this, so he deliberately prepared cash at home for Nanny Jia to see. With Nanny Jia's personality, she would definitely go back and tell Yao Qianshu that he was preparing a large sum of money, making him feel secure about coming to trade. He deliberately asked Nanny Jia if she had heard any rumors about his transaction. Nanny Jia said no. Based on Zhen Shang's understanding of Nanny Jia, even if there was nothing, she could make up stories. Saying no actually proved her guilty conscience.\nIn the evening, Zhen Shang left at 10:30 and came to the coffee shop by the clock tower to wait. Near 11 o'clock, he saw Yao Qianshu's car drive past. Zhen Shang was about to leave when he saw three cars in a row drive past and then return. Feeling guilty, he didn't go immediately but returned to his car to wait. Around 11:15, Zhen Shang drove to the clock tower and found Yao Qianshu's car parked not far from the corner. He went over to look - there was no one in the car, so he had to go home. At 11:30 in the evening, Zhen Shang returned home with the money and told Nanny Jia that the seller didn't come. Nanny Jia said nothing.\nOnly Clue (Not actively exposing +10 points):\nNanny Jia and Yao Qianshu were having an affair."
+  ],
+  "acts_goal": [
+    "Don't actively expose that Nanny Jia and Yao Qianshu were having an affair."
+  ],
+  "questions": [],
+  "victims": [
+    "Yao Qianshu"
+  ],
+  "final_goal": "",
+  "acts_performance": [],
+  "secrets": "",
+  "is_murderer": 0,
+  "kill_by_me": [
+    0
+  ]
+}

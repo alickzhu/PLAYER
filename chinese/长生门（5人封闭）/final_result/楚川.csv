@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【王婷婷】和【楚万户】的关系是什么？,楚万户 is husband of 王婷婷,王婷婷 is mentor of 楚万户,王婷婷 is sibling of 楚万户,王婷婷 is friend of 楚万户,,a
+c,a,【王婷婷】和【李浩】的关系是什么？,李浩 is subordinate of 王婷婷,王婷婷 is child of 李浩,王婷婷 is romantic relationships with 李浩,王婷婷 is mentor of 李浩,,a
+c,a,【王婷婷】和【苏圣策】不存在的关系是什么？,苏圣策 is service provider of 王婷婷,王婷婷 is customer of 苏圣策,苏圣策 is subordinate of 王婷婷,王婷婷 is wife of 苏圣策,,d
+c,a,【王婷婷】和【马三】的关系是什么？,马三 is subordinate of 王婷婷,王婷婷 is sibling of 马三,王婷婷 is friend of 马三,王婷婷 is child of 马三,,a
+c,a,【楚川】和【楚万户】的关系是什么？,楚万户 is parent of 楚川,楚川 is mentor of 楚万户,楚川 is friend of 楚万户,楚川 is subordinate of 楚万户,,a
+c,a,【楚川】和【王婷婷】不存在的关系是什么？,楚川 is perpetrator of 王婷婷,楚川 is admirer of 王婷婷,王婷婷 is victim of 楚川,楚川 is husband of 王婷婷,,d
+c,a,【楚川】和【苏圣策】的关系是什么？,苏圣策 is parent of 楚川,楚川 is mentor of 苏圣策,楚川 is friend of 苏圣策,楚川 is subordinate of 苏圣策,,a
+c,a,【楚川】和【李浩】不存在的关系是什么？,李浩 is subordinate of 楚川,楚川 is superior of 李浩,李浩 is service provider of 楚川,楚川 is child of 李浩,,d
+c,a,【楚万户】和【苏圣策】不存在的关系是什么？,苏圣策 is service provider of 楚万户,楚万户 is customer of 苏圣策,苏圣策 is deceiver of 楚万户,楚万户 is parent of 苏圣策,,d
+c,a,【楚万户】和【马三】的关系是什么？,马三 is subordinate of 楚万户,楚万户 is friend of 马三,楚万户 is sibling of 马三,楚万户 is student of 马三,,a

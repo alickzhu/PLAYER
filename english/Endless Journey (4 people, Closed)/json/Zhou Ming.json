@@ -1,0 +1,20 @@
+{
+  "acts_num": 3,
+  "script": [
+    "Zhou Ming\nZhou Ming, 45 years old, businessman. Due to greed, you leaked your business partner Su's commercial secrets, causing him to nearly lose everything. Of course, you couldn't do this alone - you're naturally cowardly. Your ex-wife Liu the tour guide was the mastermind behind it all.\nLater, Liu the tour guide hit someone while driving without a license. She threatened to expose your commercial secret leak to the world and made you take the blame as a scapegoat. She also divorced you to protect her financial interests and escape punishment and compensation for the car accident.\nAlthough you're not exactly an upright person, you still regret the mistakes you made. \"Those who commit many wrongs will destroy themselves\" - you never expected your closest wife to make you taste the bitter fruit. Liu the tour guide constantly threatens and suppresses you, making you restless. You've tried to talk to Liu several times, but she actually refuses to speak with you. If this continues and the truth comes out, not only will you go to prison, but your hard-built career will also go up in smoke. For this reason, you've developed murderous intent. You think that murder can be concealed, but this woman full of trouble will sooner or later ruin your reputation.\nLin Keke is your pursuer. After learning you were married, she didn't disturb you. After your divorce, she came to find you and learned about the car accident. She wholeheartedly wants to seek justice for you, but you have no feelings for her and don't want to burden her, so you didn't say much.\nLiu the tour guide is responsible for UK outbound tours. You bribed contacts at the hotel you're about to stay at, having the staff tamper with Liu's room door lock. Although swiping the room card shows a response, you can turn the handle and enter without swiping the card. If communication fails again, you're prepared to sneak into the room and kill her. Since Liu has long been staying in hotels, swiping room cards has become a habit, making it difficult for her to notice the broken lock. Even if she discovers it, it can't be traced back to you.\nYour Timeline:\n\nOctober 12, 7:00 PM: Arrived at the hotel. Tried to talk to Liu again but was refused. Then went to the lobby to listen to Su Ning play piano and arranged to meet Lin Keke tonight.\nOctober 12, 8:30 PM: Returned to room to pack.\nOctober 12, 9:00 PM: Met and talked with Lin Keke. She said she wanted to find Liu for you. Although you know Lin Keke loves you, you don't want unrelated people involved, so you refused and just vented your troubles. After chatting for half an hour, you both returned to your rooms.\nOctober 13, 2:00 AM: You received a text from Lin Keke saying she went to find Liu and was mistreated. You finally couldn't tolerate Liu's behavior anymore.\nOctober 13, 3:55 AM: You went to her room and opened the door. You found Liu lying on the bed but awake, and she noticed you. You felt she was very weak. You pressed her about what exactly she wanted, saying a lot, but she had no reaction, just mumbling: \"Don't bother me, get lost, everyone get lost.\" In anger, you took out the prepared fishing line and strangled Liu's neck. However, to your surprise, Liu didn't resist at all, didn't even make a sound. When you let go to check, you found she was already dead. It couldn't have been you who killed her - you barely used any force. You were scared and fled back to your room, arriving around 4:20 AM."
+  ],
+  "acts_goal": [
+    "You are not the murderer, please clear your name."
+  ],
+  "questions": [],
+  "victims": [
+    "Liu Guide"
+  ],
+  "final_goal": "",
+  "acts_performance": [],
+  "secrets": "",
+  "is_murderer": 0,
+  "kill_by_me": [
+    0
+  ]
+}

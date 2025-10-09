@@ -1,0 +1,7 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【甄主任】和【魏女儿】不存在的关系是什么？,魏女儿 is child of 甄主任,甄主任 is victim of 魏女儿,魏女儿 is perpetrator of 甄主任,魏女儿 is romantic relationships with 甄主任,,d
+c,a,【甄主任】和【柯会计】不存在的关系是什么？,柯会计 is attempted perpetrator of 甄主任,甄主任 is suspected by 柯会计,柯会计 is adversary of 甄主任,柯会计 is child of 甄主任,,d
+c,a,【甄主任】和【潘副院长】不存在的关系是什么？,潘副院长 is adversary of 甄主任,甄主任 is manipulator of 潘副院长,潘副院长 is business partner of 甄主任,潘副院长 is child of 甄主任,,d
+c,a,【甄主任】和【王护士】不存在的关系是什么？,王护士 is colleague of 甄主任,甄主任 is extramarital affair with 王护士,王护士 is manipulated by 甄主任,王护士 is child of 甄主任,,d
+c,a,【魏女儿】和【柯会计】的关系是什么？,柯会计 is stranger to 魏女儿,魏女儿 is romantic relationships with 柯会计,魏女儿 is colleague of 柯会计,魏女儿 is parent of 柯会计,,a
+c,a,【魏女儿】和【白患者】的关系是什么？,白患者 is romantic relationships with 魏女儿,魏女儿 is colleague of 白患者,魏女儿 is subordinate of 白患者,魏女儿 is parent of 白患者,,a

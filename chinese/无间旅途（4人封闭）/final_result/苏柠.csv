@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,刘导游被谁杀死的？,周明,柏渡昀,蔺可可,,,b
+b,a,刘导游是怎么死的？,膝盖撞击脾脏破裂内出血,被勒死的,被毒药毒死的,被刀捅死的,,a
+b,a,凶手杀刘导游的动机是什么？,为父亲报仇,情杀,利益纠纷,误杀,,a
+b,a,凶手是被害人刘导游什么人？,车祸受害者家属,前夫,情人,商业伙伴,,a
+b,a,刘导游是在哪里被杀死的？,酒店房间里,在大厅,在走廊,在餐厅,,a
+b,a,刘导游是什么时候被杀死的？,10月13日00:30左右,10月12日21:00,10月13日05:00,10月12日20:00,,a
+c,a,【刘导游】和【柏渡昀】的关系是什么？,柏渡昀 is victim of 刘导游,柏渡昀 is romantic relationships with 刘导游,柏渡昀 is colleague of 刘导游,柏渡昀 is friend of 刘导游,,a
+c,a,【刘导游】和【周明】不存在的关系是什么？,周明 is ex-romantic relationships with 刘导游,周明 is manipulated by 刘导游,刘导游 is manipulator of 周明,刘导游 is friend of 周明,,d
+c,a,【柏渡昀】和【苏柠】的关系是什么？,苏柠 is romantic relationships with 柏渡昀,苏柠 is mentor of 柏渡昀,苏柠 is sister of 柏渡昀,苏柠 is colleague of 柏渡昀,,a
+c,a,【周明】和【蔺可可】的关系是什么？,蔺可可 is admirer of 周明,蔺可可 is wife of 周明,蔺可可 is business partner of 周明,蔺可可 is sister of 周明,,a
+c,a,【蔺可可】和【柏渡昀】的关系是什么？,蔺可可 is mentor of 柏渡昀,蔺可可 is romantic relationships with 柏渡昀,蔺可可 is mother of 柏渡昀,蔺可可 is enemy of 柏渡昀,,a
+c,a,【周明】和【苏柠】不存在的关系是什么？,苏柠 is victim of 周明,周明 is deceiver of 苏柠父亲,苏柠 is daughter of 周明's victim,苏柠 is romantic relationships with 周明,,d

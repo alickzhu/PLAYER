@@ -1,0 +1,20 @@
+{
+  "acts_num": 3,
+  "script": [
+    "Su Ning\nYou are Su Ning, 21 years old, university student.\nYou're beautiful with a wealthy family background. Your parents are both businesspeople. You've been raised in luxury since childhood but aren't spoiled. You have great piano talent, studying piano at university, dreaming of becoming a performer. In others' eyes, you're innocent, cute, enthusiastic, and generous with many friends. You've also captured the heart of university heartthrob Bai Duyun. You've been dating for over a year. Although his family background is ordinary, your relationship is very good. Because you're expected to study for a master's degree in the UK after undergraduate graduation, you came to the UK to travel with boyfriend Bai Duyun.\nBut in fact, you're not that innocent. Although your parents protected you well, you still witnessed business intrigue from a young age. Three years ago, your father's business partner Zhou Ming betrayed their agreement and sold commercial secrets, gaining massive profits from this. Your family's enterprise encountered a major crisis. Your mother even developed depression and ended her own life. But you haven't told anyone, not even boyfriend Bai Duyun, choosing instead to use your own power to change your family's situation.\nDue to declining family conditions, your dream of studying abroad may be difficult to realize. But your uninformed boyfriend strongly insisted on accompanying you to the UK. You had no reason to refuse and could only agree, also taking the opportunity to relax. All the travel preparations were done by Bai Duyun, so you only discovered when the tour group gathered in Beijing that Liu the tour guide was actually Zhou Ming's wife (she doesn't recognize you, and you didn't know Liu and Zhou were divorced at the time). You know directly confronting Zhou Ming definitely won't get you any information. Starting with his wife might be a good idea - see if you can get something out of her. During the journey, you often approached Liu, chatting with her about her family matters and secretly recording, but she never gave you direct answers.\nAlthough you and Bai Duyun have been together for a long time, you haven't reached that step yet, so you're not staying in the same room during this trip.\nYour Timeline:\n\nOctober 12, 7:00 PM: Entered the hotel with everyone. Bai Duyun helped you get the room card and carried luggage to your room. You played piano in the hotel lobby, and onlookers applauded.\n(Information you can temporarily conceal: After the crowd dispersed, you secretly removed a piano wire when hotel staff weren't paying attention, because you plan to confront Liu and Zhou later and want to be prepared.)\nOctober 12, 9:30 PM: Returned to your room. In the hallway, you saw Lin Keke and Zhou Ming talking. They seemed familiar, and Lin Keke was very emotional. Afraid of being discovered by Zhou Ming, you hid to the side. Bai Duyun was waiting for you in the room. You looked at photos taken today together and chatted. Bai Duyun returned to his own room at 10:00 PM.\nOctober 13, 3:00 AM: You woke up from a nightmare and vaguely heard footsteps outside the door, making it even harder to sleep. You got up and saw your mother's photo. Grief welled up from your heart, so you decided to confront the tour guide tonight and made corresponding plans.\nOctober 13, 4:00 AM: You set out for the tour guide's room. Just as you were about to knock, you heard voices inside, so you turned and went back.\nOctober 13, 5:00 AM: You went to Liu's room again, knocked on the door, but no one answered. You tried turning the door handle and found it could actually open. You walked in - it was very dark inside, you could only vaguely see Liu lying on the bed, so quiet there wasn't even breathing sounds. You moved closer to look and found Liu lying on the bed, already dead."
+  ],
+  "acts_goal": [
+    "You are not the murderer, please clear your name."
+  ],
+  "questions": [],
+  "victims": [
+    "Liu Guide"
+  ],
+  "final_goal": "",
+  "acts_performance": [],
+  "secrets": "",
+  "is_murderer": 0,
+  "kill_by_me": [
+    0
+  ]
+}

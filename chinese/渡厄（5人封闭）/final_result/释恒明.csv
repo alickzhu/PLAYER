@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,延空被谁杀死的？,张青竹,李欣月,赵正巍,释延仁,,c
+b,a,延空是怎么死的？,被氰化钾毒死,被刀刺死,被勒死,被枪击致死,,a
+b,a,凶手杀延空的动机是什么？,报仇雪恨,争夺财产,情感纠纷,意外杀人,,a
+b,a,凶手是被害人延空什么人？,仇人,弟子,投资伙伴,信徒,,a
+b,a,延空是在哪里被杀死的？,风波寺念佛堂,延空的房间,去尘居,后院,,a
+b,a,延空是什么时候被杀死的？,8月3日早上5点,8月2日晚上,8月3日下午,8月4日凌晨,,a
+c,a,【延空】和【张青竹】不存在的关系是什么？,张青竹 is extramarital affair with 延空,延空 is superior of 张青竹,延空 is manipulator of 张青竹,张青竹 is wife of 延空,,d
+c,a,【延空】和【李欣月】不存在的关系是什么？,延空 is deceiver of 李欣月,李欣月 is victim of 延空,延空 is manipulator of 李欣月,李欣月 is child of 延空,,d
+c,a,【延空】和【释延仁】不存在的关系是什么？,释延仁 is colleague of 延空,延空 is adversary of 释延仁,释延仁 is disliked by 延空,释延仁 is child of 延空,,d
+c,a,【延空】和【释恒明】不存在的关系是什么？,延空 is mentor of 释恒明,释恒明 is student of 延空,释恒明 is victim of 延空,释恒明 is sibling of 延空,,d
+c,a,【赵正巍】和【延空】不存在的关系是什么？,赵正巍 is perpetrator of 延空,延空 is victim of 赵正巍,赵正巍 is business partner of 延空,赵正巍 is child of 延空,,d
+c,a,【赵正巍】和【张青竹】的关系是什么？,张青竹 is stranger to 赵正巍,赵正巍 is romantic relationships with 张青竹,赵正巍 is colleague of 张青竹,赵正巍 is parent of 张青竹,,a
+c,a,【赵正巍】和【释恒明】的关系是什么？,释恒明 is acquaintance of 赵正巍,赵正巍 is romantic relationships with 释恒明,赵正巍 is mentor of 释恒明,赵正巍 is parent of 释恒明,,a
+c,a,【张青竹】和【李欣月】的关系是什么？,李欣月 is friend of 张青竹,张青竹 is romantic relationships with 李欣月,张青竹 is superior of 李欣月,张青竹 is parent of 李欣月,,a
+c,a,【释延仁】和【释恒明】不存在的关系是什么？,释恒明 is subordinate of 释延仁,释延仁 is superior of 释恒明,释恒明 is student of 释延仁,释恒明 is sibling of 释延仁,,d
+c,a,【李欣月】和【释延仁】不存在的关系是什么？,李欣月 is admirer of 释延仁,释延仁 is admired by 李欣月,李欣月 is student of 释延仁,李欣月 is wife of 释延仁,,d

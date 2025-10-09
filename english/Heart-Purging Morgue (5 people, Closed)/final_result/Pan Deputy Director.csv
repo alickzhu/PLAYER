@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Director Zhen?,Ke Accountant,Wang Nurse,Bai Patient,Wei Daughter,,d
+b,a,How did Director Zhen die?,Stabbed to death with scalpel,Poisoned to death,Shot to death,Strangled to death,,a
+b,a,What was the motive for killing Director Zhen?,Revenge for father,Fighting for property,Emotional dispute,Accidental killing,,a
+b,a,What is the relationship between the killer and victim Director Zhen?,Stepdaughter,Colleague,Lover,Stranger,,a
+b,a,Where was Director Zhen killed?,Director Zhen's office at Health Hospital,Operating room,Morgue,At home,,a
+b,a,When was Director Zhen killed?,February 3rd 21:40 PM,February 3rd 20:00 PM,February 3rd 22:00 PM,Early morning of February 4th,,a
+c,a,What relationship does NOT exist between Director Zhen and Wei Daughter?,Wei Daughter is child of Director Zhen,Director Zhen is victim of Wei Daughter,Wei Daughter is perpetrator of Director Zhen,Wei Daughter has romantic relationship with Director Zhen,,d
+c,a,What relationship does NOT exist between Director Zhen and Ke Accountant?,Ke Accountant is attempted perpetrator of Director Zhen,Director Zhen is suspected by Ke Accountant,Ke Accountant is adversary of Director Zhen,Ke Accountant is child of Director Zhen,,d
+c,a,What relationship does NOT exist between Director Zhen and Pan Deputy Director?,Pan Deputy Director is adversary of Director Zhen,Director Zhen is manipulator of Pan Deputy Director,Pan Deputy Director is business partner of Director Zhen,Pan Deputy Director is child of Director Zhen,,d
+c,a,What relationship does NOT exist between Director Zhen and Wang Nurse?,Wang Nurse is colleague of Director Zhen,Director Zhen has extramarital affair with Wang Nurse,Wang Nurse is manipulated by Director Zhen,Wang Nurse is child of Director Zhen,,d
+c,a,What is the relationship between Wei Daughter and Ke Accountant?,Ke Accountant is stranger to Wei Daughter,Wei Daughter has romantic relationship with Ke Accountant,Wei Daughter is colleague of Ke Accountant,Wei Daughter is parent of Ke Accountant,,a
+c,a,What is the relationship between Wei Daughter and Bai Patient?,Bai Patient has romantic relationship with Wei Daughter,Wei Daughter is colleague of Bai Patient,Wei Daughter is subordinate of Bai Patient,Wei Daughter is parent of Bai Patient,,a

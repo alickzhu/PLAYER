@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Yao Qianshu?,Zhang Laoban,Li Changqing,Wang Jie,Jia Baomu,Li Meimei,e
+b,a,How did Yao Qianshu die?,Shot in the head,Stabbed with knife,Poisoned,Strangled,,a
+b,a,What was the motive for killing Yao Qianshu?,Killed in anger,Fight for property,Emotional dispute,Business feud,,a
+b,a,What is the relationship between the murderer and Yao Qianshu?,Enemy,Business partner,Wife,Friend,,a
+b,a,Where was Yao Qianshu killed?,In the car beside the bell tower,In the pawnshop,In the tavern,At home,,a
+b,a,When was Yao Qianshu killed?,Night of August 30th  11pm,Afternoon of August 30th,Early morning of August 31st,Night of August 29th,,a
+c,a,What is the non-existent relationship between Li Meimei and Li Changqing?,Li Changqing is same person as Li Meimei,Li Meimei is victim of Li Changqing,Li Changqing is manipulator of Li Meimei,Li Meimei is wife of Li Changqing,,d
+c,a,What is the non-existent relationship between Li Meimei and Yao Qianshu?,Li Meimei is perpetrator of Yao Qianshu,Yao Qianshu is victim of Li Meimei,Li Meimei is manipulated by Yao Qianshu,Yao Qianshu is husband of Li Meimei,,d
+c,a,What is the relationship between Li Meimei and Jia Baomu?,Jia Baomu is service provider of Li Meimei,Li Meimei is mentor of Jia Baomu,Li Meimei is friend of Jia Baomu,Li Meimei is parent of Jia Baomu,,a
+c,a,What is the non-existent relationship between Zhang Laoban and Wang Jie?,Zhang Laoban is extramarital affair with Wang Jie,Wang Jie is extramarital affair with Zhang Laoban,Zhang Laoban is friend of Wang Jie,Zhang Laoban is sibling of Wang Jie,,d
+c,a,What is the relationship between Li Changqing and Zhen Shang?,Zhen Shang is stranger to Li Changqing,Li Changqing is friend of Zhen Shang,Li Changqing is business partner of Zhen Shang,Li Changqing is child of Zhen Shang,,a
+c,a,What is the non-existent relationship between Wang Jie and Jia Baomu?,Jia Baomu is friend of Wang Jie,Wang Jie is friend of Jia Baomu,Jia Baomu is acquaintance of Wang Jie,Wang Jie is parent of Jia Baomu,,d

@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "Eye of Blood (6 people, Open)",
+    "character_name": [
+        "Chen Ning",
+        "Detective",
+        "Han Hongbin",
+        "Lin Feng",
+        "Liu Gaoyang",
+        "Zheng Shuang"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

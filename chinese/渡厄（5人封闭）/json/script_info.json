@@ -1,0 +1,36 @@
+{
+    "agent_num": 5,
+    "script_name": "渡厄",
+    "character_name": [
+        "张青竹",
+        "李欣月",
+        "赵正巍",
+        "释延仁",
+        "释恒明"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

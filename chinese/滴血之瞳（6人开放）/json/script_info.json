@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "滴血之瞳",
+    "character_name": [
+        "侦探",
+        "刘高阳",
+        "林峰",
+        "郑爽",
+        "陈宁",
+        "韩红斌"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

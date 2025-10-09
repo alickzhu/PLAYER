@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Qian Qian?,Zhao Tianhu,Huang Long,Li Renqing,Wang Zhi,,c
+b,a,How did Qian Qian die?,Strangled with scarf,Stabbed with knife,Poisoned,Shot with gun,,a
+b,a,What was the killer's motive for killing Qian Qian?,Betrayal anger,Fighting for property,Revenge,Accidental killing,,a
+b,a,What was the killer's relationship to victim Qian Qian?,Secret lover,Brother,Colleague,Stranger,,a
+b,a,Where was Qian Qian killed?,Qian Qian's bedroom,Company office,Hotel room,In the park,,a
+b,a,When was Qian Qian killed?,December 22 2006 evening 20:35-20:40,December 22 2006 daytime,December 23 2006 early morning,December 21 2006 evening,,a
+c,a,What is the relationship between Qian Qian and Jin Wei?,Jin Wei is sibling of Qian Qian,Qian Qian is romantic relationships with Jin Wei,Qian Qian is colleague of Jin Wei,Qian Qian is stranger to Jin Wei,,a
+c,a,What relationship does NOT exist between Qian Qian and Li Renqing?,Li Renqing is romantic relationships with Qian Qian,Qian Qian is victim of Li Renqing,Li Renqing is superior of Qian Qian,Qian Qian is wife of Li Renqing,,d
+c,a,What relationship does NOT exist between Qian Qian and Huang Long?,Huang Long is admirer of Qian Qian,Qian Qian is acquaintance of Huang Long,Huang Long is stranger to Qian Qian,Qian Qian is romantic relationships with Huang Long,,d
+c,a,What relationship does NOT exist between Qian Qian and Wang Zhi?,Wang Zhi is romantic relationships with Qian Qian,Qian Qian is deceived by Wang Zhi,Wang Zhi is manipulator of Qian Qian,Wang Zhi is sibling of Qian Qian,,d
+c,a,What relationship does NOT exist between Li Renqing and Jin Wei?,Jin Wei is perpetrator of Li Renqing,Li Renqing is victim of Jin Wei,Jin Wei is adversary of Li Renqing,Jin Wei is child of Li Renqing,,d
+c,a,What relationship does NOT exist between Li Renqing and Huang Long?,Huang Long is helper of Li Renqing,Li Renqing is helped by Huang Long,Huang Long is acquaintance of Li Renqing,Huang Long is parent of Li Renqing,,d
+c,a,What relationship does NOT exist between Li Renqing and Wang Zhi?,Wang Zhi is subordinate of Li Renqing,Li Renqing is superior of Wang Zhi,Wang Zhi is colleague of Li Renqing,Wang Zhi is child of Li Renqing,,d
+c,a,What is the relationship between Jin Wei and Huang Long?,Huang Long is acquaintance of Jin Wei,Jin Wei is romantic relationships with Huang Long,Jin Wei is colleague of Huang Long,Jin Wei is parent of Huang Long,,a
+c,a,What relationship does NOT exist between Jin Wei and Wang Zhi?,Wang Zhi is adversary of Jin Wei,Jin Wei is adversary of Wang Zhi,Wang Zhi is deceiver of Jin Wei,Wang Zhi is sibling of Jin Wei,,d
+c,a,What is the relationship between Huang Long and Wang Zhi?,Wang Zhi is stranger to Huang Long,Huang Long is romantic relationships with Wang Zhi,Huang Long is colleague of Wang Zhi,Huang Long is parent of Wang Zhi,,a

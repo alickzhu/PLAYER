@@ -1,0 +1,43 @@
+value,type,question,a,b,c,d,e,truth
+c,a,What is the relationship between Tour Guide Liu and Bai Duyun?,Bai Duyun is victim of Tour Guide Liu,Bai Duyun is romantic partner of Tour Guide Liu,Bai Duyun is colleague of Tour Guide Liu,Bai Duyun is friend of Tour Guide Liu,,a
+c,a,What is the non-existent relationship between Tour Guide Liu and Zhou Ming?,Zhou Ming is ex-romantic partner of Tour Guide Liu,Zhou Ming is manipulated by Tour Guide Liu,Tour Guide Liu is manipulator of Zhou Ming,Tour Guide Liu is friend of Zhou Ming,,d
+c,a,What is the relationship between Bai Duyun and Su Ning?,Su Ning is romantic partner of Bai Duyun,Su Ning is mentor of Bai Duyun,Su Ning is sister of Bai Duyun,Su Ning is colleague of Bai Duyun,,a
+c,a,What is the relationship between Zhou Ming and Lin Keke?,Lin Keke is admirer of Zhou Ming,Lin Keke is wife of Zhou Ming,Lin Keke is business partner of Zhou Ming,Lin Keke is sister of Zhou Ming,,a
+c,a,What is the relationship between Lin Keke and Bai Duyun?,Lin Keke is mentor of Bai Duyun,Lin Keke is romantic partner of Bai Duyun,Lin Keke is mother of Bai Duyun,Lin Keke is enemy of Bai Duyun,,a
+c,a,What is the non-existent relationship between Zhou Ming and Su Ning?,Su Ning is victim of Zhou Ming,Zhou Ming is deceiver of Su Ning's father,Su Ning is daughter of Zhou Ming's victim,Su Ning is romantic partner of Zhou Ming,,d
+a,a,Who killed Tour Guide Liu?,Zhou Ming,Bai Duyun,Su Ning,,,b
+b,a,How did Tour Guide Liu die?,Knee impact caused spleen rupture and internal bleeding,Strangled,Poisoned,Stabbed with a knife,,a
+b,a,What was the motive for killing Tour Guide Liu?,Revenge for father,Crime of passion,Benefit dispute,Accidental killing,,a
+b,a,What is the relationship between the murderer and Tour Guide Liu?,Family of car accident victim,Ex-husband,Lover,Business partner,,a
+b,a,Where was Tour Guide Liu killed?,In the hotel room,In the lobby,In the corridor,In the restaurant,,a
+b,a,When was Tour Guide Liu killed?,Around 00:30 on October 13,21:00 on October 12,05:00 on October 13,20:00 on October 12,,a
+c,a,What is the relationship between Tour Guide Liu and Bai Duyun?,Bai Duyun is victim of Tour Guide Liu,Bai Duyun is romantic partner of Tour Guide Liu,Bai Duyun is colleague of Tour Guide Liu,Bai Duyun is friend of Tour Guide Liu,,a
+c,a,What is the non-existent relationship between Tour Guide Liu and Zhou Ming?,Zhou Ming is ex-romantic partner of Tour Guide Liu,Zhou Ming is manipulated by Tour Guide Liu,Tour Guide Liu is manipulator of Zhou Ming,Tour Guide Liu is friend of Zhou Ming,,d
+c,a,What is the relationship between Bai Duyun and Su Ning?,Su Ning is romantic partner of Bai Duyun,Su Ning is mentor of Bai Duyun,Su Ning is sister of Bai Duyun,Su Ning is colleague of Bai Duyun,,a
+c,a,What is the relationship between Zhou Ming and Lin Keke?,Lin Keke is admirer of Zhou Ming,Lin Keke is wife of Zhou Ming,Lin Keke is business partner of Zhou Ming,Lin Keke is sister of Zhou Ming,,a
+c,a,What is the relationship between Lin Keke and Bai Duyun?,Lin Keke is mentor of Bai Duyun,Lin Keke is romantic partner of Bai Duyun,Lin Keke is mother of Bai Duyun,Lin Keke is enemy of Bai Duyun,,a
+c,a,What is the non-existent relationship between Zhou Ming and Su Ning?,Su Ning is victim of Zhou Ming,Zhou Ming is deceiver of Su Ning's father,Su Ning is daughter of Zhou Ming's victim,Su Ning is romantic partner of Zhou Ming,,d
+a,a,Who killed Tour Guide Liu?,Zhou Ming,Bai Duyun,Lin Keke,,,b
+b,a,How did Tour Guide Liu die?,Knee impact caused spleen rupture and internal bleeding,Strangled,Poisoned,Stabbed with a knife,,a
+b,a,What was the motive for killing Tour Guide Liu?,Revenge for father,Crime of passion,Benefit dispute,Accidental killing,,a
+b,a,What is the relationship between the murderer and Tour Guide Liu?,Family of car accident victim,Ex-husband,Lover,Business partner,,a
+b,a,Where was Tour Guide Liu killed?,In the hotel room,In the lobby,In the corridor,In the restaurant,,a
+b,a,When was Tour Guide Liu killed?,Around 00:30 on October 13,21:00 on October 12,05:00 on October 13,20:00 on October 12,,a
+c,a,What is the relationship between Tour Guide Liu and Bai Duyun?,Bai Duyun is victim of Tour Guide Liu,Bai Duyun is romantic partner of Tour Guide Liu,Bai Duyun is colleague of Tour Guide Liu,Bai Duyun is friend of Tour Guide Liu,,a
+c,a,What is the non-existent relationship between Tour Guide Liu and Zhou Ming?,Zhou Ming is ex-romantic partner of Tour Guide Liu,Zhou Ming is manipulated by Tour Guide Liu,Tour Guide Liu is manipulator of Zhou Ming,Tour Guide Liu is friend of Zhou Ming,,d
+c,a,What is the relationship between Bai Duyun and Su Ning?,Su Ning is romantic partner of Bai Duyun,Su Ning is mentor of Bai Duyun,Su Ning is sister of Bai Duyun,Su Ning is colleague of Bai Duyun,,a
+c,a,What is the relationship between Zhou Ming and Lin Keke?,Lin Keke is admirer of Zhou Ming,Lin Keke is wife of Zhou Ming,Lin Keke is business partner of Zhou Ming,Lin Keke is sister of Zhou Ming,,a
+c,a,What is the relationship between Lin Keke and Bai Duyun?,Lin Keke is mentor of Bai Duyun,Lin Keke is romantic partner of Bai Duyun,Lin Keke is mother of Bai Duyun,Lin Keke is enemy of Bai Duyun,,a
+c,a,What is the non-existent relationship between Zhou Ming and Su Ning?,Su Ning is victim of Zhou Ming,Zhou Ming is deceiver of Su Ning's father,Su Ning is daughter of Zhou Ming's victim,Su Ning is romantic partner of Zhou Ming,,d
+a,a,Who killed Tour Guide Liu?,Bai Duyun,Su Ning,Lin Keke,,,a
+b,a,How did Tour Guide Liu die?,Knee impact caused spleen rupture and internal bleeding,Strangled,Poisoned,Stabbed with a knife,,a
+b,a,What was the motive for killing Tour Guide Liu?,Revenge for father,Crime of passion,Benefit dispute,Accidental killing,,a
+b,a,What is the relationship between the murderer and Tour Guide Liu?,Family of car accident victim,Ex-husband,Lover,Business partner,,a
+b,a,Where was Tour Guide Liu killed?,In the hotel room,In the lobby,In the corridor,In the restaurant,,a
+b,a,When was Tour Guide Liu killed?,Around 00:30 on October 13,21:00 on October 12,05:00 on October 13,20:00 on October 12,,a
+c,a,What is the relationship between Tour Guide Liu and Bai Duyun?,Bai Duyun is victim of Tour Guide Liu,Bai Duyun is romantic partner of Tour Guide Liu,Bai Duyun is colleague of Tour Guide Liu,Bai Duyun is friend of Tour Guide Liu,,a
+c,a,What is the non-existent relationship between Tour Guide Liu and Zhou Ming?,Zhou Ming is ex-romantic partner of Tour Guide Liu,Zhou Ming is manipulated by Tour Guide Liu,Tour Guide Liu is manipulator of Zhou Ming,Tour Guide Liu is friend of Zhou Ming,,d
+c,a,What is the relationship between Bai Duyun and Su Ning?,Su Ning is romantic partner of Bai Duyun,Su Ning is mentor of Bai Duyun,Su Ning is sister of Bai Duyun,Su Ning is colleague of Bai Duyun,,a
+c,a,What is the relationship between Zhou Ming and Lin Keke?,Lin Keke is admirer of Zhou Ming,Lin Keke is wife of Zhou Ming,Lin Keke is business partner of Zhou Ming,Lin Keke is sister of Zhou Ming,,a
+c,a,What is the relationship between Lin Keke and Bai Duyun?,Lin Keke is mentor of Bai Duyun,Lin Keke is romantic partner of Bai Duyun,Lin Keke is mother of Bai Duyun,Lin Keke is enemy of Bai Duyun,,a
+c,a,What is the non-existent relationship between Zhou Ming and Su Ning?,Su Ning is victim of Zhou Ming,Zhou Ming is deceiver of Su Ning's father,Su Ning is daughter of Zhou Ming's victim,Su Ning is romantic partner of Zhou Ming,,d

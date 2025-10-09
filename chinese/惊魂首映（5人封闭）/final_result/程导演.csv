@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,甄演员被谁杀死的？,严歌手,甜记者,白经纪,魏学霸,,a
+b,a,甄演员是怎么死的？,被毒药毒死,被刀刺死,被枪击致死,被勒死,,a
+b,a,凶手杀甄演员的动机是什么？,背叛愤怒,争夺资源,金钱纠纷,意外杀人,,a
+b,a,凶手是被害人甄演员什么人？,恋人,经纪人,导演,粉丝,,a
+b,a,甄演员是在哪里被杀死的？,666国际影城后台化妆室,酒店房间,公司办公室,家中,,a
+b,a,甄演员是什么时候被杀死的？,2018年4月19日下午14:00-14:30,2018年4月19日上午,2018年4月19日晚上,2018年4月18日,,a
+c,a,【甄演员】和【白经纪】不存在的关系是什么？,白经纪 is romantic relationships with 甄演员,甄演员 is service provider of 白经纪,白经纪 is helper of 甄演员,甄演员 is sibling of 白经纪,,d
+c,a,【甄演员】和【程导演】不存在的关系是什么？,程导演 is superior of 甄演员,甄演员 is victim of 程导演,程导演 is manipulator of 甄演员,甄演员 is wife of 程导演,,d
+c,a,【甄演员】和【严歌手】不存在的关系是什么？,严歌手 is romantic relationships with 甄演员,甄演员 is victim of 严歌手,严歌手 is perpetrator of 甄演员,甄演员 is parent of 严歌手,,d
+c,a,【甄演员】和【魏学霸】不存在的关系是什么？,魏学霸 is adversary of 甄演员,甄演员 is disliked by 魏学霸,魏学霸 is attempted perpetrator of 甄演员,魏学霸 is child of 甄演员,,d
+c,a,【严歌手】和【白经纪】的关系是什么？,白经纪 is adversary of 严歌手,严歌手 is romantic relationships with 白经纪,严歌手 is colleague of 白经纪,严歌手 is parent of 白经纪,,a
+c,a,【严歌手】和【程导演】不存在的关系是什么？,程导演 is superior of 严歌手,严歌手 is subordinate of 程导演,程导演 is colleague of 严歌手,严歌手 is child of 程导演,,d
+c,a,【严歌手】和【魏学霸】不存在的关系是什么？,魏学霸 is admirer of 严歌手,严歌手 is admired by 魏学霸,魏学霸 is helper of 严歌手,严歌手 is sibling of 魏学霸,,d
+c,a,【白经纪】和【甜记者】的关系是什么？,甜记者 is adversary of 白经纪,白经纪 is romantic relationships with 甜记者,白经纪 is colleague of 甜记者,白经纪 is parent of 甜记者,,a
+c,a,【程导演】和【魏学霸】的关系是什么？,魏学霸 is stranger to 程导演,程导演 is romantic relationships with 魏学霸,程导演 is colleague of 魏学霸,程导演 is parent of 魏学霸,,a
+c,a,【甜记者】和【魏学霸】的关系是什么？,魏学霸 is sibling of 甜记者,甜记者 is romantic relationships with 魏学霸,甜记者 is colleague of 魏学霸,甜记者 is stranger to 魏学霸,,a

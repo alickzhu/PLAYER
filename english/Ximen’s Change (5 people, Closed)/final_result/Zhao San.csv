@@ -1,0 +1,17 @@
+value,type,question,a,b,c,d,e,truth
+a,a,Who killed Zhao Zhongyang?,Zhang Wei,Li Cheng,Zhao Zhongzheng,Chen Mei'er,,a
+b,a,How did Zhao Zhongyang die?,Poisoned by poison needle,Stabbed to death,Shot by crossbow,Strangled to death,,a
+b,a,What was the killer's motive for killing Zhao Zhongyang?,Self-preservation,争夺族长之位,Revenge,Emotional dispute,,a
+b,a,What is the killer's relationship to the victim Zhao Zhongyang?,Personal bodyguard,Brother,Lover,Stranger,,a
+b,a,Where was Zhao Zhongyang killed?,Zhao Zhongyang's room,In the courtyard,Outside the city,In the tavern,,a
+b,a,When was Zhao Zhongyang killed?,Yuan Calendar 1507 July 25th 11:10 PM,Yuan Calendar 1507 July 24th evening,Yuan Calendar 1507 July 25th daytime,Yuan Calendar 1507 July 26th early morning,,a
+c,a,What relationship does NOT exist between [Zhao Zhongyang] and [Zhang Wei]?,Zhang Wei is subordinate of Zhao Zhongyang,Zhao Zhongyang is victim of Zhang Wei,Zhang Wei is perpetrator of Zhao Zhongyang,Zhang Wei is sibling of Zhao Zhongyang,,d
+c,a,What relationship does NOT exist between [Zhao Zhongyang] and [Li Cheng]?,Li Cheng is subordinate of Zhao Zhongyang,Zhao Zhongyang is superior of Li Cheng,Li Cheng is helped by Zhao Zhongyang,Li Cheng is child of Zhao Zhongyang,,d
+c,a,What is the relationship between [Zhao Zhongyang] and [Zhao Zhongzheng]?,Zhao Zhongzheng is sibling of Zhao Zhongyang,Zhao Zhongyang is friend of Zhao Zhongzheng,Zhao Zhongyang is subordinate of Zhao Zhongzheng,Zhao Zhongyang is stranger to Zhao Zhongzheng,,a
+c,a,What relationship does NOT exist between [Zhao Zhongyang] and [Chen Mei'er]?,Chen Mei'er is romantic relationships with Zhao Zhongyang,Zhao Zhongyang is victim of Chen Mei'er,Chen Mei'er is deceiver of Zhao Zhongyang,Chen Mei'er is wife of Zhao Zhongyang,,d
+c,a,What is the relationship between [Zhang Wei] and [Li Cheng]?,Li Cheng is colleague of Zhang Wei,Zhang Wei is parent of Li Cheng,Zhang Wei is romantic relationships with Li Cheng,Zhang Wei is mentor of Li Cheng,,a
+c,a,What relationship does NOT exist between [Zhang Wei] and [Zhao San]?,Zhao San is friend of Zhang Wei,Zhang Wei is business partner of Zhao San,Zhao San is helper of Zhang Wei,Zhang Wei is parent of Zhao San,,d
+c,a,What is the relationship between [Zhang Wei] and [Zhao Zhongzheng]?,Zhao Zhongzheng is superior of Zhang Wei,Zhang Wei is child of Zhao Zhongzheng,Zhang Wei is romantic relationships with Zhao Zhongzheng,Zhang Wei is mentor of Zhao Zhongzheng,,a
+c,a,What relationship does NOT exist between [Li Cheng] and [Zhao Zhongzheng]?,Zhao Zhongzheng is manipulator of Li Cheng,Li Cheng is manipulated by Zhao Zhongzheng,Zhao Zhongzheng is deceiver of Li Cheng,Li Cheng is child of Zhao Zhongzheng,,d
+c,a,What relationship does NOT exist between [Zhao San] and [Zhao Zhongzheng]?,Zhao San is subordinate of Zhao Zhongzheng,Zhao Zhongzheng is superior of Zhao San,Zhao San is friend of Zhao Zhongzheng,Zhao San is parent of Zhao Zhongzheng,,d
+c,a,What is the relationship between [Chen Mei'er] and [Zhao Zhongzheng]?,Zhao Zhongzheng is superior of Chen Mei'er,Chen Mei'er is romantic relationships with Zhao Zhongzheng,Chen Mei'er is child of Zhao Zhongzheng,Chen Mei'er is mentor of Zhao Zhongzheng,,a

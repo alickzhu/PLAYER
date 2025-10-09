@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,海北被谁杀死的？,江钟,白晓梅,胡归,何小弟,,a
+b,a,海北是怎么死的？,被水果刀刺死,被枪击致死,被毒药毒死,被绳子勒死,,a
+b,a,凶手杀海北的动机是什么？,家族复仇,争夺爱人,金钱纠纷,意外杀人,,a
+b,a,凶手是被害人海北什么人？,商业竞争对手,私生子,情敌,合作伙伴,,a
+b,a,海北是在哪里被杀死的？,和平饭店1203号房间,杨沧海的房间,酒店大堂,咖啡厅,,a
+b,a,海北是什么时候被杀死的？,十月初四晚上21:05-21:10,十月初四晚上20:00,十月初四晚上22:00,十月初五凌晨,,a
+c,a,【海北】和【杨沧海】不存在的关系是什么？,杨沧海 is business partner of 海北,海北 is customer of 杨沧海,杨沧海 is product provider of 海北,杨沧海 is child of 海北,,d
+c,a,【海北】和【白晓梅】不存在的关系是什么？,白晓梅 is extramarital affair with 海北,海北 is deceived by 白晓梅,白晓梅 is manipulator of 海北,白晓梅 is child of 海北,,d
+c,a,【海北】和【胡归】不存在的关系是什么？,胡归 is child of 海北,海北 is parent of 胡归,胡归 is subordinate of 海北,胡归 is romantic relationships with 海北,,d
+c,a,【海北】和【江钟】不存在的关系是什么？,江钟 is adversary of 海北,海北 is victim of 江钟,江钟 is perpetrator of 海北,江钟 is child of 海北,,d
+c,a,【江钟】和【杨沧海】的关系是什么？,杨沧海 is stranger to 江钟,江钟 is romantic relationships with 杨沧海,江钟 is subordinate of 杨沧海,江钟 is child of 杨沧海,,a
+c,a,【江钟】和【胡归】的关系是什么？,胡归 is stranger to 江钟,江钟 is romantic relationships with 胡归,江钟 is colleague of 胡归,江钟 is parent of 胡归,,a

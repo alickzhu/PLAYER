@@ -1,0 +1,14 @@
+value,type,question,a,b,c,d,e,truth
+a,a,王秘书被谁杀死的？,侦探,韩红斌,刘高阳,林峰,郑爽,d
+b,a,王秘书是怎么死的？,用刀捅死后踹进水库,被拳头打死的,被毒药毒死的,用枪打死的,,a
+b,a,凶手杀王秘书的动机是什么？,被要挟勒索想灭口,情杀,报复欠债,工作纠纷,,a
+b,a,凶手是被害人王秘书什么人？,老板的儿子,同事,仇人,债主,,a
+b,a,王秘书是在哪里被杀死的？,水库边仓库旁,在宿舍里,在办公室,在山路上,,a
+b,a,王秘书是什么时候被杀死的？,6月30日暴雨天,6月29日晚上,7月1日早上,6月30日上午,,a
+c,a,【王秘书】和【林峰】不存在的关系是什么？,林峰 is subordinate of 王秘书,林峰 is perpetrator of 王秘书,王秘书 is victim of 林峰,王秘书 is friend of 林峰,,d
+c,a,【林峰】和【郑爽】的关系是什么？,郑爽 is extramarital affair with 林峰,郑爽 is sister of 林峰,郑爽 is colleague of 林峰,郑爽 is mentor of 林峰,,a
+c,a,【郑爽】和【陆国平】的关系是什么？,陆国平 is husband of 郑爽,陆国平 is business partner of 郑爽,陆国平 is friend of 郑爽,陆国平 is colleague of 郑爽,,a
+c,a,【林峰】和【陆国平】的关系是什么？,陆国平 is parent of 林峰,陆国平 is mentor of 林峰,陆国平 is superior of 林峰,陆国平 is friend of 林峰,,a
+c,a,【王秘书】和【韩红斌】不存在的关系是什么？,韩红斌 is subordinate of 王秘书,韩红斌 is dislike of 王秘书,王秘书 is disliked by 韩红斌,王秘书 is friend of 韩红斌,,d
+c,a,【王秘书】和【陈宁】的关系是什么？,陈宁 is subordinate of 王秘书,陈宁 is friend of 王秘书,陈宁 is relative of 王秘书,陈宁 is romantic relationships with 王秘书,,a
+c,a,【王秘书】和【刘高阳】不存在的关系是什么？,刘高阳 is subordinate of 王秘书,刘高阳 is dislike of 王秘书,王秘书 is victim of 刘高阳,王秘书 is mentor of 刘高阳,,d

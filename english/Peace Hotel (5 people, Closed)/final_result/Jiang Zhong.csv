@@ -1,0 +1,7 @@
+value,type,question,a,b,c,d,e,truth
+c,a,What is the non-existent relationship between Hai Bei and Yang Canghai?,Yang Canghai is business partner of Hai Bei,Hai Bei is customer of Yang Canghai,Yang Canghai is product provider of Hai Bei,Yang Canghai is child of Hai Bei,,d
+c,a,What is the non-existent relationship between Hai Bei and Bai Xiaomei?,Bai Xiaomei is extramarital affair with Hai Bei,Hai Bei is deceived by Bai Xiaomei,Bai Xiaomei is manipulator of Hai Bei,Bai Xiaomei is child of Hai Bei,,d
+c,a,What is the non-existent relationship between Hai Bei and Hu Gui?,Hu Gui is child of Hai Bei,Hai Bei is parent of Hu Gui,Hu Gui is subordinate of Hai Bei,Hu Gui is romantic relationships with Hai Bei,,d
+c,a,What is the non-existent relationship between Hai Bei and Jiang Zhong?,Jiang Zhong is adversary of Hai Bei,Hai Bei is victim of Jiang Zhong,Jiang Zhong is perpetrator of Hai Bei,Jiang Zhong is child of Hai Bei,,d
+c,a,What is the relationship between Jiang Zhong and Yang Canghai?,Yang Canghai is stranger to Jiang Zhong,Jiang Zhong is romantic relationships with Yang Canghai,Jiang Zhong is subordinate of Yang Canghai,Jiang Zhong is child of Yang Canghai,,a
+c,a,What is the relationship between Jiang Zhong and Hu Gui?,Hu Gui is stranger to Jiang Zhong,Jiang Zhong is romantic relationships with Hu Gui,Jiang Zhong is colleague of Hu Gui,Jiang Zhong is parent of Hu Gui,,a

@@ -1,0 +1,20 @@
+{
+  "acts_num": 3,
+  "script": [
+    "Detective Script\nStory Guide:\nOn June 30th, a sudden rainstorm collapsed a dam. The Kaiyan Reservoir in the mountains was already scheduled for demolition soon. Due to the dam collapse, the water level in the tributary reservoir overflowed, forcing an emergency flood discharge. You were hiking nearby and got trapped here by the heavy rain. However, on the morning of July 1st, after the floodwaters receded, people were shocked to discover a body washed ashore. After identification, this person was Secretary Wang, the representative of the Kaiyan Reservoir reconstruction investor, who went missing yesterday. Since the day before yesterday, apart from Secretary Wang, only a few staff members remained at the reservoir. Now the heavy rain has blocked the mountain road, and the police won't arrive until tomorrow. Through your understanding of the staff, you've gathered 5 staff members related to Secretary Wang. Your intuition tells you that the real killer is among them! *Except for the perpetrator who can lie to you, others cannot lie to you, so please ask them about the case as much as possible to get closer to the truth faster.\nAbout the Suspects:\n\nZheng Shuang: Former reservoir administrator who resigned four months ago.\nHan Hongbin: A middle-aged man with glasses, the reservoir's chief engineer.\nLin Feng: A smooth-talking college student sent by his school for internship.\nLiu Gaoyang: A burly man who works as a handyman at the reservoir.\nChen Ning: The reservoir's accountant, an unremarkable woman.\n\nYour Story:\nYou are an experienced detective who often handles difficult cases. There hasn't been a case you couldn't solve. This time, you were accidentally trapped here.\nThe deceased, Secretary Wang, was sent by Golden Lion Group to handle the handover work for the Kaiyan Mountain Reservoir acquisition. Golden Lion Group bought the Kaiyan Mountain Reservoir six months ago and plans to renovate it into a resort.\nThere are five suspects who had significant contact with the deceased: Zheng Shuang, Han Hongbin, Lin Feng, Chen Ning, and Liu Gaoyang. They have now been called before you to assist in the investigation.\nYou're confident you'll solve this case successfully as well!"
+  ],
+  "acts_goal": [
+    "Determine the cause and circumstances of the victim's death: whether the death was accidental or homicide. If accidental, what were the circumstances? If homicide, who did it, how, and what was the motive?"
+  ],
+  "questions": [],
+  "victims": [
+    "Wang Secretary"
+  ],
+  "final_goal": "",
+  "acts_performance": [],
+  "secrets": "",
+  "is_murderer": 0,
+  "kill_by_me": [
+    0
+  ]
+}

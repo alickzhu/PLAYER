@@ -1,0 +1,18 @@
+{
+  "acts_num": 3,
+  "script": [],
+  "acts_goal": [
+    "You are the murderer, frame the archer for the crime."
+  ],
+  "questions": [],
+  "victims": [
+    "Zhao Zhongyang"
+  ],
+  "final_goal": "",
+  "acts_performance": [],
+  "secrets": "",
+  "is_murderer": 1,
+  "kill_by_me": [
+    1
+  ]
+}

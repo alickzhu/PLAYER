@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "古堡迷踪",
+    "character_name": [
+        "丁助手",
+        "张小妹",
+        "李管家",
+        "王作家",
+        "王国庆",
+        "甄公子"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}

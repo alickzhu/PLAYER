@@ -1,0 +1,13 @@
+value,type,question,a,b,c,d,e,truth
+a,a,甄主任被谁杀死的？,潘副院长,王护士,白患者,魏女儿,,d
+b,a,甄主任是怎么死的？,被手术刀刺死,被毒药毒死,被枪击致死,被勒死,,a
+b,a,凶手杀甄主任的动机是什么？,为父报仇,争夺财产,情感纠纷,意外杀人,,a
+b,a,凶手是被害人甄主任什么人？,继女,同事,情人,陌生人,,a
+b,a,甄主任是在哪里被杀死的？,健康医院甄主任办公室,手术室,停尸间,家中,,a
+b,a,甄主任是什么时候被杀死的？,2月3日晚上21:40,2月3日晚上20:00,2月3日晚上22:00,2月4日凌晨,,a
+c,a,【甄主任】和【魏女儿】不存在的关系是什么？,魏女儿 is child of 甄主任,甄主任 is victim of 魏女儿,魏女儿 is perpetrator of 甄主任,魏女儿 is romantic relationships with 甄主任,,d
+c,a,【甄主任】和【柯会计】不存在的关系是什么？,柯会计 is attempted perpetrator of 甄主任,甄主任 is suspected by 柯会计,柯会计 is adversary of 甄主任,柯会计 is child of 甄主任,,d
+c,a,【甄主任】和【潘副院长】不存在的关系是什么？,潘副院长 is adversary of 甄主任,甄主任 is manipulator of 潘副院长,潘副院长 is business partner of 甄主任,潘副院长 is child of 甄主任,,d
+c,a,【甄主任】和【王护士】不存在的关系是什么？,王护士 is colleague of 甄主任,甄主任 is extramarital affair with 王护士,王护士 is manipulated by 甄主任,王护士 is child of 甄主任,,d
+c,a,【魏女儿】和【柯会计】的关系是什么？,柯会计 is stranger to 魏女儿,魏女儿 is romantic relationships with 柯会计,魏女儿 is colleague of 柯会计,魏女儿 is parent of 柯会计,,a
+c,a,【魏女儿】和【白患者】的关系是什么？,白患者 is romantic relationships with 魏女儿,魏女儿 is colleague of 白患者,魏女儿 is subordinate of 白患者,魏女儿 is parent of 白患者,,a

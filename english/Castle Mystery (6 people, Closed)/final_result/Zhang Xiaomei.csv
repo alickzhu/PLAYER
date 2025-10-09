@@ -1,0 +1,8 @@
+value,type,question,a,b,c,d,e,truth
+c,a,What relationship does NOT exist between Zhen Youcai and Zhang Xiaomei?,Zhang Xiaomei is child of Zhen Youcai,Zhen Youcai is victim of Zhang Xiaomei,Zhang Xiaomei is perpetrator of Zhen Youcai,Zhang Xiaomei is wife of Zhen Youcai,,d
+c,a,What is the relationship between Zhen Youcai and Zhen Gongzi?,Zhen Gongzi is child of Zhen Youcai,Zhen Youcai is friend of Zhen Gongzi,Zhen Youcai is colleague of Zhen Gongzi,Zhen Youcai is stranger to Zhen Gongzi,,a
+c,a,What relationship does NOT exist between Zhen Youcai and Li Butler?,Li Butler is subordinate of Zhen Youcai,Zhen Youcai is superior of Li Butler,Li Butler is helper of Zhen Youcai,Li Butler is child of Zhen Youcai,,d
+c,a,What is the relationship between Zhen Youcai and Wang Writer?,Wang Writer is friend of Zhen Youcai,Zhen Youcai is subordinate of Wang Writer,Zhen Youcai is romantic relationships with Wang Writer,Zhen Youcai is child of Wang Writer,,a
+c,a,What relationship does NOT exist between Zhang Xiaomei and Zhen Gongzi?,Zhen Gongzi is dislike of Zhang Xiaomei,Zhang Xiaomei is disliked by Zhen Gongzi,Zhen Gongzi is sibling of Zhang Xiaomei,Zhang Xiaomei is romantic relationships with Zhen Gongzi,,d
+c,a,What relationship does NOT exist between Zhang Xiaomei and Li Butler?,Li Butler is helper of Zhang Xiaomei,Zhang Xiaomei is helped by Li Butler,Li Butler is parent of Zhang Xiaomei,Zhang Xiaomei is child of Li Butler,,c
+c,a,What is the relationship between Zhang Xiaomei and Wang Guoqing?,Wang Guoqing is romantic relationships with Zhang Xiaomei,Zhang Xiaomei is colleague of Wang Guoqing,Zhang Xiaomei is subordinate of Wang Guoqing,Zhang Xiaomei is parent of Wang Guoqing,,a

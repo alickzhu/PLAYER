@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+c,a,【姚钱树】和【王姐】的关系是什么？,王姐 is wife of 姚钱树,姚钱树 is customer of 王姐,姚钱树 is friend of 王姐,姚钱树 is sibling of 王姐,,a
+c,a,【姚钱树】和【张老板】不存在的关系是什么？,张老板 is friend of 姚钱树,姚钱树 is deceived by 张老板,张老板 is victim of 姚钱树,张老板 is child of 姚钱树,,d
+c,a,【姚钱树】和【甄商】的关系是什么？,甄商 is customer of 姚钱树,姚钱树 is mentor of 甄商,姚钱树 is parent of 甄商,姚钱树 is subordinate of 甄商,,a
+c,a,【姚钱树】和【贾保姆】不存在的关系是什么？,贾保姆 is extramarital affair with 姚钱树,姚钱树 is deceiver of 贾保姆,贾保姆 is manipulated by 姚钱树,姚钱树 is parent of 贾保姆,,d
+c,a,【李梅梅】和【李长青】不存在的关系是什么？,李长青 is same person as 李梅梅,李梅梅 is victim of 李长青,李长青 is manipulator of 李梅梅,李梅梅 is wife of 李长青,,d
+c,a,【李梅梅】和【姚钱树】不存在的关系是什么？,李梅梅 is perpetrator of 姚钱树,姚钱树 is victim of 李梅梅,李梅梅 is manipulated by 姚钱树,姚钱树 is husband of 李梅梅,,d
+c,a,【李梅梅】和【贾保姆】的关系是什么？,贾保姆 is service provider of 李梅梅,李梅梅 is mentor of 贾保姆,李梅梅 is friend of 贾保姆,李梅梅 is parent of 贾保姆,,a
+c,a,【张老板】和【王姐】不存在的关系是什么？,张老板 is extramarital affair with 王姐,王姐 is extramarital affair with 张老板,张老板 is friend of 王姐,张老板 is sibling of 王姐,,d
+c,a,【李长青】和【甄商】的关系是什么？,甄商 is stranger to 李长青,李长青 is friend of 甄商,李长青 is business partner of 甄商,李长青 is child of 甄商,,a
+c,a,【王姐】和【贾保姆】不存在的关系是什么？,贾保姆 is friend of 王姐,王姐 is friend of 贾保姆,贾保姆 is acquaintance of 王姐,王姐 is parent of 贾保姆,,d

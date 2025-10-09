@@ -1,0 +1,11 @@
+value,type,question,a,b,c,d,e,truth
+c,a,What is the relationship between Wang Tingting and Chu Wanhou?,Chu Wanhou is husband of Wang Tingting,Wang Tingting is mentor of Chu Wanhou,Wang Tingting is sibling of Chu Wanhou,Wang Tingting is friend of Chu Wanhou,,a
+c,a,What is the relationship between Wang Tingting and Li Hao?,Li Hao is subordinate of Wang Tingting,Wang Tingting is child of Li Hao,Wang Tingting is in a romantic relationship with Li Hao,Wang Tingting is mentor of Li Hao,,a
+c,a,What is the non-existent relationship between Wang Tingting and Su Shengce?,Su Shengce is service provider of Wang Tingting,Wang Tingting is customer of Su Shengce,Su Shengce is subordinate of Wang Tingting,Wang Tingting is wife of Su Shengce,,d
+c,a,What is the relationship between Wang Tingting and Ma San?,Ma San is subordinate of Wang Tingting,Wang Tingting is sibling of Ma San,Wang Tingting is friend of Ma San,Wang Tingting is child of Ma San,,a
+c,a,What is the relationship between Chu Chuan and Chu Wanhou?,Chu Wanhou is parent of Chu Chuan,Chu Chuan is mentor of Chu Wanhou,Chu Chuan is friend of Chu Wanhou,Chu Chuan is subordinate of Chu Wanhou,,a
+c,a,What is the non-existent relationship between Chu Chuan and Wang Tingting?,Chu Chuan is perpetrator of Wang Tingting,Chu Chuan is admirer of Wang Tingting,Wang Tingting is victim of Chu Chuan,Chu Chuan is husband of Wang Tingting,,d
+c,a,What is the relationship between Chu Chuan and Su Shengce?,Su Shengce is parent of Chu Chuan,Chu Chuan is mentor of Su Shengce,Chu Chuan is friend of Su Shengce,Chu Chuan is subordinate of Su Shengce,,a
+c,a,What is the non-existent relationship between Chu Chuan and Li Hao?,Li Hao is subordinate of Chu Chuan,Chu Chuan is superior of Li Hao,Li Hao is service provider of Chu Chuan,Chu Chuan is child of Li Hao,,d
+c,a,What is the non-existent relationship between Chu Wanhou and Su Shengce?,Su Shengce is service provider of Chu Wanhou,Chu Wanhou is customer of Su Shengce,Su Shengce is deceiver of Chu Wanhou,Chu Wanhou is parent of Su Shengce,,d
+c,a,What is the relationship between Chu Wanhou and Ma San?,Ma San is subordinate of Chu Wanhou,Chu Wanhou is friend of Ma San,Chu Wanhou is sibling of Ma San,Chu Wanhou is student of Ma San,,a

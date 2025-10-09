@@ -1,0 +1,48 @@
+{
+  "0": {
+    "name": "comp_price_gap",
+    "question_ask": 1,
+    "summary": "Judgment of price gap compared to the median of similar items",
+    "prompt": "Compared to the median price of comparable items, how is the seller's asking price?",
+    "choices": [
+      "Much lower than comparable items",
+      "Close to the median price",
+      "Slightly higher than comparable items",
+      "Significantly higher than comparable items"
+    ]
+  },
+  "1": {
+    "name": "spec_match_score",
+    "question_ask": 1,
+    "summary": "Degree to which key specs/features meet your needs",
+    "prompt": "Do this item's key specs/features match your needs?",
+    "choices": [
+      "Perfect match",
+      "Mostly match",
+      "Partially match",
+      "Clearly do not match"
+    ]
+  },
+  "2": {
+    "name": "seller_flexibility",
+    "question_ask": 1,
+    "summary": "Seller's willingness to make concessions (inferred from negotiation history)",
+    "prompt": "Based on the negotiation history, how flexible do you think the seller is about reducing the price further?",
+    "choices": [
+      "Very flexible",
+      "Somewhat flexible but limited",
+      "Very firm"
+    ]
+  },
+  "3": {
+    "name": "deal_urgency",
+    "question_ask": 0,
+    "summary": "Your urgency to close this deal as soon as possible",
+    "prompt": "How urgently do you want to close this deal right now?",
+    "choices": [
+      "Very urgent",
+      "Moderately urgent",
+      "Not urgent"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+value,type,question,a,b,c,d,e,truth
+a,a,贾美丽被谁杀死的？,萧体育,薛媚娘,韦小弟,庄清纯,,d
+a,a,秦老大被谁杀死的？,萧体育,薛媚娘,韦小弟,庄清纯,,c
+b,a,贾美丽是怎么死的？,被绳子勒死,被刀刺死,被毒药毒死,被钝器击打致死,,a
+b,a,秦老大是怎么死的？,被刀刺腹部,被绳子勒死,被毒药毒死,被钝器击打致死,,a
+b,a,杀死贾美丽的凶手动机是什么？,为母报仇,争夺男友,金钱纠纷,学业竞争,,a
+b,a,杀死秦老大的凶手动机是什么？,为父报仇,争夺地位,金钱纠纷,情感纠葛,,a
+b,a,杀死贾美丽的凶手是被害人什么人？,曾经的闺蜜,同班同学,师生关系,陌生人,,a
+b,a,杀死秦老大的凶手是被害人什么人？,表面跟班实际仇人,同班同学,师生关系,陌生人,,a
+b,a,贾美丽是在哪里被杀死的？,贾美丽的宿舍,琴房内,教室里,食堂内,,a
+b,a,秦老大是在哪里被杀死的？,秦老大的宿舍,琴房内,教室里,食堂内,,a
+b,a,贾美丽是什么时候被杀死的？,2018年6月1日晚上21:25,2018年6月1日晚上20:00,2018年6月1日晚上22:00,2018年6月2日凌晨,,a
+b,a,秦老大是什么时候被杀死的？,2018年6月1日晚上21:15,2018年6月1日晚上20:00,2018年6月1日晚上22:00,2018年6月2日凌晨,,a
+c,a,【贾美丽】和【庄清纯】不存在的关系是什么？,庄清纯 is friend of 贾美丽,贾美丽 is victim of 庄清纯,庄清纯 is perpetrator of 贾美丽,贾美丽 is wife of 庄清纯,,d
+c,a,【贾美丽】和【萧体育】的关系是什么？,萧体育 is student of 贾美丽,贾美丽 is friend of 萧体育,贾美丽 is child of 萧体育,贾美丽 is romantic relationships with 萧体育,,a
+c,a,【贾美丽】和【薛媚娘】的关系是什么？,薛媚娘 is mentor of 贾美丽,贾美丽 is parent of 薛媚娘,贾美丽 is romantic relationships with 薛媚娘,贾美丽 is colleague of 薛媚娘,,a
+c,a,【秦老大】和【韦小弟】不存在的关系是什么？,韦小弟 is subordinate of 秦老大,秦老大 is victim of 韦小弟,韦小弟 is perpetrator of 秦老大,韦小弟 is child of 秦老大,,d
+c,a,【庄清纯】和【秦老大】的关系是什么？,秦老大 is sibling of 庄清纯,庄清纯 is friend of 秦老大,庄清纯 is mentor of 秦老大,庄清纯 is romantic relationships with 秦老大,,a
+c,a,【韦小弟】和【郑友好】的关系是什么？,郑友好 is colleague of 韦小弟,韦小弟 is parent of 郑友好,韦小弟 is romantic relationships with 郑友好,韦小弟 is mentor of 郑友好,,a
+c,a,【萧体育】和【薛媚娘】不存在的关系是什么？,薛媚娘 is romantic relationships with 萧体育,萧体育 is romantic relationships with 薛媚娘,薛媚娘 is ex-romantic relationships with 萧体育,萧体育 is child of 薛媚娘,,d

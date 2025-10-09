@@ -1,0 +1,37 @@
+{
+    "agent_num": 6,
+    "script_name": "死亡致意",
+    "character_name": [
+        "乔治",
+        "克拉克",
+        "安德鲁",
+        "斯蒂文",
+        "约翰",
+        "肯"
+    ],
+    "acts_num": 3,
+    "stage": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "open_discuss_rounds": [
+        2,
+        2,
+        2
+    ],
+    "keep_asking": [
+        2,
+        2,
+        2
+    ],
+    "privacy_discuss_rounds": [
+        0,
+        0,
+        1
+    ]
+}
