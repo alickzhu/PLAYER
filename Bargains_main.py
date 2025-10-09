@@ -167,11 +167,6 @@ if __name__ == "__main__":
 
     # TODA LLAMA
     parser.add_argument('--ckpt_dir', default="meta-llama/Llama-3.1-70B-Instruct", type=str,required=False, help='if llama')
-    # parser.add_argument('--ckpt_dir', default="meta-llama/Llama-3.3-70B-Instruct", type=str,required=False, help='if llama')
-    # parser.add_argument('--ckpt_dir', default="meta-llama/Llama-3.1-8B-Instruct", type=str,required=False, help='if llama')
-    # parser.add_argument('--ckpt_dir', default="none", type=str,required=False, help='if llama')
-    # parser.add_argument('--ckpt_dir', default="meta-llama/Llama-3.3-70B-Instruct", type=str,required=False, help='if llama')
-    # parser.add_argument('--ckpt_dir', default="Qwen/Qwen2.5-72B-Instruct", type=str,required=False, help='if llama')
 
     # for log
     parser.add_argument('--output_root_path', default=r'./log_bargains/ours', type=str, required=False, help='max_tree_depth')

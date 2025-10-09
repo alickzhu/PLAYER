@@ -5,10 +5,7 @@ import glob
 
 from utils.Chat_utils import ChatSession
 from utils.RAG import VectorDatabase
-from utils.llama import load_llama_3
-from utils.gemma import load_gemma_model
 from utils.json_tools import json_format
-from transformers import AutoTokenizer
 import yaml
 import pandas as pd
 import numpy as np
@@ -156,20 +153,6 @@ class Game:
         self.each_rsl = args.each_rsl  # the max length for relative script length (retrival from current script by RAG)
         self.rchl = args.rchl  # the max length for relative chat history length (retrival from chat history by RAG)
         self.question_number = args.question_number
-
-        # if "llama3" in args.model_type:
-        #     self.tokenizer = AutoTokenizer.from_pretrained("./utils/tokenizer")
-        #     self.model = None
-        #
-        #     self.model, self.tokenizer = load_llama_3(args.ckpt_dir)
-        # if "none" in args.model_type:
-        #     self.tokenizer = None
-        #     self.model = None
-        # elif "llama" in args.model_type:
-        #     self.model, self.tokenizer = load_llama_model(args.ckpt_dir)
-        # elif "gemma" in args.model_type:
-        #     self.model, self.tokenizer = load_gemma_model(args.ckpt_dir)
-
         self.initial_game()  # initial game
 
     def initial_game(self):
@@ -407,7 +390,6 @@ class Game:
                                     "choices":type_b,
                                     "truth":type_c,
                                     })
-            # 将新行追加到DataFrame的末尾
             history = pd.concat([history, new_row], ignore_index=True)
             if prefix == 'GM_':
                 appendix = '_eva_{}.xlsx'.format(self.each_rsl)
@@ -559,11 +541,6 @@ class Game:
             json.dump(args_dict, file, indent=4, ensure_ascii=False)
 
     def mkdir_output_dir(self, args, post = ''):
-        # now = datetime.now()
-        # time_string = now.strftime("%Y%m%d%H%M%S")
-        # args.output_root_path = os.path.join(args.output_root_path, args.script_name+time_string)
-        # post = "_S_{}_C_{}_T_{}_Q_{}".format(args.sensor, args.constraint, args.max_turn, args.question_number)
-
         args.output_root_path = os.path.join(args.output_root_path, args.script_name+post)
 
         if not os.path.exists(args.output_root_path):
@@ -600,9 +577,6 @@ class Game:
         time_string = now.strftime("%Y%m%d%H%M%S")
         args.output_root_path = os.path.join(args.output_root_path, args.script_name+time_string)
         self.args.output_root_path = args.output_root_path
-        # post = "_S_{}_C_{}_T_{}_Q_{}".format(args.sensor, args.constraint, args.max_turn, args.question_number)
-        # args.output_root_path = os.path.join(args.output_root_path, args.script_name+post)
-
         if not os.path.exists(args.output_root_path):
             os.makedirs(args.output_root_path)
         self.save_args_to_json(args, os.path.join(args.output_root_path, 'args.json'))

@@ -175,4 +175,3 @@ class ChatSession:
         return reply
 
 
-if __name__ == '__main__':
