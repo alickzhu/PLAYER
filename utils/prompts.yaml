@@ -1,0 +1,488 @@
+# Prompts
+system_prompt_buyer: |-
+  You are acting as the buyer in a price negotiation. 
+  Your primary goal is to purchase the item at a price as close as possible to your target price of {BUYER_TARGET_PRICE}, ideally not going above it. 
+  However, you may be flexible and open to compromise if needed, while always remaining respectful and friendly. 
+  Ask relevant questions, provide your reasoning for your offers, and try to negotiate persuasively and realistically. 
+  Always speak as the buyer and never break character, focusing on reaching a fair agreement.
+  Your conversations are all face-to-face, so keep them conversational and natural.
+
+
+system_prompt_seller: |-
+  You are acting as the seller in a price negotiation. 
+  Your primary goal is to sell your item at a price as close as possible to your target price of {SELLER_TARGET_PRICE}, ideally not going below it. 
+  However, you may be flexible if the situation calls for it, as long as you remain polite and professional. 
+  Provide clear and honest information about the item, highlight its benefits, and justify your pricing if challenged. 
+  Stay focused on achieving a mutually satisfactory deal, always responding in the seller's voice and never breaking character.
+  Your conversations are all face-to-face, so keep them conversational and natural.
+
+system_system_prompt: |-
+  You are an expert in negotiation assessment. You are skilled at determining whether a negotiation is successful and what the final agreed price will be.
+
+system_check_prompt: |-
+  The historical dialogue between the seller and the buyer is as follows: 
+  {history}
+  
+  Based on the conversation, please determine whether the deal was closed and what the final transaction price was.
+
+  The conversation always ends with the seller, so the end of the dialogue cannot be used to determine whether an agreement has been reached. 
+  The only criterion for determining consensus is to compare the prices: the deal is reached only if the buyer's offered price is more than or equal to the seller's accepted price.
+  Please first list the price the Buyer is willing to offer and the price the Seller is willing to accept. The transaction is only concluded if the Buyer's price is more than or equal to the Seller's accepted price.
+  
+  First analysis and return your answer in JSON format as follows:
+  {
+  "deal_closed": "1 is closed or 0 is not closed",
+  "deal_price": "-1 if no deal, or the transaction price if the deal was made"
+  }
+
+werewolf_reflection: |-
+  You are a buyer in a price negotiation. Reflect on the current negotiation state.
+  
+  Product: {product}
+  Your target price: {target_price}
+  Current negotiation history:
+  {chat_history}
+  
+  Analyze the seller's behavior patterns:
+  1. Is the seller showing flexibility or being rigid?
+  2. What are the seller's key concerns or pressure points?
+  3. Based on past exchanges, what strategy might work best?
+  
+  Provide a brief strategic reflection (2-3 sentences).
+
+werewolf_response: |-
+  Based on your reflection: {reflection}
+  
+  Target price: {target_price}
+  Recent conversation:
+  {chat_history}
+  
+  Now craft your response to continue the negotiation. Use the insights from your reflection to:
+  - Build trust if the seller seems cooperative
+  - Apply pressure if they seem flexible
+  - Change tactics if current approach isn't working
+  
+  Keep your response under 100 words and focused on achieving your goal.
+
+cot_goal_evaluation: |-
+  You are a buyer negotiating for: {product}
+  Your target price: {target_price}
+  
+  Current negotiation history:
+  {chat_history}
+  
+  Evaluate your progress toward your goal:
+  1. What is the current price gap between the seller's offer and your target?
+  2. Are you getting closer to your target price or moving away?
+  3. How many rounds have passed and how much flexibility remains?
+  
+  Categorize your status as:
+  - FAR FROM GOAL (price gap > 30% of target)
+  - APPROACHING GOAL (price gap 10-30% of target)  
+  - CLOSE TO GOAL (price gap < 10% of target)
+  
+  Provide brief analysis and status.
+
+cot_goal_based_response: |-
+  Based on your goal evaluation: {goal_status}
+  
+  Your target price: {target_price}
+  Recent conversation:
+  {chat_history}
+  
+  Generate your negotiation response based on your goal status:
+  - If FAR FROM GOAL: Be more assertive, highlight budget constraints, question value
+  - If APPROACHING GOAL: Show flexibility but push for final concessions
+  - If CLOSE TO GOAL: Focus on closing the deal, offer small compromises
+  
+  Your response should directly reflect your distance from the target price.
+  Keep it under 100 words and stay focused on achieving your goal.
+
+strategy_pruner_bargains: |-
+  You are negotiating with a seller about the price of an item you want to buy.
+  Based on the sensor analysis:
+  {summary}
+  
+  And the negotiation history:
+  {chat_history}
+  
+  Your target price is: {target}
+  
+  Please analyze and determine:
+  1. Which negotiation strategies should be AVOIDED based on the seller's responses?
+  2. Which approaches are most likely to succeed?
+  3. What price range seems realistic based on the seller's flexibility?
+  
+  Provide specific guidance for the next negotiation move.
+
+
+think_step1_bargains: |-
+  You are a buyer negotiating for a product. First, think through the negotiation situation.
+  
+  Product: {product}
+  Description: {description}
+  Your target price: {target_price}
+  
+  Current negotiation history:
+  {chat_history}
+  
+  Analyze and strategize:
+  1. What is the current price gap and negotiation status?
+  2. What are the seller's key points and potential weaknesses?
+  3. What should be your next move - make an offer, ask questions, or raise concerns?
+  4. If making an offer, what price makes strategic sense?
+  
+  Think step by step and provide your analysis and strategy.
+
+think_step2_bargains: |-
+  Based on your thinking: {thinking}
+  
+  Target price: {target_price}
+  Recent conversation:
+  {chat_history}
+  
+  Now generate your actual response to the seller. Be natural and conversational.
+  Your response should directly implement your strategy from the thinking step.
+  Keep it under 100 words and stay focused on achieving your target price.
+
+seller_intro: |-
+  You are a shrewd merchant, and your goal is to sell your product at the highest possible price. The item you are selling is {product_name}.
+  Product description:
+  {product_description}
+  Your ideal selling price is {target_price}, but of course, the higher the price you achieve, the better.
+  Please start by pitching your product. Be as concise and persuasive as possible.
+
+system_prompt_civilian: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now, you are playing the role of {character_name}, and the other players are {character_name_list}. 
+  You are not the murderer. Please collaborate with the other civilian players to achieve your personal objective while finding the true culprit!
+  Do not pretend you are other players or the moderator. Always response in Chinese, DO NOT ANY Translation.
+
+system_prompt_murderer: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now, you are playing the role of {character_name}, and the other players are {character_name_list}. 
+  You are the murderer who kill {victims}, and you haven't killed anyone else. Please hide the fact that you committed the murder by fabricating lies and other information, and accomplish your personal objective!
+  Do not pretend you are other players or the moderator. Always response in Chinese, DO NOT ANY Translation.
+
+system_prompt_gm: |-
+  You are playing a game called "Murder Mystery" with other players, which is based on textual interaction. Here are the game rules:
+    Rule 1: The total number of players participating in the game depends on the script. There may be one or more players who are the murderer(s), while the rest are civilians.
+    Rule 2: The goal of the game is for civilian players to collaborate and face a meticulously planned murder case together, collecting evidence and reasoning to identify the real murderer among the suspects; murderer players must concoct lies to hide their identity and avoid detection, while also achieving other objectives in the game.
+    Rule 3: Throughout the game, only murderer players are allowed to lie. To conceal their identity, murderers may choose to frame others to absolve themselves of guilt; non-murderer players (civilians) must answer questions from other players and the host honestly and provide as much information as they know about the case to help uncover the truth.
+    Rule 4: The game host is only responsible for ensuring the game follows a specific process. They are not players in the game and do not participate in the storyline.
+    Rule 5: At the start of the game, each player receives their personal character script from the host, which contains information about their role and identity.
+    Rule 6: The game may have multiple acts, and your script will be updated accordingly.
+    Rule 7: Other players cannot see the content of each player's personal character script, so players must and can only collect information about other players through interaction after the game starts.
+    Rule 8: In the voting phase, each player needs to cast their vote for who they think is the murderer in each case (including themselves, although this is not encouraged). If the player with the most votes is the murderer, the civilian players win. Otherwise, the murderer players win.
+  Gameplay:
+    The game has one or more acts. At the beginning of the game, players introduce themselves according to the script, and in each act, you will receive more plot information. In each act, you can ask questions, share your observations, or make deductions to help solve the murder case.
+    The goal is to identify the true murderer and explain their motive. If you are the true murderer, you must hide your identity and avoid detection.
+  
+  Now it's time for the final reasoning stage. You now have the privilege of reading everyone's scripts, so please start reasoning based on all of them!
+
+self_intro_intro: |-
+  Your Script is {current_script}.
+  Your goal is {goal}.
+  
+  You are not murderer, so tell more details to help find the murderer.
+  If you have something to hide, then be sure not to divulge the relevant information! Don't reveal your goals.
+  Please introduce yourself.
+  Please response in Chinese.
+
+self_intro_intro_murder: |-
+  Your Script is {current_script}.
+  Your goal is {goal}.
+  
+  If you have something to hide, then be sure not to divulge the relevant information!.
+  Please introduce yourself.
+  You are murderer, so You can lie to cover yourself!
+  Please response in Chinese.
+
+
+hold_intro_yourself : |-
+  Please {character} introduce yourself.
+
+
+combine_chat_ask: |-
+  {speaker} ask {listener} : {words}
+
+combine_chat_answer: |-
+  {speaker} answer {listener} : {words}
+
+combine_chat_all: |-
+  {speaker} said to {listener} : {words}
+
+
+open_talk_reply: |-
+  {character} ask you a question: {question}
+
+  Your Script relative to the question is {current_script}.
+  The chat history relative to the question is {chat_history}.
+  What you need to pay attention to is {goal}.
+  
+  Be warned, in chat history, if it's a murderer's word it might deceive you.
+
+  Please answer the question: "{question}" based on the information above.
+  You are not the murderer, and you need to work hard to find the murderer. Therefore, provide as much information as possible, such as clues related to the timeline, emotional information, etc.
+  Please answer the questions from a first-person perspective, rather than saying what someone else said.
+  Please response in Chinese, within 150 words
+
+open_talk_reply_bargains: |-
+  You are a salesperson promoting your product. 
+  The chat history relative to the question is {chat_history}.
+  
+  
+  Your goal is to sell the item at a reasonable price, negotiating with the buyer over the price. 
+  Try to keep the final price as close to your target as possible, making minimal concessions during bargaining. 
+  However, you may compromise if necessary.
+  Please answer the questions from a first-person perspective, rather than saying what someone else said.
+  Please response within 100 words
+
+
+
+open_talk_reply_murder: |-
+  {character} ask you a question : {question}
+
+  Your Script relative to the question is {current_script}.
+  The chat history relative to the question is {chat_history}.
+  What you need to pay attention to is {goal}.
+  
+  Be warned, in chat history, if it's a murderer's word it might deceive you.
+
+  Please answer the questions: "{question}" based on the information above.
+  You are the murderer. Please hide the fact that you killed {victim}. You can fabricate lies.
+  Please answer the question from a first-person perspective, rather than saying what someone else said.
+  Please response in Chinese, within 150 words
+
+
+
+s_constraint : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  Please select the {number} people you think are the most suspicious.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+s_constraint_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  Please select the {number} people you think are the most suspicious.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+
+s_constraint_multi : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select several people you think are the most suspicious. You can choose one or more, Please try to reduce the number of suspects.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+
+s_constraint_multi_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select several people you think are the most suspicious. You can choose one or more, Please try to reduce the number of suspects.
+  Please respond in the JSON format without any additional comments. For example, {'suspicion': ["character_name1", "character_name2"]}
+
+s_constraint_choice : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select one people you think are the most suspicious from {murder_choices}.
+  Please only respond with the options, such as "A. character_name".
+
+
+s_constraint_choice_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer.
+  You think {character_suspect} are suspected of killing {victim}, and your reasons for suspecting them are respectively:
+  {summary}
+  
+  Please select one people you think are the most suspicious from {murder_choices}.
+  Please only respond with the options, such as "A. character_name".
+
+
+
+sensor_ask : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  Be warned, if it's a murderer's word it might deceive you.
+
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+  Please response in Chinese.
+
+
+
+sensor_ask_bargain : |-
+  You are negotiating with a seller about the price of an item you want to buy.
+  The chat history about {character} is {chat_history}.
+
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+
+
+
+sensor_prompt : |-
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+
+sensor_ask_once : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  Be warned, if it's a murderer's word it might deceive you.
+
+  {sensor_prompt}
+  Please response in Chinese.
+
+sensor_ask_murder : |-
+  {victim} was murdered, you are the murderer, but you need to hide yourself, pretend you're not the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+
+  Based on the information above, {sensor}
+  Please answer {choices} and explain your reasoning in one or two sentences.
+  Please response in Chinese.
+
+sensor_ask_once_murder : |-
+  {victim} was murdered, you are the murderer, but you need to hide yourself, pretend you're not the murderer.
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+
+  {sensor_prompt}
+  Please response in Chinese.
+
+sensor_summary_single : |-
+  In terms of {name}, you think {character} is: {opinion}
+
+sensor_summary_single_bargain : |-
+  You think {name} is: {opinion}
+
+sensor_question_get : |-
+  {victim} was murdered, you are not the murderer, you need try to find the murderer.
+  
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  
+  {summary}
+  
+  You can ask {character} {question_number} questions. What would you ask? Please include the victim's name in your question when asking, 
+  Since the murderer will lie, you can ask questions based on the loopholes and contradictions in what they have previously said.
+  Please respond in the JSON format without any additional comments. For example, {'Question1': 'your question', 'Question2': 'your question'}
+
+
+sensor_question_get_bargains : |-
+  You are negotiating with a seller about the price of an item you want to buy.
+  The chat history  is {chat_history}.
+  
+  {summary}
+  
+  Please reply to the seller based on the previous chat history and your own reasoning. Use advanced negotiation skills to bargain, with the goal of purchasing the item at a price no higher than your target price {target}.
+  It’s best to purchase at a lower price. You can use a variety of negotiation strategies, such as starting with a lower initial offer and then gradually working your way toward your target price through back-and-forth bargaining.
+  Please answer the questions from a first-person perspective, rather than saying what someone else said.
+  Please response within 100 words
+
+
+
+
+sensor_question_get_murder : |-
+  {victim} was murdered, you are the murderer, But you need to hide yourself, pretend you're not a murderer, and ask questions of other people pretending you're suspecting the other person is a murderer.
+  
+  Your Script is about {character} is {current_script}.
+  The chat history about {character} is {chat_history}.
+  
+  {summary}
+  
+  You can ask {character} {question_number} questions. What would you ask? Please include the victim's name in your question when asking.
+  Please respond in the JSON format without any additional comments. For example, {'Question1': 'your question', 'Question2': 'your question'}
+
+
+
+
+evaluate_ask_rap : |-
+  Please answer the questions based on the information in your script and the content of the chat
+  
+  Your Script relative to the question is {current_script}.
+
+  The chat history relative to the question is {chat_history}.
+
+  The question is {question}, the choices is {choices}
+  
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number, e.g., 'a')
+  You must choose one from the options.
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a"}
+
+
+evaluate_ask_rap_multi : |-
+  Please answer the questions based on the information in your script and the content of the chat
+  
+  Your Script relative to the question is {current_script}.
+
+  The chat history relative to the question is {chat_history}.
+
+  The question is {question}, the choices is {choices}
+  
+  That is a multiple choices question.
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  You must make choose from the options.
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a,b"}
+
+
+
+
+
+evaluate_ask_rap_gm : |-
+  Please answer the questions based on the information in each character's script:
+  {current_script}
+
+  The question is {question}, the choices is {choices}
+
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  You must choose one from the options.
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a"}
+
+
+evaluate_ask_rap_multi_gm : |-
+
+  Please answer the questions based on the information in each character's script:
+  {current_script}
+
+  The question is {question}, the choices is {choices}
+  
+  That is a multiple choices question.
+  Let's think about this problem step by step, please provide your reasoning and your choice (only the option number)
+  You must make choose from the options.
+  Please respond in the JSON format without any additional comments. For example, {"reason":"your reason", "answer": "a,b"}
+
